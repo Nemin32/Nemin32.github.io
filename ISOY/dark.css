@@ -27,6 +27,20 @@ body {
   font-size: 24px;
 }
 
+#centered_pic {
+  display: flex;
+  justify-content: center;
+}
+
+#header {
+  text-align: center;
+  font-size: 48px;
+}
+
+#ital {
+  font-style: italic;
+}
+
 #hidden {
   position: absolute;
   color: black;
