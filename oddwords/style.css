@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 body {
   background-color: #171717;
@@ -16,7 +16,7 @@ h1 {
   margin-bottom: 1ch;
   font-size: 4ch;
 
-  font-family: 'Noto Sans';
+  font-family: 'Merriweather';
 }
 
 p {
@@ -25,7 +25,6 @@ p {
   margin: auto;
   margin-bottom: 2ch;
   font-size: larger;
-  text-align: justify;
 
   font-family: 'Roboto';
   text-indent: 2ch;
