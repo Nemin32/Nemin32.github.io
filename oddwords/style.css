@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
 body {
   background-color: #171717;
   position: relative;
@@ -9,33 +13,39 @@ body {
 h1 {
   color: #e0e0e0;
   text-align: center;
-  margin-top: 2ch;
-  margin-bottom: 1.5ch;
+  margin-top: 1.2ch;
+  margin-bottom: 1ch;
   font-size: 4ch;
-  font-weight: bold;
+
+  font-family: 'Noto Sans';
 }
 
 p {
-  width: 80ch;
+  width: 60ch;
   color: #d8d8d8;
   margin: auto;
   margin-bottom: 2ch;
   font-size: larger;
   text-align: justify;
+
+  font-family: 'Roboto';
+  text-indent: 2ch;
 }
 
 p.centered {
   text-align: center;
+  text-indent: 0;
 }
 
 .subtitle {
   text-align: center;
   width: 60ch;
   font-style: italic;
-  margin-top: -3ch;
+  margin-top: -2.5ch;
   margin-bottom: 1ch;
   color: darkgrey;
   font-size: 1.75ch;
+  text-indent: 0;
 }
 
 hr {
@@ -49,8 +59,8 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 4ch;
-  margin-top: 4ch;
+  margin-bottom: 3ch;
+  margin-top: 3ch;
 }
 
 ul {
@@ -60,17 +70,17 @@ ul {
   padding: 0;
 
   font-size: larger;
-  width: 80ch;
+  width: 55ch;
 }
 
 #ul_container {
-  margin-top: 5ch;
+  margin-top: 3ch;
   display: flex;
   justify-content: center;
 }
 
 li {
-  margin-bottom: 1ch;
+  margin-bottom: 2.5ch;
 }
 
 a {
