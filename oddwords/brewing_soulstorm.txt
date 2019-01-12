@@ -25,7 +25,8 @@ the groups that are working on the project around the world:
   gloomy, dark and depressing music, that's going great .
 - Testology which is helping us from day one test out the game we've been
   working on it for 18 months.
-- Section studios: Sabotage studio is also in Quebec.
+- Section studios.
+- Sabotage studio is also in Quebec.
 
 So we're managing about four time zones on the phone every day and sharing
 screen thank God for Skype, thank God for Slack, thank God for Trello. Any of
