@@ -17,6 +17,7 @@ p {
   margin-bottom: 2ch;
   color: white;
   font-size: larger;
+  text-align: justify;
 }
 
 p.centered {
