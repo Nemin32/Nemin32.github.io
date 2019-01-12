@@ -9,14 +9,26 @@ body {
   min-height: 100%;
 }
 
-h1 {
+h1, h2, h3 {
   color: #e0e0e0;
   text-align: center;
+}
+
+h1 {
   margin-top: 1.2ch;
   margin-bottom: 1ch;
   font-size: 4ch;
 
   font-family: 'Merriweather';
+}
+
+h2 {
+  margin-top: 2ch;
+  margin-bottom: 3ch;
+}
+
+div h3 {
+  margin-top: -1.5ch;
 }
 
 p {
@@ -35,7 +47,7 @@ p.centered {
   text-indent: 0;
 }
 
-.subtitle {
+p.subtitle {
   text-align: center;
   width: 60ch;
   font-style: italic;
@@ -46,11 +58,18 @@ p.centered {
   text-indent: 0;
 }
 
-.placeholder {
+p.placeholder {
   text-align: center;
   font-size: large;
   color: #a5a4a4;
   text-indent: unset;
+}
+
+p.title {
+  text-indent: unset;
+  margin-bottom: 0.6em;
+  font-size: x-large;
+  width: unset;
 }
 
 hr {
@@ -74,8 +93,8 @@ ul {
   margin: 0;
   padding: 0;
 
-  font-size: larger;
-  width: 55ch;
+  font-size: large;
+  max-width: 90%;
 }
 
 ul.small {
@@ -88,6 +107,14 @@ ul.small {
   margin-top: 3ch;
   display: flex;
   justify-content: center;
+}
+
+#ul_container div {
+  width: 20%;
+}
+
+#ul_container div:first-child {
+  margin-left: 2.23%;
 }
 
 li {
