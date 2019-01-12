@@ -1,0 +1,100 @@
+div > div {
+  margin: auto;
+  margin-bottom: 4vh;
+  
+  width: 45vw;
+  text-align: justify;
+  
+  border: 1px solid black;
+  border-radius: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+  background-color: #20001a;
+}
+
+h3, h1 {
+  text-transform: uppercase;
+  font-size: medium;
+  font-family: Georgia, serif;
+  line-height: 125%;
+}
+
+#WIP {
+    margin: auto; 
+    text-align: center; 
+    width: 600px;
+    margin-bottom: 0.5%;
+}
+
+body {
+  background-color: #49001a;
+  color: gold;
+}
+
+h1 {
+  font-size: xx-large;
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
+  margin-bottom: 0.5%;
+}
+
+#subtitle {
+  text-align: center;
+  margin: auto;
+  font-style: italic;
+  font-size: larger;
+}
+
+#selector {
+  margin: auto;
+  text-align: center;
+  font-size: xx-large;
+  width: 400px;
+  
+  margin-bottom: 2vh;
+}
+
+#about {
+    margin: auto;
+    margin-bottom: 4vh;
+    
+    width: 45vw;
+    text-align: justify;
+    font-size: larger;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+#madeby {
+  width: 4vw;
+  text-align: center;
+  position: fixed;
+  bottom: 2%;
+  left: 102%;
+  margin-left: -8vw;
+  
+  border: 2px solid black;
+  padding: 5px;
+  background-color: lightgrey;
+  color: black;
+}
+
+.tags {
+  text-align: right;
+  font-size: small;
+}
+
+p {
+  font-size: larger;
+}
+
+a {
+    color: goldenrod;
+}
+
+a:visited {
+    color: darkgoldenrod;
+}
