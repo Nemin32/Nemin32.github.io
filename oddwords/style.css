@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: #171717;
   position: relative;
   margin: 0;
   padding-bottom: 6rem;
@@ -7,19 +7,19 @@ body {
 }
 
 h1 {
+  color: #e0e0e0;
   text-align: center;
   margin-top: 2ch;
   margin-bottom: 1.5ch;
-  color: white;
   font-size: 4ch;
   font-weight: bold;
 }
 
 p {
   width: 80ch;
+  color: #d8d8d8;
   margin: auto;
   margin-bottom: 2ch;
-  color: white;
   font-size: larger;
   text-align: justify;
 }
@@ -32,8 +32,10 @@ p.centered {
   text-align: center;
   width: 60ch;
   font-style: italic;
-  margin-top: -2.5ch;
-  margin-bottom: 2ch;
+  margin-top: -3ch;
+  margin-bottom: 1ch;
+  color: darkgrey;
+  font-size: 1.75ch;
 }
 
 hr {
@@ -73,7 +75,6 @@ li {
 
 a {
   color: white;
-  font-size: larger;
 }
 
 a:visited {
