@@ -1,6 +1,6 @@
 "use strict"
 
-const filename = "https://nemin32.github.io/PGYFT/data.json";
+const filename = "datas.json";
 let root;
 let tag;
 
