@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
 
 body {
   background-color: #171717;
@@ -32,18 +33,30 @@ div h3 {
 }
 
 p {
-  width: 60ch;
+  width: 35em;
   color: #d8d8d8;
   margin: auto;
   margin-bottom: 2ch;
   font-size: larger;
 
   font-family: 'Roboto';
-  /*text-indent: 2ch;*/
+  text-indent: 2ch;
 }
 
 p:not(.capitalized) {
   text-indent: 1.5ch;
+}
+
+p.bookpage {
+  text-indent: unset;
+  font-weight: bold;
+  margin-bottom: 0.3em;
+}
+
+p.quoted {
+  font-family: 'Playfair Display';
+  font-weight: bold;
+  text-indent: unset;
 }
 
 p.capitalized:first-letter {
@@ -58,7 +71,7 @@ p.centered {
 
 p.subtitle {
   text-align: center;
-  width: 60ch;
+  width: 35em;
   font-style: italic;
   margin-top: -2.5ch;
   margin-bottom: 1ch;
@@ -88,12 +101,16 @@ hr {
 }
 
 img {
-  width: 60ch;
+  width: 35em;
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 3ch;
   margin-top: 3ch;
+}
+
+img.small {
+  width: 15em;
 }
 
 ul {
@@ -110,7 +127,7 @@ ul.small {
   list-style-type: unset;
   font-size: large;
   color: #d8d8d8;
-  width: 60ch;
+  width: 35em;
 }
 
 #ul_container {
