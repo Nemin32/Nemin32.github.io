@@ -46,6 +46,13 @@ p.centered {
   text-indent: 0;
 }
 
+.placeholder {
+  text-align: center;
+  font-size: large;
+  color: #a5a4a4;
+  text-indent: unset;
+}
+
 hr {
   width: 40ch;
   margin-top: 2ch;
@@ -69,6 +76,12 @@ ul {
 
   font-size: larger;
   width: 55ch;
+}
+
+ul.small {
+  list-style-type: unset;
+  font-size: large;
+  color: #d8d8d8;
 }
 
 #ul_container {
