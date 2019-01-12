@@ -23,8 +23,8 @@ h1 {
 }
 
 h2 {
-  margin-top: 2ch;
-  margin-bottom: 3ch;
+  margin-top: 3ch;
+  margin-bottom: 1ch;
 }
 
 div h3 {
@@ -39,7 +39,16 @@ p {
   font-size: larger;
 
   font-family: 'Roboto';
-  text-indent: 2ch;
+  /*text-indent: 2ch;*/
+}
+
+p:not(.capitalized) {
+  text-indent: 1.5ch;
+}
+
+p.capitalized:first-letter {
+  font-size: 125%;
+  font-weight: bold;
 }
 
 p.centered {
