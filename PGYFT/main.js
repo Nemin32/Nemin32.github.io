@@ -12,6 +12,24 @@ window.onload = () => {
     tag.value = ""
 
     fetch(filename).then(resp => resp.json()).then(json => {
+
+        
+        json["tags"].forEach(tags => {
+            let elem;
+            if (tags.indexOf("-- ") != -1) {
+                elem = document.createElement("optgroup")
+                elem.label = tags;
+            } else {
+                elem = document.createElement("option")
+                elem.innerText = tags;
+            }
+
+            elem.value = tags;
+            
+
+            tag.appendChild(elem);
+        })
+
         tag.addEventListener("change", () => {
             while (root.firstChild) {root.removeChild(root.firstChild)}
             json["data"].forEach(data => {
