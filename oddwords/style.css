@@ -28,6 +28,14 @@ p.centered {
   text-align: center;
 }
 
+.subtitle {
+  text-align: center;
+  width: 60ch;
+  font-style: italic;
+  margin-top: -2.5ch;
+  margin-bottom: 2ch;
+}
+
 hr {
   width: 40ch;
   margin-top: 2ch;
