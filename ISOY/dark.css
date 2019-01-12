@@ -24,6 +24,14 @@ body {
 
 #under {
   text-align: center;
+  font-size: 24px;
+}
+
+#hidden {
+  position: absolute;
+  color: black;
+  left: 80%;
+  top: 40%;
 }
 
 @keyframes shake {
