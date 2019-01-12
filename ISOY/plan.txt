@@ -30,9 +30,12 @@ Vigenere: ...- .. --. . -. . .-. .
 
 == /WILDUM ==
 
+FAT MUDOKON
+3x3 1x2 1x8   1x6 2x8 1x3 3x6 2x5 3x6 2x6
 
+Telephone keyboard puzzle
 
-== /TheAnswer ==
+== /Buddy ==
 
 NO. - Very big, Bold
 What did'ya expect?

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href = "dark.css">
+  </head>
+  <body>
+    <div id = "centerer">
+      <h2>So, do you still remember the question from the first puzzle?</h2>
+      <h2>Well, here's your answer:</h2>
+      <h1 style="font-size: 72px; margin-top: 12px;">NO</h1>
+      <h3>
+        What did'ya expect? ;)<br>
+        This concludes this mini-puzzle game. Thank you for playing, hope you at least had at least a tiny amount of fun!
+      </h3>
+    </div>
+  </body>
+</html>
