@@ -1,0 +1,105 @@
+﻿<html>
+  <head>
+    <link rel=stylesheet type=text/css href=style.css>
+    <title>NFL - API végpontok</title>
+  </head>
+  <body>
+    <center><h1>API végpontok</h1></center>
+    <hr width = 75%>
+    <h3>https://boards.eune.leagueoflegends.com/api/[alfórum ID]/discussions/</h3>
+    A legalapvetőbb lekérés. Egy JSON formátumot ad vissza, mely három elemből áll:<br><br>
+    <b>discussions</b> - Ez tartalmazza az alfórum posztjait. Az esetek 99%-ában erre van szükséged. A posztok HTML formátumban vannak, így regexelésen kívül sokat nem tudsz velük kezdeni. Erről <a href=peldak.html>itt</a> olvashatsz bővebben.<br>
+    <b>totalDiscussionsSoft</b> - Pontosan nem tudom mire való, de azt feltételzem, hogy megmondja, hány posztot tölthetsz maximum be, bizonyos időn belül.<br>
+    <b>resultsCount</b> - A betöltött posztok száma. Mindig 50.<br><br>
+    
+    A link végéhez hozzáfűzhető a "?num_loaded=[szám]", mely effektíve lapozásnak felel meg. A fórum egyszerre mindig 50 topicot jelenít meg, így a számnak célszerű az ötven többszörösének lennie. Pl.: 0 -> első oldal, 50 -> második oldal, stb.
+    <h3>https://boards.eune.leagueoflegends.com/api/[alfórum ID]/discussions/[poszt ID]/</h3>
+    Ezzel egy konkrét poszt adatait kérhetjük le. A [poszt ID]-t regexel lehet kinyerni a fentebb lévő lekérésből vagy pedig egy fórumos linkből, az alábbi módon:<br>
+    <img src = posztid.png width = 75%/><br><font size = 4>A data-application-id az [alfórum ID], a data-discussion-id pedig a [poszt ID].</font><br><br>
+    Mit is tartalmaz egy ilyen lekérés? A következőket:<br>
+    <b>discussion</b> - Na ez jó sok mindent tartalmaz, így inkább készítek egy felsorolást:<br>
+    <ul>
+        <li><b>id</b> - A [poszt ID]. Sok haszna nincs.</li>
+        <li><b>title</b> - A poszt címe.</li>
+        <li><b>user</b> - Az egyel lentebb taglalt kategória szabványát követi, csak a sajátod helyett a posztoló adataival.</li>
+        <li><b>upvotes</b> - Hány fel szavazatot kapott a poszt.</li>
+        <li><b>downvotes</b> - Hány le szavazatot kapott a poszt.</li>
+        <li><b>userVote</b> - Te mit szavaztál. null, ha még nem szavaztál. up, ha fel és down, ha le.</li>
+        <li><b>viewcount</b> - Hányan nézték meg a topicot.</li>
+        <li><b>softComments</b> - Pontosan nem tudom mi. Azt sejtem, hogy, ha ennél több kommentet kell betöltenie a rendszernek az esetleg lassú lehet.</li>
+        <li><b>totalComments</b> - Összesen hány komment érkezett a posztra.</li>
+        <li><b>comments</b> - Ezen belül több dolog is van: <br>Ami fontos lehet az a <b>sortType</b>, mely mutatja, hogy miféle rendezési módban van épp a fórum. Pl.: "best" - Legjobb, "newest" - Legújabb, "recent" - Nemrég megválaszolt.
+        <br>Ezen kívül van benne egy másik <b>comments</b>, melyen belül az kommentek számozva megtalálhatóak. A számozás 0-nál kezdődik, így az első kommentet ezalatt találod meg. Az kommentek felépítése önmagában megérdemel egy külön kategóriát:
+            <ul>
+                <li><b>id</b> - Az komment ID-je.</li>
+                <li><b>message</b> - Mit tartalmaz a komment.</li>
+                <li><b>htmlMessage</b> - Mivel HTML-es üzenetet csak a modok képesek készíteni, általában null.</li>
+                <li><b>badWordReplacements</b> - Ez egy lista, mely a kiszázalékjelezett káromkodások eredetijét tartalmazza. A számozás itt is 0-nál kezdődik. Ha nincs káromkodás, akkor null.
+                    <ul>
+                        <li><b>start</b> - Az üzenet hanyadik karakterénél kezdődik a csere.</li>
+                        <li><b>end</b> - És melyik karakternél ér véget.</li>
+                        <li><b>replaced</b> - A kicserélt szó.</li>
+                    </ul>
+                </li>
+                <li><b>user</b> - A lentebbi kategória szabványa alapján van elrendezve, a kommentíró adataival.</li>
+                <li><b>parentCommentId</b> - Ha a komment egy válasz egy másik kommentre, ez a szülő komment ID-je.</li>
+                <li><b>replies</b> - A válaszok listája. A comments szabványát követi. Ezen tulajdonsága miatt a fórum igen alkalmas rekurzióval való végiglépkedésre.</li>
+                <li><b>createdAt</b> - Mikor lett a komment beküldve.</li>
+                <li><b>modifiedAt</b> - Ha bármi történik a kommenttel (szerkeszti a készítő, szavazatot kap, válaszolnak rá), ez a jelenlegi időre áll.</li>
+                <li><b>upVotes</b> - A kommenten lévő felszavazások.</li>
+                <li><b>downVotes</b> - A kommenten lévő leszavazások.</li>
+                <li><b>numChildren</b> - Hány válasz érkezett a kommentre.</li>
+                <li><b>score</b> - Mindig 0.</li>
+                <li><b>levelsDeep</b> - A posztra érkezett kommentek 0-s mélységgel rendelkeznek. Az ezekre érkező válaszok 1 és így tovább.</li>
+                <li><b>deleted</b> - Törölve van-e a komment?</li>
+                <li><b>deletedAt</b> - Ha igen, a pontos dátumot tartalmazza. Különben egy üres szöveg.</li>
+                <li><b>userVote</b> - A te szavazatod. Lásd <b>discussion</b>-><b>uservote</b></li>
+                <li><b>parentAuthorRead</b> - Ha annak a kommentnek, amire ez válasz készítője elolvasta ezt a kommentet, akkor igaz. Különben hamis.</li>
+                <li><b>attachments</b> - Anno a kommentek mellé képeket is lehetett föltölteni. Mivel ez már rég nem-funkcionális, ez csupán egy memento, egy régi kor emlékéről.</li>
+            </ul>
+        </li>
+        <li><b>createdAt</b> - A dátum, amikor a poszt készült.</li>
+        <li><b>modifiedAt</b> - Ha szavazat érkezik a posztra, vagy változtatják a szövegét/címét, ez frissül.</li>
+        <li><b>lastCommentedAt</b> - Mikor érkezett az utolsó válasz.</li>
+        <li><b>content</b> - Ez is egy lista, mely a posztról tartalmaz információkat:
+            <ul>
+                <li><b>body</b> - A poszt törzsét tartalmazza.</li>
+                <li><b>(thumbnail)</b> - Ha a posztnak van előznézeti képe, ez tartalmazza ennek a képnek a linkjét. Ha nem, ez a mező hiányzik.</li>
+                <li><b>title</b> - A poszt címét tartalmazza.</li>
+            </ul>
+        </li>
+        <li><b>contentBodyBadWordReplacements</b> - Ha a poszt törzsében voltak csúnya szavak, ez a lista tartalmazza. Lásd <b>discussion</b>-><b>comments</b>-><b>badWordReplacements</b>.</li>
+        <li><b>titleBadWordReplacements</b> - Ugyanez, csak a címben.</li>
+        <li><b>commentVotingEnabled</b> - Lehet-e a kommentekre szavazni?</li>
+        <li><b>commentCreationEnabled</b> - Lehet-e új kommentet beküldeni?</li>
+        <li><b>isSticky</b> - Ki van-e tűzve egy alfórumra?</li>
+        <li><b>isGlobalSticky</b> - Ki van-e tűzve a főoldalra?</li>
+        <li><b>deleted</b> - Törölve van-e a poszt?</li>
+        <li><b>deletedAt</b> - Ha igen, a törtlés dátumát tartalmazza, különben egy üres szöveget.</li>
+        <li><b>hasRioterComments</b> - Kommentelt-e Riotos a poszt alá?</li>
+        <li><b>rioterCommentIds</b> - Ha igen, melyek ezek a kommentek?</li>
+        <li><b>application</b> - Itt az alfórumról van néhány információ, de semmi hasznosat nem tartalmaz.</li>
+    </ul>
+    <b>user</b> - Ismételten felsorolást készítek. Az itteni adatok a te saját fórumos profilodra vonatkoznak:<br>
+    <ul>
+        <li><b>id</b> - Az id-d.</li>
+        <li><b>name</b> - Az in-game neved, ami a fórumon is megjelenik.</li>
+        <li><b>lolSummonerLevel</b> - Hanyas szintű vagy LoL-ban.</li>
+        <li><b>lolProfileIcon</b> - Az iconod ID-jét adja meg.</li>
+        <li><b>realm</b> - Melyik szerveren játszol.</li>
+        <li><b>isModerator</b> - Moderátor vagy-e?</li>
+        <li><b>isRioter</b> - Rioter vagy-e?</li>
+        <li>Az <b>applicationsCanModerate</b>-től kezdve az összes többinek sok haszna nincs, így nem tárgyalom őket külön.</li>
+    </ul>
+    
+    <b>viewType</b> - "nested", ha témanézetben használod. "flat", ha időrendiben.<br>
+    <b>(flatComments)</b> - Ez az időrendi kommentnézethez ír további információkat. Csak akkor látható, ha viewType == "flat". Sose használtam még, így nem tudom pontosan mire jó.<br>
+    <b>rundownPrompt</b> - Boolean adattípus. Pontosan nem tudom mire jó.<br>
+    <b>applicationId</b> - Az [alfórum ID]-t tartalmazza, bár mivel úgyis tudjuk, így sok haszna nincs.<br>
+    
+    <h3>https://boards.eune.leagueoflegends.com/api/[alfórum ID]/discussions/[poszt ID]/comments/</h3>
+    Ez a poszt <b>comments</b> alatt tárgyalt részeit tartalmazza. Az <b>user</b>, a <b>discussion</b> és a többi rész hiányzik innen. Ha csak a kommentekkel akarsz valamit csinálni, ezt használd, hisz a lekérés kisebb és csak a releváns információkat tartalmazza.
+    <hr width = 75%>
+    <center><a href = index.html>Vissza</a></center>
+  </body>
+</html>
