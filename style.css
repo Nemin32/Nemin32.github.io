@@ -1,0 +1,15 @@
+body {
+    background-color: darkgray;
+    color: black;
+    font-size: x-large;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+.code {
+    background-color: white;
+    color: black;
+    display: inline-block;
+}
