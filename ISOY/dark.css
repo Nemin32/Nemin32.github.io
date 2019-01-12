@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+#maintext {
+  margin: 0 auto;
+  margin-bottom: 2em;
+  width: 60%;
+  font-size: 48px;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  animation: shake 4s;
+  animation-iteration-count: infinite;
+}
+
+#under {
+  text-align: center;
+}
+
+@keyframes shake {
+  20% {transform: scale(1.1, 1.1);}
+  40% {transform: scale(1.2, 1.1);}
+  60% {transform: scale(1.4, 1.2);}
+  80% {transform: scale(1.1, 1.1);}
+  100% {transform: scale(1.0, 1.0);}
+}
