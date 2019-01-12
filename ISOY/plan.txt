@@ -21,10 +21,12 @@ AE REL NA MM DD ISOY/
 
 == /STRANGER ==
 
-"LAST OF HIS __KIND__" (Vingenere Codeword: "Steef")
+"LAST OF HIS __KIND__" (Vigenere Codeword: "Steef")
 
-Stranger's head with nearly invisible morse text "GOOD SLIG VICTIM" in Vingenere cypher + "Vingenere" in morse. 
-YHSH XDBK ZNUMMQ
+Stranger's head with nearly invisible morse text "GOOD SLIG VICTIM" in Vigenere cypher + "Vigenere" in morse. 
+
+YHSH XDBK ZNUMMQ: -.-- .... ... .... / -..- -.. -... -.- / --.. -. ..- -- -- --.-
+Vigenere: ...- .. --. . -. . .-. .
 
 == /WILDUM ==
 
