@@ -16,7 +16,7 @@ Playing only Abe's Oddysee and Abe's Exoddus and not having cared about the
 intended storyline of Munch's Oddysee, one might think that he's really the top
 of the foodchain, hell maybe even the owner of the Magog Cartel. The truth is
 more complex than this and it might be surprising to some. Molluck is in fact
-the prodigal son of Lady Margaret, the actual current owner of the cartel.  The
+the prodigal son of Lady Margaret(1), the actual current owner of the cartel.  The
 Glukkon queen gave the task of running it (along with a few other factories,
 we'll get to that) as a test to Molluck to prove his worth before he gets an
 actually large turf. 
@@ -25,25 +25,25 @@ While you might think that RuptureFarms is the "biggest meat processing plant on
 Oddworld", it's not. The number part in RF1029 is not a codeword, it's a serial
 number. And while it might seem huge to us, Oddworld has ten times as much
 surface area as Earth so even a "small" factory like RF is multiple times larger
-than one on Earth. In fact, Mudos (the continent where all the currently
-released titles take place) is actually kind of a paralell to Africa, with
-backwater factories that employ - and exploit - the less developed natives. This
-is why it is a huge shock and catastrophe that a Mudokon-uprising could actually
-bring down a factory. Imagine a group of tribals with spears and warpaint
-winning against a modern army.
+than the largest ones on Earth. In fact, Mudos (the continent where all the
+currently released titles take place) is actually kind of a paralell to Africa,
+with backwater factories that employ - and exploit - the less developed natives.
+This is why it is a huge shock and catastrophe that a Mudokon-uprising could
+actually bring down a factory. Imagine a group of tribals with spears and
+warpaint winning against a modern army.
 
-I mentioned other factories before so let's continue with that. This might not
-be such a surprise as it was pretty explicitly stated in Abe's Exoddus, but it
-won't hurt to point it out here too. Molluck is either CEO or at least a major
-shareholder of Bonewerkz, FeeCo and Slig Barracks. Remember the reaction of the
-three Glukkons, who discuss his disappearance. Dripik mentions that "[he]'s
-gonna be pissed" and that "[...] now Necrum Mines, if he ever comes back
-[they]'re screwed" so it is obvious that he's a superior of them. Aslik also
-says that it's "[their] turn to take over". These combined with Aslik's role of
-being *Vice*-President strongly implies - at least to me - that Molluck didn't
-only run RuptureFarms, he was also their boss and the owner/shareholder of
-Necrum Mines too.
-
+I mentioned other facilities, so let's continue with that. This might not be a
+surprise to some, but I think it's important to point out that Molluck was
+behind almost everything we've seen in the first two games. Not only did he own
+RuptureFarms, he's also the owner and boss of the Glukkon trio seen in Abe's
+Exoddus. Aslik being *Vice*-President is already a big tell, but Dripik even
+points out that "[He's] gonna be pissed" and that "if he ever comes back
+[they're] screwed", making it undisputable who's the boss after all(2). However, it
+might be a bigger surprise that Aslik isn't the Vice-President of FeeCo, instead
+he is VP of SoulStorm Brewery(3), also owned by Molluck(4). The Brewmaster is, despite
+his pompous title, just some lackey, who was ambitious (and perhaps competent)
+enough to take over in the boss' absence.
+ 
 https://oddworldlibrary.net/archives/togg/_data/i/galleries/Oddworld_Movie/Concept_Art/CAOM0002-me.jpg
 
 Even his name was a clever choice as it is a reference to Moloch, the god of
@@ -58,17 +58,17 @@ but it's a very common misconception that I had too.
 The slaughter of innocents is a brutal choice and I'm not trying to justify it,
 however, the alternative wouldn't have been much better either. Remember he had to
 satisfy a very demanding mother and also an even more demanding group of
-investors' expectations. And "profits were grim". Quite likely if he hadn't made
-a choice like this he and his colleagues would have ended up disowned and likely
-dead.
+investors' expectations. And the "profits were grim". Quite likely if he hadn't made
+a choice like this he and his colleagues would have ended up disowned and
+without a doubt dead.
 
 I'd like to end this post with the short timeline of what happened to him after
 the end of Abe's Oddysee. As we seen in the canon good ending, the Mudokons
 conjure a mystical thunderstorm over RuptureFarms and struck the nearby Slig to
 death with a well aimed lightning bolt. The same fate follows Molluck, whose
-suit disintegrates, revealing his surprising anatomy. Except he doesn't die.
-Either with a huge amount of luck or the meddling of Oddworldian gods, he is
-merely knocked unconscious and branded by the electricity passing through his
+suit disintegrates, revealing the Glukkons' surprising anatomy. Except he doesn't die.
+Either with a huge amount of luck or the meddling of the Oddworldian gods, he is
+"merely" knocked unconscious and branded by the electricity passing through his
 head. The storm causes the factory to erupt in flames, however, Molluck gets
 himself together before he burns alive and escapes by unknown means. The
 authorities raid the factory, but since they can't find his corpse he is declared
@@ -91,3 +91,13 @@ answer to the investors for his son's mistakes. After a likely thunderous
 scolding by Margaret, Molluck is escorted to an elevator to meet and to try to
 explain himself before the investors. This is where the known lore ends about
 him, and thus his fate is left unknown.
+
+---
+
+(1) http://oddworldlibrary.net/wiki/1999/12/22_-_Family_Secrets - "It was a bitter pill for Maggie to swallow when her favorite son, Molluck the Glukkon, [...]"
+
+(2) http://oddworldlibrary.net/wiki/Abe%27s_Exoddus_-_Inhabitants - If you're still not convinced check under "GENERAL DRIPIK, VICE-PRESIDENT ASLIK, DIRECTOR PHLEG"
+
+(3) http://oddworldlibrary.net/wiki/SoulStorm_Brew_-_I,_Aslik
+
+(4) http://oddworldlibrary.net/wiki/Abe%27s_Exoddus_-_Inhabitants - Under "MOLLUCK"
