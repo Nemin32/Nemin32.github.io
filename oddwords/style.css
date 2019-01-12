@@ -110,6 +110,7 @@ ul.small {
   list-style-type: unset;
   font-size: large;
   color: #d8d8d8;
+  width: 60ch;
 }
 
 #ul_container {
