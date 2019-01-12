@@ -4,6 +4,10 @@ const filename = "datas.json";
 let root;
 let tag;
 
+function helper(tags) {
+	return tags.map(elem => `<a onclick = "tag.value = '${elem}'; tag.dispatchEvent(new Event('change'))">${elem}</a>`)
+}
+
 window.onload = () => {
     root = document.getElementById("root");
     tag = document.getElementById("tag")
@@ -36,13 +40,27 @@ window.onload = () => {
                 if (tag.value != "notag") {
                     if (data.tags.indexOf(tag.value) != -1) {
                         let elem = document.createElement("div");
-                        elem.innerHTML = `<h3>${data.question}</h3><p>${data.answer}</p><p class = 'tags'><b>Tags:</b> ${data.tags.join(", ")}</p>`
+                        elem.innerHTML = `
+				<h3>${data.question}</h3>
+				<p>${data.answer}</p>
+				<hr>
+				<div class = "flexer">
+					<p class = 'src'><b>Source:</b> <a href = "${data.link}">[Link]</a></p>
+					<p class = 'tags'><b>Tags:</b> ${helper(data.tags)}</p>
+				</div>`
                         root.appendChild(elem)
                     }
                 } else {
                     if (data.tags.length == 0) {
                         let elem = document.createElement("div");
-                        elem.innerHTML = `<h3>${data.question}</h3><p>${data.answer}</p><p class = 'tags'><b>Tags:</b> None yet...</p>`
+                        elem.innerHTML = `
+				<h3>${data.question}</h3>
+				<p>${data.answer}</p>
+				<hr>
+				<div class = "flexer">
+					<p class = 'src'><b>Source:</b> <a href = "${data.link}">[Link]</a></p>
+					<p class = 'tags'><b>Tags:</b> None yet...</p>
+				</div>`
                         root.appendChild(elem)
                     }
                 }
