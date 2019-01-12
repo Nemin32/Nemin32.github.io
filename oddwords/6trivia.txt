@@ -1,0 +1,87 @@
+A few interesting things cut from the games
+
+=== Exoddus ===
+
+- "Mudombies"(1) 
+
+Abe's Exoddus would have originally featured zombified Mudokons, whom Abe would
+have needed to lead to their resting place. Presumably we would have encountered
+them in the jungles of Necrum or in the Vaults. My guess as for why they were
+cut is that presumably they wouldn't have been too different compared to
+'normal' Mudokons and the disk space was scarce.
+
+- Elum (2)
+
+If you rescued all 300 Mudokons, Abe would have had the chance to venture back
+into the ruins of RuptureFarms to rescue the Elum and then they would have made
+a big escape from the still-smouldering facility.
+
+=== Munch's Oddysee ===
+
+- Social status (3)
+ 
+At one point in development, back when MO was still planned to be a much more
+grandious game, it was planned that each character you meet would have a certain
+social status, which you could manipulate. Lanning explains it through the
+example of a Slig: Basically if you possess a Slig who is "nobody" (that is he
+has cheap equipment), no one will take him seriously and certain areas won't
+open up to you, until you manage to upgrade your possessed character's status.
+Also characters would have regarded eachother differently. The GameSpeak would
+still have just one button for "Greetings", but your character would have said
+different things to different characters. The aforementioned Slig for example
+would have just simply yelled at a Mudokon when you pressed the button, but if
+you encountered a Glukkon, your Slig would have immediately became as polite as
+they possibly can. This entire feature was sadly cut from the game.
+
+- Lulu's original journey (3)
+
+While the basic concept is mostly unchanged, Lulu was supposed to go through a
+much more exciting path to become a Glockstar. Munch and Abe would have a lot
+more to directly do with him, unlike in the finished game where he is possessed
+once and that's it. He would have been a lowly Pud (the 'rank' of the least
+successful Glukkons) in a small meat packing factory, where his boss, a Glukkon
+named Sask, would have threatened him that if he doesn't do his job and
+slaughter a few Scrabs for their meat, he would be fired. From this point, it's
+your job to make the best of the situation. You could have either done it as you
+were asked and butcher the animals, which which would have resulted in negative
+Quarma. Or you could have chosen a similarly brutal (albeit for some reason more
+positive) way of dealing with the problem and murder a bunch of unsuspecting
+Sligs who were having a picnic nearby for their meat. This way you would have
+also made some scrap metal which would have made Lulu's boss very happy. By
+doing enough errands in Lulu's name, he would have quickly been promoted to the
+top and as a Glockstar, he would have gained access to Vykkers Labs and by
+exploiting him Abe and Munch could have got Sam (by the original plans, we would
+have met the Mudokon queen in this game) and the Gabbiar out safely.
+
+- "RTS" (4)
+
+Another really ambitious idea was that Abe was supposed to be able to direct
+entire factories by possessing their leading Glukkons. This way you could have
+affected the Industrialists on a major scale. Also the terrain around you would
+have been dynamic and your choices could have changed them into becoming
+healthier or more polluted.
+
+- Abe and Munch's disfunctional partnership, Roid
+
+One might notice that Munch and Abe become friends incredibly quickly and
+without any fanfare in Munch's Oddysee. Originally this would have been largely
+different. One of the first designs of Munch was a tapeworm, that Abe
+regurgiated any time he needed him. This was quickly scrapped and replaced with
+something more akin to what we got in the final version, but it would have been
+lot less about the duo cooperating and more about Abe carrying Munch around on a
+wheelchair, with him having no word about where they should go. Also at one
+point it was planned that Munch would have - after all the experiments done on
+him by the Vykkers - developed a kind of Mr. Hyde like personality, which would
+have manifested as a mindless, hulking, muscle-bound beast called Roid. And the
+'best' part is to call upon this creature Abe would have punched and beat Munch
+until he went mental.
+
+===
+
+(1) https://magogonthemarch.com/designer-diaries/abes-exoddus-designer-diaryvideogames-com/
+
+(2) https://twitter.com/OddworldInc/status/1026744486079160320
+
+(3) https://magogonthemarch.com/status-and-power-oddworld-isnt-so-odd-anymore/
+
+(4) https://magogonthemarch.com/an-interview-with-lorne-lanning/
