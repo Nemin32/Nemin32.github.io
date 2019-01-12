@@ -1,4 +1,4 @@
-div > div {
+div > div:not(.flexer) {
   margin: auto;
   margin-bottom: 4vh;
   
@@ -98,7 +98,15 @@ img {
 
 .tags {
   text-align: right;
-  font-size: small;
+}
+
+.src {
+  white-space: nowrap;
+}
+
+.flexer {
+  display: flex;
+  justify-content: space-between;
 }
 
 p {
