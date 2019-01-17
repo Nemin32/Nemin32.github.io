@@ -1,6 +1,6 @@
 "use strict"
 
-const filename = "datas.json";
+const filename = "./datas.json";
 let root;
 let tag;
 
