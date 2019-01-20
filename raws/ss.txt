@@ -14,7 +14,64 @@ Unite Berlin 2018 - https://www.youtube.com/watch?v=Kv9Zoyo8o8s
 Q&A 1 - https://magogonthemarch.com/official-oddworld-discord-qa-2018/
 Q&A 2 - https://magogonthemarch.com/official-oddworld-qa-2-2018/
 
-ARG:
+INFORMATION ABOUT THE GAME:
+
+ITEMS:
+
+In the EGX talk Lanning showcased a few of the items found in Soulstorm. Here's
+a list of these screenshot out of the video. OWI has said that these items are
+early iterations of what we will be able to find in the final version, so take
+everything here with a grain of salt.
+
+Brew Bottle - "Splashy, sticky, very tasty and highly flammable. Soulstorm Brew
+will help you get the party started and then help you burn down the venue when
+you've had enough."
+
+Bottle Cap - "We can't believe this ever got past the Food Standards people,
+but they put bottlecaps on Soulstorm Brew that make sparks when they hit against
+hard materials. Sparks plus flammable liquid equals fun."
+
+Fire Extinguisher - "Look, we've all done it. Sometimes you just set fire to
+something you wanted to keep. Use this handy fire extinguisher to hastily
+correct your overzealous use of flames."
+
+Empty Bottle - "An empty bottle? What was inside? Who's been having a party?
+Why weren't you invited? Never mind, at least these things can be recycled,
+right?"
+
+Gum - "The flavor lasts for a few a seconds, but the stickiness is eternal.
+Chew this up a bit and you can use it to stick one thing to another thing.
+Handy!"
+
+Lighter - "It's like carrying a flint, some kindling at all times. Use it to
+start fires where there were previously no fires. Also handy to stick to other
+objects that might benefit from a quick and convenient fire source."
+
+Flame thrower - "Well done. You've taken something that was made solely for
+putting out fires, tinkered around with it and made it into something that makes
+fire at a prodigious rate. Your momma would be proud."
+
+Recipe: Fire extinguisher + Soulstorm Brew + Lighter
+
+Purple bottle with a green decal and "PoP" written on it in white
+
+Purple bottle with a green decal and a purple band over it - The color of this
+band is very similar to the gum, so perhaps this is the result of crafting the
+two together.
+
+Jawbreaker-esque round object - I have seriously no idea what this could be. It
+looks similar to a ball, but I don't have any idea why would you be able to
+carry around one. You can spot a few shapes on it, like a star in the
+bottom-left corner. Also, as the picture shows, you can carry 20 of these, so
+this object being big would make no sense.
+
+Blue drink in an SSB bottle - This is obviously the bottle of SoulStorm Brew,
+however, the contents aren't the usual green, but instead a shade of blue. My
+only speculation is that it is perhaps medicine you can give your addicted
+Mudokons, so they don't die for another 48 hours, but without the side-effects
+or the flammability of the Brew.
+
+CHARACTERS OF THE ARG:
 
 SPIRIT OF 1029 - A Mudokon group of revolutionaries, created and named after
 Abe's deeds in RuptureFarms 1029. They like to liken themselves to a storm.
@@ -43,9 +100,3 @@ Cartel caught and executed him because of the community's mishap.
 
 ASSET99 - Asset 98's successor, he is just as secretive as 98 was. He also
 provided vital information towards the solutions of multiple puzzles.
-
-INFORMATION ABOUT THE GAME:
-
-
-
-ITEMS:
