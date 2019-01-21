@@ -156,10 +156,6 @@ a:visited {
   color: gray;
 }
 
-.wip {
-  text-decoration: line-through;
-}
-
 #footer {
   position: absolute;
   bottom: 0;
