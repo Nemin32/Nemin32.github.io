@@ -37,7 +37,7 @@ p {
   color: #d8d8d8;
   margin: auto;
   margin-bottom: 2ch;
-  font-size: larger;
+  font-size: large;
 
   font-family: 'Roboto';
   text-indent: 2ch;
@@ -56,6 +56,7 @@ p.bookpage {
 p.quoted {
   font-family: 'Playfair Display';
   font-weight: bold;
+  font-style: italic;
   text-indent: unset;
 }
 
@@ -109,6 +110,12 @@ img {
   margin-top: 3ch;
 }
 
+img.original {
+  width: unset;
+  margin-bottom: 1ch;
+  margin-top: 1ch;
+}
+
 img.small {
   width: 15em;
 }
@@ -130,7 +137,7 @@ ul.small {
   width: 35em;
 }
 
-#ul_container {
+#ul_container, .ul_container {
   margin-top: 3ch;
   display: flex;
   justify-content: center;
@@ -154,10 +161,6 @@ a {
 
 a:visited {
   color: gray;
-}
-
-.wip {
-  text-decoration: line-through;
 }
 
 #footer {
