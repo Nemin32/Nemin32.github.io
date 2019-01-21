@@ -3,16 +3,6 @@
   src: url("pupfont.woff");
 }
 
-/*
-body {
-  background-color: #171717;
-  position: relative;
-  margin: 0;
-  padding-bottom: 6rem;
-  min-height: 100%;
-}
-*/
-
 h1, h2 {
   text-align: center;
   color: #e0e0e0;
@@ -29,4 +19,8 @@ h1 {
   font-family: PupFont;
   font-size: 8em;
   font-weight: normal;
+}
+
+li p {
+  text-indent: 0 !important;
 }
