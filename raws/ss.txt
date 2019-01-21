@@ -1,10 +1,11 @@
 LINKS:
+These are links where nearly all tangible info can be found.
 
 Official Page - https://oddworld.com/soulstorm
 ARG Puzzles - http://oddworld.wikia.com/wiki/Soulstorm_ARG
 ARG Summary - https://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary
 ARG Tweets - https://oddworldlibrary.net/wiki/Soulstorm_ARG_Tweets
-ARG Transcript of The Informant - https://oddworldlibrary.net/wiki/Soulstorm_ARG_-_The_Informant
+Transcript of The Informant - https://oddworldlibrary.net/wiki/Soulstorm_ARG_-_The_Informant
 EGX Talk - https://www.youtube.com/watch?v=L3zdCg4tbOc
 EGX Transcript - https://oddwords.hu/egx_images.html
 Caddicarus Interview - https://www.youtube.com/watch?v=GdDpdJxcZvQ
@@ -15,20 +16,107 @@ Q&A 1 - https://magogonthemarch.com/official-oddworld-discord-qa-2018/
 Q&A 2 - https://magogonthemarch.com/official-oddworld-qa-2-2018/
 
 INFORMATION ABOUT THE GAME:
+Most of the gameplay information in the EGX talk collected into an easily
+digestible list.
+
+- The game will still be a platformer, albeit it's levels will be "much more
+  exciting than in the previous games".
+
+  Lorne Lanning: "Abe is really about followers, empathy, puzzles. So how do we
+  do that but really turn the volume up to eleven on the genre? So I call it a
+  platformer game and then push that dynamic too."
+
+  Alex Carroll: "I can say our levels are way more interesting."
+
+- The game will feature a crafting system.
+
+  Lorne Lanning: "And those consumer products, he can start converting into
+  weapons and he can have then start finding with collectibles crafting those
+  weapons into more specialized things. So inventory system and crafting has
+  become a key part of what Abe does to get all these Mudokons through the world
+  safely, hopefully."
+
+- The new thematic around brew is that if a Mudokon becomes addicted to it, then
+  two days of withdrawal will result in their death by cardiac arrest. [[VIDEO
+  (check top left corner)]](https://youtu.be/L3zdCg4tbOc?t=16m55s)
+
+- The brew is also very flammable, which can be potentially used in gameplay
+  (area control?).
+
+  Lorne Lanning: "So let's just say brew, one of the side effects of brew is
+  that it's highly flammable. And everyone's addicted to it!"
+
+- Abe will be able to lead a huge number of Mudokons (up to 301) and OWI
+  completely overhauled the GameSpeak to make this comfortable to use.
+
+  Lorne Lanning: "So this game begins with 301 freed Mudokons, that you're going
+  to try and take with you through the journey, because they don't just
+  disappear into the ether, they're gonna stay with you and at times in real
+  time, in play you'll be managing the survival of this many guys on screen at
+  one time."
+
+  Alex Carroll: "We wouldn’t make it hard. If there are that many on screen at
+  once (and in some cases there are) then Abe’s control over them is slightly
+  different. We’ve refined Abe’s Gamespeak considerably."
+
+- It seems like the Mudokons will be capable of fighting back and the player can
+  select how aggressive they will act.
+  [[VIDEO]](https://youtu.be/L3zdCg4tbOc?t=32m50s)
+
+  imgs/ss_images/mood.jpg
+
+- Abe will have an HP bar, Ammo counter and he can also collect Moolah. And he
+  will also be able to amass Chi, which will let him use powerful abilities.
+
+  imgs/ss_images/chi_hp.jpg
+
+- To get the best ending no Slig must die. (Whether we can save them or we just
+  have to leave them be is not known.)
+
+  Lorne Lanning: "And in this game you trying not to ideally kill the Sligs
+  either. So a perfect play nobody dies.  That's hard as hell! You know, there's
+  a lot of PTSD trauma that's going to take place before you achieve that goal,
+  but that's our goal. In the ideal world Abe would have been able to traverse
+  this very different, dangerous landscape and do that without killing anybody
+  not even Sligs."
+
+- There is now a concrete Pyramid of Power that shows us just how powerful
+  certain positions are. [[PIC]](https://i.imgur.com/we4MsdU.png)
+
+  imgs/brewing_pics/oddworld_pyramid.jpg
+
+- RuptureFarms is confirmed to have burned down after it has been struck by
+  lightning from the Mudokon Rainmaker.
+
+  imgs/brewing_pics/molluck_landscape.jpg
+
+- The original trio of Glukkons is now gone, replaced by brand ones.
+  However, Molluck has returned and he looks pretty pissed off. Interestingly
+  there is no Dripik. As I've discussed before [Location Trivia], he didn't have
+  much role in the Exoddus, so perhaps he is not part of Soulstorm's story.
+
+  Lorne Lanning: "We've renamed all the Glukkons that come with the other
+  factories, so Aslik, Dripik and all of this. These are different guys now, as
+  we were getting more away from what that original story was."
+
+- The theme of Occultism seems to be returning in SS as evidenced by one Glukkon
+  wearing the "Royal Society **Alchemic** Science" badge.
+
+  imgs/brewing_pics/brewmaster_badge.jpg
 
 ITEMS:
-
 In the EGX talk Lanning showcased a few of the items found in Soulstorm. Here's
 a list of these screenshot out of the video. OWI has said that these items are
 early iterations of what we will be able to find in the final version, so take
-everything here with a grain of salt.
+everything here with a grain of salt. The text in quotes are the official
+descriptions shown in the gameplay footage, the rest are my thoughts.
 
 Brew Bottle - "Splashy, sticky, very tasty and highly flammable. Soulstorm Brew
 will help you get the party started and then help you burn down the venue when
 you've had enough."
 
-Bottle Cap - "We can't believe this ever got past the Food Standards people,
-but they put bottlecaps on Soulstorm Brew that make sparks when they hit against
+Bottle Cap - "We can't believe this ever got past the Food Standards people, but
+they put bottlecaps on Soulstorm Brew that make sparks when they hit against
 hard materials. Sparks plus flammable liquid equals fun."
 
 Fire Extinguisher - "Look, we've all done it. Sometimes you just set fire to
@@ -47,13 +135,15 @@ Lighter - "It's like carrying a flint, some kindling at all times. Use it to
 start fires where there were previously no fires. Also handy to stick to other
 objects that might benefit from a quick and convenient fire source."
 
-Flame thrower - "Well done. You've taken something that was made solely for
+Flamethrower - "Well done. You've taken something that was made solely for
 putting out fires, tinkered around with it and made it into something that makes
 fire at a prodigious rate. Your momma would be proud."
 
 Recipe: Fire extinguisher + Soulstorm Brew + Lighter
 
-Purple bottle with a green decal and "PoP" written on it in white
+Purple bottle with a green decal and "PoP" written on it in white - Reminds me a
+bit of the drinks you could get in Munch's Oddysee. Perhaps OWI is revisiting
+this concept.
 
 Purple bottle with a green decal and a purple band over it - The color of this
 band is very similar to the gum, so perhaps this is the result of crafting the
@@ -79,9 +169,9 @@ Their main way of communication are short Tweets denouncing the Magog Cartel and
 short catchphrases like "We will rise!". Also their logo is based on the
 front-side view of RuptureFarms erupting in flames.
 
-THE MAGOG CARTEL - Diabolical as always, they both tell you that everything
-is fine and also that if anything is not fine, it's not their fault. They like
-to alternate between propaganda fliers and sardonic remarks towards employees,
+THE MAGOG CARTEL - Diabolical as always, they both tell you that everything is
+fine and also that if anything is not fine, it's not their fault. They like to
+alternate between propaganda fliers and sardonic remarks towards employees,
 products and workplace-safety. Their logo is similar to the old octopus-like
 black and white emblem, however, it has become sleeker and taller.
 
