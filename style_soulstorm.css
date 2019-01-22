@@ -1,8 +1,3 @@
-@font-face {
-  font-family: PupFont;
-  src: url("pupfont.woff");
-}
-
 h1, h2 {
   text-align: center;
   color: #e0e0e0;
@@ -10,15 +5,15 @@ h1, h2 {
 
 h2 {
   margin-top: 0.2em;
-  margin-bottom: 0.1em;
+  margin-bottom: -0.3em;
   font-size: 3em;
 }
 
 h1 {
   margin-top: 0;
-  font-family: PupFont;
   font-size: 8em;
   font-weight: normal;
+  margin-bottom: 0.2em;
 }
 
 li p {
