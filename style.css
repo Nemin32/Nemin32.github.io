@@ -137,13 +137,13 @@ ul.small {
   width: 35em;
 }
 
-#ul_container, .ul_container {
+.ul_container {
   display: flex;
   justify-content: center;
   margin-top: 1em;
 }
 
-#ul_container li {
+.ul_container li {
   margin-bottom: 1.5em;
 }
 
