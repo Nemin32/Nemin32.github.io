@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+$bg-color: #171717;
+$header-color: #e0e0e0;
+$p-color: #d8d8d8;
+
+//TODO: UL és LI
+//TODO: Footer
+//TODO?: Átszínezés
+
+/* == BODY == */
+
+body {
+  background-color: $bg-color;
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+}
+
+/* == HEADERS == */
+
+h1, h2, h3 {
+  text-align: center;
+  color: $header-color;
+}
+
+h1 {
+  margin-top: 1.1em;
+  margin-bottom: 1em;
+  font-size: 1.4em;
+  font-family: 'Merriweather';
+}
+
+h2 {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+
+h3 {
+  margin-top: 1em;
+  margin-bottom: 0.8em;
+}
+
+/* == P-s == */
+
+p {
+  width: 35em;
+  color: $p-color;
+  margin: auto;
+  margin-bottom: 1em;
+  font-size: larger;
+  font-family: 'Roboto';
+
+  &.centered {
+    text-align: center;
+  }
+
+  &.subtitle {
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+    color: darkgrey;
+    margin-top: -0.8em;
+    margin-bottom: 1.2em;
+  }
+
+  &.bookpage {
+    font-weight: bold;
+    margin-bottom: 0.3em;
+  }
+
+  &.quoted {
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Playfair Display';
+  }
+}
+
+/* == LINKS == */
+
+a {
+  color: white;
+
+  &:visited {
+    color: gray;
+  }
+}
+
+/* == UL & LI == */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: large;
+
+  &.small {
+    list-style-type: unset;
+    font-size: large;
+    color: #d8d8d8;
+    width: 35em;
+  }
+}
+
+#frontpage_container {
+  margin-top: 3ch;
+
+  div {
+    margin-left: 16em;
+    margin-bottom: 3em;
+  }
+
+  li {
+    margin-bottom: 1.2em;
+    width: 25em;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 2em;
+  }
+}
+
+/* == IMAGES == */
+
+img {
+  width: 35em;
+  display: block;
+  margin: auto;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+
+  &.small {
+    width: 15em;
+  }
+
+  &.original {
+    width: unset;
+  }
+}
+
+/* == HR == */
+
+hr {
+  width: 20em;
+  margin-top: 1em;
+  margin-bottom: 3em;
+}
