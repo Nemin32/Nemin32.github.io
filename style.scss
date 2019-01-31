@@ -2,23 +2,21 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display');
 
-$bg-color: #171717;
+/*$bg-color: #171717;
 $header-color: #e0e0e0;
 $p-color: #d8d8d8;
+$a-color: white;
+$a-visited: grey;
+*/
 
-//TODO: UL és LI
-//TODO: Footer
+$bg-color: #150629;
+$header-color: #ffd800;
+$p-color: #c2c2c2;
+$a-color: #95c1d5;
+$a-visited: #7ba0b1;
+
 //TODO?: Átszínezés
 
-/* == BODY == */
-
-body {
-  background-color: $bg-color;
-  position: relative;
-  margin: 0;
-  padding-bottom: 6rem;
-  min-height: 100%;
-}
 
 /* == HEADERS == */
 
@@ -28,15 +26,26 @@ h1, h2, h3 {
 }
 
 h1 {
-  margin-top: 1.1em;
-  margin-bottom: 1em;
-  font-size: 1.4em;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+  font-size: 48px;
   font-family: 'Merriweather';
+
+  &.ss {
+    font-family: 'Playfair Display';
+    font-size: 72px;
+    margin-top: -0.4em;
+    margin-bottom: -0.1em;
+  }
 }
 
 h2 {
   margin-top: 1.5em;
   margin-bottom: 1em;
+}
+
+h1+h3 {
+  margin-top: -0.6em;
 }
 
 h3 {
@@ -47,7 +56,7 @@ h3 {
 /* == P-s == */
 
 p {
-  width: 35em;
+  width: 30em;
   color: $p-color;
   margin: auto;
   margin-bottom: 1em;
@@ -77,19 +86,40 @@ p {
     font-style: italic;
     font-family: 'Playfair Display';
   }
+
+  &.placeholder {
+    color: darkgrey;
+    font-size: large;
+    text-align: center;
+  }
+
+  &.title {
+    width: unset;
+    font-size: x-large;
+    margin-bottom: 0.4em;
+    color: $header-color;
+  }
+
+  &.capitalized {
+    font-weight: bold;
+  }
 }
 
 /* == LINKS == */
 
 a {
-  color: white;
+  color: $a-color;
 
   &:visited {
-    color: gray;
+    color: $a-visited;
   }
 }
 
 /* == UL & LI == */
+
+li {
+  color: $p-color;
+}
 
 ul {
   list-style-type: none;
@@ -102,6 +132,20 @@ ul {
     font-size: large;
     color: #d8d8d8;
     width: 35em;
+  }
+
+  &.condensed {
+    li {margin-bottom: 0.2em;}
+  }
+}
+
+.ul_container {
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+
+  li {
+    margin-bottom: 1.5em;
   }
 }
 
@@ -146,4 +190,25 @@ hr {
   width: 20em;
   margin-top: 1em;
   margin-bottom: 3em;
+}
+
+/* == BODY == */
+
+body {
+  background-color: $bg-color;
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+}
+
+/* == FOOTER == */
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-size: initial;
 }

@@ -1,31 +1,38 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto");
 @import url("https://fonts.googleapis.com/css?family=Merriweather");
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display");
-/* == BODY == */
-body {
-  background-color: #171717;
-  position: relative;
-  margin: 0;
-  padding-bottom: 6rem;
-  min-height: 100%;
-}
-
+/*$bg-color: #171717;
+$header-color: #e0e0e0;
+$p-color: #d8d8d8;
+$a-color: white;
+$a-visited: grey;
+*/
 /* == HEADERS == */
 h1, h2, h3 {
   text-align: center;
-  color: #e0e0e0;
+  color: #ffd800;
 }
 
 h1 {
-  margin-top: 1.1em;
-  margin-bottom: 1em;
-  font-size: 1.4em;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+  font-size: 48px;
   font-family: "Merriweather";
+}
+h1.ss {
+  font-family: "Playfair Display";
+  font-size: 72px;
+  margin-top: -0.4em;
+  margin-bottom: -0.1em;
 }
 
 h2 {
   margin-top: 1.5em;
   margin-bottom: 1em;
+}
+
+h1 + h3 {
+  margin-top: -0.6em;
 }
 
 h3 {
@@ -35,8 +42,8 @@ h3 {
 
 /* == P-s == */
 p {
-  width: 35em;
-  color: #d8d8d8;
+  width: 30em;
+  color: #c2c2c2;
   margin: auto;
   margin-bottom: 1em;
   font-size: larger;
@@ -62,16 +69,34 @@ p.quoted {
   font-style: italic;
   font-family: "Playfair Display";
 }
+p.placeholder {
+  color: darkgrey;
+  font-size: large;
+  text-align: center;
+}
+p.title {
+  width: unset;
+  font-size: x-large;
+  margin-bottom: 0.4em;
+  color: #ffd800;
+}
+p.capitalized {
+  font-weight: bold;
+}
 
 /* == LINKS == */
 a {
-  color: white;
+  color: #95c1d5;
 }
 a:visited {
-  color: gray;
+  color: #7ba0b1;
 }
 
 /* == UL & LI == */
+li {
+  color: #c2c2c2;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -83,6 +108,18 @@ ul.small {
   font-size: large;
   color: #d8d8d8;
   width: 35em;
+}
+ul.condensed li {
+  margin-bottom: 0.2em;
+}
+
+.ul_container {
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+}
+.ul_container li {
+  margin-bottom: 1.5em;
 }
 
 #frontpage_container {
@@ -120,6 +157,25 @@ hr {
   width: 20em;
   margin-top: 1em;
   margin-bottom: 3em;
+}
+
+/* == BODY == */
+body {
+  background-color: #150629;
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+}
+
+/* == FOOTER == */
+#footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-size: initial;
 }
 
 /*# sourceMappingURL=style.css.map */
