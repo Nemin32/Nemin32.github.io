@@ -1,16 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto");
 @import url("https://fonts.googleapis.com/css?family=Merriweather");
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display");
-/*$bg-color: #171717;
-$header-color: #e0e0e0;
-$p-color: #d8d8d8;
-$a-color: white;
-$a-visited: grey;
-*/
 /* == HEADERS == */
 h1, h2, h3 {
   text-align: center;
-  color: #ffd800;
+  color: #c9aa00;
 }
 
 h1 {
@@ -78,7 +72,7 @@ p.title {
   width: unset;
   font-size: x-large;
   margin-bottom: 0.4em;
-  color: #ffd800;
+  color: #c9aa00;
 }
 p.capitalized {
   font-weight: bold;
@@ -123,7 +117,7 @@ ul.condensed li {
 }
 
 #frontpage_container {
-  margin-top: 3ch;
+  margin-top: 1em;
 }
 #frontpage_container div {
   margin-left: 16em;
