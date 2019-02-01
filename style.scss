@@ -2,21 +2,11 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display');
 
-/*$bg-color: #171717;
-$header-color: #e0e0e0;
-$p-color: #d8d8d8;
-$a-color: white;
-$a-visited: grey;
-*/
-
 $bg-color: #150629;
-$header-color: #ffd800;
+$header-color: #c9aa00;
 $p-color: #c2c2c2;
 $a-color: #95c1d5;
 $a-visited: #7ba0b1;
-
-//TODO?: Átszínezés
-
 
 /* == HEADERS == */
 
@@ -150,7 +140,7 @@ ul {
 }
 
 #frontpage_container {
-  margin-top: 3ch;
+  margin-top: 1em;
 
   div {
     margin-left: 16em;
