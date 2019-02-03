@@ -43,6 +43,10 @@ h3 {
   margin-bottom: 0.8em;
 }
 
+h3+h3 {
+  margin-bottom: 1.2em;
+}
+
 /* == P-s == */
 
 p {
