@@ -4,40 +4,33 @@
 /* == HEADERS == */
 h1, h2, h3 {
   text-align: center;
-  color: #c9aa00;
-}
+  color: #c9aa00; }
 
 h1 {
   margin-top: 0.4em;
   margin-bottom: 0.4em;
   font-size: 48px;
-  font-family: "Merriweather";
-}
-h1.ss {
-  font-family: "Playfair Display";
-  font-size: 72px;
-  margin-top: -0.4em;
-  margin-bottom: -0.1em;
-  font-style: italic;
-}
+  font-family: 'Merriweather'; }
+  h1.ss {
+    font-family: 'Playfair Display';
+    font-size: 72px;
+    margin-top: -0.4em;
+    margin-bottom: -0.1em;
+    font-style: italic; }
 
 h2 {
   margin-top: 1.5em;
-  margin-bottom: 1em;
-}
+  margin-bottom: 1em; }
 
 h1 + h3 {
-  margin-top: -0.6em;
-}
+  margin-top: -0.6em; }
 
 h3 {
   margin-top: 1em;
-  margin-bottom: 0.8em;
-}
+  margin-bottom: 0.8em; }
 
 h3 + h3 {
-  margin-bottom: 1.2em;
-}
+  margin-bottom: 1.2em; }
 
 /* == P-s == */
 p {
@@ -46,95 +39,76 @@ p {
   margin: auto;
   margin-bottom: 1em;
   font-size: larger;
-  font-family: "Roboto";
-}
-p.centered {
-  text-align: center;
-}
-p.subtitle {
-  text-align: center;
-  font-style: italic;
-  font-size: large;
-  color: darkgrey;
-  margin-top: -0.8em;
-  margin-bottom: 1.2em;
-}
-p.bookpage {
-  font-weight: bold;
-  margin-bottom: 0.3em;
-}
-p.quoted {
-  font-weight: bold;
-  font-style: italic;
-  font-family: "Playfair Display";
-}
-p.placeholder {
-  color: darkgrey;
-  font-size: large;
-  text-align: center;
-}
-p.title {
-  width: unset;
-  font-size: x-large;
-  margin-bottom: 0.4em;
-  color: #c9aa00;
-}
-p.capitalized {
-  font-weight: bold;
-}
+  font-family: 'Roboto'; }
+  p.centered {
+    text-align: center; }
+  p.subtitle {
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+    color: darkgrey;
+    margin-top: -0.8em;
+    margin-bottom: 1.2em; }
+  p.bookpage {
+    font-weight: bold;
+    margin-bottom: 0.3em; }
+  p.quoted {
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Playfair Display'; }
+  p.placeholder {
+    color: darkgrey;
+    font-size: large;
+    text-align: center; }
+  p.title {
+    width: unset;
+    font-size: x-large;
+    margin-bottom: 0.4em;
+    color: #c9aa00; }
+  p.capitalized {
+    font-weight: bold; }
 
 /* == LINKS == */
 a {
-  color: #95c1d5;
-}
-a:visited {
-  color: #7ba0b1;
-}
+  color: #95c1d5; }
+  a:visited {
+    color: #7ba0b1; }
 
 /* == UL & LI == */
 li {
-  color: #c2c2c2;
-}
+  color: #c2c2c2; }
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  font-size: large;
-}
-ul.small {
-  list-style-type: unset;
-  font-size: large;
-  color: #d8d8d8;
-  width: 35em;
-}
-ul.condensed li {
-  margin-bottom: 0.2em;
-}
+  font-size: large; }
+  ul.small {
+    list-style-type: unset;
+    font-size: large;
+    color: #d8d8d8;
+    width: 35em; }
+  ul.condensed li {
+    margin-bottom: 0.2em; }
 
 .ul_container {
   display: flex;
   justify-content: center;
-  margin-top: 1em;
-}
-.ul_container li {
-  margin-bottom: 1.5em;
-}
+  margin-top: 1em; }
+  .ul_container li {
+    margin-bottom: 1.5em; }
 
 #frontpage_container {
-  margin-top: 1em;
-}
-#frontpage_container div {
-  margin-left: 16em;
-  margin-bottom: 3em;
-}
-#frontpage_container li {
-  margin-bottom: 1.2em;
-  width: 25em;
-  display: inline-block;
-  vertical-align: top;
-  margin-right: 2em;
-}
+  margin-top: 1em; }
+  #frontpage_container div {
+    margin-left: 16em;
+    margin-bottom: 3em; }
+  #frontpage_container li {
+    margin-bottom: 1.2em;
+    width: 25em;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 2em; }
 
 /* == IMAGES == */
 img {
@@ -142,30 +116,25 @@ img {
   display: block;
   margin: auto;
   margin-top: 1.5em;
-  margin-bottom: 1.5em;
-}
-img.small {
-  width: 15em;
-}
-img.original {
-  width: unset;
-}
+  margin-bottom: 1.5em; }
+  img.small {
+    width: 15em; }
+  img.original {
+    width: unset; }
 
 /* == HR == */
 hr {
   width: 20em;
   margin-top: 1em;
-  margin-bottom: 3em;
-}
+  margin-bottom: 3em; }
 
 /* == BODY == */
 body {
-  background-color: #130629;
+  background-color: #162001;
   position: relative;
   margin: 0;
   padding-bottom: 6rem;
-  min-height: 100%;
-}
+  min-height: 100%; }
 
 /* == FOOTER == */
 #footer {
@@ -174,7 +143,9 @@ body {
   left: 0;
   width: 100%;
   text-align: center;
-  font-size: initial;
-}
+  font-size: initial; }
 
-/*# sourceMappingURL=style.css.map */
+#footer img {
+  margin-bottom: 0.5em;
+  margin-top: unset;
+  width: unset; }
