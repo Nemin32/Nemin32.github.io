@@ -10,12 +10,11 @@
 
 ** Sites
    - https://oddworldlibrary.net - Xavier's Wiki of Oddworld. It's a
-     very conservative source of lore as it only contains strictly
-     reviewed material from a select few members. Because of it, the
-     site is relatively small, but shouldn't be underestimated. Also
-     this domain contains other projects like TOGG which preserves
-     images and videos released about Oddworld and TOWWW which does
-     the same to websites.
+     well-monitored source of lore as only a select few members can
+     edit it. Because of this, the site is relatively small, but
+     should not be underestimated. Also this domain contains other
+     projects like [[http://oddworldlibrary.net/archives/togg/][TOGG]] and [[https://oddworldlibrary.net/archives/web/][OWWW]] which are the largest resources of
+     Oddworld images and archived Oddworld websites respectively.
 
    - https://oddworld.fandom.com - The public Oddworld Wiki. It had a
      long history of being plagued by misinformation and fanon
@@ -65,6 +64,11 @@
    - [[https://magogonthemarch.com/abes-exoddus-inhabitants/][Abe's Exoddus - Inhabitants]] - While the page concerns itself
      mostly with the characters appearing in Exoddus, it provides
      enough info about them to earn a place on this list.
+
+   - Developer diaries:
+     * [[https://oddworldlibrary.net/wiki/Abe%27s_Exoddus_Designer_Diaries_on_Videogames.com][Abe's Exoddus - Videogames.net]]
+     * [[https://oddworldlibrary.net/wiki/Munch%27s_Oddysee_Designer_Diaries_on_Videogames.com][Munch's Oddysee - Videogames.net]]
+     * [[https://oddworldlibrary.net/wiki/Munch%27s_Oddysee_Designer_Diaries_on_PlayNOW!/][Munch's Oddysee - PlayNOW!]]
 
    - The Art of Oddworld Inhabitants: The First Ten Years - This book
      is a treasure trove, sadly quite literally. Because it was
