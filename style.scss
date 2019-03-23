@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display');
 
-$bg-color: #130629;
+$bg-color: #162001;
 $header-color: #c9aa00;
 $p-color: #c2c2c2;
 $a-color: #95c1d5;
@@ -206,4 +206,10 @@ body {
   width: 100%;
   text-align: center;
   font-size: initial;
+}
+
+#footer img {
+    margin-bottom: 0.5em;
+    margin-top: unset;
+    width: unset;
 }
