@@ -1,50 +1,45 @@
-* So you want to learn about the Oddworld canon?
+* So you want to learn about Oddworld?
 
-  An unsuspecting fan might expect that Oddworld ends where the game
-  ends, which is already quite a lot of info, yet in reality there is
-  so much more behind the scenes.
-
-  On this page I'd like to collect all the places where you can find
-  interviews, developer diaries and also sites covering the less known
-  parts of Oddworld:
+  Welcome! Whether you are new to the series or a returning fan, this
+  page intends to help you find more information about Oddworld
+  released and unreleased canon.
 
 ** Sites
-   These sites contain most of the materials related to
-   Oddworld. Because each handles a different kinds of data, using all
-   of them is recommended:
+   These sites contain content related to Oddworld.  Because each
+   handles a different kinds of materials, using all of them is
+   recommended:
 
    - [[https://oddworldlibrary.net][TOL]] :: Xavier's Wiki of Oddworld. It's a well-monitored source of
-	lore as only a select few members can edit it. Because of this,
-	the site is relatively small, but should not be underestimated.
-	Also this domain contains other projects like [[http://oddworldlibrary.net/archives/togg/][TOGG]] and [[https://oddworldlibrary.net/archives/web/][OWWW]] which
-	are the largest resources of Oddworld images and archived
-	Oddworld websites respectively.
+        lore that only a select few members can edit. Because of this,
+        the site is relatively small, but should not be
+        underestimated. Also this domain contains other projects like
+        [[http://oddworldlibrary.net/archives/togg/][TOGG]] and [[https://oddworldlibrary.net/archives/web/][OWWW]] which are the largest resources of Oddworld
+        images and archived Oddworld websites respectively.
 
    - [[https://oddworld.fandom.com][The Wikia]] :: The public Oddworld Wiki. It had a long history of
-	being plagued by misinformation and fanon considered canon,
-	however, in the recent years it has been taken over by a
-	competent staff that almost completely renovated the site, making
-	it a useful resource.
+        being plagued by misinformation and fanon presented as canon,
+        however, in the recent years it has been taken over by a
+        competent staff that almost completely renovated the site,
+        making it a useful and valid resource.
 
-   - [[https://magogonthemarch.com][Magog on the March]] :: This site is less concerned with documenting
-	things, it's real strength is archiving all kinds of obscure
-	information that I have no idea how they can even find. The
-	site's design might be a tad bit confusing at first, but believe
-	me, if something ever mentioned Oddworld, you can almost be sure
-	that M.o.M. has or will have it archived. Also time by time they
-	release videos and essays about Oddworld's lore in a very
-	beginner-friendly format.
+   - [[https://magogonthemarch.com][Magog on the March]] :: Unlike the previous two wikies this site is
+        less concerned with documenting things, but rather it's real
+        strength is archiving all kinds of obscure information that I
+        have no idea how they can even find. The site's design might
+        be a tad bit confusing at first, but believe me, if something
+        ever mentioned Oddworld, you can almost be sure that
+        M.o.M. has or will have it archived. Also time by time they
+        release videos and essays about Oddworld's lore in a very
+        beginner-friendly format.
 
    - [[https://oddworldforums.net][OWF]] :: While the forum has since fallen from grace a bit, the
-	thread archivescontain valuable information from several (ex-)OWI
-	members. Admittedly OWF is probably the hardest place to find
-	info on, but it is there and with some spelunking one might just
-	hit gold.
+        thread archivescontain valuable information from several
+        (ex-)OWI members. Admittedly OWF is probably the hardest place
+        to find info on, but it is there and with some spelunking one
+        might just hit gold.
 
-   - [[https://oddwords.hu][Oddwords]] :: My goal is to theorize and make the lore a bit more
-	easily understandable to the common fan. Compared to the sites
-	mentioned previously I don't have either the amount of material
-	or the fame, but this doesn't stop me from trying.
+   - [[https://oddwords.hu][Oddwords]] :: My goal is to both theorize and make the lore a bit
+        more easily understandable to the common fan.
 
 ** Recommended reading material
    This is obviously a subjective list, however, I believe every fan
@@ -85,9 +80,9 @@
      * [[https://oddworldlibrary.net/wiki/Munch%27s_Oddysee_Designer_Diaries_on_PlayNOW!/][Munch's Oddysee - PlayNOW!]]
    
    - [[https://magogonthemarch.com/qa/reddit-ama-2012/][Reddit AMA 2012]] :: A free-form Q&A where Stewart Gilray and Lorne
-	Lanning answered some of the fans' questions, about their
-	personal life, the games, what their future projects were and
-	other topics.
+        Lanning answered some of the fans' questions, about their
+        personal life, the games, what their future projects were and
+        other topics.
 
    - The Art of Oddworld Inhabitants: The First Ten Years :: This book
         is a treasure trove, sadly quite literally. Because it was
@@ -96,11 +91,11 @@
         books. Sadly for some reason the book was never reprinted, nor
         released as an e-book.
 
-	However, a certain Russian fellow named слиг (that's "slig"
-        written using the Cyrillic-alphabet) scanned in the book and
-        published it on a few sites. While I can't share the links
-        here for obvious reasons, I suggest looking around on the
-        Internet Archive.
+	However, a certain Russian fellow going by the name слиг
+        (that's "slig" written using the Cyrillic-alphabet) scanned in
+        the book and published it on a few sites. While I can't share
+        the links here for obvious reasons, I suggest looking around
+        on the Internet Archive.
 
 ** Where to talk with others about the canon?
    Of course none of this mean much if you don't have anyone else to
