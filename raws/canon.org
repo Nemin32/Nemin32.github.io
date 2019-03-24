@@ -9,17 +9,18 @@
   parts of Oddworld:
 
 ** Sites
-   - [[https://oddworldlibrary.net][TOL]] :: Xavier's Wiki of Oddworld. It's a well-monitored source of
+   - [[https://oddworldlibrary.net][TOL]] :: 
+        Xavier's Wiki of Oddworld. It's a well-monitored source of
 	lore as only a select few members can edit it. Because of this,
 	the site is relatively small, but should not be underestimated.
 	Also this domain contains other projects like [[http://oddworldlibrary.net/archives/togg/][TOGG]] and [[https://oddworldlibrary.net/archives/web/][OWWW]] which
 	are the largest resources of Oddworld images and archived
 	Oddworld websites respectively.
 
-   - [[https://oddworld.fandom.com][The Wikia]] :: The public Oddworld Wiki. It had a long history of
-	being plagued by misinformation and fanon considered canon,
-	however, in the recent years it has been taken over by a
-	competent staff that almost completely renovated the site, making
+   - [[https://oddworld.fandom.com][The Wikia]] :: The public Oddworld Wiki. It had a long history of\\
+	being plagued by misinformation and fanon considered canon,\\
+	however, in the recent years it has been taken over by a\\
+	competent staff that almost completely renovated the site, making\\
 	it a useful resource.
 
    - [[https://magogonthemarch.com][Magog on the March]] :: This site is less concerned with documenting
@@ -81,9 +82,9 @@
      * [[https://oddworldlibrary.net/wiki/Munch%27s_Oddysee_Designer_Diaries_on_PlayNOW!/][Munch's Oddysee - PlayNOW!]]
    
    - [[https://magogonthemarch.com/qa/reddit-ama-2012/][Reddit AMA 2012]] :: A free-form Q&A where Stewart Gilray and Lorne
-     Lanning answered some of the fans' questions, about their
-     personal life, the games, what their future projects were and
-     other topics.
+	Lanning answered some of the fans' questions, about their
+	personal life, the games, what their future projects were and
+	other topics.
 
    - The Art of Oddworld Inhabitants: The First Ten Years :: This book
         is a treasure trove, sadly quite literally. Because it was
@@ -92,7 +93,7 @@
         books. Sadly for some reason the book was never reprinted, nor
         released as an e-book.
 
-     However, a certain Russian fellow named слиг (that's "slig"
+	However, a certain Russian fellow named слиг (that's "slig"
         written using the Cyrillic-alphabet) scanned in the book and
         published it on a few sites. While I can't share the links
         here for obvious reasons, I suggest looking around on the
@@ -104,16 +105,17 @@
    about the canon or anything else Oddworld related:
 
    - [[https://discord.gg/oddworld][Official Oddworld]] :: OWI's own Discord. Currently this community
-	has the largest active fanbase and you can even chat with the
-	developers here.
+        has the largest active fanbase and you can even chat with the
+        developers here.
 
    - [[http://discord.gg/JGeyUMn][OWF's Discord]] :: The second largest Discord, started by a few OWF
-	community members. The server has less rules and is because of
-	this a lot more laid-back.
+        community members. The server has less rules and is because of
+        this a lot more laid-back.
 
    - [[https://reddit.com/r/Oddworld][The Oddworld Reddit]] :: A relatively small Reddit community based
-	around the game. While it isn't particularly active, it does have
-	a very loyal core that comment under basically any kind of post.
+        around the game. While it isn't particularly active, it does
+        have a very loyal core that comment under basically any kind
+        of post.
 
    - [[https://oddworldforums.net][OWF]] :: Of course OWF is not only a lore source, but also a place
         where you can talk about the games. While the population of
