@@ -9,18 +9,21 @@
   parts of Oddworld:
 
 ** Sites
-   - [[https://oddworldlibrary.net][TOL]] :: 
-        Xavier's Wiki of Oddworld. It's a well-monitored source of
+   These sites contain most of the materials related to
+   Oddworld. Because each handles a different kinds of data, using all
+   of them is recommended:
+
+   - [[https://oddworldlibrary.net][TOL]] :: Xavier's Wiki of Oddworld. It's a well-monitored source of
 	lore as only a select few members can edit it. Because of this,
 	the site is relatively small, but should not be underestimated.
 	Also this domain contains other projects like [[http://oddworldlibrary.net/archives/togg/][TOGG]] and [[https://oddworldlibrary.net/archives/web/][OWWW]] which
 	are the largest resources of Oddworld images and archived
 	Oddworld websites respectively.
 
-   - [[https://oddworld.fandom.com][The Wikia]] :: The public Oddworld Wiki. It had a long history of\\
-	being plagued by misinformation and fanon considered canon,\\
-	however, in the recent years it has been taken over by a\\
-	competent staff that almost completely renovated the site, making\\
+   - [[https://oddworld.fandom.com][The Wikia]] :: The public Oddworld Wiki. It had a long history of
+	being plagued by misinformation and fanon considered canon,
+	however, in the recent years it has been taken over by a
+	competent staff that almost completely renovated the site, making
 	it a useful resource.
 
    - [[https://magogonthemarch.com][Magog on the March]] :: This site is less concerned with documenting
