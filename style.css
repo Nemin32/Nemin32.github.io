@@ -70,7 +70,8 @@ p {
 
 /* == LINKS == */
 a {
-  color: #95c1d5; }
+  color: #95c1d5;
+  font-weight: bold; }
   a:visited {
     color: #7ba0b1; }
 
