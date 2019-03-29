@@ -56,7 +56,6 @@ p {
   margin: auto;
   margin-bottom: 1em;
   font-size: larger;
-  font-family: 'Roboto';
 
   &.centered {
     text-align: center;
@@ -196,6 +195,7 @@ body {
   margin: 0;
   padding-bottom: 6rem;
   min-height: 100%;
+  font-family: 'Roboto';
 }
 
 /* == FOOTER == */
