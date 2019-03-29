@@ -38,8 +38,7 @@ p {
   color: #c2c2c2;
   margin: auto;
   margin-bottom: 1em;
-  font-size: larger;
-  font-family: 'Roboto'; }
+  font-size: larger; }
   p.centered {
     text-align: center; }
   p.subtitle {
@@ -135,7 +134,8 @@ body {
   position: relative;
   margin: 0;
   padding-bottom: 6rem;
-  min-height: 100%; }
+  min-height: 100%;
+  font-family: 'Roboto'; }
 
 /* == FOOTER == */
 #footer {
