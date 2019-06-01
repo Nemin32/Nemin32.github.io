@@ -43,7 +43,7 @@ window.onload = () => {
     tag.addEventListener("change", () => {
       while (root.firstChild) {root.removeChild(root.firstChild)}
       json["data"].forEach(data => {
-        if ((tag.value != "notag" && data.tags.indexOf(tag.value) != -1) || (tag.value == "notag" && data.tags.length == 0)) {
+        if ((tag.value == "all") || (tag.value != "notag" && data.tags.indexOf(tag.value) != -1) || (tag.value == "notag" && data.tags.length == 0)) {
           let elem = document.createElement("div")
           elem.innerHTML = create_div_content(data, data.tags.length==0)
           root.appendChild(elem)
