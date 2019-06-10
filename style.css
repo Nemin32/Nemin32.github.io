@@ -127,6 +127,9 @@ hr {
   width: 20em;
   margin-top: 1em;
   margin-bottom: 3em; }
+  hr.gap {
+    margin-top: 4em;
+    margin-bottom: 4em; }
 
 /* == BODY == */
 body {
@@ -135,7 +138,8 @@ body {
   margin: 0;
   padding-bottom: 6rem;
   min-height: 100%;
-  font-family: 'Roboto'; }
+  font-family: 'Roboto';
+  color: #c2c2c2; }
 
 /* == FOOTER == */
 #footer {

@@ -1,0 +1,157 @@
+Can you by any chance tell us what that weird red vending machine sells with the flame on it?
+
+the red vendo is the fire extinguisher vendo
+
+---
+
+As I've seen your followers' deeds are on your soul too, right? Because quarma seemed to go down when the Muds killed, not when Abe shot
+
+your quarma goes down when muds are killed, yes. especially so if they're following you.
+
+Oh that's not what I meant. I mean when Mudokons kill Sligs
+
+oh
+er, yes.
+and if you kill /as/ a slig, then - well - it's REALLY not good for your quarma
+
+---
+
+Can you tell us whether Dripik being the checkpoint sign is just a placeholder or not? This is very important.
+
+it's placeholder, afaik.
+it's the same mesh as from nnt, so almost certainly to be replaced.
+
+---
+
+Anyway, so quarma. Is it a level-by-level thing?
+I mean, will you start with a "neutral" amount every level and then at the end it gets added to your total?
+Or do you always carry the total with you?
+Because I think the former might be more impactful.
+
+your overall "whole game" quarma will be something you need to watch, for sure. but i think we want to keep it fairly dynamic level-to-level too. in short, i actually don't quite know.
+the system's nice and flexible though, so as the game evolves in this regard it'll be subject to lots of playtesting and feedback, like everything else.
+it  might even be something like a level is designated with your quarma state, and the overall system just tallies up those binary states.
+but i don't know. that's a higher level call just now.
+
+---
+
+Crashpunk: So if you can make mistakes in one level, it shouldn't effect your overall quarma?
+
+it will, but i'm not sure as to the degree.
+and you can always replay a level, right? we're actively encouraging that.
+
+Yeah for sure. And I'm sure mass murder wouldn't be a slap on the wrist either
+
+some quarmic actions are easier to reverse than others. it's a sliding scale.
+
+---
+
+Will you be able to return after you've finished it?
+Or that if you're already in the level, you can restart it?
+
+some quarmic actions are easier to reverse than others. it's a sliding scale.
+you'll be able to replay a level.
+and restart.
+there's a lot we're tracking in each level that we've not talked about yet. lots of reasons to retry.
+
+And when you go back and replay it, will your previous playthrough affect the level or it's blank slate?
+
+i assume it's a blank slate. it's a full 'replay from scratch'.
+but it won't be like NnT's chapter replay. it'll be per level/area.
+
+Will your abilities be affected by your quarma?
+For example, do evil -> your destructive abilities increase in power
+
+let's just say there are reasons for wanting to go down certain quarmic paths.
+you'll notice the 'chant' icon on the HUD.
+probably can't say any more, but you can maybe infer that L2/LT/whatever isn't always chant.
+
+---
+
+Crashpunk: I have noticed the other Mudokons chanting alongside Abe.
+
+yeah so the more followers you have, the greater immediate ch'i you have. this enhances a few things, but notably your recharge speed and the possession orb time.
+
+---
+
+About those Slig posts, what's the number on them?
+How many of them are stationed there?
+
+yes
+
+So if there's only a low alarm only for example one comes out, but if it's a high one, it spews everyone out?
+
+bingo
+so, again, the more peaceful you play, the less attention you bring to yourself in these situations.
+sneak in and out, and you'll have an easier time.
+start pulling mudokons off their workstations, the realtime work output slows, sligs will investigate, they'll notice stuff going on, call other sligs... chaos.
+so as a player - what do you go for? secret infiltration and a low number of rescues, or risk the whole workforce in a pitched battle?
+
+---
+
+Ah yeah I'd like to ask about that one too. Those workplace performance monitors are surprisingly colored. I mean middle is green that's okay. But why's the other end red?
+Shouldn't that be peak performance?
+
+orange is over performing. it's ok, because the stuff is still getting done but the muds won't be happy. red is under.
+it helps, perhaps, to consider that they're indicators for the sligs, not the muds
+
+---
+
+Ojogobo: Not sure how much you can speak o  this, but are there zones that require you to save certain muds like in AO or AE?
+Hypothetically, are a lot of these areas completable without saving a single mud?
+
+yes, although your quarma will suffer. in Comet Depot though there are gated sections that need a certain number of muds to 'clock in and out' to open the doors.
+for E3, these gates are removed.
+
+---
+
+Ojogobo: We're the health values also tweaked for the demos?
+
+yes
+it's basically SUPER EASY mode
+everything is on super easy. slig gunfire damage, inventory, everything.
+
+---
+
+Matthews: Will the game be easy compared to NNT (which had some tough parts)?
+
+i think the goal is to be fairly adaptive. i would like easy to be easier, and hard to be harder, if that makes sense.
+but the game is hugely open-ended with the player approach system.
+so you can make things a lot harder for yourself by (for example) setting a section on fire first...
+or you can balance a tricky area by looting for stuff to recycle to get moolah to buy some knock-out rock candy, and go Sam Fisher on the sligs, knocking them out peacefully
+
+---
+
+Ojogobo: Would you say this game has a similar amount of natural environments to Abe's exoddus?
+
+so yeah, it starts out with more external locations, before getting more internal and industrial towards the end.
+
+---
+
+"Kill a bad guy to save yourself, and you lose some quarma, but cruelly kill a helpless and bound enemy, and the hit to your quarma is much bigger."
+There's also this quote. How's self-defense checked?
+If the enemy's shooting at you?
+
+currently the quarma system doesn't track who attacked first, no.
+it could, but it currently doesn't.
+let's take this scenario:
+1. abe faces up against a slig
+2. abe knocks out the slig with a jaw breaker. tries to make his escape. pacifist, so a small amount of positive quarma.
+3. comes back around against the slig for some reason. slig is pissed. slig fires on abe.
+4. abe takes damage, escapes, hits slig with an amped-up crafted can of soda with (spoilers) nails in it. slig takes damage. negative quarma.
+5. abe then binds the slig up. small amount of positive.
+6. abe then throws another nail/soda crafted combo. slig dies. shit loads of negative quarma...
+
+---
+
+Ojogobo: Are bigface and the shaman the same mud?
+
+bigface isn't the shaman, no.
+
+---
+
+Xavier: Can Abe heal Sligs to regain quarma?
+
+no comment
+
+
