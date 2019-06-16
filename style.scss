@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400&display=swap');
 
 $bg-color: #162001;
 $header-color: #c9aa00;
@@ -22,7 +21,6 @@ h1 {
   font-family: 'Merriweather';
 
   &.ss {
-    font-family: 'Playfair Display';
     font-size: 72px;
     margin-top: -0.4em;
     margin-bottom: -0.1em;
@@ -51,11 +49,13 @@ h3+h3 {
 /* == P-s == */
 
 p {
-  width: 30em;
+  width: 35em;
   color: $p-color;
   margin: auto;
   margin-bottom: 1em;
-  font-size: larger;
+  font-size: 20px;
+  font-weight: lighter;
+  line-height: 1.3em;
 
   &.centered {
     text-align: center;
@@ -73,12 +73,12 @@ p {
   &.bookpage {
     font-weight: bold;
     margin-bottom: 0.3em;
+    text-indent: 1.8em;
   }
 
   &.quoted {
-    font-weight: bold;
     font-style: italic;
-    font-family: 'Playfair Display';
+    font-size: 18px;
   }
 
   &.placeholder {
@@ -114,6 +114,7 @@ a {
 
 li {
   color: $p-color;
+  font-weight: lighter;
 }
 
 ul {
@@ -199,7 +200,7 @@ body {
   margin: 0;
   padding-bottom: 6rem;
   min-height: 100%;
-  font-family: 'Roboto';
+  font-family: 'Open Sans';
   color: $p-color;
 }
 
