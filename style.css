@@ -1,6 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto");
 @import url("https://fonts.googleapis.com/css?family=Merriweather");
-@import url("https://fonts.googleapis.com/css?family=Playfair+Display");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400&display=swap");
 /* == HEADERS == */
 h1, h2, h3 {
   text-align: center;
@@ -12,7 +11,6 @@ h1 {
   font-size: 48px;
   font-family: 'Merriweather'; }
   h1.ss {
-    font-family: 'Playfair Display';
     font-size: 72px;
     margin-top: -0.4em;
     margin-bottom: -0.1em;
@@ -34,11 +32,13 @@ h3 + h3 {
 
 /* == P-s == */
 p {
-  width: 30em;
+  width: 35em;
   color: #c2c2c2;
   margin: auto;
   margin-bottom: 1em;
-  font-size: larger; }
+  font-size: 20px;
+  font-weight: lighter;
+  line-height: 1.3em; }
   p.centered {
     text-align: center; }
   p.subtitle {
@@ -50,11 +50,11 @@ p {
     margin-bottom: 1.2em; }
   p.bookpage {
     font-weight: bold;
-    margin-bottom: 0.3em; }
+    margin-bottom: 0.3em;
+    text-indent: 1.8em; }
   p.quoted {
-    font-weight: bold;
     font-style: italic;
-    font-family: 'Playfair Display'; }
+    font-size: 18px; }
   p.placeholder {
     color: darkgrey;
     font-size: large;
@@ -76,7 +76,8 @@ a {
 
 /* == UL & LI == */
 li {
-  color: #c2c2c2; }
+  color: #c2c2c2;
+  font-weight: lighter; }
 
 ul {
   list-style-type: none;
@@ -138,7 +139,7 @@ body {
   margin: 0;
   padding-bottom: 6rem;
   min-height: 100%;
-  font-family: 'Roboto';
+  font-family: 'Open Sans';
   color: #c2c2c2; }
 
 /* == FOOTER == */
