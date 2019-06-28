@@ -63,7 +63,7 @@ p {
   p.title {
     width: unset;
     font-size: x-large;
-    margin-bottom: 0.4em;
+    margin-bottom: 0.1em;
     color: #c9aa00; }
   p.capitalized {
     font-weight: bold; }
@@ -101,16 +101,10 @@ ul {
     margin-bottom: 1.5em; }
 
 #frontpage_container {
-  margin-top: 1em; }
+  margin-top: -1em; }
   #frontpage_container div {
     margin-left: 16em;
-    margin-bottom: 3em; }
-  #frontpage_container li {
-    margin-bottom: 1.2em;
-    width: 25em;
-    display: inline-block;
-    vertical-align: top;
-    margin-right: 2em; }
+    margin-bottom: 1.75em; }
 
 /* == IMAGES == */
 img {
