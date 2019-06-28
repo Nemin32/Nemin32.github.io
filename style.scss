@@ -3,7 +3,7 @@
 
 $bg-color: #162001;
 $header-color: #c9aa00;
-$p-color: #c2c2c2;
+$p-color: #b2c362;
 $a-color: #95c1d5;
 $a-visited: #7ba0b1;
 
@@ -68,6 +68,7 @@ p {
     color: darkgrey;
     margin-top: -0.8em;
     margin-bottom: 1.2em;
+    width: 30em;
   }
 
   &.bookpage {
@@ -103,7 +104,7 @@ p {
 
 a {
   color: $a-color;
-  font-weight: bold;
+  font-weight: normal;
 
   &:visited {
     color: $a-visited;
@@ -165,14 +166,14 @@ ul {
 /* == IMAGES == */
 
 img {
-  width: 35em;
+  width: 30em;
   display: block;
   margin: auto;
   margin-top: 1.5em;
   margin-bottom: 1.5em;
 
   &.small {
-    width: 15em;
+    width: 25em;
   }
 
   &.original {

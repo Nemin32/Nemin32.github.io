@@ -33,7 +33,7 @@ h3 + h3 {
 /* == P-s == */
 p {
   width: 35em;
-  color: #c2c2c2;
+  color: #b2c362;
   margin: auto;
   margin-bottom: 1em;
   font-size: 20px;
@@ -47,7 +47,8 @@ p {
     font-size: large;
     color: darkgrey;
     margin-top: -0.8em;
-    margin-bottom: 1.2em; }
+    margin-bottom: 1.2em;
+    width: 30em; }
   p.bookpage {
     font-weight: bold;
     margin-bottom: 0.3em;
@@ -70,13 +71,13 @@ p {
 /* == LINKS == */
 a {
   color: #95c1d5;
-  font-weight: bold; }
+  font-weight: normal; }
   a:visited {
     color: #7ba0b1; }
 
 /* == UL & LI == */
 li {
-  color: #c2c2c2;
+  color: #b2c362;
   font-weight: lighter; }
 
 ul {
@@ -113,13 +114,13 @@ ul {
 
 /* == IMAGES == */
 img {
-  width: 35em;
+  width: 30em;
   display: block;
   margin: auto;
   margin-top: 1.5em;
   margin-bottom: 1.5em; }
   img.small {
-    width: 15em; }
+    width: 25em; }
   img.original {
     width: unset; }
 
@@ -140,7 +141,7 @@ body {
   padding-bottom: 6rem;
   min-height: 100%;
   font-family: 'Open Sans';
-  color: #c2c2c2; }
+  color: #b2c362; }
 
 /* == FOOTER == */
 #footer {
