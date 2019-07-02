@@ -118,6 +118,17 @@ img {
   img.original {
     width: unset; }
 
+.compare_div {
+  display: flex;
+  justify-content: center;
+  margin-top: 4em;
+  margin-bottom: 0.5em; }
+  .compare_div img {
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    margin: 10px 10px; }
+
 /* == HR == */
 hr {
   width: 20em;
