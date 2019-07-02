@@ -124,8 +124,7 @@ img {
   margin-top: 4em;
   margin-bottom: 0.5em; }
   .compare_div img {
-    width: 400px;
-    height: 400px;
+    max-height: 400px;
     display: inline-block;
     margin: 10px 10px; }
 
