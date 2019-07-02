@@ -178,10 +178,11 @@ img {
   justify-content: center;
   margin-top: 4em;
   margin-bottom: 0.5em;
+  align-items: flex-start;
 
   img {
+    width: unset;
     max-height: 400px;
-    display: inline-block;
     margin: 10px 10px;
   }
 }
