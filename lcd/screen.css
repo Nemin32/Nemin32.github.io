@@ -16,3 +16,7 @@ p.lcd {
 p.lcd.red {
   color: darkred;
 }
+
+p.lcd.new {
+  border-color: #333;
+}
