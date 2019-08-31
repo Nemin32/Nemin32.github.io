@@ -3,7 +3,7 @@
 
 $bg-color: #162001;
 $header-color: #c9aa00;
-$p-color: #b2c362;
+$p-color: #d0e475;
 $a-color: #95c1d5;
 $a-visited: #7ba0b1;
 
@@ -147,12 +147,31 @@ ul {
 }
 
 #frontpage_container {
-  margin-top: -1em;
+  margin-top: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 
   div {
-    margin-left: 20%;
     margin-bottom: 1.75em;
+    width: 40%;
   }
+
+  li {
+    font-family: "DejaVu Sans Mono", "monospace";
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    font-size: 22px;
+    margin-bottom: 1em;
+  }
+
+  .date {
+    width: 20% !important;
+    margin-bottom: 0;
+  }
+
+  .content, .link {width: 80%; margin: unset;}
 }
 
 /* == IMAGES == */
