@@ -17,7 +17,7 @@ h1, h2, h3 {
 h1 {
   margin-top: 0.4em;
   margin-bottom: 0.4em;
-  font-size: 48px;
+  font-size: 36px;
   font-family: 'Merriweather';
 
   &.ss {
@@ -53,8 +53,7 @@ p {
   color: $p-color;
   margin: auto;
   margin-bottom: 1em;
-  font-size: 20px;
-  font-weight: lighter;
+  font-size: 22px;
   line-height: 1.3em;
 
   &.centered {
@@ -69,6 +68,7 @@ p {
     margin-top: -0.8em;
     margin-bottom: 1.2em;
     width: 30em;
+    font-family: 'Open Sans';
   }
 
   &.bookpage {
@@ -207,7 +207,7 @@ body {
   margin: 0;
   padding-bottom: 6rem;
   min-height: 100%;
-  font-family: 'Open Sans';
+  font-family: 'Merriweather';
   color: $p-color;
 }
 
