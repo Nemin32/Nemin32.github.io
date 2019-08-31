@@ -3,7 +3,7 @@
 
 $bg-color: #162001;
 $header-color: #c9aa00;
-$p-color: #d0e475;
+$p-color: #94a837;
 $a-color: #95c1d5;
 $a-visited: #7ba0b1;
 
@@ -49,7 +49,6 @@ h3+h3 {
 /* == P-s == */
 
 p {
-  width: 35em;
   color: $p-color;
   margin: auto;
   margin-bottom: 1em;
@@ -67,19 +66,18 @@ p {
     color: darkgrey;
     margin-top: -0.8em;
     margin-bottom: 1.2em;
-    width: 30em;
     font-family: 'Open Sans';
   }
 
   &.bookpage {
     font-weight: bold;
     margin-bottom: 0.3em;
-    text-indent: 1.8em;
   }
 
   &.quoted {
     font-style: italic;
-    font-size: 18px;
+    font-family: 'Open Sans';
+    font-size: 20px;
   }
 
   &.placeholder {
@@ -89,7 +87,6 @@ p {
   }
 
   &.title {
-    width: unset;
     font-size: x-large;
     margin-bottom: 0.1em;
     color: $header-color;
@@ -115,7 +112,7 @@ a {
 
 li {
   color: $p-color;
-  font-weight: lighter;
+  font-size: 22px;
 }
 
 ul {
@@ -128,7 +125,7 @@ ul {
     list-style-type: unset;
     font-size: large;
     color: #d8d8d8;
-    width: 30em;
+    width: 80%;
   }
 
   &.condensed {
@@ -146,6 +143,8 @@ ul {
   }
 }
 
+$dwidth: 18%;
+
 #frontpage_container {
   margin-top: 1em;
   display: flex;
@@ -154,11 +153,9 @@ ul {
 
   div {
     margin-bottom: 1.75em;
-    width: 40%;
   }
 
   li {
-    font-family: "DejaVu Sans Mono", "monospace";
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end;
@@ -167,24 +164,30 @@ ul {
   }
 
   .date {
-    width: 20% !important;
+    width: $dwidth !important;
     margin-bottom: 0;
+    font-family: "DejaVu Sans Mono", "monospace";
+    font-size: 18px;
   }
 
-  .content, .link {width: 80%; margin: unset;}
+  .content, .link {
+    width: 100%-$dwidth;
+    margin: unset;
+    font-family: 'Open Sans';
+  }
 }
 
 /* == IMAGES == */
 
 img {
-  width: 30em;
+  width: 80%;
   display: block;
   margin: auto;
   margin-top: 1.5em;
   margin-bottom: 1.5em;
 
   &.small {
-    width: 25em;
+    width: 40%;
   }
 
   &.original {
@@ -223,7 +226,8 @@ hr {
 body {
   background-color: $bg-color;
   position: relative;
-  margin: 0;
+  margin: 0 auto;
+  max-width: 40%;
   padding-bottom: 6rem;
   min-height: 100%;
   font-family: 'Merriweather';
