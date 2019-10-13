@@ -53,7 +53,7 @@ p {
   margin: auto;
   margin-bottom: 1em;
   font-size: 22px;
-  line-height: 1.3em;
+  line-height: 1.45em;
 
   &.centered {
     text-align: center;
@@ -95,6 +95,12 @@ p {
   &.capitalized {
     font-weight: bold;
   }
+}
+
+span[title] {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  cursor: help;
 }
 
 /* == LINKS == */
