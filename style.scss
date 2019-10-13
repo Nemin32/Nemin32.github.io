@@ -266,6 +266,10 @@ body {
   h2 {
     font-size: 16px !important;
   }
+
+  img.original, iframe {
+    max-width: 100% !important;
+  }
   
   body {
     max-width: 80% !important;
