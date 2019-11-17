@@ -4,9 +4,9 @@
   background-color: #444400;
   display: grid;
 
-  grid-template-columns: 15% 85%;
+  grid-template-columns: 20% 80%;
 
-  height: 140px;
+  min-height: 50px;
 
   margin-bottom: 20px;
   border: 3px solid black;
@@ -23,18 +23,41 @@ p.date
   flex-direction: column;
 }
 
+.inner_event:not(:last-child)
+{
+  border-bottom: 2px solid black;
+}
+
 .event
 {
-  border: 1px solid black;
   display: flex;
 
   justify-content: center;
   align-items: center;
 
   width: 100%;
-  height: 100%;
+  height: 50px;
   margin-bottom: 0;
   margin-top: 0;
+}
+
+.inner_event
+{
+  display: flex;
+}
+
+.day
+{
+  display: flex;
+
+  justify-content: right;
+  align-items: center;
+
+  height: 50px;
+  width: 5%;
+  margin-bottom: 0;
+  padding-left: 10px;
+  border-left: 2px solid black;
 }
 
 .event-soulstorm
