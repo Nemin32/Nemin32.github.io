@@ -1,232 +1,232 @@
 <h1>2016</h1>
 <div class='month'>
-<p class='date'>1. 2016.</p>
+<p class='date'>January</p>
 </div>
 <div class='month'>
-<p class='date'>2. 2016.</p>
+<p class='date'>February</p>
 </div>
 <div class='month'>
-<p class='date'>3. 2016.</p>
+<p class='date'>March</p>
 <div class='events'>
-<p class="event event-soulstorm" title="14. / 3. / 2016.">Soulstorm is announced at GDC</p>
-<p class="event event-arg" title="16. / 3. / 2016.">ARG launches (First phase)</p>
+<div class="inner_event"><p class="day event-soulstorm">14.</p><p class="event event-soulstorm" title="14. / 3. / 2016.">Soulstorm is announced at GDC</p></div>
+<div class="inner_event"><p class="day event-arg">16.</p><p class="event event-arg" title="16. / 3. / 2016.">ARG launches (First phase)</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>4. 2016.</p>
+<p class='date'>April</p>
 <div class='events'>
-<p class="event event-arg" title="4. / 4. / 2016.">Second phase of the ARG starts</p>
+<div class="inner_event"><p class="day event-arg">4.</p><p class="event event-arg" title="4. / 4. / 2016.">Second phase of the ARG starts</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>5. 2016.</p>
+<p class='date'>May</p>
 <div class='events'>
-<p class="event event-arg" title="29. / 5. / 2016.">Third phase of the ARG starts</p>
+<div class="inner_event"><p class="day event-arg">29.</p><p class="event event-arg" title="29. / 5. / 2016.">Third phase of the ARG starts</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>6. 2016.</p>
+<p class='date'>June</p>
 </div>
 <div class='month'>
-<p class='date'>7. 2016.</p>
+<p class='date'>July</p>
 </div>
 <div class='month'>
-<p class='date'>8. 2016.</p>
+<p class='date'>August</p>
 </div>
 <div class='month'>
-<p class='date'>9. 2016.</p>
+<p class='date'>September</p>
 </div>
 <div class='month'>
-<p class='date'>10. 2016.</p>
+<p class='date'>October</p>
 </div>
 <div class='month'>
-<p class='date'>11. 2016.</p>
+<p class='date'>November</p>
 </div>
 <div class='month'>
-<p class='date'>12. 2016.</p>
+<p class='date'>December</p>
 </div>
 <h1>2017</h1>
 <div class='month'>
-<p class='date'>1. 2017.</p>
+<p class='date'>January</p>
 <div class='events'>
-<p class="event event-arg" title="19. / 1. / 2017.">The first transmission airs</p>
+<div class="inner_event"><p class="day event-arg">19.</p><p class="event event-arg" title="19. / 1. / 2017.">The first transmission airs</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>2. 2017.</p>
+<p class='date'>February</p>
 <div class='events'>
-<p class="event event-arg" title="2. / 2. / 2017.">The second transmission airs</p>
-<p class="event event-arg" title="23. / 2. / 2017.">The third transmission airs</p>
+<div class="inner_event"><p class="day event-arg">2.</p><p class="event event-arg" title="2. / 2. / 2017.">The second transmission airs</p></div>
+<div class="inner_event"><p class="day event-arg">23.</p><p class="event event-arg" title="23. / 2. / 2017.">The third transmission airs</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>3. 2017.</p>
+<p class='date'>March</p>
 </div>
 <div class='month'>
-<p class='date'>4. 2017.</p>
+<p class='date'>April</p>
 <div class='events'>
-<p class="event event-arg" title="19. / 4. / 2017.">The fourth transmission airs</p>
+<div class="inner_event"><p class="day event-arg">19.</p><p class="event event-arg" title="19. / 4. / 2017.">The fourth transmission airs</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>5. 2017.</p>
+<p class='date'>May</p>
 <div class='events'>
-<p class="event event-discord" title="2. / 5. / 2017.">Discord server launches</p>
+<div class="inner_event"><p class="day event-discord">2.</p><p class="event event-discord" title="2. / 5. / 2017.">Discord server launches</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>6. 2017.</p>
+<p class='date'>June</p>
 </div>
 <div class='month'>
-<p class='date'>7. 2017.</p>
+<p class='date'>July</p>
 </div>
 <div class='month'>
-<p class='date'>8. 2017.</p>
+<p class='date'>August</p>
 <div class='events'>
-<p class="event event-arg" title="7. / 8. / 2017.">MagogCartel.com is revealed</p>
+<div class="inner_event"><p class="day event-arg">7.</p><p class="event event-arg" title="7. / 8. / 2017.">MagogCartel.com is revealed</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>9. 2017.</p>
+<p class='date'>September</p>
 <div class='events'>
-<p class="event event-soulstorm" title="22. / 9. / 2017.">Lorne Lanning appears at GDX</p>
-<p class="event event-soulstorm" title="25. / 9. / 2017.">"Projekt: Soulstorm" trailer video is shown</p>
+<div class="inner_event"><p class="day event-soulstorm">22.</p><p class="event event-soulstorm" title="22. / 9. / 2017.">Lorne Lanning appears at GDX</p></div>
+<div class="inner_event"><p class="day event-soulstorm">25.</p><p class="event event-soulstorm" title="25. / 9. / 2017.">"Projekt: Soulstorm" trailer video is shown</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>10. 2017.</p>
+<p class='date'>October</p>
 </div>
 <div class='month'>
-<p class='date'>11. 2017.</p>
+<p class='date'>November</p>
 </div>
 <div class='month'>
-<p class='date'>12. 2017.</p>
+<p class='date'>December</p>
 <div class='events'>
-<p class="event event-project" title="12. / 17.">Lost Archives launches</p>
-<p class="event event-project" title="12. / 17.">Oddysee's source is found</p>
+<div class="inner_event"><p class="day event-project">4.</p><p class="event event-project" title="4. / 12. / 2017.">Lost Archives launches</p></div>
+<div class="inner_event"><p class="day event-project">4.</p><p class="event event-project" title="4. / 12. / 2017.">Oddysee's source is found</p></div>
 </div>
 </div>
 <h1>2018</h1>
 <div class='month'>
-<p class='date'>1. 2018.</p>
+<p class='date'>January</p>
 <div class='events'>
-<p class="event event-soulstorm" title="12. / 1. / 2018.">First in-game screenshot is released</p>
+<div class="inner_event"><p class="day event-soulstorm">12.</p><p class="event event-soulstorm" title="12. / 1. / 2018.">First in-game screenshot is released</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>2. 2018.</p>
+<p class='date'>February</p>
 </div>
 <div class='month'>
-<p class='date'>3. 2018.</p>
+<p class='date'>March</p>
 <div class='events'>
-<p class="event event-project" title="20. / 3. / 2018.">Abe's Origin launches</p>
+<div class="inner_event"><p class="day event-project">20.</p><p class="event event-project" title="20. / 3. / 2018.">Abe's Origin launches</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>4. 2018.</p>
+<p class='date'>April</p>
 <div class='events'>
-<p class="event event-project" title="4. / 18.">The first Oddcast airs</p>
+<div class="inner_event"><p class="day event-project"></p><p class="event event-project" title="4. / 18.">The first Oddcast airs</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>5. 2018.</p>
+<p class='date'>May</p>
 </div>
 <div class='month'>
-<p class='date'>6. 2018.</p>
+<p class='date'>June</p>
 <div class='events'>
-<p class="event event-soulstorm" title="19. / 6. / 2018.">Lorne Lanning appears at Unite Berlin</p>
+<div class="inner_event"><p class="day event-soulstorm">19.</p><p class="event event-soulstorm" title="19. / 6. / 2018.">Lorne Lanning appears at Unite Berlin</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>7. 2018.</p>
+<p class='date'>July</p>
 <div class='events'>
-<p class="event event-project" title="7. / 18.">The Queens page launches</p>
+<div class="inner_event"><p class="day event-project">9.</p><p class="event event-project" title="9. / 7. / 2018.">The Queens page launches</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>8. 2018.</p>
+<p class='date'>August</p>
 <div class='events'>
-<p class="event event-project" title="8. / 18.">The idea of an official Wiki surfaces</p>
+<div class="inner_event"><p class="day event-project">7.</p><p class="event event-project" title="7. / 8. / 2018.">The idea of an official Wiki surfaces</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>9. 2018.</p>
+<p class='date'>September</p>
 <div class='events'>
-<p class="event event-arg" title="30. / 9. / 2018.">Crashpunk receives a canister</p>
+<div class="inner_event"><p class="day event-arg">30.</p><p class="event event-arg" title="30. / 9. / 2018.">Crashpunk receives a canister</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>10. 2018.</p>
+<p class='date'>October</p>
 </div>
 <div class='month'>
-<p class='date'>11. 2018.</p>
+<p class='date'>November</p>
 </div>
 <div class='month'>
-<p class='date'>12. 2018.</p>
+<p class='date'>December</p>
 </div>
 <h1>2019</h1>
 <div class='month'>
-<p class='date'>1. 2019.</p>
+<p class='date'>January</p>
 </div>
 <div class='month'>
-<p class='date'>2. 2019.</p>
+<p class='date'>February</p>
 <div class='events'>
-<p class="event event-discord" title="16. / 2. / 2019.">Lorne Lanning hosts a one hour  Q&A on Discord</p>
+<div class="inner_event"><p class="day event-discord">16.</p><p class="event event-discord" title="16. / 2. / 2019.">Lorne Lanning hosts a one hour  Q&A on Discord</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>3. 2019.</p>
+<p class='date'>March</p>
 </div>
 <div class='month'>
-<p class='date'>4. 2019.</p>
+<p class='date'>April</p>
 <div class='events'>
-<p class="event event-project" title="4. / 19.">Lost Archives ends</p>
-<p class="event event-project" title="17. / 4. / 2019.">Newsletter #1</p>
-<p class="event event-discord" title="24. / 4. / 2019.">Hackattack joins the Discord</p>
-<p class="event event-project" title="29. / 4. / 2019.">The Oddwall launches</p>
+<div class="inner_event"><p class="day event-project"></p><p class="event event-project" title="4. / 19.">Lost Archives ends</p></div>
+<div class="inner_event"><p class="day event-project">17.</p><p class="event event-project" title="17. / 4. / 2019.">Newsletter #1</p></div>
+<div class="inner_event"><p class="day event-discord">24.</p><p class="event event-discord" title="24. / 4. / 2019.">Hackattack joins the Discord</p></div>
+<div class="inner_event"><p class="day event-project">29.</p><p class="event event-project" title="29. / 4. / 2019.">The Oddwall launches</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>5. 2019.</p>
+<p class='date'>May</p>
 <div class='events'>
-<p class="event event-soulstorm" title="13. / 5. / 2019.">First gameplay teaser is shown</p>
-<p class="event event-discord" title="13. / 5. / 2019.">OWI_Lewis joins the Discord</p>
-<p class="event event-project" title="30. / 5. / 2019.">Newsletter #2</p>
+<div class="inner_event"><p class="day event-soulstorm">13.</p><p class="event event-soulstorm" title="13. / 5. / 2019.">First gameplay teaser is shown</p></div>
+<div class="inner_event"><p class="day event-discord">13.</p><p class="event event-discord" title="13. / 5. / 2019.">OWI_Lewis joins the Discord</p></div>
+<div class="inner_event"><p class="day event-project">30.</p><p class="event event-project" title="30. / 5. / 2019.">Newsletter #2</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>6. 2019.</p>
+<p class='date'>June</p>
 <div class='events'>
-<p class="event event-project" title="1. / 6. / 2019.">The Oddwall gets shelved</p>
-<p class="event event-project" title="5. / 6. / 2019.">Newsletter #3</p>
-<p class="event event-soulstorm" title="13. / 6. / 2019.">Soulstorm shown at E3</p>
+<div class="inner_event"><p class="day event-project">1.</p><p class="event event-project" title="1. / 6. / 2019.">The Oddwall gets shelved</p></div>
+<div class="inner_event"><p class="day event-project">5.</p><p class="event event-project" title="5. / 6. / 2019.">Newsletter #3</p></div>
+<div class="inner_event"><p class="day event-soulstorm">13.</p><p class="event event-soulstorm" title="13. / 6. / 2019.">Soulstorm shown at E3</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>7. 2019.</p>
+<p class='date'>July</p>
 <div class='events'>
-<p class="event event-project" title="7. / 19.">The #oddcast channel disappears</p>
-<p class="event event-arg" title="31. / 7. / 2019.">OddworldNetwork.com is revealed</p>
+<div class="inner_event"><p class="day event-project"></p><p class="event event-project" title="7. / 19.">The #oddcast channel disappears</p></div>
+<div class="inner_event"><p class="day event-arg">31.</p><p class="event event-arg" title="31. / 7. / 2019.">OddworldNetwork.com is revealed</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>8. 2019.</p>
+<p class='date'>August</p>
 <div class='events'>
-<p class="event event-soulstorm" title="19. / 8. / 2019.">OWI announces Epic partnership</p>
+<div class="inner_event"><p class="day event-soulstorm">19.</p><p class="event event-soulstorm" title="19. / 8. / 2019.">OWI announces Epic partnership</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>9. 2019.</p>
+<p class='date'>September</p>
 <div class='events'>
-<p class="event event-project" title="19. / 9. / 2019.">Abe's Oddysee's 22nd anniversary</p>
+<div class="inner_event"><p class="day event-project">19.</p><p class="event event-project" title="19. / 9. / 2019.">Abe's Oddysee's 22nd anniversary</p></div>
 </div>
 </div>
 <div class='month'>
-<p class='date'>10. 2019.</p>
+<p class='date'>October</p>
 </div>
 <div class='month'>
-<p class='date'>11. 2019.</p>
+<p class='date'>November</p>
 </div>
 <div class='month'>
-<p class='date'>12. 2019.</p>
+<p class='date'>December</p>
 </div>
