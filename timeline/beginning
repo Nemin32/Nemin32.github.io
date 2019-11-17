@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Oddwords: Timeline</title>
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="timeline.css">
+    <link rel="favicon" href="../favicon.ico">
+  </head>
+  <body>
+    <h1>Timeline</h1>

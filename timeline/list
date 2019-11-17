@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Oddwords: Timeline</title>
-    <link rel="stylesheet" href="../style.css">
-    <link rel="stylesheet" href="timeline.css">
-    <link rel="favicon" href="../favicon.ico">
-  </head>
-  <body>
-    <h1>Timeline</h1>
 <h1>2016</h1>
 <div class='month'>
 <p class='date'>1. 2016.</p>
@@ -241,5 +230,3 @@
 <div class='month'>
 <p class='date'>12. 2019.</p>
 </div>
-  </body>
-</html>
