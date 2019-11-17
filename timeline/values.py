@@ -20,19 +20,39 @@ class Event:
 
 events = [
         Event(16,  3, 14, "soulstorm", "Soulstorm announcement"),
-        Event(16,  3, 16, "arg",       "ARG launches"),
-        Event(17,  5,  2, "discord",   "Discord server launch"),
         Event(17,  9, 22, "soulstorm", "GDX"),
         Event(17,  9, 25, "soulstorm", "Soulstorm trailer video"),
         Event(18,  1, 12, "soulstorm", "First screenshot is released"),
-        Event(18,  3, 20, "project",   "Abe's Origin launches"),
         Event(18,  6, 19, "soulstorm", "Unite Berlin"),
-        Event(19,  2, 16, "discord",   "Lorne Lanning Q&A"),
-        Event(19,  4, 24, "discord",   "Hackattack joins the Discord"),
         Event(19,  5, 13, "soulstorm", "First gameplay teaser"),
-        Event(19,  5, 13, "discord",   "OWI_Lewis joins the Discord"),
         Event(19,  6, 13, "soulstorm", "Soulstorm shown at E3"),
-        Event(19,  8, 19, "soulstorm", "Epic partnership announcement"),
+        Event(19,  8, 19, "soulstorm", "OWI announces Epic partnership"),
+
+        Event(19,  2, 16, "discord",   "Lorne Lanning hosts a one hour  Q&A on Discord"),
+        Event(19,  4, 24, "discord",   "Hackattack joins the Discord"),
+        Event(19,  5, 13, "discord",   "OWI_Lewis joins the Discord"),
+        Event(17,  5,  2, "discord",   "Discord server launches"),
+
+        Event(19,  9, 19, "project",   "Abe's Oddysee's 22nd anniversary"),
+
+        Event(19,  4, 17, "project",   "Newsletter #1"),
+        Event(19,  5, 30, "project",   "Newsletter #2"),
+        Event(19,  6,  5, "project",   "Newsletter #3"),
+
+        Event(19,  5,  0, "project",   "The Oddwall launches"),
+        Event(18,  8,  0, "project",   "The idea of an official Wiki surfaces"),
+        Event(18,  7,  0, "project",   "The Queens page launches"),
+        Event(18,  3, 20, "project",   "Abe's Origin launches"),
+
+        Event(19,  7,  0, "project",   "The #oddcast channel disappears"),
+        Event(18,  4,  0, "project",   "The first Oddcast airs"),
+
+        Event(19,  4,  0, "project",   "Lost Archives ends"),
+        Event(17, 12,  0, "project",   "Lost Archives launches"),
+
+        Event(17, 12,  0, "project",   "Oddysee's source is found"),
+
+        Event(16,  3, 16, "arg",       "ARG launches"),
         ]
 
 
