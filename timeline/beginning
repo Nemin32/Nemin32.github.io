@@ -9,10 +9,10 @@
   </head>
   <body>
     <h1>Timeline</h1>
-    <h3>Every major event since Soulstorm's announcement</h3>
-    <p class="centered">Color codes:</p>
+    <h2>Every major event since Soulstorm's announcement</h2>
+    <h3>Color codes:</h3>
     <center>
-      <div style="width: 65%">
+      <div style="width: 20rem">
         <div class="event event-soulstorm"><p>Soulstorm related event</p></div>
         <div class="event event-discord"><p>Discord related event</p></div>
         <div class="event event-project"><p>Announcement of a side-project</p></div>
