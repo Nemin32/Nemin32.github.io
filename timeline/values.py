@@ -52,7 +52,7 @@ events = [
         Event(18,  3, 20, "project",   "Abe's Origin launches"),
 
         Event(19,  7,  17, "project",  "The #oddcast channel disappears"),
-        Event(18,  4,   0, "project",  "The first Oddcast airs"),
+        Event(18,  5,   3, "project",  "The first Oddcast airs"),
 
         Event(19,  4, 24, "project",   "Lost Archives ends"),
         Event(17, 12,  4, "project",   "Lost Archives launches"),
