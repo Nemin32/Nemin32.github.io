@@ -38,6 +38,8 @@ events = [
 
         Event(19,  9, 19, "project",   "Abe's Oddysee's 22nd anniversary"),
 
+        Event(18,  9, 12, "project",   "OWI announces Stranger Switch port"),
+
         Event(19,  4, 17, "project",   "Newsletter #1"),
         Event(19,  5, 30, "project",   "Newsletter #2"),
         Event(19,  6,  5, "project",   "Newsletter #3"),
@@ -49,20 +51,20 @@ events = [
         Event(18,  7,  9, "project",   "The Queens page launches"),
         Event(18,  3, 20, "project",   "Abe's Origin launches"),
 
-        Event(19,  7,  17, "project",   "The #oddcast channel disappears"),
-        Event(18,  4,  0, "project",   "The first Oddcast airs"),
+        Event(19,  7,  17, "project",  "The #oddcast channel disappears"),
+        Event(18,  4,   0, "project",  "The first Oddcast airs"),
 
-        Event(19,  4,  0, "project",   "Lost Archives ends"),
+        Event(19,  4, 24, "project",   "Lost Archives ends"),
         Event(17, 12,  4, "project",   "Lost Archives launches"),
         Event(17, 12,  4, "project",   "Oddysee's source is found"),
 
-        Event(16,  3, 16, "arg",       "ARG launches (First phase)"),
+        Event(16,  3, 16, "arg",       "First phase of the ARG starts"),
         Event(16,  4,  4, "arg",       "Second phase of the ARG starts"),
         Event(16,  5, 29, "arg",       "Third phase of the ARG starts"),
-        Event(17,  1, 19, "arg",       "The first transmission airs"),
-        Event(17,  2,  2, "arg",       "The second transmission airs"),
-        Event(17,  2, 23, "arg",       "The third transmission airs"),
-        Event(17,  4, 19, "arg",       "The fourth transmission airs"),
+        Event(17,  1, 19, "arg",       "The first ARG transmission airs"),
+        Event(17,  2,  2, "arg",       "The second ARG transmission airs"),
+        Event(17,  2, 23, "arg",       "The third ARG transmission airs"),
+        Event(17,  4, 19, "arg",       "The fourth ARG transmission airs"),
         Event(17,  8,  7, "arg",       "MagogCartel.com is revealed"),
         Event(18,  9, 30, "arg",       "Crashpunk receives a canister"),
         Event(19,  7, 31, "arg",       "OddworldNetwork.com is revealed")
@@ -96,17 +98,17 @@ for year in range(16, 20):
 
         print(f"<div class='month'>\n<p class='date'>{months[month]}</p>")
 
+        print("<div class='events'>")
         if len(event_names) > 0:
             event_names = sorted(event_names, key=lambda x: x.day)
 
-            print("<div class='events'>")
             for i in range(len(event_names)):
                 if event_names[i].day > 0:
                     print(f'<div class="inner_event"><p class="day event-{event_names[i].event_type}">{event_names[i].day}.</p><p class="event event-{event_names[i].event_type}" title="{event_names[i].date()}">{event_names[i].name}</p></div>')
                 else:
-                    print(f'<div class="inner_event"><p class="day event-{event_names[i].event_type}"></p><p class="event event-{event_names[i].event_type}" title="{event_names[i].date()}">{event_names[i].name}</p></div>')
+                    print(f'<div class="inner_event"><p class="day event-{event_names[i].event_type}">??</p><p class="event event-{event_names[i].event_type}" title="{event_names[i].date()}">{event_names[i].name}</p></div>')
 
-            print("</div>")
+        print("</div>")
 
 
         print("</div>")
