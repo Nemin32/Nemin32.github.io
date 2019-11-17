@@ -95,7 +95,7 @@ for year in range(16, 20):
                 event_names.append(event)
 
         if month == 1:
-            print(f"<h1>20{year}</h1>")
+            print(f"<h3>20{year}</h3>")
 
         print(f"<div class='month'>\n<p class='date'>{months[month]}</p>")
 
