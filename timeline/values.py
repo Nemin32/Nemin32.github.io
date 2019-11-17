@@ -16,15 +16,18 @@ class Event:
         return dateToNumber(this.year, this.month, this.day)
 
     def date(this):
-        return f"{this.month}/20{this.year}"
+        if this.day > 0:
+            return f"{this.day}. / {this.month}. / 20{this.year}."
+        else:
+            return f"{this.month}. / {this.year}."
 
 events = [
-        Event(16,  3, 14, "soulstorm", "Soulstorm announcement"),
-        Event(17,  9, 22, "soulstorm", "GDX"),
-        Event(17,  9, 25, "soulstorm", "Soulstorm trailer video"),
-        Event(18,  1, 12, "soulstorm", "First screenshot is released"),
-        Event(18,  6, 19, "soulstorm", "Unite Berlin"),
-        Event(19,  5, 13, "soulstorm", "First gameplay teaser"),
+        Event(16,  3, 14, "soulstorm", "Soulstorm is announced at GDC"),
+        Event(17,  9, 22, "soulstorm", "Lorne Lanning appears at GDX"),
+        Event(17,  9, 25, "soulstorm", "\"Projekt: Soulstorm\" trailer video is shown"),
+        Event(18,  1, 12, "soulstorm", "First in-game screenshot is released"),
+        Event(18,  6, 19, "soulstorm", "Lorne Lanning appears at Unite Berlin"),
+        Event(19,  5, 13, "soulstorm", "First gameplay teaser is shown"),
         Event(19,  6, 13, "soulstorm", "Soulstorm shown at E3"),
         Event(19,  8, 19, "soulstorm", "OWI announces Epic partnership"),
 
@@ -39,7 +42,9 @@ events = [
         Event(19,  5, 30, "project",   "Newsletter #2"),
         Event(19,  6,  5, "project",   "Newsletter #3"),
 
-        Event(19,  5,  0, "project",   "The Oddwall launches"),
+        Event(19,  4, 29, "project",   "The Oddwall launches"),
+        Event(19,  6,  1, "project",   "The Oddwall gets shelved"),
+
         Event(18,  8,  0, "project",   "The idea of an official Wiki surfaces"),
         Event(18,  7,  0, "project",   "The Queens page launches"),
         Event(18,  3, 20, "project",   "Abe's Origin launches"),
@@ -52,7 +57,16 @@ events = [
 
         Event(17, 12,  0, "project",   "Oddysee's source is found"),
 
-        Event(16,  3, 16, "arg",       "ARG launches"),
+        Event(16,  3, 16, "arg",       "ARG launches (First phase)"),
+        Event(16,  4,  4, "arg",       "Second phase of the ARG starts"),
+        Event(16,  5, 29, "arg",       "Third phase of the ARG starts"),
+        Event(17,  1, 19, "arg",       "The first transmission airs"),
+        Event(17,  2,  2, "arg",       "The second transmission airs"),
+        Event(17,  2, 23, "arg",       "The third transmission airs"),
+        Event(17,  4, 19, "arg",       "The fourth transmission airs"),
+        Event(17,  8,  7, "arg",       "MagogCartel.com is revealed"),
+        Event(18,  9, 30, "arg",       "Crashpunk receives a canister"),
+        Event(19,  7, 31, "arg",       "OddworldNetwork.com is revealed")
         ]
 
 
@@ -69,9 +83,11 @@ for year in range(16, 20):
         print(f"<div class='month'>\n<p class='date'>{month}. 20{year}.</p>")
 
         if len(event_names) > 0:
+            event_names = sorted(event_names, key=lambda x: x.day)
+
             print("<div class='events'>")
             for i in range(len(event_names)):
-                print(f'<p class="event event-{event_names[i].event_type}">[{event_names[i].day}/{month}/20{year}] {event_names[i].name}</p>')
+                print(f'<p class="event event-{event_names[i].event_type}" title="{event_names[i].date()}">{event_names[i].name}</p>')
             print("</div>")
 
 
