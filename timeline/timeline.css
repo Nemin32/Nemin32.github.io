@@ -1,7 +1,12 @@
+p
+{
+  font-size: 18px;
+  color: #b4b91c;
+}
 
 .month
 {
-  background-color: #444400;
+  background-color: #666600;
   display: grid;
 
   grid-template-columns: 20% 80%;
@@ -9,18 +14,20 @@
   min-height: 50px;
 
   margin-bottom: 20px;
-  border: 3px solid black;
+  border: 2px solid black;
 }
 
 p.date
 {
   margin:auto;
+  font-family: sans-serif;
 }
 
 .events
 {
   display: flex;
   flex-direction: column;
+  border-left: 2px solid black;
 }
 
 .inner_event:not(:last-child)
@@ -57,25 +64,27 @@ p.date
   width: 5%;
   margin-bottom: 0;
   padding-left: 10px;
-  border-left: 2px solid black;
+  padding-right: 10px;
+  border-right: 2px solid black;
+  font-family: sans-serif;
 }
 
 .event-soulstorm
 {
-  background-color: #002200;
+  background-color: #004000;
 }
 
 .event-arg
 {
-  background-color: #222222;
+  background-color: #383838;
 }
 
 .event-discord
 {
-  background-color: #220022;
+  background-color: #400040;
 }
 
 .event-project
 {
-  background-color: #440011;
+  background-color: #620018;
 }
