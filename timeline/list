@@ -67,6 +67,7 @@
 <div class='month'>
 <p class='date'>January</p>
 <div class='events'>
+<div class="inner_event"><p class="day event-project">17.</p><p class="event event-project" title="17. / 1. / 2017.">Dear Alf #77</p></div>
 <div class="inner_event"><p class="day event-arg">19.</p><p class="event event-arg" title="19. / 1. / 2017.">The first ARG transmission airs</p></div>
 </div>
 </div>
@@ -225,7 +226,7 @@
 <div class='events'>
 <div class="inner_event"><p class="day event-project">17.</p><p class="event event-project" title="17. / 4. / 2019.">Newsletter #1</p></div>
 <div class="inner_event"><p class="day event-discord">24.</p><p class="event event-discord" title="24. / 4. / 2019.">Hackattack joins the Discord</p></div>
-<div class="inner_event"><p class="day event-project">24.</p><p class="event event-project" title="24. / 4. / 2019.">Lost Archives ends</p></div>
+<div class="inner_event"><p class="day event-killed">24.</p><p class="event event-killed" title="24. / 4. / 2019.">Lost Archives ends</p></div>
 <div class="inner_event"><p class="day event-project">29.</p><p class="event event-project" title="29. / 4. / 2019.">The Oddwall launches</p></div>
 </div>
 </div>
@@ -240,7 +241,7 @@
 <div class='month'>
 <p class='date'>June</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project">1.</p><p class="event event-project" title="1. / 6. / 2019.">The Oddwall gets shelved</p></div>
+<div class="inner_event"><p class="day event-killed">1.</p><p class="event event-killed" title="1. / 6. / 2019.">The Oddwall gets shelved</p></div>
 <div class="inner_event"><p class="day event-project">5.</p><p class="event event-project" title="5. / 6. / 2019.">Newsletter #3</p></div>
 <div class="inner_event"><p class="day event-soulstorm">13.</p><p class="event event-soulstorm" title="13. / 6. / 2019.">Soulstorm shown at E3</p></div>
 </div>
@@ -248,7 +249,7 @@
 <div class='month'>
 <p class='date'>July</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project">17.</p><p class="event event-project" title="17. / 7. / 2019.">The #oddcast channel disappears</p></div>
+<div class="inner_event"><p class="day event-killed">17.</p><p class="event event-killed" title="17. / 7. / 2019.">The #oddcast channel disappears</p></div>
 <div class="inner_event"><p class="day event-arg">31.</p><p class="event event-arg" title="31. / 7. / 2019.">OddworldNetwork.com is revealed</p></div>
 </div>
 </div>
@@ -261,7 +262,8 @@
 <div class='month'>
 <p class='date'>September</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project">19.</p><p class="event event-project" title="19. / 9. / 2019.">Abe's Oddysee's 22nd anniversary</p></div>
+<div class="inner_event"><p class="day event-project">19.</p><p class="event event-project" title="19. / 9. / 2019.">Abe's Oddysee's 22nd anniversary video #1</p></div>
+<div class="inner_event"><p class="day event-killed">23.</p><p class="event event-killed" title="23. / 9. / 2019.">22nd anniversary series abruptly ends</p></div>
 </div>
 </div>
 <div class='month'>

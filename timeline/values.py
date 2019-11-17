@@ -36,25 +36,26 @@ events = [
         Event(19,  5, 13, "discord",   "OWI_Lewis joins the Discord"),
         Event(17,  5,  2, "discord",   "Discord server launches"),
 
-        Event(19,  9, 19, "project",   "Abe's Oddysee's 22nd anniversary"),
+        Event(19,  9, 19, "project",   "Abe's Oddysee's 22nd anniversary video #1"),
 
         Event(18,  9, 12, "project",   "OWI announces Stranger Switch port"),
+
+        Event(19,  9, 23, "killed",    "22nd anniversary series abruptly ends"),
+        Event(19,  6,  1, "killed",    "The Oddwall gets shelved"),
+        Event(19,  7, 17, "killed",    "The #oddcast channel disappears"),
+        Event(19,  4, 24, "killed",    "Lost Archives ends"),
 
         Event(19,  4, 17, "project",   "Newsletter #1"),
         Event(19,  5, 30, "project",   "Newsletter #2"),
         Event(19,  6,  5, "project",   "Newsletter #3"),
 
-        Event(19,  4, 29, "project",   "The Oddwall launches"),
-        Event(19,  6,  1, "project",   "The Oddwall gets shelved"),
+        Event(17,  1, 17, "project",   "Dear Alf #77"),
 
+        Event(19,  4, 29, "project",   "The Oddwall launches"),
         Event(18,  8,  7, "project",   "The idea of an official Wiki surfaces"),
         Event(18,  7,  9, "project",   "The Queens page launches"),
+        Event(18,  5,  3, "project",   "The first Oddcast airs"),
         Event(18,  3, 20, "project",   "Abe's Origin launches"),
-
-        Event(19,  7,  17, "project",  "The #oddcast channel disappears"),
-        Event(18,  5,   3, "project",  "The first Oddcast airs"),
-
-        Event(19,  4, 24, "project",   "Lost Archives ends"),
         Event(17, 12,  4, "project",   "Lost Archives launches"),
         Event(17, 12,  4, "project",   "Oddysee's source is found"),
 
