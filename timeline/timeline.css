@@ -3,12 +3,6 @@
   --event-height: 35px;
 }
 
-p
-{
-  font-size: 18px;
-  color: #b4b91c;
-}
-
 .month
 {
   background-color: #666600;
@@ -97,4 +91,10 @@ p.date
 .event-killed
 {
   background-color: #200009;
+}
+
+p
+{
+  font-size: 18px;
+  color: #b4b91c;
 }
