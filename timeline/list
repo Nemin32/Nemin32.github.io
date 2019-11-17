@@ -1,15 +1,19 @@
 <h1>2016</h1>
 <div class='month'>
 <p class='date'>January</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>February</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>March</p>
 <div class='events'>
 <div class="inner_event"><p class="day event-soulstorm">14.</p><p class="event event-soulstorm" title="14. / 3. / 2016.">Soulstorm is announced at GDC</p></div>
-<div class="inner_event"><p class="day event-arg">16.</p><p class="event event-arg" title="16. / 3. / 2016.">ARG launches (First phase)</p></div>
+<div class="inner_event"><p class="day event-arg">16.</p><p class="event event-arg" title="16. / 3. / 2016.">First phase of the ARG starts</p></div>
 </div>
 </div>
 <div class='month'>
@@ -26,46 +30,62 @@
 </div>
 <div class='month'>
 <p class='date'>June</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>July</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>August</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>September</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>October</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>November</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>December</p>
+<div class='events'>
+</div>
 </div>
 <h1>2017</h1>
 <div class='month'>
 <p class='date'>January</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-arg">19.</p><p class="event event-arg" title="19. / 1. / 2017.">The first transmission airs</p></div>
+<div class="inner_event"><p class="day event-arg">19.</p><p class="event event-arg" title="19. / 1. / 2017.">The first ARG transmission airs</p></div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>February</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-arg">2.</p><p class="event event-arg" title="2. / 2. / 2017.">The second transmission airs</p></div>
-<div class="inner_event"><p class="day event-arg">23.</p><p class="event event-arg" title="23. / 2. / 2017.">The third transmission airs</p></div>
+<div class="inner_event"><p class="day event-arg">2.</p><p class="event event-arg" title="2. / 2. / 2017.">The second ARG transmission airs</p></div>
+<div class="inner_event"><p class="day event-arg">23.</p><p class="event event-arg" title="23. / 2. / 2017.">The third ARG transmission airs</p></div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>March</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>April</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-arg">19.</p><p class="event event-arg" title="19. / 4. / 2017.">The fourth transmission airs</p></div>
+<div class="inner_event"><p class="day event-arg">19.</p><p class="event event-arg" title="19. / 4. / 2017.">The fourth ARG transmission airs</p></div>
 </div>
 </div>
 <div class='month'>
@@ -76,9 +96,13 @@
 </div>
 <div class='month'>
 <p class='date'>June</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>July</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>August</p>
@@ -95,9 +119,13 @@
 </div>
 <div class='month'>
 <p class='date'>October</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>November</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>December</p>
@@ -115,6 +143,8 @@
 </div>
 <div class='month'>
 <p class='date'>February</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>March</p>
@@ -125,11 +155,13 @@
 <div class='month'>
 <p class='date'>April</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project"></p><p class="event event-project" title="4. / 18.">The first Oddcast airs</p></div>
+<div class="inner_event"><p class="day event-project">??</p><p class="event event-project" title="4. / 18.">The first Oddcast airs</p></div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>May</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>June</p>
@@ -152,21 +184,30 @@
 <div class='month'>
 <p class='date'>September</p>
 <div class='events'>
+<div class="inner_event"><p class="day event-project">12.</p><p class="event event-project" title="12. / 9. / 2018.">OWI announces Stranger Switch port</p></div>
 <div class="inner_event"><p class="day event-arg">30.</p><p class="event event-arg" title="30. / 9. / 2018.">Crashpunk receives a canister</p></div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>October</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>November</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>December</p>
+<div class='events'>
+</div>
 </div>
 <h1>2019</h1>
 <div class='month'>
 <p class='date'>January</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>February</p>
@@ -176,13 +217,15 @@
 </div>
 <div class='month'>
 <p class='date'>March</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>April</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project"></p><p class="event event-project" title="4. / 19.">Lost Archives ends</p></div>
 <div class="inner_event"><p class="day event-project">17.</p><p class="event event-project" title="17. / 4. / 2019.">Newsletter #1</p></div>
 <div class="inner_event"><p class="day event-discord">24.</p><p class="event event-discord" title="24. / 4. / 2019.">Hackattack joins the Discord</p></div>
+<div class="inner_event"><p class="day event-project">24.</p><p class="event event-project" title="24. / 4. / 2019.">Lost Archives ends</p></div>
 <div class="inner_event"><p class="day event-project">29.</p><p class="event event-project" title="29. / 4. / 2019.">The Oddwall launches</p></div>
 </div>
 </div>
@@ -205,7 +248,7 @@
 <div class='month'>
 <p class='date'>July</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project"></p><p class="event event-project" title="7. / 19.">The #oddcast channel disappears</p></div>
+<div class="inner_event"><p class="day event-project">17.</p><p class="event event-project" title="17. / 7. / 2019.">The #oddcast channel disappears</p></div>
 <div class="inner_event"><p class="day event-arg">31.</p><p class="event event-arg" title="31. / 7. / 2019.">OddworldNetwork.com is revealed</p></div>
 </div>
 </div>
@@ -223,10 +266,16 @@
 </div>
 <div class='month'>
 <p class='date'>October</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>November</p>
+<div class='events'>
+</div>
 </div>
 <div class='month'>
 <p class='date'>December</p>
+<div class='events'>
+</div>
 </div>
