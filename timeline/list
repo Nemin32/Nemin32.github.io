@@ -12,20 +12,36 @@
 <div class='month'>
 <p class='date'>March</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-soulstorm">14.</p><p class="event event-soulstorm" title="14. / 3. / 2016.">Soulstorm is announced at GDC</p></div>
-<div class="inner_event"><p class="day event-arg">16.</p><p class="event event-arg" title="16. / 3. / 2016.">First phase of the ARG starts</p></div>
+<div class="inner_event">
+  <p class="day event-soulstorm">14</p>
+  <a href="https://www.wired.co.uk/article/oddworld-soulstorm-gaming-classic-returns">
+    <p class="event event-soulstorm" title="14. / 3. / 2016.">Soulstorm is announced at GDC</p>
+  </a>
+</div>
+<div class="inner_event">
+  <p class="day event-arg">16</p>
+  <a href="http://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary">
+    <p class="event event-arg" title="16. / 3. / 2016.">First phase of the ARG starts</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>April</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-arg">4.</p><p class="event event-arg" title="4. / 4. / 2016.">Second phase of the ARG starts</p></div>
+<div class="inner_event">
+  <p class="day event-arg">4</p>
+    <p class="event event-arg" title="4. / 4. / 2016.">Second phase of the ARG starts</p>
+</div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>May</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-arg">29.</p><p class="event event-arg" title="29. / 5. / 2016.">Third phase of the ARG starts</p></div>
+<div class="inner_event">
+  <p class="day event-arg">29</p>
+    <p class="event event-arg" title="29. / 5. / 2016.">Third phase of the ARG starts</p>
+</div>
 </div>
 </div>
 <div class='month'>
@@ -67,15 +83,29 @@
 <div class='month'>
 <p class='date'>January</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project">17.</p><p class="event event-project" title="17. / 1. / 2017.">Dear Alf #77</p></div>
-<div class="inner_event"><p class="day event-arg">19.</p><p class="event event-arg" title="19. / 1. / 2017.">The first ARG transmission airs</p></div>
+<div class="inner_event">
+  <p class="day event-project">17</p>
+  <a href="https://www.oddworld.com/2017/01/dear-alf-77-ed-abe-and-stranger/">
+    <p class="event event-project" title="17. / 1. / 2017.">Dear Alf #77</p>
+  </a>
+</div>
+<div class="inner_event">
+  <p class="day event-arg">19</p>
+    <p class="event event-arg" title="19. / 1. / 2017.">The first ARG transmission airs</p>
+</div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>February</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-arg">2.</p><p class="event event-arg" title="2. / 2. / 2017.">The second ARG transmission airs</p></div>
-<div class="inner_event"><p class="day event-arg">23.</p><p class="event event-arg" title="23. / 2. / 2017.">The third ARG transmission airs</p></div>
+<div class="inner_event">
+  <p class="day event-arg">2</p>
+    <p class="event event-arg" title="2. / 2. / 2017.">The second ARG transmission airs</p>
+</div>
+<div class="inner_event">
+  <p class="day event-arg">23</p>
+    <p class="event event-arg" title="23. / 2. / 2017.">The third ARG transmission airs</p>
+</div>
 </div>
 </div>
 <div class='month'>
@@ -86,13 +116,21 @@
 <div class='month'>
 <p class='date'>April</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-arg">19.</p><p class="event event-arg" title="19. / 4. / 2017.">The fourth ARG transmission airs</p></div>
+<div class="inner_event">
+  <p class="day event-arg">19</p>
+    <p class="event event-arg" title="19. / 4. / 2017.">The fourth ARG transmission airs</p>
+</div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>May</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-discord">2.</p><p class="event event-discord" title="2. / 5. / 2017.">Discord server launches</p></div>
+<div class="inner_event">
+  <p class="day event-discord">2</p>
+  <a href="https://discordapp.com/channels/293291256736382976/293291256736382976/308969023981486082">
+    <p class="event event-discord" title="2. / 5. / 2017.">Discord server launches</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
@@ -108,14 +146,29 @@
 <div class='month'>
 <p class='date'>August</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-arg">7.</p><p class="event event-arg" title="7. / 8. / 2017.">MagogCartel.com is revealed</p></div>
+<div class="inner_event">
+  <p class="day event-arg">7</p>
+  <a href="https://magogcartel.com">
+    <p class="event event-arg" title="7. / 8. / 2017.">MagogCartel.com is revealed</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>September</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-soulstorm">22.</p><p class="event event-soulstorm" title="22. / 9. / 2017.">Lorne Lanning appears at GDX</p></div>
-<div class="inner_event"><p class="day event-soulstorm">25.</p><p class="event event-soulstorm" title="25. / 9. / 2017.">"Projekt: Soulstorm" trailer video is shown</p></div>
+<div class="inner_event">
+  <p class="day event-soulstorm">22</p>
+  <a href="https://www.youtube.com/watch?v=L3zdCg4tbOc">
+    <p class="event event-soulstorm" title="22. / 9. / 2017.">Lorne Lanning appears at GDX</p>
+  </a>
+</div>
+<div class="inner_event">
+  <p class="day event-soulstorm">25</p>
+  <a href="https://www.youtube.com/watch?v=1p0o2c4NGpk&t=1s">
+    <p class="event event-soulstorm" title="25. / 9. / 2017.">"Projekt: Soulstorm" trailer video is shown</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
@@ -131,15 +184,30 @@
 <div class='month'>
 <p class='date'>December</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project">4.</p><p class="event event-project" title="4. / 12. / 2017.">Lost Archives launches</p></div>
-<div class="inner_event"><p class="day event-project">4.</p><p class="event event-project" title="4. / 12. / 2017.">Oddysee's source is found</p></div>
+<div class="inner_event">
+  <p class="day event-project">4</p>
+  <a href="http://www.oddworld.com/2017/12/announcing-oddworld-the-lost-archives/">
+    <p class="event event-project" title="4. / 12. / 2017.">Lost Archives launches</p>
+  </a>
+</div>
+<div class="inner_event">
+  <p class="day event-project">4</p>
+  <a href="http://www.oddworld.com/2017/12/announcing-oddworld-the-lost-archives/">
+    <p class="event event-project" title="4. / 12. / 2017.">Oddysee's source is found</p>
+  </a>
+</div>
 </div>
 </div>
 <h3>2018</h3>
 <div class='month'>
 <p class='date'>January</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-soulstorm">12.</p><p class="event event-soulstorm" title="12. / 1. / 2018.">First in-game screenshot is released</p></div>
+<div class="inner_event">
+  <p class="day event-soulstorm">12</p>
+  <a href="https://pbs.twimg.com/profile_banners/20823262/1515636880/1500x500">
+    <p class="event event-soulstorm" title="12. / 1. / 2018.">First in-game screenshot is released</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
@@ -150,7 +218,12 @@
 <div class='month'>
 <p class='date'>March</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project">20.</p><p class="event event-project" title="20. / 3. / 2018.">Abe's Origin launches</p></div>
+<div class="inner_event">
+  <p class="day event-project">20</p>
+  <a href="https://www.kickstarter.com/projects/1869209521/oddworld-abes-origins-book-and-game-collection">
+    <p class="event event-project" title="20. / 3. / 2018.">Abe's Origin launches</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
@@ -161,32 +234,62 @@
 <div class='month'>
 <p class='date'>May</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project">3.</p><p class="event event-project" title="3. / 5. / 2018.">The first Oddcast airs</p></div>
+<div class="inner_event">
+  <p class="day event-project">3</p>
+  <a href="https://www.youtube.com/watch?v=AbG_Fg_gbC0">
+    <p class="event event-project" title="3. / 5. / 2018.">The first Oddcast airs</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>June</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-soulstorm">19.</p><p class="event event-soulstorm" title="19. / 6. / 2018.">Lorne Lanning appears at Unite Berlin</p></div>
+<div class="inner_event">
+  <p class="day event-soulstorm">19</p>
+  <a href="https://www.youtube.com/watch?v=Kv9Zoyo8o8s">
+    <p class="event event-soulstorm" title="19. / 6. / 2018.">Lorne Lanning appears at Unite Berlin</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>July</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project">9.</p><p class="event event-project" title="9. / 7. / 2018.">The Queens page launches</p></div>
+<div class="inner_event">
+  <p class="day event-project">9</p>
+  <a href="https://oddworld.com/queens">
+    <p class="event event-project" title="9. / 7. / 2018.">The Queens page launches</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>August</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project">7.</p><p class="event event-project" title="7. / 8. / 2018.">The idea of an official Wiki surfaces</p></div>
+<div class="inner_event">
+  <p class="day event-project">7</p>
+  <a href="https://discordapp.com/channels/293291256736382976/293291256736382976/476323833545228298">
+    <p class="event event-project" title="7. / 8. / 2018.">The idea of an official Wiki surfaces</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>September</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project">12.</p><p class="event event-project" title="12. / 9. / 2018.">OWI announces Stranger Switch port</p></div>
-<div class="inner_event"><p class="day event-arg">30.</p><p class="event event-arg" title="30. / 9. / 2018.">Crashpunk receives a canister</p></div>
+<div class="inner_event">
+  <p class="day event-project">12</p>
+  <a href="https://twitter.com/OddworldInc/status/1039843328035102720">
+    <p class="event event-project" title="12. / 9. / 2018.">OWI announces Stranger Switch port</p>
+  </a>
+</div>
+<div class="inner_event">
+  <p class="day event-arg">30</p>
+  <a href="https://twitter.com/Crashpunk_Plays/status/1046446823399927815">
+    <p class="event event-arg" title="30. / 9. / 2018.">Crashpunk receives a canister</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
@@ -213,7 +316,12 @@
 <div class='month'>
 <p class='date'>February</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-discord">16.</p><p class="event event-discord" title="16. / 2. / 2019.">Lorne Lanning hosts a one hour  Q&A on Discord</p></div>
+<div class="inner_event">
+  <p class="day event-discord">16</p>
+  <a href="../lanningqna.html">
+    <p class="event event-discord" title="16. / 2. / 2019.">Lorne Lanning hosts a one hour  Q&A on Discord</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
@@ -224,46 +332,115 @@
 <div class='month'>
 <p class='date'>April</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project">17.</p><p class="event event-project" title="17. / 4. / 2019.">Newsletter #1</p></div>
-<div class="inner_event"><p class="day event-discord">24.</p><p class="event event-discord" title="24. / 4. / 2019.">Hackattack joins the Discord</p></div>
-<div class="inner_event"><p class="day event-killed">24.</p><p class="event event-killed" title="24. / 4. / 2019.">Lost Archives ends</p></div>
-<div class="inner_event"><p class="day event-project">29.</p><p class="event event-project" title="29. / 4. / 2019.">The Oddwall launches</p></div>
+<div class="inner_event">
+  <p class="day event-project">17</p>
+  <a href="https://mailchi.mp/oddworld/read-the-first-of-our-new-oddworld-community-newsletters-right-now-with-issue-1">
+    <p class="event event-project" title="17. / 4. / 2019.">Newsletter #1</p>
+  </a>
+</div>
+<div class="inner_event">
+  <p class="day event-discord">24</p>
+  <a href="https://discordapp.com/channels/293291256736382976/293291256736382976/570667262063935489">
+    <p class="event event-discord" title="24. / 4. / 2019.">Hackattack joins the Discord</p>
+  </a>
+</div>
+<div class="inner_event">
+  <p class="day event-killed">24</p>
+  <a href="https://www.instagram.com/p/Bwpif1ElJwF/">
+    <p class="event event-killed" title="24. / 4. / 2019.">Lost Archives ends</p>
+  </a>
+</div>
+<div class="inner_event">
+  <p class="day event-project">29</p>
+  <a href="https://oddworld.com/oddwall">
+    <p class="event event-project" title="29. / 4. / 2019.">The Oddwall launches</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>May</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-soulstorm">13.</p><p class="event event-soulstorm" title="13. / 5. / 2019.">First gameplay teaser is shown</p></div>
-<div class="inner_event"><p class="day event-discord">13.</p><p class="event event-discord" title="13. / 5. / 2019.">OWI_Lewis joins the Discord</p></div>
-<div class="inner_event"><p class="day event-project">30.</p><p class="event event-project" title="30. / 5. / 2019.">Newsletter #2</p></div>
+<div class="inner_event">
+  <p class="day event-soulstorm">13</p>
+  <a href="https://www.youtube.com/watch?v=6wJAdfTJZUQ">
+    <p class="event event-soulstorm" title="13. / 5. / 2019.">First gameplay teaser is shown</p>
+  </a>
+</div>
+<div class="inner_event">
+  <p class="day event-discord">13</p>
+  <a href="https://discordapp.com/channels/293291256736382976/293291256736382976/577526814411325450">
+    <p class="event event-discord" title="13. / 5. / 2019.">OWI_Lewis joins the Discord</p>
+  </a>
+</div>
+<div class="inner_event">
+  <p class="day event-project">30</p>
+  <a href="https://mailchi.mp/oddworld/the-latest-issue-of-the-oddworld-newsletter-is-here-now">
+    <p class="event event-project" title="30. / 5. / 2019.">Newsletter #2</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>June</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-killed">1.</p><p class="event event-killed" title="1. / 6. / 2019.">The Oddwall gets shelved</p></div>
-<div class="inner_event"><p class="day event-project">5.</p><p class="event event-project" title="5. / 6. / 2019.">Newsletter #3</p></div>
-<div class="inner_event"><p class="day event-soulstorm">13.</p><p class="event event-soulstorm" title="13. / 6. / 2019.">Soulstorm shown at E3</p></div>
+<div class="inner_event">
+  <p class="day event-killed">1</p>
+    <p class="event event-killed" title="1. / 6. / 2019.">The Oddwall gets shelved</p>
+</div>
+<div class="inner_event">
+  <p class="day event-project">5</p>
+  <a href="https://mailchi.mp/oddworld/newsletter3">
+    <p class="event event-project" title="5. / 6. / 2019.">Newsletter #3</p>
+  </a>
+</div>
+<div class="inner_event">
+  <p class="day event-soulstorm">13</p>
+  <a href="https://www.ign.com/videos/2019/06/12/oddworld-soulstorm-gameplay-walkthrough-ign-live-e3-2019">
+    <p class="event event-soulstorm" title="13. / 6. / 2019.">Soulstorm shown at E3</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>July</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-killed">17.</p><p class="event event-killed" title="17. / 7. / 2019.">The #oddcast channel disappears</p></div>
-<div class="inner_event"><p class="day event-arg">31.</p><p class="event event-arg" title="31. / 7. / 2019.">OddworldNetwork.com is revealed</p></div>
+<div class="inner_event">
+  <p class="day event-killed">17</p>
+    <p class="event event-killed" title="17. / 7. / 2019.">The #oddcast channel disappears</p>
+</div>
+<div class="inner_event">
+  <p class="day event-arg">31</p>
+  <a href="https://oddworldnetwork.com">
+    <p class="event event-arg" title="31. / 7. / 2019.">OddworldNetwork.com is revealed</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>August</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-soulstorm">19.</p><p class="event event-soulstorm" title="19. / 8. / 2019.">OWI announces Epic partnership</p></div>
+<div class="inner_event">
+  <p class="day event-soulstorm">19</p>
+  <a href="https://twitter.com/OddworldInc/status/1163542883036737537">
+    <p class="event event-soulstorm" title="19. / 8. / 2019.">OWI announces Epic partnership</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
 <p class='date'>September</p>
 <div class='events'>
-<div class="inner_event"><p class="day event-project">19.</p><p class="event event-project" title="19. / 9. / 2019.">Abe's Oddysee's 22nd anniversary video #1</p></div>
-<div class="inner_event"><p class="day event-killed">23.</p><p class="event event-killed" title="23. / 9. / 2019.">22nd anniversary series abruptly ends</p></div>
+<div class="inner_event">
+  <p class="day event-project">19</p>
+  <a href="https://www.youtube.com/watch?v=0sfL1vqDdf4">
+    <p class="event event-project" title="19. / 9. / 2019.">Abe's Oddysee's 22nd anniversary video #1</p>
+  </a>
+</div>
+<div class="inner_event">
+  <p class="day event-killed">23</p>
+    <p class="event event-killed" title="23. / 9. / 2019.">22nd anniversary series abruptly ends</p>
+</div>
 </div>
 </div>
 <div class='month'>
