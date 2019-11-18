@@ -94,6 +94,9 @@ events = [
         Event(17,  2,  2, "arg",       "The second ARG transmission airs"),
         Event(17,  2, 23, "arg",       "The third ARG transmission airs"),
         Event(17,  4, 19, "arg",       "The fourth ARG transmission airs"),
+
+        Event(16,  6, 28, "arg",       "1029.io is revealed",
+            "https://1029.io/"),
         Event(17,  8,  7, "arg",       "MagogCartel.com is revealed",
             "https://magogcartel.com"),
         Event(18,  9, 30, "arg",       "Crashpunk receives a canister",

@@ -47,6 +47,12 @@
 <div class='month'>
 <p class='date'>June</p>
 <div class='events'>
+<div class="inner_event">
+  <p class="day event-arg">28</p>
+  <a href="https://1029.io/">
+    <p class="event event-arg" title="28. / 6. / 2016.">1029.io is revealed</p>
+  </a>
+</div>
 </div>
 </div>
 <div class='month'>
