@@ -102,9 +102,9 @@ p.date
   background-color: #200009;
 }
 
-p
+p, a
 {
-  width: unset;
+  width: 100%;
 }
 
 *[title]
