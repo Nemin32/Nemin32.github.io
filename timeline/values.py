@@ -51,6 +51,8 @@ events = [
 
         Event(19,  9, 19, "project",   "Abe's Oddysee's 22nd anniversary video #1",
             "https://www.youtube.com/watch?v=0sfL1vqDdf4"),
+        Event(19, 11, 18, "project",   "Abe's Exoddus' 21st anniversary video #1",
+            "https://www.youtube.com/watch?v=csSCkk-xULw"),
 
         Event(18,  9, 12, "project",   "OWI announces Stranger Switch port",
             "https://twitter.com/OddworldInc/status/1039843328035102720"),
@@ -140,16 +142,16 @@ for year in range(16, 20):
             for i in range(len(event_names)):
                 day = ""
                 if event_names[i].day > 0:
-                    day = str(event_names[i].day)
+                    day = str(event_names[i].day) + "."
                 else:
                     day = "??"
 
-                print('<div class="inner_event">')
-                print(f'  <p class="day event-{event_names[i].event_type}">{day}</p>')
-                if event_names[i].link is not None: print(f'  <a href="{event_names[i].link}">')
-                print(f'    <p class="event event-{event_names[i].event_type}" title="{event_names[i].date()}">{event_names[i].name}</p>')
-                if event_names[i].link is not None: print( '  </a>')
-                print('</div>')
+                print('<div class="inner_event">', end='')
+                print(f'<p class="day event-{event_names[i].event_type}">{day}</p>', end='')
+                if event_names[i].link is not None: print(f'  <a href="{event_names[i].link}">', end='')
+                print(f'<p class="event event-{event_names[i].event_type}">{event_names[i].name}</p>', end='')
+                if event_names[i].link is not None: print( '</a>', end ='')
+                print('</div>', end ='')
 
         print("</div>")
 
