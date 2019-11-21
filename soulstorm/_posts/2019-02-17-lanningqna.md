@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.ico">
+    <meta charset="UTF-8">
+    <title>Oddwords: Lorne Lanning Q&A</title>
+  </head>
+  <body>
+    <header>
+      <h1>Q&A</h1>
+      <p>On February 16th, 2019 Lorne Lanning came online on OWI's official Discord server and conversed with the fans for almost over an hour. In the overwhelming flurry of messages directed at Lanning there were also some questions that were answered by the man himself, whose content can be read here. Most of these responses were collected by user Sgabbit and then cleaned up and punctuated by me.</p>
+
+      <img src="imgs/lanning.webp">
+    </header>
+    <main>
+      <h2>What Mr. Lanning had to say about... </h2>
+      <h2>== Wildlife == </h2>
+      <h3>Fleeches</h3>
+      <p class="quoted">"Last time you saw them they were in a larvae state. this time they have hatched into something way more creepy."</p>
+
+      <h3>Paramites</h3>
+      <p class="quoted">"Paramites would be like living with hyenas."</p>
+
+      <h3>New ones</h3>
+      <p class="quoted">"There's a new wildlife in Soulstorm and its going to make paramites look like puppies."</p>
+
+      <h2>== A joke game before Soulstorm ==</h2>
+      <p class="quoted">"We thought about a joke VR thingee. It was going to be called "the waiting game" and it was VR in a waiting room (like motor vehicles) that is full of out of work mudokons complaining about how rarely they get employed to make the next games.</p>
+
+      <p class="quoted">We actually had it running it was really creepy, but VR didn't take off so fast so we just stayed focused on Soulstorm... Which was the right decision, I think you'll all agree."</p>
+
+      <h2>== Soulstorm == </h2>
+      <h3>Technology</h3>
+      <p class="quoted">"We've spent a lot of time on new core engine technology to get rid of a lot of legacy and add new dimensions to the play and way you travel through the world.  This we hope helps us deliver the next titles faster as we continue to evolve new dimension into the platforming genre."</p>
+
+      <h3>How much he thinks about the game</h3>
+      <p class="quoted">"I've got Soulstorm on the brain 24/7. Missed friends' weddings, vacations, presntation opportunities, shows, etc. We're really trying to achieve AAA on a much smaller budget and team than it usually takes."</p>
+
+      <p class="quoted">"I've watched lots of people do playthroughs and learn a lot about mistakes we made."</p>
+
+      <p class="quoted">"I'm really insecure about releasing anything sub par. It... Must... Be... Good!"</p>
+
+      <h3>Partners</h3>
+      <p class="quoted">"We work with contractors around the world. Only a few of us in the bay area SF. Others in... San Diego, Vancouver, LA, England, Scotland, Ireland, Australia, NYC, Quebec."</p>
+
+      <p class="quoted">"We need a partner to get voices in other languages. Desired but still tbd."</p>
+
+      <p class="quoted">"Marketing is always a challenge without huge partners... so we need to keep nurturing social reach, spreading word of mouth, and getting some partnerships for physical discs... Is something we're hoping to be able to offer."</p>
+
+      <h3>How much the game costs</h3>
+      <p class="quoted">"This game is costing at least 3x what NnT did."</p>
+
+      <h3>The release date</h3>
+      <p class="quoted">"I can't say release date yet but we're burning hard."</p>
+
+      <h3>The drink itself</h3>
+      <p class="quoted">"Soulstorm is an energy drink. Non-alcoholic, but much more addictive."</p>
+
+      <h3>Toby</h3>
+      <p class="quoted">"Toby has a role and he's really smart... but has some deep issues."</p>
+
+      <h3>Chanting</h3>
+      <p class="quoted">"Chanting has more powers now, yes."</p>
+
+      <h3>The scale and feel of the game</h3>
+      <p class="quoted">"We've been aiming for absolutely industrial epic scale."</p>
+
+      <p class="quoted">"This game will feel more like a movie than the others... With much more depth in gameplay."</p>
+
+      <h3>On Fortnite</h3>
+      <p class="quoted">"No SS in fortnite in OW universe."</p>
+
+      <h2>== On what happens to Abe when he dies ==</h2>
+      <p class="quoted">"When Abe dies he returns from limbo."</p>
+
+      <h2>== The Future ==</h2>
+      <p class="quoted">"After Soulstorm... If you guys like it we'll be moving onto #3 in the Quintology. Our completely all new #2 (Soulstorm) is setting up to head for all 5 getting done. But we need success in sales of Soulstorm to keep going, so we need to make sure you're all pretty surprised by what we've done... so we can keep on going!"</p>
+
+      <p class="quoted">"We've only seen the third world of Oddworld so far in all of the games. The NEXT game (#3) will start to enter the 2nd world (economically speaking) and then the last games get into the 1st world. It's a lot like Earth so once we get into the heavily populated areas, things will start looking a lot different. Echoes of Blade Runner."</p>
+
+      <p class="quoted">"Yes, Nolybab is in #5."</p>
+
+      <h2>== Squeek ==</h2>
+      <p class="quoted">"Can't tell more about squeek... he's top secret."</p>
+
+      <h2>== The source code of the first two games ==</h2>
+      <p class="quoted">"We did finally find the original source code to the original games. At least 95% of it all. That shit was hidden DEEP in the archives and hard to find after it was all archived via robot drive that only used bar code for labelling. Oye!"</p>
+
+      <h2>== Stranger and Fangus ==</h2>
+      <p class="quoted">"Fangus and Stranger would get along well but with a tension filled relationship. They've both got trust issues."</p>
+
+      <h2>== Gabe Newell ==</h2>
+      <p class="quoted">"Gabe is a hero of mine. He's also a big Oddworld fan."</p>
+    </main>
+    <footer>
+      <p class="centered"><a href="index.html">Back to the frontpage</a></p>
+      <hr>
+
+      <p>The whole conversation can be found in the #general_oddworld channel on <a href="https://discord.gg/oddworld">OWI's Discord server</a>.</p>
+
+      <p id="footer">
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+          <img alt="Creative Commons License" src="imgs/cc.png"/>
+        </a> 
+        Nemin (2018 - 2019)
+      </p>
+    </footer>
+  </body>
+</html>
