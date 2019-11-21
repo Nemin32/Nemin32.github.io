@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+---
+layout: none
+title: NnT loading screen messages
+summary: A list of messages you sometimes see, while NnT is loading.
+---
+
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
@@ -13,7 +18,8 @@
           text-align: center;
           font-weight: bold;
           font-style: italic;
-          color: #bcbcbc
+          color: #bcbcbc;
+          margin: 12px auto;
       }
     </style>
   </head>
