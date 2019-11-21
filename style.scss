@@ -9,7 +9,7 @@ body
   width: 60rem;
   background-color: #223322;
 
-  padding: 15px 40px 15px 40px;
+  padding: 15px 80px 15px 80px;
   margin-top: 15px;
   margin-bottom: 15px;
 
@@ -22,7 +22,6 @@ body
 #content
 {
   font-size: 1.4rem;
-  width: 80ch;
   margin: 0 auto;
 }
 
@@ -45,7 +44,6 @@ a
 p
 {
   font-size: 1.4rem;
-  /*width: 80ch;*/
 
   &.subtitle
   {
@@ -68,6 +66,12 @@ h1, h2, h3, h4, h5, h6
   font-family: "Merriweather", serif;
 }
 
+h2, h3, h4, h5, h6
+{
+  margin-bottom: 0.2rem;
+  margin-top: 2rem;
+}
+
 h1
 {
   font-size: 4rem;
@@ -82,18 +86,17 @@ h1
 
 h2
 {
-  font-size: 1.8rem;
+  font-size: 2.1rem;
 }
 
 h3
 {
-  font-size: 1.35rem;
+  font-size: 1.6rem;
 }
 
 li
 {
   font-size: 1.4rem;
-  /*width: 80ch;*/
   margin-bottom: 1.4rem;
 }
 
