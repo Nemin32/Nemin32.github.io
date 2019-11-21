@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+---
+layout: none
+title: The Found Archives
+summary: Every image released in the Lost Archives project in a convenient list
+---
+
 <html>
   <head>
     <title>Oddwords: Found Archives</title>
@@ -430,7 +435,7 @@
     <footer>
       <p><a href="index.html">Back to the frontpage</a></p>
       <hr>
-      
+
       <p id="footer">
         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
           <img alt="Creative Commons License" src="imgs/cc.png"/>
