@@ -1,3 +1,5 @@
+---
+---
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Merriweather");
 
@@ -15,6 +17,13 @@ body
   color: darkseagreen;
 
   border-radius: 8px;
+}
+
+#content
+{
+  font-size: 1.4rem;
+  width: 80ch;
+  margin: 0 auto;
 }
 
 *[title]
@@ -36,7 +45,7 @@ a
 p
 {
   font-size: 1.4rem;
-  width: 80ch;
+  /*width: 80ch;*/
 
   &.subtitle
   {
@@ -84,7 +93,7 @@ h3
 li
 {
   font-size: 1.4rem;
-  width: 80ch;
+  /*width: 80ch;*/
   margin-bottom: 1.4rem;
 }
 
