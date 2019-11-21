@@ -19,10 +19,9 @@ New to the series? [Start here!](/guide.html)
 {% endfor %}
 </ul>
 
-
-### Essays
+### Other Oddworld-related content:
 <ul>
-{% for post in site.categories["essay"] %}
+{% for post in site.categories["other"] %}
 <li>
   <p class="link"><a href="{{ post.url  }}">{{ post.title }}</a></p>
   <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
@@ -31,10 +30,9 @@ New to the series? [Start here!](/guide.html)
 {% endfor %}
 </ul>
 
-
-### Other Oddworld-related content:
+### Essays
 <ul>
-{% for post in site.categories["other"] %}
+{% for post in site.categories["essay"] %}
 <li>
   <p class="link"><a href="{{ post.url  }}">{{ post.title }}</a></p>
   <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
