@@ -1,0 +1,130 @@
+* THE GDC TRAILER
+(2019. 03. 20.)
+
+On March 18 Lorne Lanning and Bennie Terry presented us with a short, five
+minute showcase of one of Soulstorm's cutscenes and also a demonstration of a
+model.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9nHf_ejvqA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+As expected it has generated a lot of reactions, I'd like to share mine
+here. Similarly to all my other essays, this writeup is my own personal opinion,
+largely based on feelings.
+
+** THE GOOD
+
+#+attr_html: :width 200px
+[[../imgs/GDC/sligs.png][Flying Sligs]]
+
+Most of the teaser looks quite nice. The train looks well detailed and while it
+resembles the old train used in Exoddus, it became a bit more refined. It is an
+example of positive deviation from the originals, along with the the new Slig
+design, which I am liking a lot. While it is a bit questionable whether they could
+carry gatling-guns with such little propellers, I'm willingg to suspend my
+disbelief in this case. Their mouth-tentacles being smeared all over their faces
+because of the wind was a nice touch for both realism and a slight touch of
+humor. I am also glad that OWI kept the look of SoulStorm Brew providing at
+least a small amount of connection to the old Quintology. It also being used for
+fuel is an excellent idea and it makes a lot of sense considering they are
+flammable.
+
+#+attr_html: :width 200px
+[[../imgs/GDC/shaman.jpg][The Shaman]]
+
+The Shaman model was a really pleasant surprise. It radiates the old
+Oddworld-feel, which made me quite happy. While I prefer the Big Face as
+Oddworld's shaman figure, the garment and mask of the new figure was
+astonishing. It resembles indian ceremonial clothing, but it is original enough
+to not feel like a copy at all.
+
+** THE BAD
+
+Since the news are full of this info, it won't be a surprise to anyone, but
+along with the showcase of the cutscene, the game has been delayed yet another
+year. This is the third time this has happened and yet again it went down
+without any kind of fanfare.
+
+#+attr_html: :width 200px
+[[file:~/Desktop/Nemin32.github.io/imgs/GDC/specks.jpg][The specks on the camera.]]
+
+As for the video itself, it sadly continues the trend of being overly
+cinematic. For example, the "camera" became an actualy camera instead of some
+ethereal, non-existent thing through which we see the events. What I mean by
+this is that through the entire clip the picture has dust specks on it. I firmly
+believe that this is a bad direction to take the game's art direction
+towards. Oddworld never needed to be like a movie to provide the same amount of
+entertainment movies do. To add insult to injury, these dust specks are totally
+static. If they dinamically flew on and flew off the camera, it'd feel much less
+fake.
+
+While my untrained eyes didn't spot anything else, I'd like to link Phoetux's
+comment on OWF about the video, where he goes way more in-depth about the
+possible flaws of the animation.
+
+** THE UGLY
+
+#+attr_html: :width 200px
+[[../imgs/GDC/alf.jpg][Alf looking rather iffy.]]
+
+The Mudokons.
+
+Alf is bearable, albeit some of his facial expressions look quite unnatural (and
+not in the Oddworldish sense). My only concern with him is that at the end of
+the video when he walks through the inside of the train, his animations feel
+way too weightless and floaty.
+
+#+attr_html: :width 200px
+[[../imgs/GDC/toby.jpg][FASTEEER!]]
+
+But Toby... He is different. There are truly very few characters in Oddworld and
+almost all of them are part of Stranger's Wrath, but after this video this group
+has sadly grew with one more member.
+
+Not only is he terribly awkward in a bad way, his animation and facial
+expressions defy logic. People have brought up that Oddworld used goofy
+characters and animations before and it's true, however, they were always much
+more moderate even when they were played for laughs.
+
+#+attr_html: :width 200px
+[[../imgs/GDC/toby.gif][Step dance!]]
+
+Compare the over the top nature of the gif above with the blind Mudokon Abe
+unwittingly killed in Exoddus. It was a joke, yet it was also quite dark and it
+also provided info for the player (Blind Mudokons will fall into their
+death).
+
+** THE MEH
+
+Alf saying "Holy shit!" did raise my eyebrow, but ultimately I don't
+really have strong feelings about Oddworld characters using stronger
+swears.
+
+#+attr_html: :width 200px
+[[../imgs/GDC/slig_shot.jpg][Oww.]]
+
+Toby gets his hand shot. This belongs in this category as unless you
+watch the video on 0.25x speed, it is pretty much unnoticeable.
+
+Abe not being in the video. I'll explain shortly below why I think
+he's not here.
+
+** Conclusion and Theory
+
+So the watchful viewer can notice quite a few things that help us
+roughly place this cutscene in the timeline of the game. In my
+reading, this is at least a mid-game cutscene, but even more likely
+it's a late-game one. My reasoning is the following:
+
+- Toby and Alf are riding towards SoulStorm Brewery, the central
+  location of the entire story.
+- The aforementioned characters being 'comfortable' in each others'
+  presence. If this was an early-game cutscene, they'd be less
+  "casual" talking with eachother.
+- Alf has surpassed his Brew addiction and is throwing the drink
+  without second thoughts into the fire.
+- Abe is nowhere to be seen. I believe he's most likely captive in
+  SoulStorm Brewery and that's why the duo is riding the train there.
+
+Ultimately despite my bashing of the video, it was still a postiive
+experience, just not the kind I believe Oddworld Inhabitants is
+capable of.
