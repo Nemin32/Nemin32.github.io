@@ -22,6 +22,7 @@ li
   margin: 20px;
   margin-left: 0px;
   margin-bottom: 0px;
+  transition: all .2s ease-in-out; 
 }
 
 ul:after
@@ -34,6 +35,8 @@ li:hover *
 {
   filter: brightness(1.2);
 }
+
+li:hover { transform: scale(1.1); }
 
 .link
 {
