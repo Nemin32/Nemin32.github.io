@@ -1,6 +1,6 @@
 ---
 title: Facility trivia
-summary: Interesting facts about the placees Abe visits in Exoddus
+summary: Interesting facts about the placees Abe visits in Exoddus.
 ---
 
 # Facility trivia
