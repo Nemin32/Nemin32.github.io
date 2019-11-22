@@ -1,6 +1,6 @@
 ---
 title: Cut content
-summary: Some interesting things cut from the games
+summary: Some interesting things cut from the games.
 ---
 
 # A few interesting things cut from the games

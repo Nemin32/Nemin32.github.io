@@ -1,6 +1,6 @@
 ---
 title: Repercussions
-summary: About what Abe's actions have caused
+summary: About what Abe's actions have caused.
 ---
 # The Repercussions of Abe's actions
 
