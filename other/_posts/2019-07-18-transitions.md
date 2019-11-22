@@ -6,7 +6,7 @@ summary: A list of messages you sometimes see, while NnT is loading.
 
 <html>
   <head>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/css/main.css">
     <link rel="icon" href="favicon.ico">
     <title>Oddwords: NnT Transition Messages</title>
     <style>
