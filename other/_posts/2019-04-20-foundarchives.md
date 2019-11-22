@@ -1,7 +1,7 @@
 ---
 layout: none
 title: The Found Archives
-summary: Every image released in the Lost Archives project in a convenient list
+summary: Every image released in the Lost Archives project in a convenient list.
 ---
 
 <html>

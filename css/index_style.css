@@ -37,15 +37,15 @@ li:hover *
 
 .link
 {
-  font-size: 1.6rem;
-
+  font-size: 1.2rem;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
-
-  padding: 20px 0px 10px 15px;
-
-  background-color: #294829;
+  padding: 10px 15px 10px 15px;
+  background-color:
+  #294829;
+  border: none;
+  font-family: "Open Sans";
 }
 
 ul a, ul a:hover
@@ -76,9 +76,10 @@ ul a:hover
 .content
 {
   margin-top: 0;
-  font-size: 1.2rem;
+  font-size: 1rem;
   flex-grow: 1;
 
   padding: 10px 15px 5px 15px;
   color: darkseagreen;
+  font-family: "Open Sans", sans-serif;
 }
