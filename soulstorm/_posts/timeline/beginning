@@ -1,0 +1,22 @@
+---
+title: Timeline
+summary: A calendar of all the events that happened since 2016.
+---
+
+<link rel="stylesheet" href="timeline.css">
+
+# Timeline
+
+## Every major event since Soulstorm's announcement
+
+### Color codes:
+
+<center>
+<div style="width: 20rem">
+<div class="event event-soulstorm"><p>Soulstorm related event</p></div>
+<div class="event event-discord"><p>Discord related event</p></div>
+<div class="event event-project"><p>Announcement of a side-project</p></div>
+<div class="event event-killed"><p>End of a side-project</p></div>
+<div class="event event-arg"><p>ARG related event</p></div>
+</div>
+</center>

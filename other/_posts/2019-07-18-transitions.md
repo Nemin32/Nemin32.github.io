@@ -1,6 +1,6 @@
 ---
 layout: none
-title: NnT loading screen messages
+title: Loading screen messages
 summary: A list of messages you sometimes see, while NnT is loading.
 ---
 
