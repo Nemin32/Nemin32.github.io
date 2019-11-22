@@ -12,9 +12,11 @@ New to the series? [Start here!](/guide.html)
 <ul>
 {% for post in site.categories["soulstorm"] %}
 <li>
-  <p class="link"><a href="{{ post.url  }}">{{ post.title }}</a></p>
-  <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
-  <p class="content"> {{ post.summary }} </p>
+  <a href="{{ post.url }}">
+    <p class="link">{{ post.title }}</p>
+    <p class="content"> {{ post.summary }} </p>
+    <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
+  </a>
 </li>
 {% endfor %}
 </ul>
@@ -23,9 +25,11 @@ New to the series? [Start here!](/guide.html)
 <ul>
 {% for post in site.categories["other"] %}
 <li>
-  <p class="link"><a href="{{ post.url  }}">{{ post.title }}</a></p>
-  <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
-  <p class="content"> {{ post.summary }} </p>
+  <a href="{{ post.url }}">
+    <p class="link">{{ post.title }}</p>
+    <p class="content"> {{ post.summary }} </p>
+    <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
+  </a>
 </li>
 {% endfor %}
 </ul>
@@ -34,9 +38,11 @@ New to the series? [Start here!](/guide.html)
 <ul>
 {% for post in site.categories["essay"] %}
 <li>
-  <p class="link"><a href="{{ post.url  }}">{{ post.title }}</a></p>
-  <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
-  <p class="content"> {{ post.summary }} </p>
+  <a href="{{ post.url }}">
+    <p class="link">{{ post.title }}</p>
+    <p class="content"> {{ post.summary }} </p>
+    <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
+  </a>
 </li>
 {% endfor %}
 </ul>

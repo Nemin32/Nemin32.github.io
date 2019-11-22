@@ -7,19 +7,76 @@
 ul
 {
   list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px auto;
+  justify-content: center;
+}
+
+li
+{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: calc(30% - 20px);
+  margin: 20px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+
+ul:after
+{
+  content: "";
+  flex: 0 1 30%;
+}
+
+li:hover *
+{
+  filter: brightness(1.2);
 }
 
 .link
 {
   font-size: 1.6rem;
+
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+
+  padding: 20px 0px 10px 15px;
+
+  background-color: #294829;
+}
+
+ul a, ul a:hover
+{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+  transition: filter 0.2s;
+}
+
+ul a:hover
+{
+  color: #d3e172;
 }
 
 .date
 {
   font-size: 1rem;
+  text-align: right;
+
+  padding-right: 10px;
+  padding-bottom: 5px;
+  color: darkseagreen;
 }
 
 .content
 {
   margin-top: 0;
+  font-size: 1.2rem;
+  flex-grow: 1;
+
+  padding: 10px 15px 5px 15px;
+  color: darkseagreen;
 }

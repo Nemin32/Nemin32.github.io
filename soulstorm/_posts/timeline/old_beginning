@@ -1,3 +1,9 @@
+---
+layout: none
+title: Timeline
+summary: A calendar of all the events that happened since 2016.
+---
+
 <!DOCTYPE html>
 <html>
   <head>
