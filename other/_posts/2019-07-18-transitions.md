@@ -178,7 +178,7 @@ summary: A list of messages you sometimes see, while NnT is loading.
 
       <p id="footer">
         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-          <img alt="Creative Commons License" src="imgs/cc.png"/>
+          <img alt="Creative Commons License" src="/imgs/cc.png"/>
         </a>
         Nemin (2018 - 2019)
       </p>

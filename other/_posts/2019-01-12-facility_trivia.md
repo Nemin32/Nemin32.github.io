@@ -89,7 +89,7 @@ actually a word-play on the word "fecal". Also there is a poster with the
 following text: "Uncle Aslik / Keeping the trains running on time". This is a
 reference to Mussolini, who was also referred to this way.
 
-<img class = "small" src="imgs/aslik_trains.jpg">
+<img class = "small" src="/imgs/aslik_trains.jpg">
 
 It is interesting that Aslik is mentioned to be FeeCo's Vice-President here. In
 other texts, like "I, Aslik", he is referred to as SoulStorm Brewery's VP.
