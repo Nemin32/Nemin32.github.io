@@ -6,7 +6,7 @@ layout: index_layout
 ## An Oddworld fansite by Nemin
 
 {:.centered}
-New to the series? [Start here!](/guide.html)
+New to the series? [Start here!](/guide)
 
 ### Soulstorm-related content
 <ul>
