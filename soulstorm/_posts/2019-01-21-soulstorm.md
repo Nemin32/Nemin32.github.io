@@ -209,37 +209,37 @@ final version, so take everything here with a grain of salt. The text in
 quotes are the official descriptions shown in the gameplay footage, the
 rest are my thoughts.
 
-* ![](imgs/ss_images/ss_brew.png){:.original}
+* ![](/imgs/ss_images/ss_brew.png){:.original}
 _Brew Bottle_ - "Splashy, sticky, very tasty and highly flammable. Soulstorm Brew will help
 you get the party started and then help you burn down the venue
 when you've had enough."
 
-* ![](imgs/ss_images/cap.png){:.original} _Bottle Cap_ - "We can't believe this ever got past the Food
+* ![](/imgs/ss_images/cap.png){:.original} _Bottle Cap_ - "We can't believe this ever got past the Food
 Standards people, but they put bottlecaps on Soulstorm Brew that
 make sparks when they hit against hard materials. Sparks plus
 flammable liquid equals fun."
 
-* ![](imgs/ss_images/extinguisher.png){:.original}
+* ![](/imgs/ss_images/extinguisher.png){:.original}
 _Fire Extinguisher_ - "Look, we've all done it. Sometimes you just set fire to
 something you wanted to keep. Use this handy fire extinguisher to hastily
 correct your overzealous use of flames."
 
-* ![](imgs/ss_images/bottle.png){:.original}
+* ![](/imgs/ss_images/bottle.png){:.original}
 _Empty Bottle_ - "An empty bottle? What was inside? Who's been having a party?
 Why weren't you invited? Never mind, at least these things can be recycled,
 right?"
 
-* ![](imgs/ss_images/gum.png){:.original}
+* ![](/imgs/ss_images/gum.png){:.original}
 _Gum_ - "The flavor lasts for a few a seconds, but the stickiness is eternal.
 Chew this up a bit and you can use it to stick one thing to another thing.
 Handy!"
 
-* ![](imgs/ss_images/lighter.png){:.original}
+* ![](/imgs/ss_images/lighter.png){:.original}
 _Lighter_ - "It's like carrying a flint, some kindling at all times. Use it to
 start fires where there were previously no fires. Also handy to stick to other
 objects that might benefit from a quick and convenient fire source."
 
-* ![](imgs/ss_images/flamethrower.png){:.original}
+* ![](/imgs/ss_images/flamethrower.png){:.original}
     _Flamethrower_ - "Well done. You've taken something that was made solely for
     putting out fires, tinkered around with it and made it into something that makes
     fire at a prodigious rate. Your momma would be proud."<br><br>
@@ -247,20 +247,20 @@ objects that might benefit from a quick and convenient fire source."
     Recipe: Fire extinguisher + Soulstorm Brew + Lighter (Confirmed to
     be changed. Archived here only for completeness' sake.)
 
-* ![](imgs/ss_images/pop.png){:.original}
+* ![](/imgs/ss_images/pop.png){:.original}
 _Purple bottle with a green decal and "PoP" written on it in white_ - Reminds me a
 bit of the drinks you could get in Munch's Oddysee. Perhaps OWI is revisiting
 this concept.
 
-* ![](imgs/ss_images/pop_gum.png){:.original}
+* ![](/imgs/ss_images/pop_gum.png){:.original}
 _Purple bottle with a green decal and a purple band over it_ - The color of this
 band is very similar to the gum, so perhaps this is the result of crafting the
 two together.
 
-* ![](imgs/ss_images/jawbreaker.png){:.original}
+* ![](/imgs/ss_images/jawbreaker.png){:.original}
 _Jawbreaker_ - An ordinary looking jawbreaker-candy. OWI has alluded towards that its effects are going to be surprising.
 
-* ![](imgs/ss_images/water.png){:.original}
+* ![](/imgs/ss_images/water.png){:.original}
 _Water in an SSB bottle_ - This SoulStorm Brew bottle contains water
 that you can give to your Mudokons. The exact usage of them is not
 known.
