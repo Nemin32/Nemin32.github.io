@@ -5,7 +5,7 @@
 
 .month
 {
-  background-color: #13512e;
+  background-color: #a4a4a4;
   display: grid;
 
   width: 80%;
@@ -15,8 +15,12 @@
 
   min-height: var(--event-height);
 
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   border: 2px solid black;
+
+  color: black;
+  
+  box-shadow: 1px 1px 2px;
 }
 
 h3
@@ -27,6 +31,7 @@ h3
 p.date
 {
   margin:auto;
+  text-align: center;
   font-family: sans-serif;
 }
 
@@ -53,6 +58,7 @@ p.date
   height: var(--event-height);
   margin-bottom: 0;
   margin-top: 0;
+  color: black;
 }
 
 .inner_event
@@ -79,33 +85,33 @@ p.date
 
 .event-soulstorm
 {
-  background-color: #004000;
+  background-color: #008000;
 }
 
 .event-arg
 {
-  background-color: #383838;
+  background-color: #777;
 }
 
 .event-discord
 {
-  background-color: #400040;
+  background-color: #700070;
 }
 
 .event-project
 {
-  background-color: #620018;
+  background-color: #ab0022;
 }
 
 .event-killed
 {
-  background-color: #200009;
+  background-color: #700009;
 }
 
 p, a
 {
   width: 100%;
-  text-align: center;
+  /*! text-align: center; */
 }
 
 *[title]
