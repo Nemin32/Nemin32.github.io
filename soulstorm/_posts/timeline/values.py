@@ -49,10 +49,19 @@ events = [
         Event(17,  5,  2, "discord",   "Discord server launches",
             "https://discordapp.com/channels/293291256736382976/293291256736382976/308969023981486082"),
 
-        Event(19,  9, 19, "project",   "Abe's Oddysee's 22nd anniversary video #1",
+        Event(19,  9, 19, "project",   "Abe's Oddysee's 22nd anniversary video #1 (Memories 1.-4.)",
             "https://www.youtube.com/watch?v=0sfL1vqDdf4"),
-        Event(19, 11, 18, "project",   "Abe's Exoddus' 21st anniversary video #1",
+        Event(19,  9, 20, "project",   "Abe's Oddysee's 22nd anniversary video #2 (Memories 5.-8.)",
+            "https://www.youtube.com/watch?v=0DSJ1qUibXc"),
+        Event(19,  9, 23, "project",   "Abe's Oddysee's 22nd anniversary video #3 (Memories 9.-11.)",
+            "https://www.youtube.com/watch?v=2JohJi-lG80"),
+
+        Event(19, 11, 18, "project",   "Abe's Exoddus' 21st anniversary video #1 (Memories 1.-4.)",
             "https://www.youtube.com/watch?v=csSCkk-xULw"),
+        Event(19, 11, 19, "project",   "Abe's Exoddus' 21st anniversary video #2 (Memories 5.-9.)",
+            "https://www.youtube.com/watch?v=6kSUOTlDRCg"),
+        Event(19, 11, 20, "project",   "Abe's Exoddus' 21st anniversary video #3 (Memories 10.-13.)",
+            "https://www.youtube.com/watch?v=XyWvUL9K_co"),
 
         Event(18,  9, 12, "project",   "OWI announces Stranger Switch port",
             "https://twitter.com/OddworldInc/status/1039843328035102720"),
