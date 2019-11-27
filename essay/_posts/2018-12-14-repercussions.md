@@ -5,7 +5,7 @@ summary: About what Abe's actions have caused.
 # The Repercussions of Abe's actions
 
 
-![](imgs/slig.png)
+![](/imgs/slig.png)
 
 {:.subtitle}
 "I'm telling ya', it's that Abe guy! Sell! Dump it! Lose it! Get rid of it!"
@@ -28,7 +28,7 @@ situation by instructing whoever is on the other side of the phone
 (presumably another Slig) to sell the stocks while they're still worth
 something.
 
-![](imgs/ripples.png)
+![](/imgs/ripples.png)
 
 And before anyone thinks this is seeing too much into a background, it is very
 much not. At the EGX Soulstorm presentation Lanning has spent several minutes
