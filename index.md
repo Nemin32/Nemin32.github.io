@@ -3,7 +3,7 @@ layout: index_layout
 ---
 
 # Oddwords
-## An Oddworld fansite by Nemin
+## An Oddworld fansite dedicated to Canon & Community.
 
 {:.centered}
 New to the series? [Start here!](/guide)

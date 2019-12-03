@@ -1,5 +1,5 @@
 ---
-title: Graphical comparison to NnT and AE
+title: Comparing Soulstorm's graphics to NnT and AE
 summary: How does Soulstorm's graphics hold up compared to Exoddus and New 'n' Tasty?
 ---
 
