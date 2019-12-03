@@ -16,11 +16,10 @@
   min-height: var(--event-height);
 
   margin-bottom: 10px;
-  border: 2px solid black;
 
   color: black;
-  
-  box-shadow: 1px 1px 2px;
+
+  box-shadow: 2px 2px 2px;
 }
 
 h3
@@ -95,7 +94,7 @@ p.date
 
 .event-discord
 {
-  background-color: #700070;
+  background-color: #800080;
 }
 
 .event-project
@@ -117,4 +116,11 @@ p, a
 *[title]
 {
   border: none;
+}
+
+#legend .event
+{
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+  box-shadow: 2px 2px 2px;
 }

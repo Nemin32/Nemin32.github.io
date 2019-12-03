@@ -22,13 +22,12 @@ body
   margin-top: 15px;
   margin-bottom: 15px;
 
-
   border-radius: 8px;
 
   font-size: 62.5%;
   text-rendering: optimizeLegibility;
   font-family: "Fira Sans", sans-serif;
-  line-height: 1.4;
+  line-height: 1.6;
 }
 
 #content
@@ -76,8 +75,8 @@ h1, h2, h3, h4, h5, h6
 
 h2, h3, h4, h5, h6
 {
-  margin-bottom: 0.2rem;
   margin-top: 2rem;
+  margin-bottom: 2rem;
   line-height: 1.1;
 }
 
@@ -107,7 +106,7 @@ h3
 li
 {
   font-size: 1.4rem;
-  margin-bottom: 1.4rem;
+  margin-bottom: 0.8rem;
 }
 
 img
