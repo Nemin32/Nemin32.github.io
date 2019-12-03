@@ -12,7 +12,7 @@ summary: A calendar of all the events that happened since 2016.
 ### Color codes:
 
 <center>
-<div style="width: 20rem">
+<div style="width: 20rem" id="legend">
 <div class="event event-soulstorm"><p>Soulstorm related event</p></div>
 <div class="event event-discord"><p>Discord related event</p></div>
 <div class="event event-project"><p>Start of a side-project</p></div>
