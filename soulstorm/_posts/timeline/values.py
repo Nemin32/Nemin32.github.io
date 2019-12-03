@@ -40,7 +40,7 @@ events = [
         Event(19,  8, 19, "soulstorm", "OWI announces Epic partnership",
             "https://twitter.com/OddworldInc/status/1163542883036737537"),
 
-        Event(19,  2, 16, "discord",   "Lorne Lanning hosts a one hour  Q&A on Discord",
+        Event(19,  2, 16, "discord",   "One hour Discord Q&A",
             "../lanningqna.html"),
         Event(19,  4, 24, "discord",   "Hackattack joins the Discord",
             "https://discordapp.com/channels/293291256736382976/293291256736382976/570667262063935489"),
