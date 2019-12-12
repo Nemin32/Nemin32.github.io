@@ -5,177 +5,209 @@ $font-color: #2e2e2e;
 $background-color: #efefef;
 $subtitle-color: #5e5e5e;
 
+$body-size: 1.4rem;
+$subtitle-size: $body-size*0.8;
+$h1-size: $body-size*2;
+$h2-size: $body-size*1.5;
+$h3-size: $body-size*1.25;
+
 body
 {
-  margin: 0 auto;
-  width: 50rem;
+    margin: 0 auto;
+    width: 80rem;
 
-  background-color: $background-color;
-  color: $font-color;
+    background-color: $background-color;
+    color: $font-color;
 
-  padding-left: 5%;
-  padding-right: 5%;
+    padding-bottom: 1%;
 
-  padding-top: 1%;
-  padding-bottom: 1%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 
-  margin-top: 15px;
-  margin-bottom: 15px;
+    border-radius: 8px;
 
-  border-radius: 8px;
+    font-size: 62.5%;
+    text-rendering: optimizeLegibility;
+    font-family: "Fira Sans", sans-serif;
+    line-height: 1.6;
+}
 
-  font-size: 62.5%;
-  text-rendering: optimizeLegibility;
-  font-family: "Fira Sans", sans-serif;
-  line-height: 1.6;
+#header
+{
+    background-color: #dadada;
+    padding-top: 1%;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+
+    img
+    {
+        width: 15%;
+        margin-top: 1rem;
+        margin-bottom: 0.5rem;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+    h1
+    {
+        font-size: $h1-size*1.25;
+        color: #242;
+        text-transform: uppercase;
+        margin-top: 0;
+    }
+
+    a
+    {
+        text-decoration: none;
+    }
 }
 
 #content
 {
-  margin: 0 auto;
+    margin: 0 auto;
+    width: 80%;
 }
 
 *[title]
 {
-  border-bottom: 2px dashed $font-color;
+    border-bottom: 2px dashed $font-color;
 }
 
 a
 {
-  color: black;
+    color: black;
 }
 
 p
 {
-  font-size: 1.4rem;
-  &.subtitle
-  {
-    color: $subtitle-color;
-    font-size: 1rem;
-    width: 60%;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 0.6rem;
-  }
+    font-size: $body-size;
 
-  &.centered
-  {
-    width: 100%;
-    text-align: center;
-  }
+    &.subtitle
+    {
+        color: $subtitle-color;
+        font-size: $subtitle-size;
+        width: 60%;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: -3rem;
+        margin-bottom: 4rem;
+    }
+
+    &.centered
+    {
+        width: 100%;
+        text-align: center;
+    }
+
 }
 
 
 h1, h2, h3, h4, h5, h6
 {
-  font-family: "Merriweather", serif;
-  color: black;
+    font-family: "Merriweather", serif;
+    color: black;
+    line-height: 1.2;
+    text-align: center;
 }
 
 h2, h3, h4, h5, h6
 {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  line-height: 1.1;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 }
 
 h1
 {
-  font-size: 3rem;
-  margin-bottom: 0.1rem;
-  margin-top: 0.5rem;
-  text-align: center;
+    font-size: $h1-size;
+    margin-bottom: 0.1rem;
+    margin-top: 0.5rem;
 
-  &+h2
-  {
-    margin-top: 0;
-  }
+    &+h2
+    {
+        margin-top: 0;
+    }
 }
 
 h2
 {
-  font-size: 1.8rem;
+    font-size: $h2-size;
 }
 
 h3
 {
-  font-size: 1.4rem;
+    font-size: $h3-size;
 }
 
 li
 {
-  font-size: 1.4rem;
-  margin-bottom: 0.8rem;
+    font-size: $body-size;
+    margin-bottom: 0.8rem;
 }
 
-img
+#content img
 {
-  max-width: 60%;
+    max-width: 100%;
 
-  margin: 0 auto;
+    margin: 0 auto;
 
-  margin-bottom: 0.6rem;
-  margin-top: 0.6rem;
+    margin-bottom: 4rem;
+    margin-top: 4rem;
 
-  display: block;
+    display: block;
 
-  &+p
-  {
-    margin-top: 1.2rem;
-  }
-
-  &.small
-  {
-    max-width:40%
-  }
+    &.small
+    {
+        max-width:40%
+    }
 }
 
 hr
 {
-  width: 60%;
-  margin-bottom: 3rem;
+    width: 60%;
+    margin-bottom: 1rem;
 }
 
 html
 {
-  width: 100%;
-  height: 100;
+    width: 100%;
+    height: 100;
 
-  background: url("/imgs/sitebg.png");
-  background-size: 50% 100%;
-  background-repeat: repeat-x;
-  background-attachment: fixed;
+    background: url("/imgs/sitebg.png");
+    background-size: 50% 100%;
+    background-repeat: repeat-x;
+    background-attachment: fixed;
 }
 
 blockquote
 {
-  border-left: 3px solid;
-  padding-left: 15px;
+    border-left: 3px solid;
+    padding-left: 15px;
 }
 
 video
 {
-  width: 100%;
+    width: 100%;
 }
 
 #footer
 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
 
-  & p
-  {
-    margin-top: 0.4rem;
-    margin-bottom: 0.2rem;
+    & p
+    {
+        margin-top: 0.4rem;
+        margin-bottom: 0.2rem;
 
-    width: unset;
-  }
+        width: unset;
+    }
 
-  & img
-  {
-    max-width: unset;
-  }
+    & img
+    {
+        max-width: unset;
+    }
 }
