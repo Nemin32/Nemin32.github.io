@@ -87,7 +87,7 @@ p
     {
         color: $subtitle-color;
         font-size: $subtitle-size;
-        width: 60%;
+        width: 80%;
         text-align: center;
         margin-left: auto;
         margin-right: auto;
@@ -184,6 +184,7 @@ blockquote
 {
     border-left: 3px solid;
     padding-left: 15px;
+    background: #dadada;
 }
 
 video
