@@ -47,7 +47,7 @@ Haha, that's sweet. This actually fits really well into the next question: How d
 I see! And is Oddysee also your favorite of the series?
  
 > **Sammi McEwan:**
-> I would say Oddysee. But I do love New 'n' Tasty as well. I think Exxoddus has better puzzles and a darker story but Oddysee has  a special place in my heart
+> I would say Oddysee. But I do love New 'n' Tasty as well. I think Exxoddus has better puzzles and a darker story but Oddysee has a special place in my heart
 
 **Nemin:**
 Haha, I feel very similar, through I personally can't really choose between Oddysee and Exoddus.
@@ -75,7 +75,7 @@ Firstly, I would like to ask about who was the initiator in this partnership? Di
 I see, it's not a chance you get many times in life :) About when was this map created? Last year or this one?
  
 > **Sammi McEwan:**
-> Oh definitely! I cried when I got the job, haha.  I started on the map at the end of last year, but there was a few delays so the final thing was sent off in May.
+> Oh definitely! I cried when I got the job, haha. I started on the map at the end of last year, but there was a few delays so the final thing was sent off in May.
  
 **Nemin:**
 Delays as in it took time until your draft was looked at or you were just busy?
@@ -131,7 +131,7 @@ Next question: I see that on early iterations you used the actual buildings as m
 > With the landmarks, it was just an option we tried. We all agreed that it didn't blend very well with the map itself so a simplistic design was the best way to go.
  
 **Nemin:**
-Yeah I see what you mean.  Do you know anything about all the train lines going off the map?
+Yeah I see what you mean. Do you know anything about all the train lines going off the map?
  
 > **Sammi McEwan:**
 > I do not. I was given a diagram of the locations and how they join but no more info than that.
@@ -176,7 +176,7 @@ Ah, I haven't received the new one yet, so I can only judge by the few photos yo
 Okay and now the final question, a staple one: Now that Soulstorm seems to be around the corner, I would like to know what you think of it. Do you like the new direction the game took? Is there something story-wise you're really looking forward to? Or perhaps seeing a teased location? Being the map maker, I imagine you thought a lot about the places that were placed on it.
  
 > **Sammi McEwan:**
-> My fiancé is a QA at Fat Kraken so I have had the chance to play bits of Soulstorm. I'm not allowed to say much but I  think the game is very ambitious and I really hope that it does well when it comes out. So much love and hard work are  being poured into that game. 
+> My fiancé is a QA at Fat Kraken so I have had the chance to play bits of Soulstorm. I'm not allowed to say much but I think the game is very ambitious and I really hope that it does well when it comes out. So much love and hard work are  being poured into that game. 
 >
 > Personally I like the new direction, it's definitely grittier than New 'n' Tasty. I just can't wait to sit down and play the full thing.
 >
