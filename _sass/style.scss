@@ -183,8 +183,22 @@ html
 blockquote
 {
     border-left: 3px solid;
-    padding-left: 15px;
+    padding-left: 1.2rem;
+    padding-right: 0.8rem;
     background: #dadada;
+
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+
+    p:first-child
+    {
+        margin-top: 0.1rem;
+    }
+
+    p:last-child
+    {
+        margin-bottom: 0.1rem;
+    }
 }
 
 video
