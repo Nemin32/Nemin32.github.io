@@ -162,7 +162,7 @@ Now, for my penultimate question: Which book do you like more? I know the new on
  
 > **Sammi McEwan:**
 > Well to be honest with you, I've only flicked through the original once. A friend at work brought in a copy for me to look at. So I don't feel as though I can make a fair choice. I would say that the original paperback did feel flimsy and some of the pages were coming loose, whereas the new book is a full on tome of Oddworld artwork. It's so beautifully made, it's a pleasure to flick through. I haven't had the chance to sit down and properly read through it yet but I am looking forward to pouring over it over Christmas.
-
+>
 > Which one is your favourite? :D
  
 **Nemin:**
@@ -180,7 +180,7 @@ Okay and now the final question, a staple one: Now that Soulstorm seems to be ar
 >
 > Personally I like the new direction, it's definitely grittier than New 'n' Tasty. I just can't wait to sit down and play the full thing.
 >
-> I also think that the art is really beautiful. There are some issues with the teased gameplay,for instance it can difficult to spot where Abe is, but I do think that Oddworld will address those minor niggles. So I'm trying not to make any judgements until I see the final thing.
+> I also think that the art is really beautiful. There are some issues with the teased gameplay, for instance it can difficult to spot where Abe is, but I do think that Oddworld will address those minor niggles. So I'm trying not to make any judgements until I see the final thing.
  
 **Nemin:**
 I see, sounds like a far assessment.
