@@ -14,26 +14,42 @@
     <meta property="og:image" content="https://oddwords.hu/logo.png">
   </head>
   <body>
-    <div id = "header">
-      <a href="/index.html">
-        <img src="/logo.png">
-        <h1>Oddwords</h1>
-      </a>
-    </div>
+    <div id="main">
 
+    
+    <div id="sidebar">
+      <div id = "header">
+        <a href="/index.html">
+          <img src="/logo.png">
+          <h1>Oddwords</h1>
+        </a>
+      </div>
+
+      <div id="links">
+          {% assign cat = page.categories[0] | strip %}
+          {% assign len = cat | size %}
+          {% if len != 0 %}
+        <p>Other posts in the {{page.categories[0] | capitalize}} category:</p>
+        <ul>
+          {% for p in site.categories[cat] limit:5 %}
+          {% if p.title != page.title %}
+          <li><a href="{{p.url}}">{{p.title}}</a></li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+          {% endif %}
+      </div>
+
+      <div id="footer">
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+          <img alt="Creative Commons License" src="/imgs/cc.png"/>
+        </a>
+        <p>Nemin (2018 - 2019)</p>
+      </div>
+    </div>
     <div id="content">
     {{ content }}
     </div>
-
-    <p class="centered"><a href="/">Back to the frontpage</a></p>
-    <hr>
-    <footer>
-      <div id="footer">
-      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-        <img alt="Creative Commons License" src="/imgs/cc.png"/>
-      </a>
-      <p>Nemin (2018 - 2019)</p>
-      </div>
-    </footer>
+    </div>
   </body>
 </html>
