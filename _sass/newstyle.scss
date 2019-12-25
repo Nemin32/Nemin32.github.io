@@ -36,6 +36,7 @@ h1,h2,h3
 a
 {
     color: $link-color;
+    font-weight: bold;
 }
 
 p
@@ -175,7 +176,7 @@ img
     color: white;
     font-family: "Lato", sans-serif;
 
-    p{line-height: 1.2; text-align: center;}
+    p, h3 {line-height: 1.2; text-align: center;}
 
     display: flex;
     flex-direction: column;
