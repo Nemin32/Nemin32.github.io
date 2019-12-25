@@ -2,21 +2,11 @@
 ---
 
 /* HEADERS */
-h1
-{
-    margin-top: 0;
-}
-
 h2
 {
-    background: #242;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-
-    color: #efefef;
-
-    margin-bottom: 2rem;
-    margin-top: 0;
+    margin: 0;
+    margin-left: 3.75rem;
+    text-align: left;
 }
 
 
@@ -26,8 +16,7 @@ ul
     list-style-type: none;
     display: flex;
     flex-wrap: wrap;
-    margin: 20px auto;
-    justify-content: center;
+    margin: 0 auto;
 
     padding-left: 4rem;
     padding-right: calc(4rem - 20px);
@@ -43,20 +32,16 @@ ul
         text-decoration: none;
     }
 
-    &:after
-    {
-        content: "";
-        flex: 0 1 33%;
-    }
+    width: unset !important;
 }
 
 li
 {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
-    width: calc(33% - 20px);
+    width: calc(25% - 20px);
     margin: 20px;
     margin-left: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 0px !important;
     transition: all .2s ease-in-out;
 
     &:hover {
@@ -73,10 +58,15 @@ li
 /* LIST ELEMENT STYLING */
 .category
 {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    //box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
     background: #dfdfdf;
     padding-bottom: 2rem;
-    margin-bottom: 4rem;
+    padding-top: 3rem;
+
+    //width: 60%;
+    //margin-left: auto;
+    //margin-right: auto;
+    //margin-bottom: 2rem;
 }
 
 .date
@@ -100,6 +90,7 @@ li
     color: white;
 
     border: none;
+    font-family: "Lato", sans-serif;
 }
 
 .content
@@ -109,7 +100,7 @@ li
     flex-grow: 1;
 
     padding: 10px 15px 5px 15px;
-    font-family: "Fira Sans", sans-serif;
+    font-family: "Lato", sans-serif;
 }
 
 .link, .date
