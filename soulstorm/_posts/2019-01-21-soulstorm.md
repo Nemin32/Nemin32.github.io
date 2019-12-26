@@ -17,7 +17,7 @@ These are links where nearly all tangible info can be found.
 * [GDC 2019 - "A Glimpse of a Cinematic"](https://www.youtube.com/watch?v=9nHf_ejvqA0)
 * [My thoughts about GDC](https://oddwords.hu/gdc)
 * [EGX Talk](https://www.youtube.com/watch?v=L3zdCg4tbOc)
-* [EGX Transcript](egx_images.html)
+* [EGX Transcript](egx)
 * [Caddicarus Interview](https://www.youtube.com/watch?v=GdDpdJxcZvQ)
 * [Caddicarus Transcript](https://magogonthemarch.com/transcripts/egx-2017-lorne-lanning-interview/)
 * [Soulstorm Teaser Video](https://www.youtube.com/watch?v=1p0o2c4NGpk)
@@ -67,7 +67,7 @@ platformer game and then push that dynamic too."
 
 * The game will feature a crafting system.
 
-> <a href = "egx_images.html">Lorne Lanning:</a>
+> <a href = "egx">Lorne Lanning:</a>
 > "And those consumer products, he can start converting into
 weapons and he can have then start finding with collectibles crafting those
 weapons into more specialized things. So inventory system and crafting has
@@ -95,7 +95,7 @@ two days of withdrawal will result in their death by cardiac arrest.
 * The brew is also very flammable, which can be potentially used in gameplay
 (area control?).
 
-> <a href = "egx_images.html">Lorne Lanning:</a>
+> <a href = "egx">Lorne Lanning:</a>
 > "So let's just say brew, one of the side effects of brew is
 that it's highly flammable. And everyone's addicted to it!"
 
@@ -103,7 +103,7 @@ that it's highly flammable. And everyone's addicted to it!"
 * Abe will be able to lead a huge number of Mudokons (up to 301) and OWI
 completely overhauled the GameSpeak to make this comfortable to use.
 
-> <a href = "egx_images.html">Lorne Lanning:</a>
+> <a href = "egx">Lorne Lanning:</a>
 > "So this game begins with 301 freed Mudokons, that you're going
 to try and take with you through the journey, because they don't just
 disappear into the ether, they're gonna stay with you and at times in real
@@ -130,7 +130,7 @@ will also be able to amass Chi, which will let him use powerful abilities.
 * To get the best ending no Slig must die. (Whether we can save them or we just
 have to leave them be is not known.)
 
-> <a href = "egx_images.html">Lorne Lanning:</a>
+> <a href = "egx">Lorne Lanning:</a>
 > "And in this game you trying not to ideally kill the Sligs
 either. So a perfect play nobody dies.  That's hard as hell! You know, there's
 a lot of PTSD trauma that's going to take place before you achieve that goal,
@@ -156,7 +156,7 @@ However, Molluck has returned and he looks pretty pissed off. Interestingly
 there is no Dripik. As I've [discussed before](facility_trivia), he didn't have
 much role in the Exoddus, so perhaps he is not part of Soulstorm's story.
 
-> <a href = "egx_images.html">Lorne Lanning:</a>
+> <a href = "egx">Lorne Lanning:</a>
 > "We've renamed all the Glukkons that come with the other
 factories, so Aslik, Dripik and all of this. These are different guys now, as
 we were getting more away from what that original story was."
