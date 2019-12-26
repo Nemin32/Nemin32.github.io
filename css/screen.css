@@ -11,6 +11,7 @@ p.lcd {
   padding-right: 16px;
   border-radius: 12px;
   text-transform: uppercase;
+  color: #ccc;
 }
 
 p.lcd.red {
