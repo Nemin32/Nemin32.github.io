@@ -39,6 +39,12 @@ events = [
             "https://www.ign.com/videos/2019/06/12/oddworld-soulstorm-gameplay-walkthrough-ign-live-e3-2019"),
         Event(19,  8, 19, "soulstorm", "OWI announces Epic partnership",
             "https://twitter.com/OddworldInc/status/1163542883036737537"),
+        Event(19, 12, 18, "soulstorm", "\"Just a peek in the dark\" teaser is released",
+            "https://www.youtube.com/watch?v=cyfkkrEpajU"),
+        Event(19, 12, 19, "soulstorm", "\"Come on, Abe!\" teaser is released",
+            "https://www.youtube.com/watch?v=xRSorHyUWdA"),
+        Event(19, 12, 20, "soulstorm", "\"Better watch out!\" teaser is released",
+            "https://www.youtube.com/watch?v=ay2ks5FO_u4"),
 
         Event(19,  2, 16, "discord",   "One hour Discord Q&A",
             "../lanningqna.html"),
