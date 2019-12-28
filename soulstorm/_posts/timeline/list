@@ -240,5 +240,5 @@
 <div class='month'>
 <p class='date'>December</p>
 <div class='events'>
-</div>
+<div class="inner_event"><p class="day event-soulstorm">18.</p>  <a href="https://www.youtube.com/watch?v=cyfkkrEpajU"><p class="event event-soulstorm">"Just a peek in the dark" teaser is released</p></a></div><div class="inner_event"><p class="day event-soulstorm">19.</p>  <a href="https://www.youtube.com/watch?v=xRSorHyUWdA"><p class="event event-soulstorm">"Come on, Abe!" teaser is released</p></a></div><div class="inner_event"><p class="day event-soulstorm">20.</p>  <a href="https://www.youtube.com/watch?v=ay2ks5FO_u4"><p class="event event-soulstorm">"Better watch out!" teaser is released</p></a></div></div>
 </div>
