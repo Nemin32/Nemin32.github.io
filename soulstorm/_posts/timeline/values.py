@@ -53,7 +53,7 @@ events = [
             "https://www.youtube.com/watch?v=ay2ks5FO_u4"),
 
         Event(19,  2, 16, "discord",   "One hour Discord Q&A",
-            "../lanningqna.html"),
+            "/lanningqna"),
         Event(19,  4, 24, "discord",   "Hackattack joins the Discord",
             "https://discordapp.com/channels/293291256736382976/293291256736382976/570667262063935489"),
         Event(19,  5, 13, "discord",   "OWI_Lewis joins the Discord",
@@ -145,6 +145,30 @@ months = [
         "December"
         ]
 
+print(f"""---
+title: "Timeline (Updated: {date.today().strftime("%Y-%m-%d")})"
+summary: A calendar of all the events that happened since 2016.
+---
+
+<link rel="stylesheet" href="/css/timeline.css">
+
+# Timeline
+
+## Every major event since Soulstorm's announcement
+
+### Color codes:
+
+<center>
+<div style="width: 20rem" id="legend">
+<div class="event event-soulstorm"><p>Soulstorm related event</p></div>
+<div class="event event-discord"><p>Discord related event</p></div>
+<div class="event event-project"><p>Start of a side-project</p></div>
+<div class="event event-killed"><p>End of a side-project</p></div>
+<div class="event event-arg"><p>ARG related event</p></div>
+</div>
+</center>
+""")
+
 for year in range(16, 20):
     for month in range(1, 13):
         event_names = []
@@ -179,5 +203,5 @@ for year in range(16, 20):
 
 
         print("</div>")
-        
-print("<p class='centered'>This list was generated on", date.today().strftime("%B %d, %Y"), "</p>")
+
+print("<p class='centered'>This list was generated on", date.today().strftime("%Y-%m-%d."), "</p>")
