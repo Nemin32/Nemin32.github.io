@@ -83,10 +83,10 @@ design which - with some modifications of course - could become a
 nice frontpage for a site.
 
 <div class="showcase">
-    <img id="main_image" src="/imgs/oddwords_timelapse/index/index_1.png">
+    <img id="main_image" src="/imgs/oddwords_timelapse/index/index_1.webp">
     <div id="rest">
     {% for i in (1..4) %}
-        <img src="/imgs/oddwords_timelapse/index/index_{{i}}.png">
+        <img src="/imgs/oddwords_timelapse/index/index_{{i}}.webp">
     {% endfor %}
     </div>
 </div>
@@ -99,10 +99,10 @@ differently colored titles and then did away with that and instead
 chose to use a grid of more traditional "blog-post" like rectangles.
 
 <div class="showcase">
-    <img id="main_image" src="/imgs/oddwords_timelapse/index/index_5.png">
+    <img id="main_image" src="/imgs/oddwords_timelapse/index/index_5.webp">
     <div id="rest">
     {% for i in (5..8) %}
-        <img src="/imgs/oddwords_timelapse/index/index_{{i}}.png">
+        <img src="/imgs/oddwords_timelapse/index/index_{{i}}.webp">
     {% endfor %}
     </div>
 </div>
@@ -117,10 +117,10 @@ call it that, was a simple white-on-black text, with minor formatting.
 The page was pretty hard to read and kind of soulless.
 
 <div class="showcase">
-    <img id="main_image" src="/imgs/oddwords_timelapse/cities/cities_1.png">
+    <img id="main_image" src="/imgs/oddwords_timelapse/cities/cities_1.webp">
     <div id="rest">
     {% for i in (1..10) %}
-        <img src="/imgs/oddwords_timelapse/cities/cities_{{i}}.png">
+        <img src="/imgs/oddwords_timelapse/cities/cities_{{i}}.webp">
     {% endfor %}
     </div>
 </div>
