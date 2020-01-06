@@ -43,7 +43,7 @@ events = [
             "https://twitter.com/OddworldInc/status/1163542883036737537"),
         Event(19, 12,  3, "soulstorm", "Ars Technica releases a video about the Oddworld franchise",
             "https://arstechnica.com/gaming/2019/12/video-how-oddworld-solved-its-narrative-problems-with-mind-control/?utm_brand=arstechnica&utm_source=twitter&utm_social-type=owned&utm_medium=social"),
-        Event(19, 12, 10, "soulstorm", "Stranger's Wrath Switch port is teased to come in March of 2020",
+        Event(19, 12, 10, "soulstorm", "Stranger's Wrath Switch port is teased to come in January 23rd of 2020",
             "https://twitter.com/OddworldInc/status/1204477347363090433"),
         Event(19, 12, 18, "soulstorm", "\"Just a peek in the dark\" teaser is released",
             "https://www.youtube.com/watch?v=cyfkkrEpajU"),
