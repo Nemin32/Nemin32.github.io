@@ -7,7 +7,7 @@ layout: index_layout
     <h2>Newest posts</h2>
     
     <ul>
-    {% for post in site.posts limit:4 %}
+    {% for post in site.posts limit:6 %}
     <li>
     <a href="{{ post.url }}">
         <p title="{{ post.title }}" class="link">{{ post.title }}</p>
