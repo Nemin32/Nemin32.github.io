@@ -5,4 +5,4 @@ defaults:
     values:
       layout: "default"
 
-permalink: /:title.html
+permalink: /:title/index.html
