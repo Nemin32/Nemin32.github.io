@@ -77,6 +77,7 @@ events = [
 
         Event(18,  9, 12, "project",   "OWI announces Stranger Switch port",
             "https://twitter.com/OddworldInc/status/1039843328035102720"),
+        Event(20,  1, 23, "project",   "Stranger's Wrath arrives to the Nintendo Switch"),
 
         Event(19,  9, 23, "killed",    "22nd anniversary series abruptly ends"),
         Event(19, 11, 23, "killed",    "21st anniversary series ends"),
@@ -169,7 +170,7 @@ summary: A calendar of all the events that happened since 2016.
 </center>
 """)
 
-for year in range(16, 20):
+for year in range(16, 21):
     for month in range(1, 13):
         event_names = []
         for event in events:
