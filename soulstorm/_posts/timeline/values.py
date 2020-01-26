@@ -80,7 +80,7 @@ events = [
         Event(20,  1, 23, "project",   "Stranger's Wrath arrives to the Nintendo Switch"),
 
         Event(19,  9, 23, "killed",    "22nd anniversary series abruptly ends"),
-        Event(19, 11, 23, "killed",    "21st anniversary series ends"),
+        Event(19, 11, 20, "killed",    "21st anniversary series abruptly ends"),
         Event(19,  6,  1, "killed",    "The Oddwall gets shelved"),
         Event(19,  7, 17, "killed",    "The #oddcast channel disappears"),
         Event(19,  4, 24, "killed",    "Lost Archives ends",
@@ -123,7 +123,7 @@ events = [
         Event(16,  6, 28, "arg",       "1029.io is revealed",
             "https://1029.io/"),
         Event(17,  8,  7, "arg",       "MagogCartel.com is revealed",
-            "https://magogcartel.com"),
+            "http://magogcartel.com"),
         Event(18,  9, 30, "arg",       "Crashpunk receives a canister",
             "https://twitter.com/Crashpunk_Plays/status/1046446823399927815"),
         Event(19,  7, 31, "arg",       "OddworldNetwork.com is revealed",
@@ -193,7 +193,7 @@ for year in range(16, 21):
                 else:
                     day = "??"
 
-                print('<div class="inner_event">', end='')
+                print(f'<div class="inner_event">', end='')
                 print(f'<p class="day event-{event_names[i].event_type}">{day}</p>', end='')
                 if event_names[i].link is not None: print(f'  <a href="{event_names[i].link}">', end='')
                 print(f'<p class="event event-{event_names[i].event_type}">{event_names[i].name}</p>', end='')
