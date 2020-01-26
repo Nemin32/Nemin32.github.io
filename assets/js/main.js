@@ -7,12 +7,18 @@ fetch("/assets/json/posts.json").then(e => e.json()).then(json => {
     }
     elems.sort()
 
-    let toc = document.createElement("ul");
+    let toc = document.createElement("select");
     for (let elem of elems) {
-        let li = document.createElement("li")
-        li.innerHTML = `<a href="#${elem}">${elem}</a>`
+        let li = document.createElement("option")
+        li.innerHTML = `${elem}`
         toc.appendChild(li)
     }
+
+    toc.addEventListener("change", () => {
+        console.log(toc.value)
+        window.location.hash = toc.value
+    })
+    
     document.getElementById("content").insertBefore(toc, root)
 
     for (let elem of elems) {
