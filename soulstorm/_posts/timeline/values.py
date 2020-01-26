@@ -171,14 +171,14 @@ summary: A calendar of all the events that happened since 2016.
 """)
 
 for year in range(16, 21):
+    print(f"<h3>20{year}</h3>")
+    print("<div class='year'>")
     for month in range(1, 13):
         event_names = []
         for event in events:
             if event.year == year and event.month == month:
                 event_names.append(event)
 
-        if month == 1:
-            print(f"<h3>20{year}</h3>")
 
         print(f"<div class='month'>\n<p class='date'>{months[month]}</p>")
 
@@ -204,5 +204,6 @@ for year in range(16, 21):
 
 
         print("</div>")
+    print("</div>")
 
 print("<p class='centered'>This list was generated on", date.today().strftime("%Y-%m-%d."), "</p>")
