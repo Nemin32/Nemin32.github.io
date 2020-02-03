@@ -45,7 +45,7 @@
   text-align: center;
 }
 
-$event-height: 5rem;
+$event-height: 3rem;
 .events {
   min-height: 3*$event-height;
 }
@@ -54,13 +54,28 @@ $event-height: 5rem;
   display: grid;
   grid-template-columns: 15% 85%;
   border-bottom: 1px solid;
-  min-height: $event-height;
+  height: $event-height;
 
   p {
     margin: 0;
     padding: 0.5rem;
     font-weight: bold;
     color: black;
+
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    min-width: 0;
+
+    &:hover {
+      overflow: unset;
+      white-space: unset;
+    }
+  }
+
+  &:hover {
+    min-height: $event-height;
+    height: auto;
   }
 }
 
