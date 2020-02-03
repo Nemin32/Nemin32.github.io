@@ -90,8 +90,8 @@ const struct EVENT event_list[] = {
   EVENT(19, 12,  9, SOULSTORM, "Soulstorm takes part in the Unity Awards as a contestant for \"Most anticipated\"", "https://twitter.com/OddworldInc/status/1204091501153640450"),
   EVENT(19, 12, 18, SOULSTORM, "\"Just a peek in the dark\" teaser is released", "https://www.youtube.com/watch?v=cyfkkrEpajU"),
   EVENT(19, 12, 19, SOULSTORM, "\"Come on, Abe!\" teaser is released", "https://www.youtube.com/watch?v=xRSorHyUWdA"),
-  EVENT(19, 12, 20, SOULSTORM, "Soulstorm doesn't win \"Most anticipated\" at Unity Awards", "https://awards.unity.com/2019"),
   EVENT(19, 12, 20, SOULSTORM, "\"Better watch out!\" teaser is released", "https://www.youtube.com/watch?v=ay2ks5FO_u4"),
+  EVENT(19, 12, 20, SOULSTORM, "Soulstorm doesn't win \"Most anticipated\" at Unity Awards", "https://awards.unity.com/2019"),
   EVENT(20,  1, 14, SOULSTORM, "Soulstorm appears in 1UP Conf's Most Awaited Sequel poll and wins", "https://twitter.com/1UPconf/status/1217015459893170177"),
 
   /* ARG */
