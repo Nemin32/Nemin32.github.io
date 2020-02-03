@@ -151,9 +151,11 @@ const unsigned long NUM_OF_EVENTS = sizeof(event_list)/sizeof(struct EVENT);
 void display_event(struct EVENT event) {
   printf("<div class='event_container'>\n");
   printf("<p class='day event-%s'>%d.</p>\n", enum_to_str(event.type), event.day);
-  if (event.url != NULL) {printf("<a href='%s'>\n", event.url);}
-  printf("<p>%s</p>\n", event.desc);
-  if (event.url != NULL) {printf("</a>\n");}
+  printf("<p>");
+  if (event.url != NULL) {printf("<a href='%s'>", event.url);}
+  printf("%s", event.desc);
+  if (event.url != NULL) {printf("</a>");}
+  printf("</p>\n");
   printf("</div>\n");
 }
 
