@@ -188,23 +188,25 @@ int main(void) {
 
   //if (0)
   for (int year = 16; year <= 20; year++) {
-    printf("<h2>20%d</h2>\n", year);
     printf("<div class='year'>\n");
+    printf("<h2>20%d</h2>\n", year);
+    printf("<div>\n");
     for (int month = 1; month <= 12; month++) {
       printf("<div class='month'>\n<p class='month_name'>%s</p>\n", months[month-1]);
-        printf("<div class='events'>\n");
+      printf("<div class='events'>\n");
 
-        for (int day = 1; day <= 31; day++) {
-          for (int i = 0; i < NUM_OF_EVENTS; i++) {
-            if (event_list[i].year == year && event_list[i].month == month && event_list[i].day == day) {
-              display_event(event_list[i]);
-            }
+      for (int day = 1; day <= 31; day++) {
+        for (int i = 0; i < NUM_OF_EVENTS; i++) {
+          if (event_list[i].year == year && event_list[i].month == month && event_list[i].day == day) {
+            display_event(event_list[i]);
           }
         }
+      }
 
-        printf("</div>\n");
+      printf("</div>\n");
       printf("</div>\n");
     }
+    printf("</div>\n");
     printf("</div>\n");
   }
 
