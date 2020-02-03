@@ -21,6 +21,7 @@ const char* header =
 "---\n" \
 "title: \"Timeline (Updated: %s)\"\n" \
 "summary: A calendar of all the events that happened since 2016.\n" \
+"tags: [\"spec\"]\n" \
 "---\n" \
 "\n" \
 "<link rel=\"stylesheet\" href=\"/css/timeline.css\">\n" \
