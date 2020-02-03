@@ -24,11 +24,6 @@
   margin-bottom: 0.2rem;
 }
 
-.day {
-  color: white;
-  text-align: right;
-}
-
 #legend .event p {
   margin: 0;
 }
@@ -63,6 +58,12 @@
 
   padding: 0.5rem;
   font-weight: bold;
+  color: black;
+}
+
+.day {
+  color: white !important;
+  text-align: right;
 }
 
 .event-arg {
