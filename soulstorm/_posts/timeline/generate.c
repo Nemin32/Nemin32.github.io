@@ -1,0 +1,202 @@
+#include <stdio.h>
+#include <time.h>
+#define EVENT(_year, _month, _day, _type, _desc, _url) { .year = _year, .month = _month, .day = _day, .type = _type, .desc = _desc, .url = _url }
+
+const char* months[] = {
+  "January",
+  "February",
+  "March",
+  "April",
+  "May",
+  "June",
+  "July",
+  "August",
+  "September",
+  "October",
+  "November",
+  "December"
+};
+
+const char* header =
+"summary: A calendar of all the events that happened since 2016.\n" \
+"---\n" \
+"\n" \
+"<link rel=\"stylesheet\" href=\"/css/timeline.css\">\n" \
+"\n" \
+"# Timeline\n" \
+"\n" \
+"## Every major event since Soulstorm's announcement\n" \
+"\n" \
+"### Color codes:\n" \
+"\n" \
+"<center>\n" \
+"<div style=\"width: 20rem\" id=\"legend\">\n" \
+"<div class=\"event event-soulstorm\"><p>Soulstorm related event</p></div>\n" \
+"<div class=\"event event-discord\"><p>Discord related event</p></div>\n" \
+"<div class=\"event event-marketing\"><p>Marketing/Social media related event</p></div>\n" \
+"<div class=\"event event-killed\"><p>End of such an event</p></div>\n" \
+"<div class=\"event event-arg\"><p>ARG related event</p></div>\n" \
+"<div class=\"event event-other\"><p>Other Oddworld-related news (e.g. port announcements)</p></div>\n" \
+"</div>\n" \
+"</center>\n";
+
+
+enum EVENT_TYPE {
+  MARKETING,
+  KILLED,
+  SOULSTORM,
+  ARG,
+  DISCORD,
+  OTHER
+};
+
+const char* enum_to_str(enum EVENT_TYPE type) {
+  switch (type) {
+    case MARKETING:
+      return "marketing";
+    case KILLED:
+      return "killed";
+    case SOULSTORM:
+      return "soulstorm";
+    case ARG:
+      return "arg";
+    case DISCORD:
+      return "discord";
+    case OTHER:
+      return "other";
+  };
+}
+
+struct EVENT {
+  int year;
+  int month;
+  int day;
+  enum EVENT_TYPE type;
+  const char* desc;
+  const char* url;
+};
+
+const struct EVENT event_list[] = {
+  /* SOULSTORM */
+  EVENT(16,  3, 14, SOULSTORM, "Soulstorm is announced at GDC", "https://www.wired.co.uk/article/oddworld-soulstorm-gaming-classic-returns"),
+  EVENT(17,  9, 22, SOULSTORM, "Lorne Lanning appears at GDX", "https://www.youtube.com/watch?v=L3zdCg4tbOc"),
+  EVENT(17,  9, 25, SOULSTORM, "\"Projekt: Soulstorm\" trailer video is shown", "https://www.youtube.com/watch?v=1p0o2c4NGpk&t=1s"),
+  EVENT(18,  1, 12, SOULSTORM, "First in-game screenshot is released", "https://pbs.twimg.com/profile_banners/20823262/1515636880/1500x500"),
+  EVENT(18,  6, 19, SOULSTORM, "Lorne Lanning appears at Unite Berlin", "https://www.youtube.com/watch?v=Kv9Zoyo8o8s"),
+  EVENT(19,  5, 13, SOULSTORM, "First gameplay teaser is shown", "https://www.youtube.com/watch?v=6wJAdfTJZUQ"),
+  EVENT(19,  6, 13, SOULSTORM, "Soulstorm shown at E3", "https://www.ign.com/videos/2019/06/12/oddworld-soulstorm-gameplay-walkthrough-ign-live-e3-2019"),
+  EVENT(19,  8, 19, SOULSTORM, "OWI announces Epic partnership", "https://twitter.com/OddworldInc/status/1163542883036737537"),
+  EVENT(19, 12,  3, SOULSTORM, "Ars Technica releases a video about the Oddworld franchise", "https://arstechnica.com/gaming/2019/12/video-how-oddworld-solved-its-narrative-problems-with-mind-control/"),
+  EVENT(19, 12,  9, SOULSTORM, "Soulstorm takes part in the Unity Awards as a contestant for \"Most anticipated\"", "https://twitter.com/OddworldInc/status/1204091501153640450"),
+  EVENT(19, 12, 18, SOULSTORM, "\"Just a peek in the dark\" teaser is released", "https://www.youtube.com/watch?v=cyfkkrEpajU"),
+  EVENT(19, 12, 19, SOULSTORM, "\"Come on, Abe!\" teaser is released", "https://www.youtube.com/watch?v=xRSorHyUWdA"),
+  EVENT(19, 12, 20, SOULSTORM, "Soulstorm doesn't win \"Most anticipated\" at Unity Awards", "https://awards.unity.com/2019"),
+  EVENT(19, 12, 20, SOULSTORM, "\"Better watch out!\" teaser is released", "https://www.youtube.com/watch?v=ay2ks5FO_u4"),
+  EVENT(20,  1, 14, SOULSTORM, "Soulstorm appears in 1UP Conf's Most Awaited Sequel poll and wins", "https://twitter.com/1UPconf/status/1217015459893170177"),
+
+  /* ARG */
+  EVENT(16,  3, 16, ARG,       "First phase of the ARG starts", "http://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary"),
+  EVENT(16,  4,  4, ARG,       "Second phase of the ARG starts", NULL),
+  EVENT(16,  5, 29, ARG,       "Third phase of the ARG starts", NULL),
+  EVENT(16,  6, 28, ARG,       "1029.io is revealed", "https://1029.io/"),
+  EVENT(17,  1, 19, ARG,       "The first ARG transmission airs", NULL),
+  EVENT(17,  2,  2, ARG,       "The second ARG transmission airs", NULL),
+  EVENT(17,  2, 23, ARG,       "The third ARG transmission airs", NULL),
+  EVENT(17,  4, 19, ARG,       "The fourth ARG transmission airs", NULL),
+  EVENT(17,  8,  7, ARG,       "MagogCartel.com is revealed", "http://magogcartel.com"),
+  EVENT(18,  9, 30, ARG,       "Crashpunk receives a canister", "https://twitter.com/Crashpunk_Plays/status/1046446823399927815"),
+  EVENT(19,  7, 31, ARG,       "OddworldNetwork.com is revealed", "https://oddworldnetwork.com"),
+
+  /* MARKETING */
+  EVENT(17,  1, 17, MARKETING, "Dear Alf #77", "https://www.oddworld.com/2017/01/dear-alf-77-ed-abe-and-stranger/"),
+  EVENT(17, 12,  4, MARKETING, "Lost Archives launches", "http://www.oddworld.com/2017/12/announcing-oddworld-the-lost-archives/"),
+  EVENT(17, 12,  4, MARKETING, "Oddysee's source is found", "http://www.oddworld.com/2017/12/announcing-oddworld-the-lost-archives/"),
+  EVENT(18,  3, 20, MARKETING, "Abe's Origin launches", "https://www.kickstarter.com/projects/1869209521/oddworld-abes-origins-book-and-game-collection"),
+  EVENT(18,  5,  3, MARKETING, "The first Oddcast airs", "https://www.youtube.com/watch?v=AbG_Fg_gbC0"),
+  EVENT(18,  7,  9, MARKETING, "The Queens page launches", "https://oddworld.com/queens"),
+  EVENT(18,  8,  7, MARKETING, "The idea of an official Wiki surfaces", "https://discordapp.com/channels/293291256736382976/293291256736382976/476323833545228298"),
+  EVENT(19,  4, 17, MARKETING, "Newsletter #1", "https://mailchi.mp/oddworld/read-the-first-of-our-new-oddworld-community-newsletters-right-now-with-issue-1"),
+  EVENT(19,  4, 29, MARKETING, "The Oddwall launches", "https://oddworld.com/oddwall"),
+  EVENT(19,  5, 30, MARKETING, "Newsletter #2", "https://mailchi.mp/oddworld/the-latest-issue-of-the-oddworld-newsletter-is-here-now"),
+  EVENT(19,  6,  5, MARKETING, "Newsletter #3", "https://mailchi.mp/oddworld/newsletter3"),
+  EVENT(19,  9, 19, MARKETING, "AO's 22nd anniversary video #1", "https://www.youtube.com/watch?v=0sfL1vqDdf4"),
+  EVENT(19,  9, 20, MARKETING, "AO's 22nd anniversary video #2", "https://www.youtube.com/watch?v=0DSJ1qUibXc"),
+  EVENT(19,  9, 23, MARKETING, "AO's 22nd anniversary video #3", "https://www.youtube.com/watch?v=2JohJi-lG80"),
+  EVENT(19, 11, 18, MARKETING, "AE' 21st anniversary video #1", "https://www.youtube.com/watch?v=csSCkk-xULw"),
+  EVENT(19, 11, 19, MARKETING, "AE' 21st anniversary video #2", "https://www.youtube.com/watch?v=6kSUOTlDRCg"),
+  EVENT(19, 11, 20, MARKETING, "AE' 21st anniversary video #3", "https://www.youtube.com/watch?v=XyWvUL9K_co"),
+
+  /* OTHER PROJECT */
+  EVENT(18,  9, 12, OTHER,     "OWI announces Stranger Switch port", "https://twitter.com/OddworldInc/status/1039843328035102720"),
+  EVENT(19,  1, 10, OTHER,     "Microids announces three title co-publishing deal on the Switch", "https://www.microids.com/us/microids-and-oddworld-inhabitants-agree-on-a-three-title-co-publishing-deal-2/"),
+  EVENT(19, 12, 10, OTHER,     "Stranger's Wrath Switch port is teased to come in January 23rd of 2020", "https://twitter.com/OddworldInc/status/1204477347363090433"),
+  EVENT(20,  1, 23, OTHER,     "Stranger's Wrath arrives to the Nintendo Switch", NULL), 
+
+  /* DISCORD */
+  EVENT(17,  5,  2, DISCORD,   "Discord server launches", "https://discordapp.com/channels/293291256736382976/293291256736382976/308969023981486082"),
+  EVENT(19,  2, 16, DISCORD,   "One hour Discord Q&A", "/lanningqna"),
+  EVENT(19,  4, 24, DISCORD,   "Hackattack joins the Discord", "https://discordapp.com/channels/293291256736382976/293291256736382976/570667262063935489"),
+  EVENT(19,  5, 13, DISCORD,   "OWI_Lewis joins the Discord", "https://discordapp.com/channels/293291256736382976/293291256736382976/577526814411325450"),
+
+  /* KILLED */
+  EVENT(19,  4, 24, KILLED,    "Lost Archives ends", "https://www.instagram.com/p/Bwpif1ElJwF/"),
+  EVENT(19,  6,  1, KILLED,    "The Oddwall gets shelved", NULL),
+  EVENT(19,  7, 17, KILLED,    "The #oddcast channel disappears", NULL),
+  EVENT(19,  9, 23, KILLED,    "22nd anniversary series abruptly ends", NULL),
+  EVENT(19, 11, 20, KILLED,    "21st anniversary series abruptly ends", NULL),
+};
+
+const unsigned long NUM_OF_EVENTS = sizeof(event_list)/sizeof(struct EVENT);
+
+void display_event(struct EVENT event) {
+  printf("<div class='event_container'>\n");
+  printf("<p class='day event-%s'>%d.</p>\n", enum_to_str(event.type), event.day);
+  if (event.url != NULL) {printf("<a href='%s'>\n", event.url);}
+  printf("<p>%s</p>\n", event.desc);
+  if (event.url != NULL) {printf("</a>\n");}
+  printf("</div>\n");
+}
+
+void get_date(char* buffer) {
+  time_t timer;
+  struct tm* tm_info;
+
+  timer = time(NULL);
+  tm_info = localtime(&timer);
+
+  strftime(buffer, 26, "%Y-%m-%d", tm_info);
+}
+
+int main(void) {
+  char date[26];
+  get_date(date);
+
+  printf("---\ntitle: \"Timeline (Updated: %s)\"\n", date);
+  printf("%s", header);
+
+  printf("<p class='centered'>This list was generated on %s and keeps track of %lu events.</p>\n", date, NUM_OF_EVENTS);
+
+  //if (0)
+  for (int year = 16; year <= 20; year++) {
+    printf("<h3>20%d</h3>\n", year);
+    printf("<div class='year'>\n");
+    for (int month = 1; month <= 12; month++) {
+      printf("<div class='month'>\n<p class='month_name'>%s</p>\n", months[month-1]);
+        printf("<div class='events'>\n");
+
+        for (int day = 1; day <= 31; day++) {
+          for (int i = 0; i < NUM_OF_EVENTS; i++) {
+            if (event_list[i].year == year && event_list[i].month == month && event_list[i].day == day) {
+              display_event(event_list[i]);
+            }
+          }
+        }
+
+        printf("</div>\n");
+      printf("</div>\n");
+    }
+    printf("</div>\n");
+  }
+
+  return 0;
+}
