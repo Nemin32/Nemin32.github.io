@@ -28,7 +28,7 @@
   margin-left: auto;
   margin-right: auto;
   padding: 1rem;
-  padding-right: calc(1rem - 1rem);
+  justify-content: center;
 }
 
 
@@ -52,7 +52,7 @@ $event-height: 3rem;
 
 .event_container {
   display: grid;
-  grid-template-columns: 15% 85%;
+  grid-template-columns: 3rem auto;
   border-bottom: 1px solid;
   height: $event-height;
 
@@ -86,20 +86,20 @@ $event-height: 3rem;
 }
 
 .event-arg {
-  background: #004400;
+  background: #444;
 }
 .event-soulstorm {
-  background: #006600;
+  background: #306040;
 }
 .event-killed {
-  background: #003344;
+  background: #904035;
 }
 .event-other {
-  background: #004422;
+  background: #C09040;
 }
 .event-discord {
-  background: #224400;
+  background: #650B1D;
 }
 .event-marketing {
-  background: #201020;
+  background: #B07060;
 }

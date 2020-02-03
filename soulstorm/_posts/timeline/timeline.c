@@ -18,6 +18,8 @@ const char* months[] = {
 };
 
 const char* header =
+"---\n" \
+"title: \"Timeline (Updated: %s)\"\n" \
 "summary: A calendar of all the events that happened since 2016.\n" \
 "---\n" \
 "\n" \
@@ -25,7 +27,10 @@ const char* header =
 "\n" \
 "# Timeline\n" \
 "\n" \
-"## Every major event since Soulstorm's announcement\n" \
+"On this page you can find most, if not all major events that happened since Soulstorm's announcement, separated into categories for easier navigation. " \
+"Mouse over events ending in '...' to see the rest of their text.\n" \
+"\n" \
+"<p class='centered'>This list was generated on %s and keeps track of %lu events.</p>\n" \
 "\n" \
 "### Color codes:\n" \
 "\n" \
@@ -79,8 +84,8 @@ struct EVENT {
 const struct EVENT event_list[] = {
   /* SOULSTORM */
   EVENT(16,  3, 14, SOULSTORM, "Soulstorm is announced at GDC", "https://www.wired.co.uk/article/oddworld-soulstorm-gaming-classic-returns"),
-  EVENT(17,  9, 22, SOULSTORM, "Lorne Lanning appears at GDX", "https://www.youtube.com/watch?v=L3zdCg4tbOc"),
-  EVENT(17,  9, 25, SOULSTORM, "\"Projekt: Soulstorm\" trailer video is shown", "https://www.youtube.com/watch?v=1p0o2c4NGpk&t=1s"),
+  EVENT(17,  9, 22, SOULSTORM, "Lorne Lanning presents Soulstorm at EGX 2017", "https://www.youtube.com/watch?v=L3zdCg4tbOc"),
+  EVENT(17,  9, 25, SOULSTORM, "\"Projekt: Soulstorm\" trailer video is shown", "https://www.youtube.com/watch?v=1p0o2c4NGpk"),
   EVENT(18,  1, 12, SOULSTORM, "First in-game screenshot is released", "https://pbs.twimg.com/profile_banners/20823262/1515636880/1500x500"),
   EVENT(18,  6, 19, SOULSTORM, "Lorne Lanning appears at Unite Berlin", "https://www.youtube.com/watch?v=Kv9Zoyo8o8s"),
   EVENT(19,  5, 13, SOULSTORM, "First gameplay teaser is shown", "https://www.youtube.com/watch?v=6wJAdfTJZUQ"),
@@ -112,7 +117,6 @@ const struct EVENT event_list[] = {
   EVENT(17, 12,  4, MARKETING, "Lost Archives launches", "http://www.oddworld.com/2017/12/announcing-oddworld-the-lost-archives/"),
   EVENT(17, 12,  4, MARKETING, "Oddysee's source is found", "http://www.oddworld.com/2017/12/announcing-oddworld-the-lost-archives/"),
   EVENT(18,  3, 20, MARKETING, "Abe's Origin launches", "https://www.kickstarter.com/projects/1869209521/oddworld-abes-origins-book-and-game-collection"),
-  EVENT(18,  5,  3, MARKETING, "The first Oddcast airs", "https://www.youtube.com/watch?v=AbG_Fg_gbC0"),
   EVENT(18,  7,  9, MARKETING, "The Queens page launches", "https://oddworld.com/queens"),
   EVENT(18,  8,  7, MARKETING, "The idea of an official Wiki surfaces", "https://discordapp.com/channels/293291256736382976/293291256736382976/476323833545228298"),
   EVENT(19,  4, 17, MARKETING, "Newsletter #1", "https://mailchi.mp/oddworld/read-the-first-of-our-new-oddworld-community-newsletters-right-now-with-issue-1"),
@@ -125,6 +129,13 @@ const struct EVENT event_list[] = {
   EVENT(19, 11, 18, MARKETING, "AE' 21st anniversary video #1", "https://www.youtube.com/watch?v=csSCkk-xULw"),
   EVENT(19, 11, 19, MARKETING, "AE' 21st anniversary video #2", "https://www.youtube.com/watch?v=6kSUOTlDRCg"),
   EVENT(19, 11, 20, MARKETING, "AE' 21st anniversary video #3", "https://www.youtube.com/watch?v=XyWvUL9K_co"),
+
+  /* ODDCASTS */
+  EVENT(18,  5,  3, MARKETING, "The first Oddcast airs", "https://www.youtube.com/watch?v=AbG_Fg_gbC0"),
+  EVENT(18,  6, 13, MARKETING, "The third Oddcast airs", "https://www.youtube.com/watch?v=g_5B7Tc2UoA"),
+  EVENT(18,  6, 29, MARKETING, "The sixth Oddcast airs", "https://www.youtube.com/watch?v=hnQrpJpPWbE"),
+  EVENT(18, 10,  7, MARKETING, "Oddcast: November Q&A",  "https://www.youtube.com/watch?v=FEv1XFuuBjI"),
+  EVENT(19,  7, 17, KILLED,    "The #oddcast channel disappears", NULL),
 
   /* OTHER PROJECT */
   EVENT(18,  9, 12, OTHER,     "OWI announces Stranger Switch port", "https://twitter.com/OddworldInc/status/1039843328035102720"),
@@ -141,7 +152,6 @@ const struct EVENT event_list[] = {
   /* KILLED */
   EVENT(19,  4, 24, KILLED,    "Lost Archives ends", "https://www.instagram.com/p/Bwpif1ElJwF/"),
   EVENT(19,  6,  1, KILLED,    "The Oddwall gets shelved", NULL),
-  EVENT(19,  7, 17, KILLED,    "The #oddcast channel disappears", NULL),
   EVENT(19,  9, 23, KILLED,    "22nd anniversary series abruptly ends", NULL),
   EVENT(19, 11, 20, KILLED,    "21st anniversary series abruptly ends", NULL),
 };
@@ -173,14 +183,11 @@ int main(void) {
   char date[26];
   get_date(date);
 
-  printf("---\ntitle: \"Timeline (Updated: %s)\"\n", date);
-  printf("%s", header);
-
-  printf("<p class='centered'>This list was generated on %s and keeps track of %lu events.</p>\n", date, NUM_OF_EVENTS);
+  printf(header, date, date, NUM_OF_EVENTS);
 
   //if (0)
   for (int year = 16; year <= 20; year++) {
-    printf("<h3>20%d</h3>\n", year);
+    printf("<h2>20%d</h2>\n", year);
     printf("<div class='year'>\n");
     for (int month = 1; month <= 12; month++) {
       printf("<div class='month'>\n<p class='month_name'>%s</p>\n", months[month-1]);
