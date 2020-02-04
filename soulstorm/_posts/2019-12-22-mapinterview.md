@@ -8,10 +8,7 @@ summary: The author of the new Mudos-map found in Abe's Origins shares her exper
 
 # Nemin interviews Sammi McEwan
 
-![](/imgs/sammi_stranger.jpg){: style="max-width: 40%"}
-
-© [Sammi McEwan](https://www.artstation.com/artwork/xzOnDr), used with permission
-{:.subtitle}
+{% include caption.html url="/imgs/sammi_stranger.jpg" description='<center>© <a href="https://www.artstation.com/artwork/xzOnDr">Sammi McEwan</a>, used with permission</center>' %}
 
 With [Abe's Origins](https://www.kickstarter.com/projects/1869209521/oddworld-abes-origins-book-and-game-collection) released Oddworld finally received a new map, designed by freelance artist [Sammi McEwan](https://www.artstation.com/sammimcewan), who was also kind enough to take part in an interview with me about the creation of the map, which can be read below.
 
@@ -57,12 +54,8 @@ Haha, I feel very similar, through I personally can't really choose between Oddy
 
 ## The Map
 
-![](/imgs/sammi_mudos_map.jpg){: style="max-width: 80%"}
-
-© Sammi McEwan, used with permission  
-The new canon map replacing [the old one](https://oddworld.fandom.com/wiki/Mudos?file=Oddworld_map.JPG) seen in
-*The Art of Oddworld Inhabitants*. For a higher quality version along with previous iterations click [here](https://www.artstation.com/artwork/8l0xAQ)  
-{:.subtitle}
+{% include caption.html url="/imgs/sammi_mudos_map.jpg" description='<center>© Sammi McEwan, used with permission</center> 
+The new canon map replacing <a href="https://oddworld.fandom.com/wiki/Mudos?file=Oddworld_map.JPG">the old one</a> seen in <i>The Art of Oddworld Inhabitants</i>. For a higher quality version along with previous iterations click <a href="https://www.artstation.com/artwork/8l0xAQ">here</a>.' %}{:.big}
 
 **Nemin:**
 I would like to continue with the main topic, the new map drawn by you and featured in Abe's Origins.
@@ -99,11 +92,8 @@ Ah, I just brought that map up, because it's something I'm familiar with. I see 
 >
 > The map was designed for the book and the book follows Abe's journey so far, so the map reflects that, rather than being a full map of Oddworld
 
-![](/imgs/sammi_compass.jpg)
-
-© Sammi McEwan, used with permission  
-The second iteration of the map, with a compass bearing OWI's logo in the bottom right corner, which was sadly cut in the final version.
-{:.subtitle}
+{% include caption.html url="/imgs/sammi_compass.jpg" description="<center>© Sammi McEwan, used with permission</center>
+The second iteration of the map, with a compass bearing OWI's logo in the bottom right corner, which was sadly cut in the final version." %}
 
 **Nemin:**
 Why did the compass disappear?
