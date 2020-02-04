@@ -11,15 +11,9 @@ On this page I'm collecting interesting facts from the canon that I found, that 
 
 ### "Mudombies"[^1]:
 
-![](/imgs/mudombie2.jpg)
+{% include caption.html url="/imgs/mudombie2.jpg" description="Freaky!" %}
 
-{:.subtitle}
-Freaky!
-
-![](/imgs/mudombie.jpg)
-
-{:.subtitle}
-Also older variants of the Fleeches, they resemble furless Fuzzles.
+{% include caption.html url="/imgs/mudombie.jpg" description="Also older variants of the Fleeches, they resemble furless Fuzzles." %}
 
 Abe's Exoddus would have originally featured zombified Mudokons, whom Abe would
 have needed to lead to their resting place. Presumably we would have
@@ -52,10 +46,7 @@ a big escape from the still-smouldering facility.
 
 ### Guardians:
 
-![](/imgs/guardian.jpg)
-
-{:.subtitle}
-Despite their ability, that orifice has a very unfortunate appearance.
+{% include caption.html url="/imgs/guardian.jpg" description="Despite their ability, that orifice has a very unfortunate appearance." %}
 
 Not strictly cut, as they do appear in the final product, but their purpose is
 never explained in-game. The artbook writes about them the following:
@@ -189,10 +180,10 @@ You can read more about this aspect of Munch in this excerpt from The Art of Odd
 > award-winning game, but Munch wound up being himself, and his darker
 > Hyde-side never manifested for the gamer to play."
 
-[^1]: [https://magogonthemarch.com/designer-diaries/abes-exoddus-designer-diaryvideogames-com/](https://magogonthemarch.com/designer-diaries/abes-exoddus-designer-diaryvideogames-com/)
+[^1]: [https://magogonthemarch.wordpress.com/designer-diaries/abes-exoddus-designer-diaryvideogames-com/](https://magogonthemarch.wordpress.com/designer-diaries/abes-exoddus-designer-diaryvideogames-com/)
 
 [^2]: [https://twitter.com/OddworldInc/status/1026744486079160320](https://twitter.com/OddworldInc/status/1026744486079160320)
 
-[^3]: [https://magogonthemarch.com/status-and-power-oddworld-isnt-so-odd-anymore/](https://magogonthemarch.com/status-and-power-oddworld-isnt-so-odd-anymore/)
+[^3]: [https://magogonthemarch.wordpress.com/status-and-power-oddworld-isnt-so-odd-anymore/](https://magogonthemarch.wordpress.com/status-and-power-oddworld-isnt-so-odd-anymore/)
 
-[^4]: [https://magogonthemarch.com/an-interview-with-lorne-lanning/](https://magogonthemarch.com/an-interview-with-lorne-lanning/)
+[^4]: [https://magogonthemarch.wordpress.com/an-interview-with-lorne-lanning/](https://magogonthemarch.wordpress.com/an-interview-with-lorne-lanning/)
