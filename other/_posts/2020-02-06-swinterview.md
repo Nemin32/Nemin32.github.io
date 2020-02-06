@@ -670,6 +670,4 @@ Well! This was an excellent two hours. I really love the insight you provided an
 >
 >Oh, and if people are interested in what I'm up to these days... 
 >
->I have my app geekwords: [http://designerdave.world/geekwords](http://designerdave.world/geekwords) 
-> 
->And my YouTube channel: [https://www.youtube.com/channel/UCzkiXoaaG_1bNVUBrESTPsw](https://www.youtube.com/channel/UCzkiXoaaG_1bNVUBrESTPsw)
+>I have my app [Geekwords](http://designerdave.world/geekwords) and [my YouTube channel](https://www.youtube.com/channel/UCzkiXoaaG_1bNVUBrESTPsw).
