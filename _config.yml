@@ -6,3 +6,5 @@ defaults:
       layout: "default"
 
 permalink: /:title/index.html
+
+url: "https://oddwords.hu"
