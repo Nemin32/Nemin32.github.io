@@ -80,4 +80,4 @@ layout: index_layout
     </ul>
 </div>
 
-### The RSS feed can be found [here](/feed.xml).
+### The RSS feed can be found [here](/feed).
