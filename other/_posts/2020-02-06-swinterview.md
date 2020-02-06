@@ -7,11 +7,22 @@ summary: David Fried worked on Stranger's Wrath as game and narrative designer. 
 p {
   margin-top: 0.4rem;
   margin-bottom: 0.4rem;
+  text-align: justify;
+}
+
+#content > p:not(.intro) {
+  width: 75%;
+  background: #cacaca;
+  padding: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+
+  border-left: 3px solid black;
 }
 
 blockquote {
-  margin-top: 1rem;
-  margin-bottom: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 </style>
 
@@ -19,8 +30,22 @@ blockquote {
 {:.no_toc}
 
 David Fried, who goes by the nickname DesignerDave on Discord, worked on several games including Oddworld: Stranger's Wrath. He was kind enough to answer a large number of questions over two hours, which can be read below.
+{:.intro}
 
-I tried to split the interview into sections, but because of the unplanned nature of speech, there are overlaps, so I recommend reading the entire article.
+Before we started the interview, he shared with me what he worked on during Stranger's Wrath's development, which you can see below:
+{:.intro}
+
+- The Looten Duke (the boss and all of the enemies leading up to him).
+- Elboze Freely (the boss and all of the enemies leading up to him).
+- Fatty McBoomboom (the boss and all of the enemies leading up to him).
+- Buzzarton City (all interactions, scripts were also used in other towns).
+- Forest Sniper Run at the beginning of region 3 (before town).
+- In region 1, section after the town and up to the 3 cutters at a rope climb.
+- In town 1, the jail cell interactions between outlaws and jailer.
+- Sniper enemy gameplay behaviors and defeat script.
+
+I tried to split the interview into sections, but because of the topics overlap I recommend reading the entire article.
+{:.intro}
 
 * TOC
 {:toc}
@@ -38,8 +63,7 @@ So first things first, I'd like to ask you to introduce yourself. Who are you an
 >Or 21... 22 in July.
 
 **Nemin:**
-Wow you worked on War 3 and Starcraft too? That's awesome, I love those games.
-
+Wow you worked on War 3 and Starcraft too? That's awesome, I love those games.  
 Which campaigns?
 
 > **David Fried:**
@@ -52,14 +76,13 @@ Which campaigns?
 >Which is now the unfortunate focus of many gamers ire in War III Reforged.
 
 **Nemin:**
-You made that? Holy crap.
-
+You made that? Holy crap.   
 I see you definitely had a strong background. I imagine this played a part in you getting a job working on Stranger's Wrath. Were you employed at OWI or JAW? Or as a third-party contractor?
 
 > **David Fried:**
 >I was employed directly by OWI, and yes, my background with Blizzard was key to them putting me on the Stranger's Wrath team.
 >
->Sherry McKenna btw is something of an unsung hero in the game industry. A CEO with a heart. ;)
+>Sherry McKenna btw is something of an unsung hero in the game industry. A CEO with a heart. 
 
 **Nemin:**
 What was the "elevator pitch"? How was the game explained to you that made you want to work on it?
@@ -102,8 +125,7 @@ So the so to speak "downfall" of the company started way back.
 ## OWI in the Stranger's Wrath era
 
 **Nemin:**
-Damn, that sounds terrible. I see after things like this OWI must have been like a whole new world.
-
+Damn, that sounds terrible. I see after things like this OWI must have been like a whole new world.  
 I forgot to ask, have you had any experience with the series beforehand? Did you play Oddysee, Exoddus os Munch?
 
 > **David Fried:**
@@ -129,11 +151,10 @@ Do you know whether the whole using a crossbow thing was given from the very beg
 Did Lorne Lanning ever speak to you what westerns were influencing SW?
 
 > **David Fried:**
->Nope... :)
+>Nope... 
 
 **Nemin:**
-Bummer :) !
-
+Bummer!   
 Next I'd like to ask about how the whole game development went. As it's know at this time OWI was partnered with EA. Did they ever interfere or tell you "this won't fly"?
 
 > **David Fried:**
@@ -142,8 +163,7 @@ Next I'd like to ask about how the whole game development went. As it's know at 
 >umm... Yeah fuck EA... let's start there.
 
 **Nemin:**
-I think that goes without saying nowadays :) 
-
+I think that goes without saying nowadays.   
 What happened?
 
 > **David Fried:**
@@ -183,11 +203,10 @@ I see, so the game was more or less entirely based on Lorne Lanning's whims. Tel
 > **David Fried:**
 >We had SO much freedom. He was more a big picture guy, but he also liked to play our levels and give feedback. He gave very good feedback.
 >
->There was at least one day a week that he would come around and play whatever we were working on. I remember that when he would hand back the controller it would be hot... :)
+>There was at least one day a week that he would come around and play whatever we were working on. I remember that when he would hand back the controller it would be hot... 
 
 **Nemin:**
-Haha
-So walk me through this, you were given short descriptions over what he wanted to see, you created something, he played through it and then you talked about what's good and what would be better off changed?
+Haha. So walk me through this, you were given short descriptions over what he wanted to see, you created something, he played through it and then you talked about what's good and what would be better off changed?
 
 > **David Fried:**
 >No... it was more Erik Yeo would give you a basic idea of what's happening in an area, and you were given a chunk of area to work within. Then you would create the gameplay, the boss, the fight... Only the big cinematic moments were from Lorne as far as I know.
@@ -195,7 +214,7 @@ So walk me through this, you were given short descriptions over what he wanted t
 >For instance, Fatty McBoomboom and Elboze Freely were characters I came up with. The artists then did a rendition based on my description. Then Lorne would provide some feedback, then I made the area and gameplay.
 
 **Nemin:**
-Really? I had the impression that probably you were just given orders, but this is much nicer. This is a nice segue to my next batch of questions about the game itself.
+Really? I had the impression that probably you were just given orders, but this is much nicer. This is a nice segue to my next batch of questions about the game itself.  
 Firstly I'd ask what you know about "Stranger Arena"? Did you play it?
 
 > **David Fried:**
@@ -205,12 +224,10 @@ Firstly I'd ask what you know about "Stranger Arena"? Did you play it?
 That's surprising. Long story short it was a 4 player couch multiplayer deathmatch. I was hoping you could put an end to a long debate of why it was cut.
 
 > **David Fried:**
->The studio died.
->
->Everything was cut.
+>The studio died. Everything was cut.
 
 **Nemin:**
-Oh it was part of the game supposedly
+Oh it was part of the game supposedly.
 
 > **David Fried:**
 >Ooooh...
@@ -243,7 +260,7 @@ Oh well. Next to finally talk about the things most related to you. What did you
 > **David Fried:**
 >Hmm... All of it... I mean. How often do you get to create an entire arena from scratch and have OWI artists come and make it beautiful?
 >
->I couldn't fail. :)
+>I couldn't fail. 
 >
 >I was not an art guy by any means, so working in Maya was difficult. I had to learn the tool and their add-ons from scratch.
 >
@@ -252,7 +269,7 @@ Oh well. Next to finally talk about the things most related to you. What did you
 >Oh and they had their own scripting language based on C.
 
 **Nemin:**
-Segfaults all day long? :)
+[Segfaults](https://en.wikipedia.org/wiki/Segmentation_fault) all day long? 
 
 > **David Fried:**
 >When I was creating the script for Fatty McBoomboom's boss fight, the lead programmer actually had to take over at one point to fix bugs.
@@ -270,7 +287,8 @@ This is actually one of my questions, what was the most difficult issue you had 
 >Lots of nesting... And once I'd done it, everyone else got to copy paste, so I guess that's nice that my efforts were used multiple times.
 
 **Nemin:**
-Well at least that shows that you made a robust solution. You said above that you designed and worked on multiple outlaws. Which one did you like the most? Either from a gameplay or design standpoint.
+Well at least that shows that you made a robust solution.  
+You said above that you designed and worked on multiple outlaws. Which one did you like the most? Either from a gameplay or design standpoint.
 
 > **David Fried:**
 >Hmm...
@@ -304,8 +322,7 @@ I gotta say, I didn't realize that :sweat_smile:
 >At least from a user experience standpoint.
 
 **Nemin:**
-Well, too late for tears, so let's not linger on it. 
-
+Well, too late for tears, so let's not linger on it.  
 You wrote that you worked on the jail cell in the first city and the conversations that happen inside between the outlaws. How come none of the later cities had something like that? Time constraints?
 
 > **David Fried:**
@@ -323,7 +340,7 @@ and made the world feel more connected
 >**David Fried:**
 I agree, I enjoyed making it too.
 Particularly because it's one of those niche hidden things that only "good" bounty hunters can get by taking them alive.
-It's like a bonus/secret. :)
+It's like a bonus/secret. 
 
 **Nemin:**
 Yeah, I liked the duality of being presented with the option to not kill the outlaws too. It was a pretty unique mechanic.
@@ -382,8 +399,8 @@ yeah...
 >It's very juvenile... AND NOT MY JOKE!
 
 **Nemin:**
-Actually this gave an idea for a question. Who was responsible for the humor of SW?
-Next to all the "my species is going extinct and I have to get this surgery" we got "mole's ass" and such
+Actually this gave an idea for a question. Who was responsible for the humor of SW?  
+Next to all the "my species is going extinct and I have to get this surgery" we got "mole's ass" and such.
 
 > **David Fried:**
 >Lorne mostly... and everyone generally.
@@ -409,18 +426,15 @@ Well, no problem. Was there anything that you would've loved to see included but
 >I actually have an old list of ideas for things I wanted to do in Stranger's Wrath.
 >
 >They're just bare bones ideas, not fleshed out or thought through in the slightest.
->
->Attachment file type: document
->
->LevelIdeas.doc
->
->23.00 KB
 
 **Nemin:**
 Nice, if you don't mind I'll include this in my post
 
 > **David Fried:**
 >Yeah feel free.
+
+### The document can be read [here](/assets/etc/LevelIdeas.doc).
+{:.no_toc}
 
 **Nemin:**
 Just skimmed through it, it's good stuff, too bad they weren't made.
@@ -429,7 +443,7 @@ Just skimmed through it, it's good stuff, too bad they weren't made.
 >No time.
 
 **Nemin:**
-Time and money are the biggest barriers, aren't they
+Time and money are the biggest barriers, aren't they?
 
 > **David Fried:**
 >They kind of have to be... Otherwise nothing would ever ship.
@@ -437,7 +451,7 @@ Time and money are the biggest barriers, aren't they
 >You can always improve things another 5%...
 
 **Nemin:**
-Do you agree with the saying that "Constraints breed creativity"? :)
+Do you agree with the saying that "Constraints breed creativity"? 
 
 > **David Fried:**
 >Yes, definitely.
@@ -471,15 +485,12 @@ Hm, did Lorne Lanning not appreciate being told no?
 >Whereas Stranger's Wrath... at least in my opinion... is a much more consistent and consistently enjoyable experience from beginning to end.
 
 **Nemin:**
-Thanks for answering so honestly :) 
-
-In the meantime this person I mentioned above got one more question: How did the planning of locations? 
+Thanks for answering so honestly   
+In the meantime this person I mentioned above got one more question: How did the planning of locations go?  
 You briefly touched upon it above, if I get it correctly, you made an "empty" arena / area where the events happened and the artists later populated them with props and everything else?
 
 > **David Fried:**
->Not quite.
->
->We would block out all the mechanics of movement/cover/etc in a barebones way. Then the artists would create the mesh/art on top of that. Then we would do a pathing pass so enemies could move around.
+>Not quite. We would block out all the mechanics of movement/cover/etc in a barebones way. Then the artists would create the mesh/art on top of that. Then we would do a pathing pass so enemies could move around.
 >
 >Imagine a grid and you know there are X boss fights. Designers each get a boss fight to design and then you have to connect those areas to the main town. So someone has to block out that as well.
 >
@@ -515,20 +526,17 @@ I imagine it would look like there is a "seam" in the ground, yeah?
 But then 15 years is a hell of a lot time for computers to evolve
 
 > **David Fried:**
+>Indeed it is.
+>
 >And if they were exactly aligned but overlapping, you'd see the textures popping between each other.
 >
->Indeed it is.
 
 **Nemin:**
 Ah yeah, that's "z-fighting", right?
 I'm very much a layman when it comes to 3D rendering, but I did look a little bit into OpenGL
 
 > **David Fried:**
->Yes.
->
->I didn't even know that term.
->
->I just called it glitchy shit.
+>Yes. I didn't even know that term. I just called it glitchy shit.
 
 **Nemin:**
 Haha
@@ -582,7 +590,7 @@ I imagine this played a part in the rushed nature of the final boss fight?
 ## Fangus Klot and Stranger 2
 
 **Nemin:**
-I'll include this ;) 
+I'll include this 
 I believe we're close to wrapping up. Through you were let go, have you heard anything about a possible "Stranger 2" or the fabled "Brutal Ballad of Fangus Klot"?
 
 > **David Fried:**
@@ -637,12 +645,13 @@ Ultimately which was more challenging to make when you don't consider the compan
 
 **Nemin:**
 Ah the good old map editor, I goofed around a little with them.
-A Warcraft question from someone else: 
-
+A Warcraft question from someone else:  
 Do you consider what Arthas did at Stratholme a mistake? It is generally accepted as the moment he "fell", yet what else could've been done there.
 
 > **David Fried:**
->Well the player can't do anything else... Cause that's the story we were telling. I guess that's kind of a byproduct of how games worked. What could Arthas have done differently though? He could have found another way... Or worked towards that. The shift to evil happens when you decide there's only one path and nothing else should be considered. You could see that as deciding to take action before it's too late... But Uther obviously would disagree that committing an evil act is a viable option at all.
+>Well the player can't do anything else... Cause that's the story we were telling. I guess that's kind of a byproduct of how games worked. What could Arthas have done differently though? He could have found another way... Or worked towards that.
+>
+> The shift to evil happens when you decide there's only one path and nothing else should be considered. You could see that as deciding to take action before it's too late... But Uther obviously would disagree that committing an evil act is a viable option at all.
 >
 >It's not a black or white issue... It's very shades of grey, which is why it was such a successful story point and level.
 
@@ -650,10 +659,10 @@ Do you consider what Arthas did at Stratholme a mistake? It is generally accepte
 Indeed! It's probably one of the strongest parts of War3's story
 
 > **David Fried:**
->Absolutely, and that was why I grabbed it the moment we read the script. :)
+>Absolutely, and that was why I grabbed it the moment we read the script. 
 
 **Nemin:**
-You did a great job :smiley: The entire game is fantastic... too bad it was 'reforged'
+You did a great job  The entire game is fantastic... too bad it was 'reforged'.
 
 > **David Fried:**
 >Well... yeah... I don't know.
@@ -666,19 +675,19 @@ You did a great job :smiley: The entire game is fantastic... too bad it was 'ref
 That and the fact that you can't go back to the old version. That was absolutely salt in the wounds.
 
 > **David Fried:**
->That was... just stupid. They didn't do that to Starcraft... so... wtf?
+>That was... just stupid. They didn't do that to Starcraft... so... WTF?
 
 **Nemin:**
-Exactly. It's sad that new people can't experience it the way it was intended
+Exactly. It's sad that new people can't experience it the way it was intended.
 
 > **David Fried:**
->Well the campaign they can. Via disc... or... ahem... download. ;)
+>Well the campaign they can. Via disc... or... ahem... download. 
 
 **Nemin:**
 I suppose that's the great thing about actually owning the game and not just the right to play it.
 
 > **David Fried:**
->Well those days are coming to an end rather quickly. :frowning:
+>Well those days are coming to an end rather quickly.
 >
 >Only GoG is protecting the users.
 
@@ -689,22 +698,21 @@ GoG's a really great bunch
 >Steam doesn't care... Activision and EA are actively fighting to destroy that.
 
 **Nemin:**
-For my final question: 
-
-Let's say Soulstorm is a huge success and Lorne Lanning begins making Abe Game #3. If you were offered a job at OWI then (and let's say you're not working on something), would you take it? Or are you done with them?
+For my final question:  
+Let's say Soulstorm is a huge success and Lorne Lanning begins making Abe Game #3.  
+If you were offered a job at OWI then (and let's say you're not working on something), would you take it? Or are you done with them?
 
 > **David Fried:**
->Depends on if Sherry is CEO or not. ;) I'll work for any company she's in charge of.
+>Depends on if Sherry is CEO or not. I'll work for any company she's in charge of.
 
 **Nemin:**
-Aww :)
-
-Well! This was an excellent two hours. I really love the insight you provided and I'm sure everyone else will too. Thank you again a lot for answering, I hope you found at least some questions interesting :)
+Aww   
+Well! This was an excellent two hours. I really love the insight you provided and I'm sure everyone else will too. Thank you again a lot for answering, I hope you found at least some questions interesting 
 
 > **David Fried:**
->I found the whole interview interesting. It's fun to remember... or try to remember. :)
+>I found the whole interview interesting. It's fun to remember... or try to remember. 
 >
->Oh, and if people are interested in what I'm up to these days... :)
+>Oh, and if people are interested in what I'm up to these days... 
 >
 >I have my app geekwords: [http://designerdave.world/geekwords](http://designerdave.world/geekwords) 
 > 
