@@ -8,17 +8,17 @@ $font-color: #2e2e2e;
 $subtitle-color: #444;
 $link-color: #111;
 
-body
-{
+body {
     background: url("/imgs/grave1.png");
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-size: auto;
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: $font-color;
     margin: 0;
     padding: 0;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
     width: 100%;
     height: 100%;
 
@@ -74,14 +74,12 @@ img
     max-width: 60%;
 }
 
-#main
-{
+#main {
     display: grid;
     grid-template-columns: auto 300px;
-
     width: 85%;
-    margin: 0 auto;
-    background: $background-color;
+    margin: 2rem auto;
+    background: $background-color; 
 }
 
 #content > p
