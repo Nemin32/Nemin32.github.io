@@ -1,6 +1,7 @@
 ---
 title: Interview with Sammi McEwan
 summary: The author of the new Mudos-map found in Abe's Origins shares her experience and some details about the map.
+tags: ["spec"]
 ---
 
 <style>
