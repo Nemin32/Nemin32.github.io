@@ -79,3 +79,5 @@ layout: index_layout
     {% endfor %}
     </ul>
 </div>
+
+### The RSS feed can be found [here](/feed.xml).
