@@ -3,9 +3,29 @@ title: Interview with David Fried
 summary: David Fried worked on Stranger's Wrath as game and narrative designer. He gives his thoughts on several topics, including the game, Lorne Lanning, Soulstorm, Warcraft and others.
 ---
 
+<style>
+p {
+  margin-top: 0.4rem;
+  margin-bottom: 0.4rem;
+}
+
+blockquote {
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
+</style>
+
 # Interview with David Fried
+{:.no_toc}
 
 David Fried, who goes by the nickname DesignerDave on Discord, worked on several games including Oddworld: Stranger's Wrath. He was kind enough to answer a large number of questions over two hours, which can be read below.
+
+I tried to split the interview into sections, but because of the unplanned nature of speech, there are overlaps, so I recommend reading the entire article.
+
+* TOC
+{:toc}
+
+## Background
 
 **Nemin:**
 So first things first, I'd like to ask you to introduce yourself. Who are you and what's your job?
@@ -19,6 +39,7 @@ So first things first, I'd like to ask you to introduce yourself. Who are you an
 
 **Nemin:**
 Wow you worked on War 3 and Starcraft too? That's awesome, I love those games.
+
 Which campaigns?
 
 > **David Fried:**
@@ -32,6 +53,7 @@ Which campaigns?
 
 **Nemin:**
 You made that? Holy crap.
+
 I see you definitely had a strong background. I imagine this played a part in you getting a job working on Stranger's Wrath. Were you employed at OWI or JAW? Or as a third-party contractor?
 
 > **David Fried:**
@@ -77,8 +99,11 @@ So the so to speak "downfall" of the company started way back.
 >
 >But the real fall kind of came when Activision bought them as far as I can tell.
 
+## OWI in the Stranger's Wrath era
+
 **Nemin:**
 Damn, that sounds terrible. I see after things like this OWI must have been like a whole new world.
+
 I forgot to ask, have you had any experience with the series beforehand? Did you play Oddysee, Exoddus os Munch?
 
 > **David Fried:**
@@ -95,19 +120,19 @@ That's interesting, so you went in basically knowing nothing except how the game
 >Erik Yeo was definitive in making it all come together. I just got to work on some cool sections of it and put in a few of my own ideas.
 
 **Nemin:**
-Do you know whether the whole using a crossbow thing was given from the very beginning or it started from something different and then LL or someone else realized "hey this is way more unique"?
+Do you know whether the whole using a crossbow thing was given from the very beginning or it started from something different and then Lorne Lanning or someone else realized "hey this is way more unique"?
 
 > **David Fried:**
 >As far as I know that was one of the fundamentals of the game coming together. It occurred before I was there either way so I can't really say when or how it happened. It was definitely a huge emphasis when they were pitching it to me.
 
 **Nemin:**
-Did LL ever speak to you what westerns were influencing SW?
+Did Lorne Lanning ever speak to you what westerns were influencing SW?
 
 > **David Fried:**
->Nope... :D
+>Nope... :)
 
 **Nemin:**
-Bummer :D !
+Bummer :) !
 
 Next I'd like to ask about how the whole game development went. As it's know at this time OWI was partnered with EA. Did they ever interfere or tell you "this won't fly"?
 
@@ -117,7 +142,8 @@ Next I'd like to ask about how the whole game development went. As it's know at 
 >umm... Yeah fuck EA... let's start there.
 
 **Nemin:**
-I think that goes without saying nowadays :D 
+I think that goes without saying nowadays :) 
+
 What happened?
 
 > **David Fried:**
@@ -152,12 +178,12 @@ That sucks. This reminds me, OWI used to have a three-title publishing deal with
 >And I should point out that my understanding of the EA deal was from overhearing conversations, not direct knowledge.
 
 **Nemin:**
-I see, so the game was more or less entirely based on LL's whims. Tell me what kind of a boss was he, did he leave you wiggle room to introduce your own ideas or was he very firm on what he wanted to see?
+I see, so the game was more or less entirely based on Lorne Lanning's whims. Tell me what kind of a boss was he, did he leave you wiggle room to introduce your own ideas or was he very firm on what he wanted to see?
 
 > **David Fried:**
 >We had SO much freedom. He was more a big picture guy, but he also liked to play our levels and give feedback. He gave very good feedback.
 >
->There was at least one day a week that he would come around and play whatever we were working on. I remember that when he would hand back the controller it would be hot... :D
+>There was at least one day a week that he would come around and play whatever we were working on. I remember that when he would hand back the controller it would be hot... :)
 
 **Nemin:**
 Haha
@@ -192,7 +218,7 @@ Oh it was part of the game supposedly
 >Not at any point that I worked there.
 
 **Nemin:**
-We have sources that claim that LL wasn't happy with it, but also that it was cut because the XBOX couldn't handle it.
+We have sources that claim that Lorne Lanning wasn't happy with it, but also that it was cut because the XBOX couldn't handle it.
 
 > **David Fried:**
 >But adding networking code... I can't imagine that wouldn't have pushed development out by years.
@@ -209,13 +235,15 @@ I see. I was talking with some people about this interview and someone asked me 
 > **David Fried:**
 >I do not... I definitely was not on the art side of things. More game mechanics and writing.
 
+## His work on Stranger's Wrath
+
 **Nemin:**
 Oh well. Next to finally talk about the things most related to you. What did you find most fun to make? You worked on quite a lot of stuff, was there anything that was special to your heart?
 
 > **David Fried:**
 >Hmm... All of it... I mean. How often do you get to create an entire arena from scratch and have OWI artists come and make it beautiful?
 >
->I couldn't fail. :D
+>I couldn't fail. :)
 >
 >I was not an art guy by any means, so working in Maya was difficult. I had to learn the tool and their add-ons from scratch.
 >
@@ -224,7 +252,7 @@ Oh well. Next to finally talk about the things most related to you. What did you
 >Oh and they had their own scripting language based on C.
 
 **Nemin:**
-Segfaults all day long? :D
+Segfaults all day long? :)
 
 > **David Fried:**
 >When I was creating the script for Fatty McBoomboom's boss fight, the lead programmer actually had to take over at one point to fix bugs.
@@ -249,7 +277,7 @@ Well at least that shows that you made a robust solution. You said above that yo
 >
 >Fatty I guess. Because I wrote his dialogue as well.
 >
->His big bazooka flying attack... He yells out VERTICAL SLLIIIIIICE!!!
+>His big bazooka flying attack... He yells out VERTICAL SLorne LanningIIIIIICE!!!
 >
 >Because at the time EA was demanding one.
 
@@ -391,17 +419,13 @@ Well, no problem. Was there anything that you would've loved to see included but
 **Nemin:**
 Nice, if you don't mind I'll include this in my post
 
->
->> **David Fried:**
->
+> **David Fried:**
 >Yeah feel free.
 
 **Nemin:**
 Just skimmed through it, it's good stuff, too bad they weren't made.
 
->
->> **David Fried:**
->
+> **David Fried:**
 >No time.
 
 **Nemin:**
@@ -413,7 +437,7 @@ Time and money are the biggest barriers, aren't they
 >You can always improve things another 5%...
 
 **Nemin:**
-Do you agree with the saying that "Constraints breed creativity"? :D
+Do you agree with the saying that "Constraints breed creativity"? :)
 
 > **David Fried:**
 >Yes, definitely.
@@ -435,7 +459,7 @@ This is a touchy subject, so feel free to pass, but do you think Soulstorm could
 >And given they "let him go" months before they let go a lot of other people, I think it was unappreciated.
 
 **Nemin:**
-Hm, did LL not appreciate being told no?
+Hm, did Lorne Lanning not appreciate being told no?
 
 > **David Fried:**
 >Not at all.
@@ -515,7 +539,8 @@ Haha
 >We knew... we all knew...
 
 **Nemin:**
-I can't say it's not fitting
+I can't say it's not fitting.
+
 Were you still at the company when the PC port happened? Someone asks how come the port took so long to be released.
 
 > **David Fried:**
@@ -532,46 +557,29 @@ Yeah I told the guy this is likely what you'll say, but you know never say never
 
 > **David Fried:**
 >I don't know for sure... but it was probably something to do with pushing back against Lorne's creative process towards the end.
->
->They were ignoring a lot of warnings from the designers which led to some disasters towards the end of production.
->
->Resulting in one of the few times we had to crunch to fix things.
->
->Then we'd get blamed for "doing it wrong."
->
->It was a strange dynamic.
+> They were ignoring a lot of warnings from the designers which led to some disasters towards the end of production.
+> Resulting in one of the few times we had to crunch to fix things.
+> Then we'd get blamed for "doing it wrong."
+> It was a strange dynamic.
 
 **Nemin:**
 Oh man
 I imagine this played a part in the rushed nature of the final boss fight?
 
 > **David Fried:**
->Yes.
->
->That was all Steve Desilets btw.
->
->He was a PROLIFIC designer. He cranked out a lot of stuff in very short amounts of time.
->
->We definitely wouldn't have finished without his efforts.
+>Yes. That was all Steve Desilets btw. He was a PROLIFIC designer. He cranked out a lot of stuff in very short amounts of time.  We definitely wouldn't have finished without his efforts.
 >
 >I believe he has his own game studio now.
 >
->https://www.linkedin.com/in/stevedesilets/
+>[https://www.linkedin.com/in/stevedesilets/](https://www.linkedin.com/in/stevedesilets/)
 >
 >Sockeye Studios
 >
->Any fans of Oddworld would be wise to check out what he's working on.
+>Any fans of Oddworld would be wise to check out what he's working on. Especially Stranger's Wrath fans.
 >
->Especially Stranger's Wrath fans.
->
->http://sockeye-studios.com/index.html
->
->SOCKEYE STUDIOS
->
->SOCKEYE STUDIOS
->
->Meet Matt and Steve!
+>[http://sockeye-studios.com/index.html](http://sockeye-studios.com/index.html)
 
+## Fangus Klot and Stranger 2
 
 **Nemin:**
 I'll include this ;) 
@@ -584,7 +592,7 @@ I believe we're close to wrapping up. Through you were let go, have you heard an
 
 **Nemin:**
 Oh this is interesting, I believe other than a few concept art pics and a very short description, the community doesn't know much at all about Fangus.
-So in a way LL dug his own grave? Along with of course EA majorly "helping" in that
+So in a way Lorne Lanning dug his own grave? Along with of course EA majorly "helping" in that
 
 > **David Fried:**
 >Well I wasn't supposed to know anything about it as I was let go... But it's hard not to overhear conversations.
@@ -612,7 +620,11 @@ If there are any interesting rumors you'd be willing to share, I think the fans 
 >Or know.
 
 **Nemin:**
-Well this is pretty enlightening too
+Well this is pretty enlightening too.
+
+## Warcraft 3
+
+**Nemin:**
 For my final questions:
 Ultimately which was more challenging to make when you don't consider the company environment (I'm not sure whether this is possible, but you'll tell me), War3 and SC or SW?
 
@@ -638,7 +650,7 @@ Do you consider what Arthas did at Stratholme a mistake? It is generally accepte
 Indeed! It's probably one of the strongest parts of War3's story
 
 > **David Fried:**
->Absolutely, and that was why I grabbed it the moment we read the script. :D
+>Absolutely, and that was why I grabbed it the moment we read the script. :)
 
 **Nemin:**
 You did a great job :smiley: The entire game is fantastic... too bad it was 'reforged'
@@ -663,8 +675,7 @@ Exactly. It's sad that new people can't experience it the way it was intended
 >Well the campaign they can. Via disc... or... ahem... download. ;)
 
 **Nemin:**
-I suppose that's the great thing about actually owning the game
-not just the right to play it
+I suppose that's the great thing about actually owning the game and not just the right to play it.
 
 > **David Fried:**
 >Well those days are coming to an end rather quickly. :frowning:
@@ -679,27 +690,22 @@ GoG's a really great bunch
 
 **Nemin:**
 For my final question: 
-Let's say Soulstorm is a huge success and LL begins making Abe Game #3. If you were offered a job at OWI then (and let's say you're not working on something), would you take it? Or are you done with them?
+
+Let's say Soulstorm is a huge success and Lorne Lanning begins making Abe Game #3. If you were offered a job at OWI then (and let's say you're not working on something), would you take it? Or are you done with them?
 
 > **David Fried:**
 >Depends on if Sherry is CEO or not. ;) I'll work for any company she's in charge of.
 
 **Nemin:**
-Aww :D
-Well! This was an excellent two hours. I really love the insight you provided and I'm sure everyone else will too. Thank you again a lot for answering, I hope you found at least some questions interesting :D
+Aww :)
+
+Well! This was an excellent two hours. I really love the insight you provided and I'm sure everyone else will too. Thank you again a lot for answering, I hope you found at least some questions interesting :)
 
 > **David Fried:**
->I found the whole interview interesting. It's fun to remember... or try to remember. :D
+>I found the whole interview interesting. It's fun to remember... or try to remember. :)
 >
->And if you get a bunch of new questions based off this one, we can always do it again.
-
-**Nemin:**
-Haha perhaps I'll take you at your word
-thanks again, I'll now start processing all this raw content
-
-> **David Fried:**
->Oh, and if people are interested in what I'm up to these days... :D
+>Oh, and if people are interested in what I'm up to these days... :)
 >
->I have my app geekwords: http://designerdave.world/geekwords and my YouTube channel: 
->
->https://www.youtube.com/channel/UCzkiXoaaG_1bNVUBrESTPsw
+>I have my app geekwords: [http://designerdave.world/geekwords](http://designerdave.world/geekwords) 
+> 
+>And my YouTube channel: [https://www.youtube.com/channel/UCzkiXoaaG_1bNVUBrESTPsw](https://www.youtube.com/channel/UCzkiXoaaG_1bNVUBrESTPsw)
