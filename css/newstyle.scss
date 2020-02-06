@@ -8,22 +8,17 @@ $font-color: #2e2e2e;
 $subtitle-color: #444;
 $link-color: #111;
 
-body {
-    background: url("/imgs/grave1.png");
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-size: auto;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: $font-color;
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    height: 100%;
 
-    font-family: "Lato", sans-serif;
-    font-size: 1.2rem;
+body {
+ background: url("/imgs/grave1.png");
+ background-size: 100% 100%;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ color: $font-color;
+ margin: 0;
+
+ font-family:"Lato", sans-serif;
+ font-size:1.2rem;
 }
 
 iframe, video
@@ -78,7 +73,7 @@ img
     display: grid;
     grid-template-columns: auto 300px;
     width: 85%;
-    margin: 2rem auto;
+    margin: 0 auto;
     background: $background-color; 
 }
 
