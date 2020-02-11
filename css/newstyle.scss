@@ -117,13 +117,15 @@ img
             text-align: center;
             color: $subtitle-color;
             font-size: 1rem;
-            width: 40%;
+            width: 60%;
         }
 
         &.centered
         {
             text-align: center;
         }
+
+        text-align: justify;
     }
 
     ul, ol
