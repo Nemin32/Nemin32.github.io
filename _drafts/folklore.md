@@ -18,9 +18,9 @@ The biggest culprit is of course the clumsy and careless communication from
 OWI, who hyped the community up by announcing projects early before even
 knowing whether these projects will come to fruition or not. However, of course
 the community itself plays a part in it for still perpetuating the same myths
-and half-truths from close to two decades ago, after these were debunked.
+and half-truths from close to two decades ago, event after these were debunked.
 
-In this post I would like to walk through a few of the most well known examples.
+In this post I would like to walk through a few of the most famous examples.
 
 ## SligStorm
 
