@@ -112,6 +112,8 @@ img
 
     p
     {
+        text-align: justify;
+
         &.subtitle
         {
             text-align: center;
@@ -124,8 +126,6 @@ img
         {
             text-align: center;
         }
-
-        text-align: justify;
     }
 
     ul, ol
