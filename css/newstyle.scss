@@ -71,8 +71,8 @@ img
 
 #main {
     display: grid;
-    grid-template-columns: auto 300px;
-    width: 85%;
+    grid-template-columns: auto 20rem;
+    width: 100rem;
     margin: 0 auto;
     background: $background-color; 
 }

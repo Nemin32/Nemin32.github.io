@@ -49,7 +49,11 @@ questions from OWI's co-founder. I personally wouldn't really linger on it,
 because it's mostly old content, sometimes the answer Mr. Lanning gives as
 almost word-by-word what he said previously.
 
-> **Lorne Lanning:** For me, being a relatively poor kid growing up with parents who were divorced and having a single mum, I was thinking of art as a way to make a living. **I was drawing axes and dragons** and a lot of the stuff that young kids are really compelled by, but I wasn’t thinking about it deeply.
+> **Lorne Lanning:** For me, being a relatively poor kid growing up with
+> parents who were divorced and having a single mum, I was thinking of art as a
+> way to make a living. **I was drawing axes and dragons** and a lot of the
+> stuff that young kids are really compelled by, but I wasn’t thinking about it
+> deeply.
 
 <iframe width="560" height="615" src="https://www.youtube-nocookie.com/embed/Qd3f2ow10NI?start=2598" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
