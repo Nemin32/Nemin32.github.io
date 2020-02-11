@@ -3,6 +3,7 @@ layout: index_layout
 ---
 
 <div class="category">
+<h2>Featured posts</h2>
 <ul>
 {% assign posts = site.tags.spec | reverse %}
 {% for post in posts %}
