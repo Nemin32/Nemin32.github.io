@@ -7,22 +7,34 @@ summary: OWI drops molehills, the community picks them up and turns them into mo
 
 In the Oddworld community, there are a few fabled words, that cause a lot of
 people's eyes to flame up, along with eliciting responses like "Oh man, it
-would've been GREAT!", even though a lot of these people probably have no idea
-what exactly it is they are asking for.
+would've been GREAT!" But just how much truth is these projects anyway? And I
+don't mean their sales pitches, we all know those stories, they are basically
+the reason this post got written. 
 
-I mean... What *are* these projects? And I don't mean their sales pitches, do we
-have any actual confirmation that these projects had any chance of really
-happening?
+My question is, do we have any actual confirmation that these projects had any
+chance of really happening?
 
-The biggest culprit is of course the clumsy and careless communication from
-OWI, who hyped the community up by announcing projects early before even
-knowing whether these projects will come to fruition or not. However, of course
-the community itself plays a part in it for still perpetuating the same myths
-and half-truths from close to two decades ago, event after these were debunked.
+The biggest culprit in not letting these ideas die in peace and instead being
+turned into macabre zombies, existing as nothing more than hollow promises is
+of course the previous marketing team of OWI, who more or less never decided to
+make a stand and say "it won't happen", rather always kept the door open,
+saying that it's still on the menu or that "production will start again soon"
+even when it was obviously out of their capabilities to make these projects a
+reality. This uncertainty eventually molded the community's general views into
+a quasi-"pantheon" of projects OWI probably haven't considered for at least a
+decade, but people still expect they'll eventually make.
 
 In this post I would like to walk through a few of the most famous examples.
 
 ## SligStorm
+
+> SligStorm was going to be a PS1 game that came along with one of the other
+> Oddworld games, probably Munch's Oddysee. It would have followed the story of
+> an albino slig grub or larvae that needed to escape the slig birthing complex
+> or be killed, since he was a mutant grubb. 
+
+Original SligStorm page on the Oddworld Fandom wiki.
+{:.subtitle}
 
 > **Alf [Dear alf; August 2011, Volume 1]:** SligStorm is one of those ideas we
 > had that didn’t get far, but it’s still in our “One Day” drawer.
@@ -31,11 +43,11 @@ In this post I would like to walk through a few of the most famous examples.
 > as never started or announced.
 
 The example of SligStorm is one of the best examples of this phenomenon.
-SligStorm was confirmedly just an idea, something fun OWI thought up, but never
-really put resources into. However because of the unfortunate way it was
-communicated, it slowly became part of the "Oddworld Pantheon", a legend that
-turned a simple game idea into this heavily mystified project, much greater in
-scope than it was ever intended to be.
+SligStorm was confirmedly (see Wil's post below) just an idea, something fun
+OWI thought up, but never really put resources into. However because of the
+unfortunate way it was communicated, it slowly became part of the "Oddworld
+Pantheon", a legend that turned a simple game idea into this heavily mystified
+project, much greater in scope than it was ever intended to be.
 
 > **[Wil](http://www.oddworldforums.net/showpost.php?s=e96e4753f6b342a303c16e3f59d0f35f&p=92509&postcount=11):**
 > Story: In a Slig Birthing Complex an Albino Slig Larva is born. Like many
