@@ -80,11 +80,11 @@ was at the time capable of turning the project into reality was let go.
 Despite this, a comment from Alf still kept the hopes up, so people still expect
 to eventually see it made:
 
- > **Alf [Dear Alf; August 2011, Volume 2]:** The Brutal Ballad of Fangus Klot
- > was simply the project we were working on when we stopped all internal game
- > development back in 2005. There was nothing wrong with it, production was
- > going well thanks to the robustness of the Stranger Engine. We’ve still got
- > all that development on disc, so we might return to it one day. 
+> **Alf [Dear Alf; August 2011, Volume 2]:** The Brutal Ballad of Fangus Klot
+> was simply the project we were working on when we stopped all internal game
+> development back in 2005. There was nothing wrong with it, production was
+> going well thanks to the robustness of the Stranger Engine. We’ve still got
+> all that development on disc, so we might return to it one day.
 
 ## The Hand of Odd
 
