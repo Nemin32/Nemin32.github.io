@@ -1,6 +1,6 @@
 ---
 title: Folk-lore
-summary: "A short cautionary tale about not knowing when to stop."
+summary: "A short cautionary tale about not knowing when to let go."
 ---
 
 # Folk-Lore
@@ -10,8 +10,17 @@ website and navigate to one of OWI's pages. Start looking at comments and while
 it might require a bit of scrolling, you'll eventually find peculiar comments
 talking about games you might have heard about, but aren't sure what they
 exactly are. Names like SligStorm and The Brutal Ballad of Fangus Klot get
-thrown around, yet the meaning behind these names are mostly lost to myths and
-accidental misinformation.
+brought up. Some fans might even reply with varying levels of excitement if you
+ask them about these, yet the meaning behind them are mostly lost to myths
+and accidental misinformation.
+
+I would like to make one thing clear before we proceed. When I write "OWI" in
+this article, I mean the company who released AO/AE and who later reorganized
+and teamed up with JAW. While some might think this is a moot point as the
+company is still the same, I'd reassure these people, that it is not. The
+founders and name might still be the same, but OWI has greatly changed both in
+size and composition over the years and blaming (or praising) the new team for
+the old one's decisions is foolish.
 
 So, what are these projects? Why do people still bring them up after close to
 one and a half decade and where have they heard about them? Let's find out.
@@ -20,43 +29,44 @@ one and a half decade and where have they heard about them? Let's find out.
 
 It might appear a bit backwards to first explain who "committed the crime"
 before even explaining what the "crime" itself is, but in this case it is
-necessary that the reader knows who these are before I can talk about the games
-themselves.
+necessary that the reader knows the characters of the story before I can talk
+about the games themselves. Especially, since there is a single entity, who
+stands behind a lot of these rumors.
 
 Who is this criminal mastermind then? This scheming villain, who charms and
-deceives the poor fandom? Well, turns out the answer is much less dramatic to
-what I've been playing it up to. Most of the projects people still lament can be
+deceives the poor fans? Well, turns out the answer is much less dramatic to what
+I've been playing it up to. Most of the projects people still lament can be
 traced back to OWI's popular weekly Q&A, Dear Alf. Putting jokes aside, I am of
-course in no way thinking or saying that these acts were malicious, I am
-inclined to think that whoever ran the newsletter was just as stoked about these
-projects as the fans they unwittingly set up for disappointment.
+course in no way thinking or saying that these acts were malicious, on the
+contrary, I'm inclined to think that whoever posted under the name "Alf" was
+just as stoked about these projects as the fans this person unwittingly set up
+for disappointment.
 
 Looking at some of the answers given over Dear Alf, a trend quickly becomes
 apparent. Either Alf or the rest of OWI's/JAW's marketing department incites
 hype over a newly announced game. Alf then refuses to divulge into details, but
 tells just enough to spark up people's imaginations, then something happens and
-OWI/JAW decides to cancel the project, and here comes the vital part: Instead of
+OWI/JAW decides to cancel the project, which leads to the vital part: Instead of
 admitting that the game will likely never see the light, Alf downplays it with
 apologetic comments like, "We never throw any ideas out" or that "It'll be done
 one day."
 
 At this point, you might be inclined to say "Screw Alf then, he caused all of
 this", but I believe that's not a fair approach. While he's the source, the
-effect has been exacerbated by the fandom tenfolds. People are simply incapable
-of accepting that times have changed. While OWI kept its founders and name, it
-isn't the same company anymore, both in opportunities and size.
+effect has been exacerbated by the fandom tenfolds. A lot of people are
+incapable of accepting that times have changed.
 
 While these accusations might sound judgemental, that is absolutely not my
 intention, especially since I am in no way above blame either. Just a few years
 ago, while I wasn't knowing any better, I was part of the crowd, asking for
-stuff I didn't even really understand. But now that I was finally able to put
+things I didn't even really understand. But now that I was finally able to put
 that behind myself, I hope to help others achieve the same with this post.
 
 ## The Usual Suspects
 
 Now that I've explained the "who", it's time to speak about the "what". Here you
 can read about three games that get brought up the most, despite their existence
-being not much more than wishful thoughts.
+hardly being more than wishful thoughts.
 
 ### SligStorm
 
@@ -72,15 +82,15 @@ being not much more than wishful thoughts.
 The entire premise of SligStorm's story.
 {:.subtitle}
 
-Despite popular rumors, SligStorm is nothing more than an idea OWI lightly
-experimented with in their early days. The planned game was about an albino
-Slig, who is almost killed by his brethren for being a deviant. It would have
-been as long as the Slig Barracks level in Exoddus, featuring two minutes of
-cut-scenes. However, it never got this far and instead was scrapped in the idea
-phase.
+Despite popular rumors, **SligStorm** is nothing more than an idea OWI lightly
+experimented with (strictly on the theoretical level!) in their early days. The
+planned game was about an albino Slig, who is almost killed by his brethren for
+being a deviant. It would have been as long as the Slig Barracks level in
+Exoddus, featuring two minutes of cut-scenes. However, it never got this far and
+instead was scrapped in the idea phase.
 
-Despite this, both OWI and the fandom spoke of SligStorm as something that will
-eventually happen:
+This, however, didn't stop OWI nor the fandom, who spoke of SligStorm as
+something that will eventually happen:
 
 {% include caption.html url="/imgs/folklore/sligstorm.jpg" description='<a href="http://www.the-nextlevel.com/tnl/content/99-OddWorld-SligStorm-Back-From-Vaporware-Limbo">Source</a>' %}
 
@@ -91,8 +101,8 @@ While Alf later tried to temper expectations, the fact that JAW has announced at
 the time that they intend to pick up on OWI's abandoned projects, along with an
 [April Fools
 post](http://pressstarttodrink.blogspot.com/2010/04/new-oddworld-project-confirmed-for-xbla.html)
-resulted in the still existing phenomenon of people expecting to see SligStorm
-coming out.
+resulted in the confusion that still causes people to expect SligStorm to come
+out.
 
 > **Alf [Dear Alf; August 2011, Volume 2]:** SligStorm wasn’t so much cancelled
 > as never started or announced.
@@ -104,21 +114,21 @@ game:
 
 > **TOL:** Nonetheless, Oddworld Inhabitants haven't forgotten SligStorm, and the ideas for it may yet be seen in some form in the future.
 
-Amusingly, however, the TOL post isn't exactly wrong as the albino Slig did
+Amusingly, however, the TOL post isn't entirely wrong as the albino Slig did
 appear in one of Oddworld games, albeit just as an easter egg. Still, if one
 pays attention to the patrons at Alf's bar in RuptureFarms, they might find that
-one of the Sligs there has suspiciously pale skin:
+one of the Sligs there has *suspiciously pale skin:*
 
-{% include caption.html url="/imgs/folklore/albino.webp" description="Another interesting thing to note is the SoulStorm Brew logo, which was a predecessor to the current 'Laughing Glukkon' logo." %}
+{% include caption.html url="/imgs/folklore/albino.webp" description="Another interesting thing to note is the SoulStorm Brew logo, which is a predecessor to the current 'Laughing Glukkon' logo." %}
 
 ### The Brutal Ballad of Fangus Klot
 
 {% include caption.html url="/imgs/folklore/fangus.webp" description="Concept art of Fangus Klot" %}
 
-The Brutal Ballad of Fangus Klot (abbreviated: BBoFK), was a planned Oddworld
+**The Brutal Ballad of Fangus Klot** (abbreviated: BBoFK), was a planned Oddworld
 (and later non-Oddworld) game developed by OWI, using Stranger's Wrath's engine.
-However, the game hardly had the chance to even enter production as just after
-one month of pre-production OWI closed its gates.
+However, the game hardly had the chance to even enter production as soon after
+announcing the game OWI closed its gates.
 
 > **[David Fried](/swinterview):**
 >I've heard nothing... I did hear about Fangus when I was leaving. That was
@@ -152,7 +162,7 @@ TOL article.
 
 ### The Hand of Odd
 
-The Hand of Odd (which I'll be referring from now on as "HoO"), was OWI's
+**The Hand of Odd** (which I'll be referring from now on as "HoO"), was OWI's
 attempt at breaking into the RTS scene, albeit with way too big plans and way
 too late.
 
@@ -248,11 +258,14 @@ Alf didn't ever speak about it again, except for one time:
 As for why the game didn't happen, Lorne Lanning [recounts the
 story](https://magogonthemarch.wordpress.com/lost-oddworld-inhabitants-hand-of-odd-and-citizen-siege-2013/)
 of how he met Robert Kotick (then-CEO of Activision) in a toilet, who warned him
-not to proceed with HoO's development. Lanning seemingly took this heavily to
-heart as soon enough the game was dropped and never pursued again.
+not to proceed with HoO's development. Lanning seemingly took this to heart as
+soon enough the game was dropped and never pursued again.
 
 ## Conclusion
 
 Of course, the list goes on. OWI had several projects throughout its existence
 which are only artificially kept alive as myths and legends in the fandom's
-collective consciousness. Wage Wars, Citizen Siege, the planned social-media games, all things some people likely still expect to see, but if there is one thing that should become apparent, it's that fifteen years have past, it's about time to let go.
+collective consciousness. Wage Wars, Citizen Siege, the planned social-media
+games, all things some people likely still expect to see, but after reading this
+post I hope at least for some it becomes apparent: **Fifteen years have passed,
+it's about time to let go.**
