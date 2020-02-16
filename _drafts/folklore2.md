@@ -1,9 +1,13 @@
 ---
-title: Folk-lore
-summary: "A short cautionary tale about not knowing when to let go."
+title: The Mythology of Unreleased Games
+summary: "A short cautionary tale about SligStorm, Fangus Klot, the Hand of Odd and not knowing when to let go."
 ---
 
-# Folk-Lore
+# The Mythology of Unreleased Games
+
+Also known as,  
+***"When will the project that you announced twenty years ago but not yet released nor mentioned in the last decade come out?"***
+{:.centered}
 
 Here's a little experiment you can do at home: Open your favorite social-media
 website and navigate to one of OWI's pages. Start looking at comments and while
