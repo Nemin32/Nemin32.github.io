@@ -3,7 +3,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
-$background-color: #d0d0b8;
+$background-color: #e0e0d8;
 $font-color: #2e2e2e;
 $subtitle-color: #444;
 $link-color: #111;
@@ -71,8 +71,8 @@ img
 
 #main {
     display: grid;
-    grid-template-columns: auto 300px;
-    width: 85%;
+    grid-template-columns: auto 20rem;
+    width: 100rem;
     margin: 0 auto;
     background: $background-color; 
 }
