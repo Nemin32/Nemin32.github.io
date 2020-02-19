@@ -67,6 +67,21 @@ layout: index_layout
 </div>
 
 <div class="category">
+    <h2>Blog</h2>
+    <ul>
+    {% for post in site.categories["blog"] %}
+    <li>
+    <a href="{{ post.url }}">
+        <p title="{{ post.title }}" class="link">{{ post.title }}</p>
+        <p class="content"> {{ post.summary }} </p>
+        <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
+    </a>
+    </li>
+    {% endfor %}
+    </ul>
+</div>
+
+<div class="category">
     <h2>Essays</h2>
     <ul>
     {% for post in site.categories["essay"] %}
