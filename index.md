@@ -10,7 +10,7 @@ layout: index_layout
     {% assign id = post.id | split: '/' %}
     <li>
     <a href="{{ post.url }}">
-        <img src="/imgs/thumbs/{{id[1]}}.jpg">
+        <img src="/imgs/thumbs/{{id[1]}}.webp">
         <p title="{{ post.title }}" class="link">{{ post.title }}</p>
         <p class="content"> {{ post.summary }} </p>
         <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
@@ -55,6 +55,21 @@ layout: index_layout
     <h2>Other Oddworld-related content</h2>
     <ul>
     {% for post in site.categories["other"] %}
+    <li>
+    <a href="{{ post.url }}">
+        <p title="{{ post.title }}" class="link">{{ post.title }}</p>
+        <p class="content"> {{ post.summary }} </p>
+        <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
+    </a>
+    </li>
+    {% endfor %}
+    </ul>
+</div>
+
+<div class="category">
+    <h2>Blog</h2>
+    <ul>
+    {% for post in site.categories["blog"] %}
     <li>
     <a href="{{ post.url }}">
         <p title="{{ post.title }}" class="link">{{ post.title }}</p>
