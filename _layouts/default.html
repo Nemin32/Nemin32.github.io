@@ -16,42 +16,42 @@
   </head>
   <body>
     <div id="main">
+      <main>
+        {{ content }}
+      </main>
 
-    <div id="content">
-    {{ content }}
-    </div>
+      <div id="sidebar">
+        <header>
+          <div id = "header">
+            <a href="/index.html">
+              <img src="/logo.webp">
+              <h1>Oddwords</h1>
+            </a>
+          </div>
 
-    
-    <div id="sidebar">
-      <div id = "header">
-        <a href="/index.html">
-          <img src="/logo.webp">
-          <h1>Oddwords</h1>
-        </a>
+          <div id="links">
+            {% assign cat = page.categories[0] | strip %}
+            {% assign len = cat | size %}
+            {% if len != 0 %}
+            <p>Other posts in the {{page.categories[0] | capitalize}} category:</p>
+            <ul>
+              {% for p in site.categories[cat] limit:5 %}
+              {% if p.title != page.title %}
+              <li><a href="{{p.url}}">{{p.title}}</a></li>
+              {% endif %}
+              {% endfor %}
+            </ul>
+            {% endif %}
+          </div>
+        </header>
+
+        <footer>
+          <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+            <img alt="Creative Commons License" src="/imgs/cc.png"/>
+          </a>
+          <p>Nemin (2018 - 2020)</p>
+        </footer>
       </div>
-
-      <div id="links">
-          {% assign cat = page.categories[0] | strip %}
-          {% assign len = cat | size %}
-          {% if len != 0 %}
-        <p>Other posts in the {{page.categories[0] | capitalize}} category:</p>
-        <ul>
-          {% for p in site.categories[cat] limit:5 %}
-          {% if p.title != page.title %}
-          <li><a href="{{p.url}}">{{p.title}}</a></li>
-          {% endif %}
-          {% endfor %}
-        </ul>
-          {% endif %}
-      </div>
-
-      <div id="footer">
-        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-          <img alt="Creative Commons License" src="/imgs/cc.png"/>
-        </a>
-        <p>Nemin (2018 - 2020)</p>
-      </div>
-    </div>
     </div>
   </body>
 </html>
