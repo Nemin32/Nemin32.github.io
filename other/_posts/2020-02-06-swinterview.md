@@ -11,7 +11,7 @@ p {
   text-align: justify;
 }
 
-#content > p:not(.intro) {
+main > p:not(.intro) {
   width: 75%;
   background: #cacaca;
   padding: 1rem;
