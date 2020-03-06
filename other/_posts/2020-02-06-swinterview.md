@@ -30,7 +30,7 @@ blockquote {
 # Interview with David Fried
 {:.no_toc}
 
-{% include caption.html url="/imgs/thumbs/swinterview.jpg" description="Promotional image from Stranger's Wrath" %}
+{% include caption.html url="/imgs/thumbs/swinterview.webp" description="Promotional image from Stranger's Wrath" %}
 
 <br>
 {:.intro}
