@@ -89,6 +89,7 @@ const struct EVENT event_list[] = {
   EVENT(17,  9, 25, SOULSTORM, "\"Projekt: Soulstorm\" trailer video is shown", "https://www.youtube.com/watch?v=1p0o2c4NGpk"),
   EVENT(18,  1, 12, SOULSTORM, "First in-game screenshot is released", "https://pbs.twimg.com/profile_banners/20823262/1515636880/1500x500"),
   EVENT(18,  6, 19, SOULSTORM, "Lorne Lanning appears at Unite Berlin", "https://www.youtube.com/watch?v=Kv9Zoyo8o8s"),
+  EVENT(19,  3, 18, SOULSTORM, "Unity Keynote at GDC 2019", "https://www.youtube.com/watch?v=7g_IEadyiuA"),
   EVENT(19,  5, 13, SOULSTORM, "First gameplay teaser is shown", "https://www.youtube.com/watch?v=6wJAdfTJZUQ"),
   EVENT(19,  6, 13, SOULSTORM, "Soulstorm shown at E3", "https://www.ign.com/videos/2019/06/12/oddworld-soulstorm-gameplay-walkthrough-ign-live-e3-2019"),
   EVENT(19,  8, 19, SOULSTORM, "OWI announces Epic partnership", "https://twitter.com/OddworldInc/status/1163542883036737537"),
