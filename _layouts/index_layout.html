@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/css/index_style.css">
-    <link rel="stylesheet" href="/css/newstyle.css">
+    <link rel="stylesheet" href="/css/style.css">
     <link rel="icon" href="/favicon.ico">
     <link rel=alternate" type="application/atom+xml" href="/feed.xml">
     <title>Oddwords</title>
@@ -17,25 +17,24 @@
     <meta property="og:image" content="https://oddwords.hu/logo.webp">
   </head>
   <body>
+    <header>
+      <a href="/index.html">
+        <img src="/logo.webp">
+      </a>
+      <div>
+        <h1><a href="/index.html">Oddwords</a></h1>
+
+        <p>Welcome to Oddwords, an Oddworld fansite hosting content
+        written by me, such as essays, reviews and lists.</p>
+      </div>
+    </header>
+
     <div id="main">
       <main>
         {{ content }}
       </main>
 
       <div id="sidebar">
-        <header>
-          <div id="header">
-            <a href="/index.html">
-              <img src="/logo.webp">
-              <h1>Oddwords</h1>
-            </a>
-          </div>
-
-          <div id="links">
-            <p>Welcome to Oddwords, an Oddworld fansite hosting content
-            written by me, such as essays, reviews and lists.</p>
-          </div>
-        </header>
 
         <footer>
           <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
