@@ -1,36 +1,44 @@
 ---
 ---
 
+@import "css/variables";
+
 h2 {
   margin: 0;
-  //padding-top: 0.2vw;
-  //padding-bottom: 0.2vw;
-  padding-left: 1vw;
+  padding-top: 0.2*$scale;
+  padding-bottom: 0.2*$scale;
+  padding-left: 1*$scale;
 
-  font-size: 1.4vw;
+  font-size: 1.4*$scale;
   text-align: center;
 
   background: #222;
   color: #efefef;
 }
 
-ul {
-  width: 80%;
+.category {
   margin: 0 auto;
-  margin-top: 1vw;
+  margin-bottom: 2*$scale;
+  padding-bottom: 2*$scale;
+}
+
+ul {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 2*$scale;
   display: grid;
-  grid-template-columns: repeat(3, 33%);
+  grid-template-columns: repeat(4, calc(100% / 4) );
   grid-auto-rows: 1fr;
 
   list-style: none;
   padding-left: 0;
 
   li {
-    margin-right: 1vw;
-    margin-bottom: 1vw;
+    margin-right: 1*$scale;
+    margin-bottom: 1*$scale;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.2);
 
-    background: #d2d2a2;
+    background: $bg-color*2;
 
     a {
       display: flex;
@@ -46,7 +54,7 @@ ul {
 
     .content {
       flex-grow: 1;
-      padding: 1vw;
+      padding: 0.5*$scale;
 
       margin: 0;
     }
@@ -55,15 +63,17 @@ ul {
       margin: 0;
       text-align: right;
 
-      padding-right: 0.4vw;
-      padding-bottom: 0.2vw;
+      padding-right: 0.4*$scale;
+      padding-bottom: 0.2*$scale;
+
+      font-size: 0.8*$scale;
     }
 
     img {
       width: 100%;
       max-width: 100%;
 
-      height: 30vw;
+      height: 25*$scale;
       object-fit: cover;
     }
 
@@ -71,10 +81,10 @@ ul {
       background: #222;
       color: #efefef;
       margin: 0;
-      padding: 0.5vw;
+      padding: 0.5*$scale;
 
       font-weight: bold;
-      font-size: 1.1vw;
+      font-size: 1.1*$scale;
 
       overflow: hidden;
       white-space: nowrap;
@@ -82,4 +92,10 @@ ul {
       width: 100%;
     }
   }
+}
+
+#rss {
+  text-align: center;
+  margin-bottom: 0;
+  padding-bottom: 1*$scale;
 }

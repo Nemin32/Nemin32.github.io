@@ -96,4 +96,4 @@ layout: index_layout
     </ul>
 </div>
 
-### The RSS feed can be found [here](/feed).
+<h3 id="rss">The RSS feed can be found <a href="/feed">here.</a></h3>
