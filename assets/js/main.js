@@ -19,7 +19,7 @@ fetch("/assets/json/posts.json").then(e => e.json()).then(json => {
         window.location.hash = toc.value
     })
 
-    document.getElementById("content").insertBefore(toc, root)
+    document.querySelector("main").insertBefore(toc, root)
 
     for (let elem of elems) {
         let outer_div = document.createElement("div");
