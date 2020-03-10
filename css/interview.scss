@@ -1,0 +1,29 @@
+---
+---
+
+@import "css/variables";
+
+p {
+  margin-top: 0.8*$scale;
+  margin-bottom: 0.8*$scale;
+  text-align: justify;
+}
+
+main > p:not(.intro) {
+  background: $bg-color*2;
+  padding: 1*$scale;
+  padding-left: 1*$scale;
+  padding-right: 1*$scale;
+
+  border-left: 4px solid $bg-color*4;
+}
+
+blockquote {
+  margin-top: 2*$scale;
+  margin-bottom: 2*$scale;
+}
+
+h2 {
+  margin-bottom: 3*$scale !important;
+  margin-top: 3*$scale !important;
+}

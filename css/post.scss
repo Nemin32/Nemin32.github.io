@@ -3,6 +3,13 @@
 
 @import "css/variables";
 
+iframe, video {
+  display: block;
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 main {
   figure {
     max-width: 60%;
@@ -31,16 +38,25 @@ main {
     }
   }
 
-  ul {
+  ol, ul {
     width: 40%;
     margin-left: auto;
     margin-right: auto;
 
     color: $font-color;
+
+    li {
+      margin-bottom: 0.2*$scale;
+    }
+  }
+
+  hr {
+    width: 20%;
+    color: $bg-color*3;
   }
 
   blockquote {
-    width: 50%;
+    width: 55%;
     margin-left: auto;
     margin-right: auto;
     background: $bg-color/2;
@@ -60,4 +76,51 @@ main {
     //font-size: 1.1*$scale;
   }
 
+}
+
+#links {
+  background: $bg-color*3;
+  border-top: 3px solid #222;
+
+  & > p {
+    padding-top: 0.5*$scale;
+    margin-top: 0;
+    text-align: center;
+  }
+
+  ul {
+    width: 100%;
+    margin: 0;
+    padding-left: 1*$scale;
+    padding-right: 1*$scale;
+
+    padding-bottom: 2*$scale;
+
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(4, calc(100% / 4) );
+    grid-auto-rows: 1fr;
+    justify-content: center;
+
+    a {
+      text-decoration: none;
+      color: $font-color;
+    }
+
+    li {
+      height: 100%;
+      padding: 1*$scale;
+      background: $bg-color * 4;
+
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.2);
+      margin-left: 0.4*$scale;
+      margin-right: 0.4*$scale;
+
+      border: 1px solid $bg-color;
+
+      h3 {
+        margin-top: 0;
+      }
+    }
+  }
 }
