@@ -12,7 +12,7 @@ html, body {
   padding: 0;
   margin: 0;
 
-  font-size: 1*$scale;
+  font-size: 1.325*$scale;
   font-family: "Lato";
 }
 
@@ -20,35 +20,30 @@ p {
   color: $font-color;
 }
 
+a {
+  color: $font-color*1.25;
+}
+
 main {
   line-height: 1.6;
   background: $bg-color;
 
   padding-top: 1*$scale;
+  padding-bottom: 2*$scale;
 
-  h1 {
-    padding: 0.2*$scale;
+  h1,h2,h3 {
     text-align: center;
-
-    width: 40%;
+    background: rgba(32,32,32,0.6);
+    color: $font-color;
     margin: 0 auto;
 
-    background: rgba(32,32,32,0.6);
-    color: #efefef;
+    display: table;
+    padding-left: 0.8*$scale;
+    padding-right: 0.8*$scale;
   }
 
-  & > p {
-    width: 60%;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: justify;
-
-    font-size: 1.1*$scale;
-  }
-
-  p:last-child {
+  & > *:last-child {
     margin-bottom: 0;
-    padding-bottom: 1*$scale;
   }
 
   img {
@@ -57,32 +52,6 @@ main {
     margin-right: auto;
   }
 
-  figure {
-    max-width: 60%;
-    margin-left: auto;
-    margin-right: auto;
-
-    display: table;
-
-    background: $bg-color*1.5;
-    border: 3px solid $bg-color*3;
-
-    img {
-      max-width: 100%;
-      max-height: 60vh;
-      margin: 0 auto;
-      display: block;
-    }
-
-    figcaption {
-      padding: 0.2*$scale;
-      padding-left: 0.6*$scale;
-      background: $bg-color*2;
-      color: $font-color;
-
-      border-top: 3px solid $bg-color*3;
-    }
-  }
 }
 
 header {
@@ -110,7 +79,6 @@ header {
 
       margin: 0 auto;
     }
-
   }
 
   div {
@@ -156,8 +124,6 @@ img {
     padding-top: 0.5*$scale;
     margin-top: 0;
     text-align: center;
-
-    font-size: 1.2*$scale;
   }
 
   ul {
@@ -169,7 +135,7 @@ img {
 
     list-style: none;
     display: grid;
-    grid-template-columns: repeat(5, calc(100% / 5) );
+    grid-template-columns: repeat(4, calc(100% / 4) );
     grid-auto-rows: 1fr;
     justify-content: center;
 
