@@ -38,6 +38,11 @@ main {
     }
   }
 
+  h2 {
+    margin-bottom: 2*$scale !important;
+    margin-top: 2*$scale !important;
+  }
+
   ol, ul {
     width: 40%;
     margin-left: auto;
