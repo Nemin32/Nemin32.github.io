@@ -35,10 +35,11 @@
     <div id="links">
       {% assign cat = page.categories[0] | strip %}
       {% assign len = cat | size %}
+      {% assign posts = 4 %}
       {% if len != 0 %}
       <p>Other posts in the {{page.categories[0] | capitalize}} category:</p>
       <ul>
-        {% for p in site.categories[cat] limit:4 %}
+        {% for p in site.categories[cat] %}
         {% if p.title != page.title %}
         <a href="{{p.url}}">
           <li>
@@ -46,6 +47,10 @@
             <p>{{p.summary}}</p>
           </li>
         </a>
+        {% assign posts = posts | minus: 1 %}
+        {% if posts == 0 %}
+        {% break %}
+        {% endif %}
         {% endif %}
         {% endfor %}
       </ul>

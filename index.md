@@ -2,7 +2,7 @@
 layout: index_layout
 ---
 
-<div class="category">
+<div class="category featured">
 <h2>Featured posts</h2>
 <ul>
 {% assign posts = site.tags.spec | reverse %}
@@ -22,9 +22,8 @@ layout: index_layout
 
 <div class="category">
     <h2>Newest posts</h2>
-    
     <ul>
-    {% for post in site.posts limit:6 %}
+    {% for post in site.posts limit:5 %}
     <li>
     <a href="{{ post.url }}">
         <p title="{{ post.title }}" class="link">{{ post.title }}</p>
@@ -35,7 +34,7 @@ layout: index_layout
     {% endfor %}
     </ul>
 </div>
-    
+
 <div class="category">
     <h2>Soulstorm-related content</h2>
     <ul>
