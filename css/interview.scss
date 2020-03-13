@@ -10,12 +10,12 @@ p {
 }
 
 main > p:not(.intro) {
-  background: $bg-color*2;
+  background: $bg-color*1.1;
   padding: 1*$scale;
   padding-left: 1*$scale;
   padding-right: 1*$scale;
 
-  border-left: 4px solid $bg-color*4;
+  border-left: 4px solid $bg-color/3;
 }
 
 blockquote {

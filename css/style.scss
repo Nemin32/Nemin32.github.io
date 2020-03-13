@@ -13,6 +13,8 @@ html, body {
   padding: 0;
   margin: 0;
 
+  background: #0e0911*4;
+
   font-size: 1.625*$scale;
   font-family: "Oxygen", "Nimbus Sans", "Helvetica", sans-serif;
 }
@@ -33,13 +35,15 @@ main {
   line-height: 1.6;
   background: $bg-color;
 
+  margin: 0 auto;
+
   padding-top: 1*$scale;
   padding-bottom: 2*$scale;
 
   h1,h2,h3 {
     text-align: center;
-    background: rgba(32,32,32,0.6);
-    color: $font-color;
+    background: rgba(16,64,16,0.8);
+    color: $bg-color;
     margin: 0 auto;
 
     display: table;
@@ -72,7 +76,6 @@ header {
   justify-items: center;
 
   line-height: 1.4;
-  border-bottom: 0.2*$scale solid #222;
 
   & > a {
     display: block;
@@ -126,16 +129,16 @@ footer {
   background: #111;
 
   padding: 1*$scale;
-  color: #e2e2e2;
 
   img {
     margin: 0 auto;
     margin-bottom: 0.4*$scale;
-    width: 5*$scale;
+    width: 6*$scale;
   }
 
   p {
     margin: 0;
     text-align: center;
+    color: $bg-color;
   }
 }

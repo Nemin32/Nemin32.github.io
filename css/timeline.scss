@@ -7,13 +7,15 @@
   background: #222;
   padding: 0.5*$scale;
 
+  margin-top: $scale;
+
   .event {
-    color: $font-color;
     padding: 0.5*$scale;
     margin-bottom: 0.2*$scale;
   }
 
   p {
+    color: $bg-color;
     margin: 0;
   }
 }
@@ -28,7 +30,7 @@
 
   padding: 1*$scale;
   padding-bottom: 2*$scale;
-  background: $bg-color*2;
+  background: $bg-color/1.1;
   box-shadow: 1px 1px 1px 1px;
 
   h2 {
@@ -47,16 +49,17 @@
 
 
 .month {
-  background: $bg-color*3;
+  background: $bg-color/1.2;
   box-shadow: 1px 1px 1px 1px;
 }
 
 .month_name {
   font-weight: bold;
-  background: rgba(64,64,64,0.8);
-  padding: 0.8*$scale;
+  background: rgba(16,64,16,0.8);
+  padding: 0.6*$scale;
   margin: 0;
   text-align: center;
+    color: $bg-color;
 }
 
 $event-height: 3.5*$scale;
@@ -71,7 +74,7 @@ $event-height: 3.5*$scale;
   height: $event-height;
 
   p:not(.day) {
-    background: $bg-color*4;
+    background: $bg-color/1.1;
   }
 
   p {
