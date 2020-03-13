@@ -2,6 +2,7 @@
 ---
 
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Oxygen&display=swap');
 @import "css/variables";
 
 * {
@@ -12,8 +13,8 @@ html, body {
   padding: 0;
   margin: 0;
 
-  font-size: 1.325*$scale;
-  font-family: "Lato";
+  font-size: 1.625*$scale;
+  font-family: "Oxygen", "Nimbus Sans", "Helvetica", sans-serif;
 }
 
 p {
