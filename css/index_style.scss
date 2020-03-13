@@ -9,21 +9,25 @@ main h2 {
   padding-bottom: 0.2*$scale;
   padding-left: 1*$scale;
 
-  font-size: 1.8*$scale;
+  font-size: 3*$scale;
   text-align: center;
 
   background: #222;
   color: $font-color;
+  width: 100%;
 }
 
 .category {
   margin: 0 auto;
   margin-bottom: 2*$scale;
   padding-bottom: 2*$scale;
+
+  background: $bg-color*1.5;
+  width: 95%;
 }
 
 ul {
-  width: 90%;
+  width: 95%;
   margin: 0 auto;
   margin-top: 2*$scale;
   display: grid;
@@ -83,8 +87,8 @@ ul {
       width: 100%;
       max-width: 100%;
 
-      height: 15*$scale;
-      object-fit: cover;
+      height: 30*$scale;
+      background: black;
     }
 
     .link {
