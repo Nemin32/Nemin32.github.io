@@ -83,10 +83,12 @@ header {
   & > a {
     display: table;
     margin-right: 1*$scale;
-    width: 20%;
+    width: 18*$scale;
 
     img {
       width: 100%;
+      min-width: 100%;
+      max-width: 100%;
       margin: 0 auto;
     }
   }
