@@ -8,6 +8,11 @@
   box-sizing: border-box;
 }
 
+span[title] {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
 html, body {
   padding: 0;
   margin: 0;
