@@ -1,6 +1,7 @@
 ---
 title: The Mythology of Unreleased Games
 summary: "A short cautionary tale about SligStorm, Fangus Klot, the Hand of Odd and not knowing when to let go."
+tags: ["spec"]
 ---
 
 # The Mythology of Unreleased Games

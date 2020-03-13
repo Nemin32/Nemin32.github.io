@@ -1,0 +1,36 @@
+---
+---
+
+@import "css/variables";
+
+select {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#root {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 1*$scale auto;
+    margin-top: 4*$scale;
+}
+
+#root div {
+    padding-top: 1*$scale;
+    padding-left: 3*$scale;
+    padding-right: 3*$scale;
+    margin-bottom: 2*$scale;
+    background: $bg-color*3;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+#root div div {
+    padding-left: 2*$scale;
+    padding-right: 2*$scale;
+    padding-top: 1*$scale;
+    padding-bottom: 1*$scale;
+    background: $bg-color*4;
+}
