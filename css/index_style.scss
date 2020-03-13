@@ -12,8 +12,6 @@ main h2 {
   font-size: 2.5*$scale;
   text-align: center;
 
-  background: #222;
-  color: $font-color;
   width: 100%;
 }
 
@@ -22,8 +20,8 @@ main h2 {
   margin-bottom: 2*$scale;
   padding-bottom: 2*$scale;
 
-  background: $bg-color*1.5;
-  width: 95%;
+  background: $bg-color*1.1;
+  width: 85%;
 }
 
 ul {
@@ -52,7 +50,7 @@ ul {
 
     transition: all 0.2s ease-in-out;
 
-    background: $bg-color*2;
+    background: $bg-color*1.2;
 
     a {
       display: flex;

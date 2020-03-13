@@ -18,8 +18,8 @@ main {
 
     display: table;
 
-    background: $bg-color*1.5;
-    border: 3px solid $bg-color*3;
+    background: $bg-color/1.05;
+    border: 3px solid $bg-color/1.1;
 
     img {
       max-width: 100%;
@@ -31,10 +31,10 @@ main {
     figcaption {
       padding: 0.2*$scale;
       padding-left: 0.6*$scale;
-      background: $bg-color*2;
+      background: $bg-color*1.1;
       color: $font-color;
 
-      border-top: 3px solid $bg-color*3;
+      border-top: 3px solid $bg-color/1.1;
     }
   }
 
@@ -64,12 +64,12 @@ main {
     width: 55%;
     margin-left: auto;
     margin-right: auto;
-    background: $bg-color/2;
+    background: $bg-color/1.1;
     padding-top: 0.2*$scale;
     padding-bottom: 0.2*$scale;
     padding-left: 1.5*$scale;
     padding-right: 1.5*$scale;
-    border-left: 4px solid $bg-color*4;
+    border-left: 4px solid $bg-color/4;
   }
 
   & > p {
@@ -86,7 +86,7 @@ main {
 }
 
 #links {
-  background: $bg-color*3;
+  background: $bg-color/1.3;
   border-top: 3px solid #222;
 
   & > p {
@@ -116,17 +116,30 @@ main {
 
     li {
       height: 100%;
-      padding: 1*$scale;
-      background: $bg-color * 4;
+      background: $bg-color/1.1;
 
       box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.2);
       margin-left: 0.4*$scale;
       margin-right: 0.4*$scale;
 
-      border: 1px solid $bg-color;
-
       h3 {
         margin-top: 0;
+        margin-bottom: $scale/2;
+        background: rgba(16,64,16,0.8);
+        color: $bg-color;
+
+        padding: $scale/2;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      p {
+        margin: 0;
+        padding-left: $scale/2;
+        padding-right: $scale;
+        padding-bottom: $scale*5;
+
       }
     }
   }
