@@ -4,28 +4,7 @@ summary: David Fried worked on Stranger's Wrath as game and narrative designer. 
 tags: ["spec"]
 ---
 
-<style>
-p {
-  margin-top: 0.4rem;
-  margin-bottom: 0.4rem;
-  text-align: justify;
-}
-
-main > p:not(.intro) {
-  width: 75%;
-  background: #cacaca;
-  padding: 1rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
-
-  border-left: 3px solid black;
-}
-
-blockquote {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-</style>
+<link rel="stylesheet" href="/css/interview.css">
 
 # Interview with David Fried
 {:.no_toc}

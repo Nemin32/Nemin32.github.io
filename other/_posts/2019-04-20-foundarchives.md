@@ -1,19 +1,14 @@
 ---
 title: The Found Archives
 summary: Every image released in the Lost Archives project in a convenient list.
+tags: ["spec"]
 ---
 
 <style>
 .flexer
 {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
-
-.flexer a
-{
-  flex-basis: 25%;
+  display: grid;
+  grid-template-columns: repeat(8, calc(100% / 8));
 }
 
 .flexer a img
@@ -32,10 +27,14 @@ summary: Every image released in the Lost Archives project in a convenient list.
 
 .flexer a:hover
 {
-  transform: scale(1.1);
+  transform: scale(1.05);
   z-index: 1;
 }
 </style>
+
+<h1>The Found Archives</h1>
+
+<p>On this page I collected almost all posts from the Lost Arcvhives. Clicking on an image opens its Instagram page, where you can find it in full resolution.</p>
 
 <div class="flexer">
 <a href="https://instagram.com/p/Bwpif1ElJwF/"><img src = "/imgs/insta_images/56905195_328804467780476_155031530092347563_n.webp"></a>
