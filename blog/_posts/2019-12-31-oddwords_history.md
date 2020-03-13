@@ -1,7 +1,6 @@
 ---
 title: The Many Faces of Oddwords
 summary: A short trip down memory lane, showcasing the different designs Oddwords had since its inception.
-tags: ["spec"]
 ---
 
 <style>
