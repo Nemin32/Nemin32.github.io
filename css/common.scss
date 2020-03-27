@@ -8,11 +8,40 @@ html, body {
   margin: 0;
   padding: 0;
 
-  background: #f4ecd8;
+  background: url("/imgs/city.jpg");
+  background-size: 100vw 100vh;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   color: #2e2e2e;
 }
 
-img {
-  max-width: 100%;
-  max-height: 100%;
+body {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+main {
+  padding: 1rem;
+  width: 80%;
+  margin: 0 auto;
+
+  background: #f4ecd8;
+
+  *:first-child {
+    margin-top: 0;
+  }
+
+  *:last-child {
+    margin-bottom: 0;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  main {
+    width: 100%;
+    padding: 0;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
 }
