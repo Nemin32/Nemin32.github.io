@@ -16,6 +16,7 @@ html, body {
 }
 
 body {
+  min-width: 1920px;
   max-width: 1920px;
   margin: 0 auto;
 }
@@ -27,11 +28,11 @@ main {
 
   background: #f4ecd8;
 
-  *:first-child {
+  & > :first-child {
     margin-top: 0;
   }
 
-  *:last-child {
+  & > :last-child {
     margin-bottom: 0;
   }
 }
@@ -43,5 +44,11 @@ main {
     padding: 0;
     padding-top: 1rem;
     padding-bottom: 1rem;
+  }
+
+  body {
+    min-width: unset;
+    max-width: unset;
+    margin: 0 auto;
   }
 }
