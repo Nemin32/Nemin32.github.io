@@ -3,6 +3,7 @@
 
 @import "fonts.css";
 @import "header.css";
+@import "footer.css";
 
 html, body {
   margin: 0;
@@ -16,8 +17,8 @@ html, body {
 }
 
 body {
-  min-width: 1920px;
-  max-width: 1920px;
+  min-width: 1900px;
+  max-width: 1900px;
   margin: 0 auto;
 }
 
