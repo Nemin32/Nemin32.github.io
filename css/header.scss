@@ -6,14 +6,17 @@ header {
   padding: 1rem;
   align-items: center;
 
+  width: 80%;
+  margin: 0 auto;
+
   a {
-    margin: 0 auto;
+    margin-right: 1rem;
   }
 
   div {
     p {
       color: white;
-      width: 60ch;
+      max-width: 60ch;
       margin-top: 0.5rem;
     }
 
@@ -28,18 +31,32 @@ header {
     }
   }
 
-  display: grid;
-  grid-template-columns: 240px auto;
-  grid-column-gap: 1rem;
+  display: flex;
+  flex-direction: row;
+
+  a {
+    width: 240px;
+
+    img {
+      max-width: 100%;
+    }
+  }
 }
 
 @media only screen and (max-width: 600px) {
   header {
-    grid-template-columns: unset;
-    grid-template-rows: 240px auto;
+    flex-direction: column;
+
+    width: 100%;
     align-items: unset;
 
+    padding: 0;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+
     a {
+      margin: 0 auto;
+
       img {
         display: block;
         max-height: 100%;
