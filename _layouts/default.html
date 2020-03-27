@@ -30,6 +30,11 @@
 
     <main>
       {{ content }}
+
+      <div id="navigation">
+        {% if page.previous %} <a href="{{page.previous.url}}">&lt;- Previous</a>{% endif %}
+        {% if page.next %}     <a href="{{page.next.url}}"    >Next -&gt;</a>{% endif %}
+      </div>
     </main>
 
     <div id="links">
