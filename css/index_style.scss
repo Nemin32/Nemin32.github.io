@@ -1,6 +1,13 @@
 ---
 ---
 
+main {
+  padding: 1rem;
+  width: calc(100% - 2rem);
+  margin: 0 auto;
+
+}
+
 h2 {
   border-bottom: 3px solid;
   margin-left: auto;
@@ -9,6 +16,9 @@ h2 {
 }
 
 .category {
+    width: 80%;
+    margin: 0 auto;
+    
   ul {
     display: grid;
     grid-template-columns: repeat(4, calc(25% - 1rem));
@@ -72,6 +82,10 @@ h2 {
   }
 }
 
+.category:first-of-type h2 {
+  margin-top: 0;
+}
+
 #rss {
   text-align: center;
 }
@@ -79,6 +93,11 @@ h2 {
 @media only screen and (max-width: 600px) {
   h2 {
     width: 95%;
+  }
+
+  main {
+    padding: 0.5rem 0;
+    width: 100%;
   }
 
   .category {

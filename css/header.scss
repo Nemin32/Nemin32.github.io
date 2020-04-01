@@ -2,11 +2,13 @@
 ---
 
 header {
-  background: #3f663b;
-  padding: 1rem;
+  //background: #3f663b * 0.8;
   align-items: center;
 
-  width: 80%;
+  padding-top: 0.5rem;
+
+  width: 60%;
+  
   margin: 0 auto;
 
   a {
@@ -14,14 +16,17 @@ header {
   }
 
   div {
+      
     p {
       color: white;
       max-width: 60ch;
       margin-top: 0.5rem;
+      font-size: 1.1rem;
     }
 
     h1 {
       margin: 0;
+      font-size: 6rem;
 
       a {
         text-decoration: none;
@@ -35,7 +40,7 @@ header {
   flex-direction: row;
 
   a {
-    width: 240px;
+    width: 180px;
 
     img {
       max-width: 100%;
