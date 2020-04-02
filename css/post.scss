@@ -8,59 +8,62 @@ $link-color: #e4d87b;
 $width: 680px;
 
 #gridbox {
-    display: grid;
-    grid-template-columns: 80% 20%;
+    //display: grid;
+    //grid-template-columns: 80% 20%;
     //padding: 1rem;
     width: 100%;
     margin: 0 auto;
 
 
-    display: flex;
-    flex-direction: column;
-    grid-template-columns: unset;
+    //display: flex;
+    //flex-direction: column;
+    //grid-template-columns: unset;
 
     background: $bg-color;
-
-    & > div {
-	padding: 0.5rem;
-    }
 }
 
 #links {
-    position: sticky;
-    top: 0;
     background: #d9cdae;
+    margin: 0;
 
     &>p {
 	font-weight: bold;
 	text-align: center;
 
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+	font-weight: 700;
+	font-size: 1.5rem;
+
 	margin-top: 0;
-	margin-bottom: 0.5rem;
+	margin-bottom: 1rem;
+	background: #686;
     }
 
     ul {
-	display: flex;
-	flex-direction: column;
+	display: grid;
+	grid-auto-rows: 1fr;
+	grid-template-columns: repeat(4, 25%);
+	
 	list-style: none;
 	padding: 0;
 	margin: 0;
 
+	padding-left: 1rem;
+
 	a {
 	    text-decoration: none;
-	    color: $link-color;
+	    color: #111;
 	    margin-bottom: 1rem;
 	}
 
-	a:last-of-type {
-	    margin-bottom: 0;
-	}
 
 	li {
 	    border: 2px solid;
 	    height: 100%;
 	    //background: #f4ecd8;
 	    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.2);
+	    margin-right: 1rem;
 
 	    p.title {
 		margin-top: 0;
@@ -93,7 +96,7 @@ main {
     }
 
     blockquote {
-	width: calc(#{$width} - 2rem);
+	width: $width;
 	margin: 0;
 
 	border-left: 5px solid #333;
@@ -164,7 +167,6 @@ main {
     }
 
     #navigation {
-	width: $width;
 	display: flex;
 	flex-direction: row;
 	margin: 1rem 0;
