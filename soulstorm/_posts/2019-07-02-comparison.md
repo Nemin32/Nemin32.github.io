@@ -10,11 +10,13 @@ summary: How does Soulstorm's graphics hold up compared to Exoddus and New 'n' T
     justify-content: space-evenly;
     align-items: center;
     margin-top: 4rem;
+	width: 100%;
   }
 
   p.compare img
   {
     max-width: 40% !important;
+	width: auto;
     height: 100%;
     margin: unset;
   }
