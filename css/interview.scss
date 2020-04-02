@@ -4,22 +4,15 @@
 @import "variables";
 
 p {
-  margin-top: 0.8*$scale;
-  margin-bottom: 0.8*$scale;
   text-align: justify;
 }
 
 main > p:not(.intro) {
   background: $bg-color*1.1;
-  padding: 1*$scale;
-  padding-left: 1*$scale;
-  padding-right: 1*$scale;
+  padding: 1rem;
 
-  border-left: $scale/2 solid $bg-color/3;
+  border-left: 5px solid #333;
+
+  color: black;
+  margin: 0;
 }
-
-blockquote {
-  margin-top: 2*$scale;
-  margin-bottom: 2*$scale;
-}
-
