@@ -14,23 +14,34 @@ select {
     flex-direction: row;
     flex-wrap: wrap;
     width: 80%;
-    margin: 1*$scale auto;
-    margin-top: 4*$scale;
+    margin: 1rem auto;
+    margin-top: 4rem;
 }
 
 #root div {
-    padding-top: 1*$scale;
-    padding-left: 3*$scale;
-    padding-right: 3*$scale;
-    margin-bottom: 2*$scale;
-    background: $bg-color*3;
+    padding-top: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-bottom: 2rem;
+    background: $bg-color*0.8;
+
+    color: #222;
+
+    h2 {
+	text-align: center;
+    }
+
+    p {
+	width: 100%;
+    }
+    
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
 }
 
 #root div div {
-    padding-left: 2*$scale;
-    padding-right: 2*$scale;
-    padding-top: 1*$scale;
-    padding-bottom: 1*$scale;
-    background: $bg-color*4;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background: $bg-color*0.9;
 }
