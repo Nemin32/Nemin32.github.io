@@ -209,58 +209,44 @@ final version, so take everything here with a grain of salt. The text in
 quotes are the official descriptions shown in the gameplay footage, the
 rest are my thoughts.
 
-* ![](/imgs/ss_images/ss_brew.png){:.original}
-_Brew Bottle_ - "Splashy, sticky, very tasty and highly flammable. Soulstorm Brew will help
-you get the party started and then help you burn down the venue
-when you've had enough."
+<style>
+#items {
+list-style: none;
+display: grid;
+grid-template-columns: repeat(3, 33%);
+width: 680px;
+padding-left: 0;
+grid-gap: 2rem;
+}
 
-* ![](/imgs/ss_images/cap.png){:.original} _Bottle Cap_ - "We can't believe this ever got past the Food
-Standards people, but they put bottlecaps on Soulstorm Brew that
-make sparks when they hit against hard materials. Sparks plus
-flammable liquid equals fun."
+#items figure img {
+	width: 225px;
+	height: 225px;
+}
+</style>
 
-* ![](/imgs/ss_images/extinguisher.png){:.original}
-_Fire Extinguisher_ - "Look, we've all done it. Sometimes you just set fire to
-something you wanted to keep. Use this handy fire extinguisher to hastily
-correct your overzealous use of flames."
+<ul id="items">
+<li>{% include caption.html url='/imgs/ss_images/ss_brew.png' description="<i>Brew Bottle</i> - Splashy, sticky, very tasty and highly flammable. Soulstorm Brew will help you get the party started and then help you burn down the venue when you've had enough." %}</li>
 
-* ![](/imgs/ss_images/bottle.png){:.original}
-_Empty Bottle_ - "An empty bottle? What was inside? Who's been having a party?
-Why weren't you invited? Never mind, at least these things can be recycled,
-right?"
+<li>{% include caption.html url="/imgs/ss_images/cap.png" description="We have no idea how it got through standards people, but they put bottlecaps on Soulstorm Brew that make sparks when they hit against hard materials. Sparks plus flammable liquid equals fun." %}</li>
 
-* ![](/imgs/ss_images/gum.png){:.original}
-_Gum_ - "The flavor lasts for a few a seconds, but the stickiness is eternal.
-Chew this up a bit and you can use it to stick one thing to another thing.
-Handy!"
+<li>{% include caption.html url="/imgs/ss_images/extinguisher.png" description="<i>Fire Extinguisher</i> - Look, we've all done it. Sometimes you just set fire to something you wanted to keep. Use this handy fire extinguisher to hastily correct your overzealous use of flames." %}</li>
 
-* ![](/imgs/ss_images/lighter.png){:.original}
-_Lighter_ - "It's like carrying a flint, some kindling at all times. Use it to
-start fires where there were previously no fires. Also handy to stick to other
-objects that might benefit from a quick and convenient fire source."
+<li>{% include caption.html url="/imgs/ss_images/bottle.png" description=" _Empty Bottle_ - An empty bottle? What was inside? Who's been having a party? Why weren't you invited? Never mind, at least these things can be recycled, right?" %}</li>
 
-* ![](/imgs/ss_images/flamethrower.png){:.original}
-    _Flamethrower_ - "Well done. You've taken something that was made solely for
-    putting out fires, tinkered around with it and made it into something that makes
-    fire at a prodigious rate. Your momma would be proud."<br><br>
+<li>{% include caption.html url="/imgs/ss_images/gum.png" description="<i>Gum</i> - The flavor lasts for a few a seconds, but the stickiness is eternal. Chew this up a bit and you can use it to stick one thing to another thing. Handy!" %}</li>
 
-    Recipe: Fire extinguisher + Soulstorm Brew + Lighter (Confirmed to
-    be changed. Archived here only for completeness' sake.)
+<li>{% include caption.html url="/imgs/ss_images/lighter.png" description="<i>Lighter</i> - It's like carrying a flint, some kindling at all times. Use it to start fires where there were previously no fires. Also handy to stick to other objects that might benefit from a quick and convenient fire source." %}</li>
 
-* ![](/imgs/ss_images/pop.png){:.original}
-_Purple bottle with a green decal and "PoP" written on it in white_ - Reminds me a
-bit of the drinks you could get in Munch's Oddysee. Perhaps OWI is revisiting
-this concept.
+<li>{% include caption.html url="/imgs/ss_images/flamethrower.png" description="<i>Flamethrower</i> - Well done. You've taken something that was made solely for putting out fires, tinkered around with it and made it into something that makes fire at a prodigious rate. Your momma would be proud.
 
-* ![](/imgs/ss_images/pop_gum.png){:.original}
-_Purple bottle with a green decal and a purple band over it_ - The color of this
-band is very similar to the gum, so perhaps this is the result of crafting the
-two together.
+Recipe: Fire extinguisher + Soulstorm Brew + Lighter (Confirmed to be changed. Archived here only for completeness' sake.)" %}</li>
 
-* ![](/imgs/ss_images/jawbreaker.png){:.original}
-_Jawbreaker_ - An ordinary looking jawbreaker-candy. OWI has alluded towards that its effects are going to be surprising.
+<li>{% include caption.html url="/imgs/ss_images/pop.png" description="<i>Purple bottle with a green decal and 'PoP' written on it in white</i> - Reminds me a bit of the drinks you could get in Munch's Oddysee. Perhaps OWI is revisiting this concept." %}</li>
 
-* ![](/imgs/ss_images/water.png){:.original}
-_Water in an SSB bottle_ - This SoulStorm Brew bottle contains water
-that you can give to your Mudokons. The exact usage of them is not
-known.
+<li>{% include caption.html url="/imgs/ss_images/pop_gum.png" description='<i>Purple bottle with a green decal and a purple band over it</i> - The color of this band is very similar to the gum, so perhaps this is the result of crafting the two together.' %}</li>
+
+<li>{% include caption.html url="/imgs/ss_images/jawbreaker.png" description="<i>Jawbreaker</i> - An ordinary looking jawbreaker-candy. OWI has alluded towards that its effects are going to be surprising." %}</li>
+
+<li>{% include caption.html url="/imgs/ss_images/water.png" description="<i>Water in an SSB bottle</i> - This SoulStorm Brew bottle contains water that you can give to your Mudokons. The exact usage of them is not known." %}</li>
+</ul>

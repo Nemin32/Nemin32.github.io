@@ -9,7 +9,7 @@ summary: A short trip down memory lane, showcasing the different designs Oddword
 {
     display: flex;
     /*width: 60%;*/
-    margin: 0 auto;
+    margin: 0 ;
 }
 
 .showcase #main_image
@@ -31,7 +31,7 @@ summary: A short trip down memory lane, showcasing the different designs Oddword
 {
     background: #2e2e2e;
     width: 60%;
-    margin: 0 auto;
+    margin: 0;
 }
 
 code
@@ -42,8 +42,9 @@ code
 .highlighter-rouge
 {
     width: 60%;
-    margin: 0 auto;
-    background: #ddd;
+    margin: 0;
+    background: #eee;
+	color: black;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
 }
