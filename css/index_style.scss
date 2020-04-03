@@ -92,18 +92,25 @@ h2 {
 
 @media only screen and (max-width: 600px) {
   h2 {
-    width: 95%;
+    width: 100%;
   }
 
   main {
-    padding: 0.5rem 0;
+    padding: 0 0;
     width: 100%;
   }
 
   .category {
+      width: 90%;
+      
     ul {
-      grid-template-columns: 100%;
+      grid-template-columns: 50% 50%;
       padding-right: 1rem;
+      padding-left: 0;
+
+      li img {
+	  height: 150px;
+      }
     }
   }
 }
