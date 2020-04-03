@@ -93,6 +93,10 @@ main {
 	display: block;
 	width: 100%;
 	margin: 0;
+
+	&.small {
+	    width: auto;
+	}
     }
 
     blockquote {
@@ -103,6 +107,11 @@ main {
 	background: #dbcca6;
 
 	padding: 1rem;
+
+	a {
+	    color: black;
+	    text-decoration: underline;
+	}
 
 	p {
 	    width: 100%;
@@ -150,6 +159,7 @@ main {
     & > ul {
 	li {
 	    margin-bottom: 0.5rem;
+	    width: $width;
 	}
     }
 
@@ -162,7 +172,7 @@ main {
     }
 
     iframe, video {
-	width: 100%;
+	width: $width;
 	display: block;
     }
 
