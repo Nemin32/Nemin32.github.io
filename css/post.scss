@@ -211,9 +211,10 @@ main {
     }
 
     #links {
-	height: unset;
+	ul {
+	    grid-template-columns: 100%;
+	    grid-auto-rows: 1fr;
 
-	&>p {
 	}
     }
 }
