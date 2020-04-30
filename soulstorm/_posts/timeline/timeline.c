@@ -146,6 +146,9 @@ const struct EVENT event_list[] = {
   EVENT(20,  1, 23, OTHER,     "Stranger's Wrath arrives to the Nintendo Switch",                           NULL),
   EVENT(20,  3, 13, OTHER,     "Microids announces limited physical release for Stranger's Wrath",          "https://www.microids.com/oddworld-strangers-wrath-hd-retail-versions-launching-in-us-and-eu/"),
 
+  /* MUNCH */
+  EVENT(20,  4, 30, OTHER,     "OWI/Microids announces Munch Switch port.",                                "https://www.microids.com/us/oddworld-munchs-oddysee-coming-to-nintendo-switch-may-14th-2/"),
+
   /* DISCORD */
   EVENT(17,  5,  2, DISCORD,   "Discord server launches",                                                   "https://discordapp.com/channels/293291256736382976/293291256736382976/308969023981486082"),
   EVENT(19,  2, 16, DISCORD,   "One hour Discord Q&A",                                                      "/lanningqna"),
