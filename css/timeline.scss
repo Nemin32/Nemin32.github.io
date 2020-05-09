@@ -2,113 +2,114 @@
 ---
 
 #legend {
-    background: #222;
+  background: #222;
 
-    padding: 0.3rem;
-    
-    div {
-	padding: 0.2rem;
-	margin-bottom: 0.3rem;
-    }
+  padding: 0.3rem;
 
-    div:last-child {
-	margin-bottom: 0;
-    }
+  div {
+    padding: 0.2rem;
+    margin-bottom: 0.3rem;
+  }
+
+  div:last-child {
+    margin-bottom: 0;
+  }
 }
 
 h3 {
-    text-align: center;
+  text-align: center;
 }
 
 .year {
-    h2 {
-	text-align: center;
-	padding-top: 0.5rem;
-	color: black;
-    }
-
-
-    & > div {
-	padding-left: 1rem;
-	padding-right: 1.25rem;
-	padding-bottom: 1rem;
-	display: grid;
-	grid-template-columns: repeat(3, 33%);
-	margin: 0 auto;
-	grid-column-gap: 0.5rem;
-	grid-row-gap: 0.5rem;
-    }
-
-    background: #ded7c4;
-
+  h2 {
+    text-align: center;
+    padding-top: 0.5rem;
     color: black;
-    box-shadow: 1px 1px 1px 1px;
+  }
+
+
+  & > div {
+    padding-left: 1rem;
+    padding-right: 1.25rem;
+    padding-bottom: 1rem;
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    margin: 0 auto;
+    grid-column-gap: 0.5rem;
+    grid-row-gap: 0.5rem;
+  }
+
+  background: #ded7c4;
+
+  color: black;
+  box-shadow: 1px 1px 1px 1px;
 }
 
 .month_name {
-    text-align: center;
-    background: #686;
-    color: white;
-    font-weight: 700;
-    padding: 0.5rem 0;
-    margin: 0;
+  text-align: center;
+  background: #686;
+  color: white;
+  font-weight: 700;
+  padding: 0.5rem 0;
+  margin: 0;
 }
 
 .month {
-    background: #cbc5b4;
-    color: black;
-    box-shadow: 1px 1px 1px 1px;
+  background: #cbc5b4;
+  color: black;
+  box-shadow: 1px 1px 1px 1px;
 }
 
 .events {
-    min-height: 7rem;
-    display: flex;
-    flex-direction: column;
-    
-    .event_container {
-	display: grid;
-	grid-template-columns: 30px auto;
-	min-height: 2rem;
+  min-height: 7rem;
+  display: flex;
+  flex-direction: column;
 
-	border-bottom: 1px solid black;
-	background: #ded7c4;
+  .event_container {
+    display: grid;
+    grid-template-columns: 30px auto;
+    min-height: 2rem;
 
-	.day {
-	    text-align: right;
-	    color: white;
-	    padding: 0.3rem;
-	}
+    border-bottom: 1px solid black;
+    background: #ded7c4;
 
-	p:not(.day) {
-	    color: #111;
-	    padding: 0.5rem;
-	}
-
-	p {
-	    margin: 0;
-	    width: 100%;
-
-	    overflow: hidden;
-	    white-space: nowrap;
-	    text-overflow: ellipsis;
-
-	    &:hover {
-		overflow: unset;
-		white-space: unset;
-		height: auto;
-	    }
-	}
-
-	a {
-	    color: #111;
-	    text-decoration: underline;
-	}
-	
+    .day {
+      text-align: right;
+      color: white;
+      padding: 0.3rem;
+      overflow: visible;
     }
+
+    p:not(.day) {
+      color: #111;
+      padding: 0.5rem;
+    }
+
+    p {
+      margin: 0;
+      width: 100%;
+
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+
+      &:hover {
+        overflow: unset;
+        white-space: unset;
+        height: auto;
+      }
+    }
+
+    a {
+      color: #111;
+      text-decoration: underline;
+    }
+
+  }
 }
 
 #navigation {
-    width: 100% !important;
+  width: 100% !important;
 }
 
 .event-arg {
