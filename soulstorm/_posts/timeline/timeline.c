@@ -100,6 +100,7 @@ const struct EVENT event_list[] = {
   EVENT(19, 12, 20, SOULSTORM, "\"Better watch out!\" teaser is released",                                  "https://www.youtube.com/watch?v=ay2ks5FO_u4"),
   EVENT(19, 12, 20, SOULSTORM, "Soulstorm doesn't win \"Most anticipated\" at Unity Awards",                "https://awards.unity.com/2019"),
   EVENT(20,  1, 14, SOULSTORM, "Soulstorm appears in 1UP Conf's Most Awaited Sequel poll and wins",         "https://twitter.com/1UPconf/status/1217015459893170177"),
+  EVENT(20,  6, 11, SOULSTORM, "Soulstorm is shown at Sony's PS5 stream",                                   "https://www.youtube.com/watch?v=F9b-_jCCBhg"),
 
   /* ARG */
   EVENT(16,  3, 16, ARG,       "First phase of the ARG starts",                                             "http://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary"),
@@ -148,6 +149,7 @@ const struct EVENT event_list[] = {
 
   /* MUNCH */
   EVENT(20,  4, 30, OTHER,     "OWI/Microids announces Munch Switch port.",                                "https://www.microids.com/us/oddworld-munchs-oddysee-coming-to-nintendo-switch-may-14th-2/"),
+  EVENT(20,  5, 14, OTHER,     "Munch's Oddysee is released on the Switch",                                "https://www.instagram.com/p/CALjzGVAXxr/"),
 
   /* DISCORD */
   EVENT(17,  5,  2, DISCORD,   "Discord server launches",                                                   "https://discordapp.com/channels/293291256736382976/293291256736382976/308969023981486082"),
