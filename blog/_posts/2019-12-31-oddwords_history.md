@@ -7,31 +7,39 @@ summary: A short trip down memory lane, showcasing the different designs Oddword
 
 .showcase #rest
 {
-    display: flex;
-    /*width: 60%;*/
+    display: grid;
+    grid-template-columns: repeat(4, calc(100% / 4));
+    justify-items: center;
+
+    width: 100%;
     margin: 0 ;
 }
 
 .showcase #main_image
 {
    cursor: pointer;
-   max-height: 50rem;
+   max-height: 60vh;
    max-width: 100%;
 }
 
 .showcase #rest img
 {
     margin: 0;
-    flex-basis: 25%;
     cursor: pointer;
     border: 3px solid #2e2e2e;
+
+    //width: 100%;
+    height: 100%;
+    max-height: 20vh;
 }
 
 .showcase
 {
     background: #2e2e2e;
-    width: 60%;
+    width: 680px;
     margin: 0;
+
+    padding: 0.5rem;
 }
 
 code

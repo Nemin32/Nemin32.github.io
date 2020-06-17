@@ -42,13 +42,14 @@ main {
   }
 
   blockquote {
-    margin-left: 0;
-    padding-left: 0.2rem;
-    border-left: 4px solid;
+    margin: 0;
+    //padding-left: 0.2rem;
+    border-left: 5px solid;
 
+    padding-left: 0.5rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
-    padding-right: 1rem;
+    padding-right: 1.5rem;
 
     background: #eeb;
     width: $width;
