@@ -3,44 +3,40 @@
 
 header {
   //background: #3f663b * 0.8;
-  align-items: center;
+  background: #3f663b;
 
   padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 
-  width: 70%;
-  
+  width: 100%;
+
   margin: 0 auto;
 
-  a {
-    margin-right: 1rem;
+  p {
+    color: white;
+    //max-width: 60ch;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
   }
 
-  div {
-      
-    p {
+  h1 {
+    margin: 0;
+    font-size: 3rem;
+
+    a {
+      text-decoration: none;
+      text-transform: uppercase;
       color: white;
-      max-width: 60ch;
-      margin-top: 0.5rem;
-      font-size: 1.1rem;
-    }
-
-    h1 {
-      margin: 0;
-      font-size: 6rem;
-
-      a {
-        text-decoration: none;
-        text-transform: uppercase;
-        color: white;
-      }
     }
   }
 
   display: flex;
   flex-direction: row;
+  align-items: center;
 
   a {
-    width: 180px;
+    padding-left: 0.5rem;
+    width: 90px;
 
     img {
       max-width: 100%;
@@ -75,7 +71,7 @@ header {
         margin-top: 0.1rem;
         margin-bottom: 0.1rem;
 
-	font-size: 3rem;
+        font-size: 3rem;
       }
 
       p {
