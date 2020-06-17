@@ -1,10 +1,15 @@
 ---
 ---
 
+div p {
+  width: unset !important;
+}
+
 #legend {
   background: #222;
 
   padding: 0.3rem;
+
 
   div {
     padding: 0.2rem;
