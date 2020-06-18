@@ -10,7 +10,9 @@ layout: index_layout
     {% assign id = post.id | split: '/' %}
     <li>
     <a href="{{ post.url }}">
+        <div>
         <img src="/imgs/thumbs/{{id[1]}}.webp">
+        </div>
         <p title="{{ post.title }}" class="link">{{ post.title }}</p>
         <p class="content"> {{ post.summary }} </p>
         <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
