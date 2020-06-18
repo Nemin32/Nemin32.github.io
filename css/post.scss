@@ -19,7 +19,12 @@ main {
   }
 
   .figure_box {
+    display: block;
     max-width: $width;
+
+    & + .figure_box {
+      margin-top: 1rem;
+    }
 
     figure {
       display: table;
