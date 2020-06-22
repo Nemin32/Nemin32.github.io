@@ -28,3 +28,15 @@ main {
     max-width: 100%;
   }
 }
+
+@media (orientation: portrait) {
+  body {
+    width: 100%;
+    max-width: 100%;
+    min-width: 100%;
+  }
+
+  main {
+    width: 98%;
+  }
+}
