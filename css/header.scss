@@ -44,39 +44,9 @@ header {
   }
 }
 
-@media only screen and (max-width: 600px) {
+@media (orientation: portrait) {
   header {
-    flex-direction: column;
-
+    justify-content: center;
     width: 100%;
-    align-items: unset;
-
-    padding: 0;
-    padding-top: 1rem;
-    padding-bottom: 0.5rem;
-
-    a {
-      margin: 0 auto;
-
-      img {
-        display: block;
-        max-height: 100%;
-        margin: 0 auto;
-      }
-    }
-
-    div {
-      h1 {
-        text-align: center;
-        margin-top: 0.1rem;
-        margin-bottom: 0.1rem;
-
-        font-size: 3rem;
-      }
-
-      p {
-        display: none;
-      }
-    }
   }
 }
