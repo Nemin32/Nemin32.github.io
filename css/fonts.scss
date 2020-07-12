@@ -9,9 +9,10 @@ body {
   font-family: "Open Sans";
 }
 
-$size: 1rem;
+$size: 18px;
+$lh: 38px;
 
-p {
+figcaption, li, p {
   font-size: $size;
   letter-spacing: 0.2px;
   line-height: 1.6;
@@ -19,19 +20,19 @@ p {
 
 h1 {
   font-size: 2.5*$size;
-  font-weight: 900;
+  font-weight: 700;
 
-  line-height: 1.2;
+  line-height: $lh;
 }
 
 h2 {
   font-size: 2*$size;
-  font-weight: 900;
-  line-height: 1.2;
+  font-weight: 700;
+  line-height: $lh;
 }
 
 h3 {
   font-size: 1.5*$size;
-  font-weight: 700;
-  line-height: 1.2;
+  font-weight: 500;
+  line-height: $lh;
 }
