@@ -1,6 +1,8 @@
 ---
 ---
 
+@import 'monokai.css';
+
 $width: 750px;
 main {
   a {
@@ -76,6 +78,14 @@ main {
     p {
       margin-left: 0.5rem;
     }
+  }
+
+  .highlight .highlight {
+    padding: 1rem;
+  }
+
+  code {
+    color: white;
   }
 }
 
