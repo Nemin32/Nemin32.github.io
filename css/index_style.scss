@@ -64,3 +64,10 @@ ul {
 #rss {
   text-align: center;
 }
+
+
+@media (orientation: portrait) {
+    ul {
+	grid-template-columns: 1fr;
+    }
+}
