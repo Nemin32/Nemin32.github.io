@@ -2,6 +2,7 @@
 ---
 
 @import "variables";
+@use "sass:color";
 
 select {
     margin-left: auto;
@@ -23,7 +24,7 @@ select {
     padding-left: 3rem;
     padding-right: 3rem;
     margin-bottom: 2rem;
-    background: $bg-color*0.8;
+    background: darken($bg-color, 20%);
 
     color: #222;
 
@@ -43,5 +44,5 @@ select {
     padding-right: 2rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background: $bg-color*0.9;
+    background: darken($bg-color, 10%);
 }
