@@ -69,5 +69,9 @@ ul {
 @media (orientation: portrait) {
     ul {
 	grid-template-columns: 1fr;
+
+	img {
+	    height: 20vh;
+	}
     }
 }
