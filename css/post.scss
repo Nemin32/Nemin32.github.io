@@ -13,12 +13,14 @@ main {
 
   li, p {
     width: $width;
+    max-width: 100%;
   }
 
   iframe {
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
     width: $width;
+    max-width: 100%;
   }
 
   img {
@@ -80,6 +82,13 @@ main {
     }
   }
 
+  .highlighter-rouge {
+      max-width: 95%;
+      width: $width;
+      overflow: auto;
+      background: #272822;
+  }
+  
   .highlight .highlight {
     padding: 1rem;
   }
@@ -93,6 +102,7 @@ main {
   display: flex;
   justify-content: space-around;
   width: $width;
+  max-width: 95%;
   margin-top: 1rem;
 }
 
@@ -141,16 +151,24 @@ main {
 
 @media (orientation: portrait) {
   main {
-    .figure_box, h1,h2,h3, blockquote, p {
+    .figure_box, h1,h2,h3, p, code, iframe, img {
       width: 95%;
       margin-left: auto;
       margin-right: auto;
+    }
+
+    li {
+	max-width: 100%;
     }
 
     video, iframe {
       display: block;
       margin-left: auto;
       margin-right: auto;
+    }
+
+    ul, blockquote {
+	width: calc(95% - 2rem);
     }
   }
 }
