@@ -3,7 +3,7 @@
 
 ul {
   display: grid;
-  grid-template-columns: repeat(4, calc(25% - 0.4rem));
+  grid-template-columns: repeat(auto-fit, minmax(calc(25% - 0.4rem), 1fr));
   grid-column-gap: 0.4rem;
   grid-row-gap: 0.4rem;
   grid-auto-rows: 1fr;
