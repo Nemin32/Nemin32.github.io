@@ -25,7 +25,7 @@ layout: index_layout
 <div class="category">
     <h2>Newest posts</h2>
     <ul>
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts limit:8 %}
     <li>
     <a href="{{ post.url }}">
         <p title="{{ post.title }}" class="link">{{ post.title }}</p>
