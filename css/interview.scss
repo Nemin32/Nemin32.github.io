@@ -8,11 +8,11 @@ p {
 }
 
 main > p:not(.intro) {
-  background: lighten($bg-color, 10%);
+  background: var(--interview-color);
   padding: 1rem;
 
-  border-left: 5px solid #333;
+  border-left: 5px solid;
 
-  color: black;
+  color: var(--body-color);
   margin: 0;
 }
