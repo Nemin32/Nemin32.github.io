@@ -6,7 +6,7 @@
 @import "fonts.css";
 
 html {
-  background: #b5b599;
+  background: var(--html-bg);
 }
 
 html, body {
@@ -17,8 +17,8 @@ body {
   min-width: 1300px;
   max-width: 1910px;
 
-  background: #e0e0c0;
-  color: #2e2e2e;
+  background: var(--background);
+  color: var(--font-color);
 }
 
 main {
