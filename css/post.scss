@@ -8,7 +8,7 @@ main {
   a {
     font-weight: bold;
     text-decoration: none;
-    color: maroon;
+    color: var(--link-color);
   }
 
   li, p {
@@ -49,7 +49,7 @@ main {
       }
 
       figcaption {
-        background: #c0c0a0;
+        background: var(--figcap-color);
         display: table-caption;
         caption-side: bottom;
         padding: 0.5rem;
@@ -67,7 +67,7 @@ main {
     padding-bottom: 1rem;
     padding-right: 1.5rem;
 
-    background: #eeb;
+    background: var(--quote-color);
     width: $width;
 
     p:first-child {
@@ -83,12 +83,12 @@ main {
   }
 
   .highlighter-rouge {
-      max-width: 95%;
-      width: $width;
-      overflow: auto;
-      background: #272822;
+    max-width: 95%;
+    width: $width;
+    overflow: auto;
+    background: #272822;
   }
-  
+
   .highlight .highlight {
     padding: 1rem;
   }
@@ -158,7 +158,7 @@ main {
     }
 
     li {
-	max-width: 100%;
+      max-width: 100%;
     }
 
     video, iframe {
@@ -168,11 +168,11 @@ main {
     }
 
     ul, blockquote {
-	width: calc(95% - 2rem);
+      width: calc(95% - 2rem);
     }
   }
 
   #links ul {
-      grid-template-columns: 1fr;
+    grid-template-columns: 1fr;
   }
 }

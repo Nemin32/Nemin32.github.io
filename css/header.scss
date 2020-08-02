@@ -2,8 +2,7 @@
 ---
 
 header {
-  //background: #3f663b * 0.8;
-  background: #3f663b;
+  background: var(--header-bg);
 
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
@@ -23,11 +22,19 @@ header {
     margin: 0;
     font-size: 3rem;
 
+    width: 90%;
+
     a {
       text-decoration: none;
       text-transform: uppercase;
       color: white;
     }
+  }
+
+  #lightswitch {
+    font-size: 3rem;
+    margin: 0;
+    cursor: pointer;
   }
 
   display: flex;
@@ -46,7 +53,6 @@ header {
 
 @media (orientation: portrait) {
   header {
-    justify-content: center;
     width: 100%;
 
     h1 {font-size: 2rem;}
