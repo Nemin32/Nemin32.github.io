@@ -6,6 +6,7 @@ div p {
 }
 
 #legend {
+  color: #e2e2e2;
   background: #222;
 
   padding: 0.3rem;
@@ -29,7 +30,7 @@ h3 {
   h2 {
     text-align: center;
     padding-top: 0.5rem;
-    color: black;
+    color: var(--font-color);
   }
 
 
@@ -44,7 +45,7 @@ h3 {
     grid-row-gap: 0.5rem;
   }
 
-  background: #ded7c4;
+  background: var(--timeline-bg);
 
   color: black;
   box-shadow: 1px 1px 1px 1px;
@@ -52,7 +53,7 @@ h3 {
 
 .month_name {
   text-align: center;
-  background: #686;
+  background: var(--header-bg);
   color: white;
   font-weight: 700;
   padding: 0.5rem 0;
@@ -60,7 +61,7 @@ h3 {
 }
 
 .month {
-  background: #cbc5b4;
+  background: var(--timeline-month);
   color: black;
   box-shadow: 1px 1px 1px 1px;
 }
@@ -72,11 +73,11 @@ h3 {
 
   .event_container {
     display: grid;
-    grid-template-columns: 30px auto;
+    grid-template-columns: 35px auto;
     min-height: 2rem;
 
     border-bottom: 1px solid black;
-    background: #ded7c4;
+    background: var(--timeline-event);
 
     .day {
       text-align: right;
@@ -86,7 +87,7 @@ h3 {
     }
 
     p:not(.day) {
-      color: #111;
+      color: var(--font-color);
       padding: 0.5rem;
     }
 
@@ -106,7 +107,7 @@ h3 {
     }
 
     a {
-      color: #111;
+      color: var(--link-color);
       text-decoration: underline;
     }
 
