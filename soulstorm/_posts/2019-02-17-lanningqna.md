@@ -11,7 +11,7 @@ On February 16th, 2019 Lorne Lanning came online on OWI's official Discord serve
 
 ## What Mr. Lanning had to say about...
 
-## == Wildlife ==
+## Wildlife
 
 ### Fleeches
 > "Last time you saw them they were in a larvae state. this time they have hatched into something way more creepy."
@@ -22,12 +22,13 @@ On February 16th, 2019 Lorne Lanning came online on OWI's official Discord serve
 ### New ones
 > "There's a new wildlife in Soulstorm and its going to make paramites look like puppies."
 
-## == A joke game before Soulstorm ==
+## A joke game before Soulstorm
 > "We thought about a joke VR thingee. It was going to be called "the waiting game" and it was VR in a waiting room (like motor vehicles) that is full of out of work mudokons complaining about how rarely they get employed to make the next games.
 
 > We actually had it running it was really creepy, but VR didn't take off so fast so we just stayed focused on Soulstorm... Which was the right decision, I think you'll all agree."
 
-## == Soulstorm == 
+## Soulstorm
+
 ### Technology
 > "We've spent a lot of time on new core engine technology to get rid of a lot of legacy and add new dimensions to the play and way you travel through the world.  This we hope helps us deliver the next titles faster as we continue to evolve new dimension into the platforming genre."
 
@@ -68,26 +69,26 @@ On February 16th, 2019 Lorne Lanning came online on OWI's official Discord serve
 ### On Fortnite
 > "No SS in fortnite in OW universe."
 
-## == On what happens to Abe when he dies ==
+## On what happens to Abe when he dies
 > "When Abe dies he returns from limbo."
 
-## == The Future ==
+## The Future
 > "After Soulstorm... If you guys like it we'll be moving onto #3 in the Quintology. Our completely all new #2 (Soulstorm) is setting up to head for all 5 getting done. But we need success in sales of Soulstorm to keep going, so we need to make sure you're all pretty surprised by what we've done... so we can keep on going!"
 
 > "We've only seen the third world of Oddworld so far in all of the games. The NEXT game (#3) will start to enter the 2nd world (economically speaking) and then the last games get into the 1st world. It's a lot like Earth so once we get into the heavily populated areas, things will start looking a lot different. Echoes of Blade Runner."
 
 > "Yes, Nolybab is in #5."
 
-## == Squeek ==
+## Squeek
 > "Can't tell more about squeek... he's top secret."
 
-## == The source code of the first two games ==
+## The source code of the first two games
 > "We did finally find the original source code to the original games. At least 95% of it all. That shit was hidden DEEP in the archives and hard to find after it was all archived via robot drive that only used bar code for labelling. Oye!"
 
-## == Stranger and Fangus ==
+## Stranger and Fangus
 > "Fangus and Stranger would get along well but with a tension filled relationship. They've both got trust issues."
 
-## == Gabe Newell ==
+## Gabe Newell
 > "Gabe is a hero of mine. He's also a big Oddworld fan."
 
 The whole conversation can be found in the #general\_oddworld channel on [OWI's Discord server](https://discord.gg/oddworld).
