@@ -37,7 +37,6 @@ summary: A short trip down memory lane, showcasing the different designs Oddword
 {
     background: #2e2e2e;
     width: 680px;
-    margin: 0;
 
     padding: 0.5rem;
 }
