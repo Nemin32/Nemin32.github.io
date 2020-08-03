@@ -11,9 +11,6 @@ tags: ["spec"]
 
 {% include caption.html url="/imgs/thumbs/swinterview.webp" description="Promotional image from Stranger's Wrath" %}
 
-<br>
-{:.intro}
-
 [David Fried](http://designerdave.world/), who goes by the nickname DesignerDave on Discord, worked on several games including Oddworld: Stranger's Wrath. He was kind enough to answer a large number of questions over two hours, which can be read below. Before we started the interview, he shared with me what he worked on during Stranger's Wrath's development, which you can see here:
 {:.intro}
 

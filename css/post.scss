@@ -3,20 +3,43 @@
 
 @import 'monokai.css';
 
-$width: 750px;
+$width: 800px;
 main {
+  & > * {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h1 {
+    text-align: center;
+
+    & + h2, & + h3 {
+      text-align: center;
+      width: 100%;
+    }
+  }
+
+  h2,h3 {
+    width: $width;
+  }
+
   a {
     font-weight: bold;
     text-decoration: none;
     color: var(--link-color);
   }
 
-  li, p {
+  ul {
+    width: $width;
+  }
+
+  p {
     width: $width;
     max-width: 100%;
   }
 
-  iframe {
+  video,iframe {
+    display: block;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
     width: $width;
@@ -55,10 +78,15 @@ main {
         padding: 0.5rem;
       }
     }
+
+    & + blockquote {
+      margin-top: 1rem;
+    }
   }
 
   blockquote {
-    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
     //padding-left: 0.2rem;
     border-left: 5px solid;
 
@@ -79,6 +107,10 @@ main {
 
     p {
       margin-left: 0.5rem;
+    }
+
+    & + .figure_box {
+      margin-top: 1rem;
     }
   }
 
@@ -104,6 +136,11 @@ main {
   width: $width;
   max-width: 95%;
   margin-top: 1rem;
+  margin-bottom: 1rem;
+
+  a {
+    font-size: 1.2rem;
+  }
 }
 
 #links {
