@@ -6,7 +6,7 @@ tags: ["spec"]
 
 # The Mythology of Unreleased Games
 
-### Also known as, ***"When will the project that you announced twenty years ago but not yet released nor mentioned in the last decade come out?"***
+<h3>Also known as,<br><i>"When will the project that you announced twenty years ago but not yet released nor mentioned in the last decade come out?"</i></h3>
 
 {% include caption.html url="/imgs/folklore/ss_cover.png" description="Fan-made SligStorm cover art by <a href='https://old.reddit.com/r/oddworld/comments/a4uef4/i_designed_a_ps1style_cover_for_sligstorm_damn_i/'>/u/facetiousfag</a>." %}
 
