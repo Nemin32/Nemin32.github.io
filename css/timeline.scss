@@ -28,6 +28,7 @@ h3 {
 
 .year {
   h2 {
+    width: 100%;
     text-align: center;
     padding-top: 0.5rem;
     color: var(--font-color);
@@ -135,4 +136,11 @@ h3 {
 }
 .event-marketing {
   background: #B07060;
+}
+
+
+@media (orientation: portrait) {
+  .year > div {
+    grid-template-columns: 1fr;
+  }
 }
