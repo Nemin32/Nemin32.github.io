@@ -1,6 +1,6 @@
 ---
 title: Interview with David Fried
-summary: David Fried worked on Stranger's Wrath as game and narrative designer. He gives his thoughts on several topics, including the game, Lorne Lanning, Soulstorm, Warcraft and others.
+summary: "One of Stranger's Wrath's game- and narrative desginers shares his thoughts on the game, Soulstorm, Warcraft and other topics."
 tags: ["spec"]
 ---
 

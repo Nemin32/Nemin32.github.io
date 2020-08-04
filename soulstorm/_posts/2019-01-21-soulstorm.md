@@ -1,6 +1,6 @@
 ---
 title: What we know about Soulstorm? (Outdated)
-summary: Here you can find an information dump about Soulstorm's gameplay and a bit of lore. The page is a bit outdated, so if you don't find something, check the other pages.
+summary: An outdated pile of information about Soulstorm.
 ---
 
 ## What we know about
