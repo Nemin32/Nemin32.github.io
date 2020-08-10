@@ -19,7 +19,7 @@ main {
     }
   }
 
-  h2,h3 {
+  h2,h3,h4 {
     width: $width;
   }
 
@@ -48,8 +48,7 @@ main {
     display: block;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
-    width: $width;
-    max-width: 100%;
+    max-width: $width;
   }
 
   img {

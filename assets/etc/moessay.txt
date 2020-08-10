@@ -1,0 +1,74 @@
+Munch's Oddysee: A Collection of Thoughts and Musings
+
+Munch's Oddysee is a curious case study. Some might see a miniature Daikatana in it; a troubled
+development, overambition and entrusting far too much faith in a supposed "visionary".
+
+Let's begin with laying out a key fact. The switch from Sony to Microsoft was not the chink in MO's
+armor that brought it the ridicule it would face years after its release. Microsoft, by most
+accounts I've seen, was more generous, lenient and less demanding than Sony was. The Xbox, by all
+accounts I've read, was easier to develop for, had far more powerful hardware and generally would
+support far more of the ideas that Lorne suggested and tried to showcase early on than even two
+PS2's coupled together could do. If you're going to attribute anything to this switch, you can
+attribute reduced profits on Lorne's end to this switch; far fewer copies of MO would have been sold
+given the comparative rarity of the Xbox. But to say that MO was compromised for the sake of the
+Xbox is not just a convenient lie, it's one that doesn't make sense.
+
+Why do I stress this? Because a lot of the talk of MO comes out blaming Microsoft for its faults and
+praising Lanning for its good aspects, a position that is simply not tenable, even if you refer to
+Lanning himself. MO's flaws come from other areas.
+
+First, overambition. If you take a moment to hunt for "cut" content for MO (most of which amounts to
+little more than cheap 3D renders and concept art) everything from the Dr. Jekyll and Mr. Hyde
+aspect of Munch's character and the dynamic emotional system required for it to the storm circle
+that would dynamically affect and alter the environment dramatically, you may feel as though you've
+heard this story before when it comes to the development of other games. Promises of untried and new
+ideas with sweeping and far-reaching effects that would permeate in the whole game world that then
+pan out into an extremely flat version of them (in the case of the storm circle) or are ignored
+altogether (such as Roid). And when you disprove the notion of MO's development cycle being
+disrupted by Microsoft's decisions, you are left with little recourse but to accept that these ideas
+were too large.
+
+And, of course, they are. Seriously sit down and consider these ideas and whether you've heard of
+any games that actually do these. A game where based on how you interact with one object on a level,
+you radically and meaningfully change the rest of the level. A game where the emotional state of
+your character can cause him to change over into a completely different character. These are not
+feasible and neither were the vast majority of ideas left on the cutting room floor at
+Oddworld. MO's reach exceeded its grasp, as is not unusual; most games have ideas more sweeping than
+allowed within the confines of hardware, software and development constraints. But many games that
+have these still work, because these overambitious ideas are trimmed into a workable core, rather
+than how most of MO's advanced ideas were removed or only fill the periphery of the game's
+content. This come down to MO's second flaw; its lack of direction in gameplay.
+
+MO wanted to be many things. It had Abe's Oddysee and Abe's Exoddus to tap into; stealthy puzzle
+cinematic platformers. It had to contend with being the first 3D Oddworld game. It wanted to create
+a larger and dynamic world, one that could react to you, rather than be fixed in place. It wanted to
+push for more open environments with NPCs interacting with one another in ways that the prior games
+could only imitate in a 2D screen system. And it wanted to be visually outstanding and
+unique. Balancing this is an almost Herculean task, demanding more than most could deliver and
+finding a common ground and thread in all of this that would be fun, rewarding and not get old, a
+primary gameplay loop, while still showing off the peripheral would have taken some thought. But
+this, as is so often the case when you get entrenched in vision, is overlooked in favor of how you
+can add in this or that cool extra thing. As Lanning himself later say, though I have to paraphrase,
+it's better to do one thing well than to try to do everything. MO doesn't do anything well; it has
+no focus, nothing it wanted to do really well, only things it wanted to have.
+
+Throwing and carrying your pals around gets old fast and even GameSpeak, a term invented by OWI, is
+reduced to basically "follow", "work" and most worryingly "attack". Attack represents a dramatic
+departure in conflict resolution for Oddworld games in MO. Prior to MO, conflict was resolved
+indirectly, via dropping stones, possession, tricking enemies off cliffs or into mines, all of which
+requires active consideration of the level and forces more thinking and puzzle solving. MO
+introduced not only direct conflict via the Zap machine but also placing mudokons against sligs,
+something prior to unheard of. It's worth considering the thematically problematic aspects of this:
+prior to MO, one understood sligs as threats that could not be faced head-on, whereas MO pushes for
+a vision of Oddworld where any industrialist threat can and should be faced in direct combat,
+undermining them as dangerous enemies and instead turning them into tedious obstacles to overcome by
+simply waiting for combat you more or less can't participate in to be over. This becomes
+particularly apparent with level design that almost exclusively encourages this approach, since an
+indirect approach like possessing one slig to kill another is simply so much slower (though some
+levels encourage this to the extreme tedium of the player). There are further extensions on this
+such as the infinite respawns without the world resetting (eggs, resurrection totems, spooce,
+explosive barrels, slig dispensers…) none of which are good gameplay decisions since they encourage
+and sometimes even demand grinding. But to return to the original point, Munch's lack of a defining
+gameplay feature, the only other gameplay that comes to mind as something that could actively be
+enjoyable and fun is the movement system. However, movement is its own slog of boredom.
+
