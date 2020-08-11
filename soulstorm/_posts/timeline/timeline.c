@@ -141,15 +141,18 @@ const struct EVENT event_list[] = {
   EVENT(19,  7, 17, KILLED,    "The #oddcast channel disappears",                                           NULL),
 
   /* STRANGER */
-  EVENT(18,  9, 12, OTHER,     "OWI announces Stranger Switch port",                                        "https://twitter.com/OddworldInc/status/1039843328035102720"),
+  EVENT(18,  9, 12, OTHER,     "OWI announces Stranger's Wrath's Switch port",                              "https://twitter.com/OddworldInc/status/1039843328035102720"),
   EVENT(19,  1, 10, OTHER,     "Microids announces three title co-publishing deal on the Switch",           "https://www.microids.com/us/microids-and-oddworld-inhabitants-agree-on-a-three-title-co-publishing-deal-2/"),
   EVENT(19, 12, 10, OTHER,     "Stranger's Wrath Switch port is teased to come at January 23rd of 2020",    "https://twitter.com/OddworldInc/status/1204477347363090433"),
   EVENT(20,  1, 23, OTHER,     "Stranger's Wrath arrives to the Nintendo Switch",                           NULL),
   EVENT(20,  3, 13, OTHER,     "Microids announces limited physical release for Stranger's Wrath",          "https://www.microids.com/oddworld-strangers-wrath-hd-retail-versions-launching-in-us-and-eu/"),
 
   /* MUNCH */
-  EVENT(20,  4, 30, OTHER,     "OWI/Microids announces Munch Switch port.",                                "https://www.microids.com/us/oddworld-munchs-oddysee-coming-to-nintendo-switch-may-14th-2/"),
+  EVENT(20,  4, 30, OTHER,     "OWI/Microids announces Munch's Oddysee's Switch port.",                    "https://www.microids.com/us/oddworld-munchs-oddysee-coming-to-nintendo-switch-may-14th-2/"),
   EVENT(20,  5, 14, OTHER,     "Munch's Oddysee is released on the Switch",                                "https://www.instagram.com/p/CALjzGVAXxr/"),
+
+  /* NNT */
+  EVENT(20,  8, 11, OTHER,     "OWI/Microids announces NnT's Switch port.",                                 "https://twitter.com/Microids_off/status/1293125005740580864?s=20"),
 
   /* DISCORD */
   EVENT(17,  5,  2, DISCORD,   "Discord server launches",                                                   "https://discordapp.com/channels/293291256736382976/293291256736382976/308969023981486082"),
