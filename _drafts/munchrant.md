@@ -237,6 +237,18 @@ that Mudokons should use slingshots and only slingshots, rather that it's a sort
 power levels, that their so-called holy sanctum is defended by some lads with a bunch of pebbles,
 while they have the technology to rival Slig firepower.
 
+#### Grinding
+
+Even if we put all these plot contrivances aside, it is just kind of disheartening that the old
+games' nuanced approach of figuring out your environment, then stealthily navigating through it,
+while strategically using your tools is all gone. In Munch's Oddysee the side that has more strength
+usually wins... And even that is not exactly true as you can just resurrect your fallen and headbutt
+the brick-wall until it eventually collapses.
+
+Doubly so considering death became little more than an annoyance. Not only isn't death a game over
+anymore (as you can just resurrect Abe with Munch and vice-versa), but also you can just QuikSave
+whenever you wish.
+
 ## The Characters
 
 Similarly to the bleakness I've described in the previous sections, the characters themselves got
