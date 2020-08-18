@@ -281,7 +281,7 @@ protagonist out of the trio of Abe, him and Stranger.
 <div class="showcase">
 <a target="_blank" href="/imgs/munchrant/munchconcept1.jpg"><img src="/imgs/munchrant/munchconcept1.jpg"></a>
 <a target="_blank" href="/imgs/munchrant/munchconcept2.jpg"><img src="/imgs/munchrant/munchconcept2.jpg"></a>
-<a target="_blank" href="/imgs/munchrant/munchconcept2.jpg"><img src="/imgs/munchrant/munchconcept3.jpg"></a>
+<a target="_blank" href="/imgs/munchrant/munchconcept3.jpg"><img src="/imgs/munchrant/munchconcept3.jpg"></a>
 </div>
 
 Even now as I'm writing this, I'm raking my mind, trying to dig out something relevant to mention,
