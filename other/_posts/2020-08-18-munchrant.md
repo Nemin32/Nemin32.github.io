@@ -38,10 +38,10 @@ long-form about something you don't even like. I was skeptical, but I figured pe
 talking without experience, so this post is also an attempt to try myself out at something like
 this.
 
-I have received some help while writing this text from a friend, who wishes to remain unnamed, in the
-form of a shorter essay, parts of which served as inspiration. I implore you to read this too, as it
-gives a short overview of the issues and a different perspective. The essay can be found
-[here.](/assets/etc/moessay.txt)
+I have received some help while writing this text from a friend, who wishes to remain unnamed, in
+the form of a shorter (kind of unfinished) essay, parts of which served as inspiration. I implore
+you to read this too, as it gives a short overview of the issues and a different perspective. The
+essay can be found [here.](/assets/etc/moessay.txt)
 
 So, settle in and prepare yourself, as this one is a doozy. Enjoy!
 
@@ -88,9 +88,9 @@ I have since been informed several times, that the game's PC ports are a mess (t
 [other versions](https://twitter.com/Stitchlips25/status/1295654548250349568) of the game aren't
 bug-ridden), but still this was the way I experienced the game, so this is how I can describe it. I
 don't own any (working) consoles - and frankly wouldn't want to give out money just to try a
-slightly better version of this game -, so this will have to make do. Especially since most of the
-issues I'll bring up simply stem from the design itself and not from the atrocious bugs the game is
-riddled with.
+slightly better version of this game -, so the HD PC version of the game will have to make
+do. Especially since most of the issues I'll bring up simply stem from the design itself and not
+from the atrocious bugs the game is riddled with.
 
 ### The Graphics
 
