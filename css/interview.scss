@@ -16,14 +16,6 @@ p + .figure_box, blockquote + .figure_box {
   margin-top: 1rem !important;
 }
 
-main > p:not(.intro) {
-  background: var(--interview-color);
-  padding: 1rem;
-
-  border-left: 5px solid;
-
-  color: var(--body-color);
-  margin-top: 0;
-  margin-bottom: 0;
-
+blockquote p {
+  font-weight: 400 !important;
 }
