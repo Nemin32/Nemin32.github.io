@@ -3,8 +3,10 @@
 
 @import 'monokai.css';
 
-$width: 800px;
+$width: 840px;
 main {
+    width: $width;
+    
   & > * {
     margin-left: auto;
     margin-right: auto;
@@ -12,15 +14,40 @@ main {
 
   h1 {
     text-align: center;
+    display: block;
+    width: $width;
+
+    margin-bottom: 0;
 
     & + h2, & + h3 {
       text-align: center;
       width: 100%;
+      margin-top: 0;
     }
   }
 
-  h2,h3,h4 {
-    width: $width;
+  h1:first-of-type {
+    margin-top: 0.5em;
+    margin-bottom: 0;
+  }
+
+  & > h1, & > h2, & > h3, & > h4 {
+    //width: $width;
+
+    background: var(--font-color);
+    color: var(--background);
+
+    box-sizing: border-box;
+    display: inline-block;
+    font-weight: bold;
+
+    padding-left: 1rem;
+    padding-top: 0.5rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
   }
 
   a {
@@ -33,6 +60,11 @@ main {
     width: $width;
   }
 
+  li p {
+      margin-bottom: 12px;
+      margin-top: 12px;
+  }
+
   p {
     width: $width;
     max-width: 100%;
@@ -41,7 +73,6 @@ main {
 
   & > p:first-of-type::first-letter {
     font-weight: bold;
-    font-size: 140%;
   }
 
   video,iframe {
@@ -55,11 +86,12 @@ main {
     display: block;
     margin: 0 auto;
     min-width: 20%;
+    max-width: 90%;
   }
 
   .figure_box {
     display: block;
-    max-width: $width;
+    max-width: $width * 0.9;
 
     & + .figure_box {
       margin-top: 1rem;
@@ -90,8 +122,15 @@ main {
   }
 
   blockquote {
-    background: var(--quote-color);
-    width: calc(#{$width} - 3rem);
+    //background: var(--quote-color);
+    //width: calc(#{$width} - 3rem);
+
+    p {
+	font-size: 20px;
+	font-weight: 300;
+	font-style: italic;
+    }
+    
     border-left: 5px solid;
 
     padding-top: 0.5rem;
@@ -191,7 +230,7 @@ main {
 
 @media (orientation: portrait) {
   main {
-    .figure_box, h1,h2,h3, p, code, iframe, img {
+    .figure_box, h1,h2,h3,h4, p, code, iframe, img {
       width: 95%;
       margin-left: auto;
       margin-right: auto;
