@@ -43,6 +43,8 @@ form of a shorter essay, parts of which served as inspiration. I implore you to 
 gives a short overview of the issues and a different perspective. The essay can be found
 [here.](/assets/etc/moessay.txt)
 
+So, settle in and prepare yourself, as this one is a doozy. Enjoy!
+
 **Contents:**
 
 * TOC
@@ -82,18 +84,21 @@ finally give it a go... and oh dear lord it wasn't pretty.
 
 ## The Technicalities
 
-I have since been informed several times, that the game's PC ports are a mess, but still this was the
-way I experienced the game, so this is how I can describe it. I don't own any (working) consoles -
-and frankly wouldn't want to give out money just to try a slightly better version of this game -, so
-this will have to make do. Especially since most of the issues I'll bring up simply stem from the
-design itself and not from the atrocious bugs the game is riddled with.
+I have since been informed several times, that the game's PC ports are a mess (though, it's not like
+[other versions](https://twitter.com/Stitchlips25/status/1295654548250349568) of the game aren't
+bug-ridden), but still this was the way I experienced the game, so this is how I can describe it. I
+don't own any (working) consoles - and frankly wouldn't want to give out money just to try a
+slightly better version of this game -, so this will have to make do. Especially since most of the
+issues I'll bring up simply stem from the design itself and not from the atrocious bugs the game is
+riddled with.
 
 ### The Graphics
 
-This one is interestingly the most difficult to properly rate for me, because despite the game's age
-and its not exactly smoothest development (more on that later), parts of the game simply look
-great. For instance, Abe's model is one that took me by surprise, it looked great while keeping the
-character's identity intact. Similarly the Sligs' model too looks faithful and great.
+This one is interestingly the most difficult to properly rate for me in this section, because
+despite the game's age and its not exactly smoothest development (more on that later), parts of the
+game simply look great. For instance, Abe's model is one that took me by surprise, it looked great
+while keeping the character's identity intact. Similarly the Sligs' model too looks faithful and
+great.
 
 {% include caption.html url="/imgs/munchrant/abe.jpg" description="Amusingly this render looks much better than how Abe looks like in New 'n' Tasty." %}
 
@@ -158,7 +163,9 @@ really the difference between Munch plugging into a machine versus Abe possessin
 need to move the possession orb instead of Munch, but otherwise it's largely presentation. Both let
 you take control of something that's originally on the enemy's side and lets you exploit it, before
 ditching it. (The fact that Munch's identity is extremely thin will be discussed down the line in
-more depth.) Not only that, but there is usually no threat presented once you've finally reached the
+more depth.)
+
+Not only that, but there is usually no threat presented once you've finally reached the
 control panel. Cranes are indestructible and Snoozers respawn indefinitely. Compare this to how it
 worked in the old game: Yes, there were sections where you could try again as many times as you
 wished, but it was also combined with sections that punished you harshly if you messed up.
@@ -308,11 +315,11 @@ a leader. It'd even fit the game well, considering Mudokons are now willing to f
 
 However, all we get is a small fourth-wall break from him at the end of the game, when he says
 
-> "When [he leaves] these places, they usually explode"
+> **Abe:** "You know, most of the time, when I leave a mean place like that, it blows up."
 
 The joke isn't lost on me, but I'd argue the chuckle it might induce in the audience is traded for a
 blow to the seriousness of the series. Don't get me wrong, Oddworld was never a terribly serious
-piece, but while it always provided ways to laugh with the game, the game never made fun of itself.
+series, but while it always provided ways to laugh with the game, the game never made fun of itself.
 
 #### A Quick Aside
 
@@ -399,6 +406,31 @@ strong enough to carry it through the game. However, while this is justifiable i
 he was the villain of the very first game, I think Munch's Oddysee could have went one step further,
 if only to further exemplify just what Abe and Munch are fighting against.
 
+### The Rest of the Characters
+
+Munch's Oddysee started the annoying trend of chatty characters, who simply have to make their
+presence known every five seconds or so. On one hand the system is a semi-elegant way of letting the
+player use one of their senses naturally to locate elements of gameplay (instead of something 
+immersion-breaking like an outline to characters that you can see through walls or similar.) On the
+other, however, there simply aren't enough lines for the characters to keep the concept fresh and
+quickly you'll start recognizing the half-dozen legible and few completely gibberish lines the
+characters idly mutter to themselves and to each other.
+
+The fact that every single character are carbon copies of each other can be noted as a problem, as
+the Xbox's stronger hardware surely would have allowed a few different models, but honestly, this is
+least concerning, the previous games had only one variation of each character, so it's not that big
+of a deal.
+
+I think the voice problem would have been way less noticeable if either characters spoke much more
+rarely, they had way more voice lines or perhaps if they had special voice lines that played
+whenever something happened on the level, which would also increase immersion.
+
+As for the Fuzzles and Interns, who both only speak gibberish, I guess the problem doesn't really
+apply. I liked the design of the latter, since being a bunch of goalless workers, who are so
+uninterested in life that working with their mouths sewn shut is okay for them is a pretty gruesome
+concept. Fuzzles on the other hand are still perhaps one of the most boring creature designs in
+Oddworld, second only to the Stranger's Wrath's overgrown chickens, the Clakkerz.
+
 ## The Humor
 
 > **Slig:** "Ayy, buttwipe!"
@@ -446,6 +478,9 @@ And no, the disturbing ending doesn't provide enough counterweight, when the gam
 full of silliness.
 
 ## Issues around Development
+
+Not only did the game have a very ambitious scope, it was also struck by several unlucky (and in
+some cases perhaps malicious) events surrounding its development. Here you can read some of these:
 
 ### The PS2-Xbox Switcheroo
 
@@ -635,3 +670,6 @@ lore. Apparently Lanning still considers Munch a character that's part of the un
 other circumstance is up in the air... And frankly maybe that's for the better.
 
 <center><p><b>Thanks for sticking by.</b></p></center>
+
+<!--  LocalWords:  gameplay Oddworld Oddysee
+ -->
