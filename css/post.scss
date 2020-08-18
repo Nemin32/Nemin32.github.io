@@ -23,6 +23,11 @@ main {
       text-align: center;
       width: 100%;
       margin-top: 0;
+      padding-bottom: 1rem;
+    }
+
+    & + img, & + .figure_box {
+	margin-top: 1.5rem;
     }
   }
 
@@ -32,8 +37,6 @@ main {
   }
 
   & > h1, & > h2, & > h3, & > h4 {
-    //width: $width;
-
     background: var(--font-color);
     color: var(--background);
 
@@ -41,10 +44,7 @@ main {
     display: inline-block;
     font-weight: bold;
 
-    padding-left: 1rem;
-    padding-top: 0.5rem;
-    padding-right: 1rem;
-    padding-bottom: 0.5rem;
+    padding: 1rem;
 
     margin-top: 1.5em;
     margin-bottom: 0.5em;
@@ -69,10 +69,6 @@ main {
     width: $width;
     max-width: 100%;
 
-  }
-
-  & > p:first-of-type::first-letter {
-    font-weight: bold;
   }
 
   video,iframe {
@@ -122,13 +118,8 @@ main {
   }
 
   blockquote {
-    //background: var(--quote-color);
-    //width: calc(#{$width} - 3rem);
-
     p {
-	font-size: 20px;
 	font-weight: 300;
-	font-style: italic;
     }
     
     border-left: 5px solid;
