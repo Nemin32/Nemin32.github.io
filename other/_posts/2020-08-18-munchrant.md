@@ -644,7 +644,7 @@ One can say without much hesitation that Munch's overly ambitious goals and yet 
 delivery practically set up OWI for its closure after Stranger's Wrath's release, as the company got
 a nasty mark on its prestige which barred them from partnering with more supportive companies. This
 is why saying that EA killed Oddworld is short-sighted I think. Their lack of marketing might have
-delivered the final blow, but OWI by then was already pretty bleeding heavily from a self-inflicted
+delivered the final blow, but OWI by then was already pretty heavily bleeding from a self-inflicted
 gunshot in the foot.
 
 ## Conclusion
