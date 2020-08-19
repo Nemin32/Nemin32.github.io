@@ -38,7 +38,7 @@ long-form about something you don't even like. I was skeptical, but I figured pe
 talking without experience, so this post is also an attempt to try myself out at something like
 this.
 
-I have received some help while writing this text from a friend, who wishes to remain unnamed, in
+I have received some help while writing this text from a friend, who wishes to remain unnamed; in
 the form of a shorter (kind of unfinished) essay, parts of which served as inspiration. I implore
 you to read this too, as it gives a short overview of the issues and a different perspective. The
 essay can be found [here.](/assets/etc/moessay.txt)
@@ -60,7 +60,7 @@ legal circumstances, as the disk we had was in fact a pirated copy. But before a
 panties in a twist, I've since bought the games obviously and perhaps my contributions to the fandom
 have re-payed this *horrible travesty.* Why am I bringing this up, you ask?  Well the reason is that
 because of the disk not being legit, the cover too was a shoddily cut out piece of paper taped onto
-the box... and in fact it wasn't even AO's box-art, rather Munch's! So for several years I kept
+the box; in fact it wasn't even AO's box-art, rather Munch's! So for several years I kept
 wondering just who the hell that weird fish-guy could be as you don't meet him anywhere in the
 game. However, this of course didn't stop my enjoyment of the game, until I finally had enough and
 moved on.
@@ -71,25 +71,25 @@ Things took a turn years later, when for some reason I was browsing the Oddworld
 with a rudimentary knowledge of English (as you might have guessed from my earlier posts or perhaps
 my [videos](https://www.youtube.com/watch?v=zp_beYoKiSo), I'm not a native speaker), I suddenly
 noticed that there are two more games in the list than I knew about. It's safe to say that I was
-terribly excited, I mean, I loved AO and AE, they were basically my favorite games at the time, I
+terribly excited, I mean, I loved AO and AE, they were basically my favorite games at the time. I
 kept binging them and now there is two more? Awesome! --- Or at least that's what I thought at the
 time.
 
-Now, I'll be honest, even at the time (we're speaking close to a decade at this point), I wasn't
+Now, I'll be honest: even at the time (we're speaking close to a decade at this point), I wasn't
 terribly impressed by what I've seen. Munch looked 'janky' and didn't seem to have the same
-atmosphere as the older games did. Because of this and my lack of lunch money that I could waste on
-things like this, I soon let go of my interested in both Munch and Stranger, until the time I
+atmosphere as the older games did. Because of this and my lack of lunch money that I could waste
+on things like this, I soon let go of my interest in both Munch and Stranger; until the time I
 rejoined the fandom, many years later. Even then, it took me a good two years of sticking around to
 finally give it a go... and oh dear lord it wasn't pretty.
 
 ## The Technicalities
 
-I have since been informed several times, that the game's PC ports are a mess (though, it's not like
+I have since been informed several times that the game's PC ports are a mess (though, it's not like
 [other versions](https://twitter.com/Stitchlips25/status/1295654548250349568) of the game aren't
-bug-ridden), but still this was the way I experienced the game, so this is how I can describe it. I
+bug-ridden); but still this was the way I experienced the game, so this is how I can describe it. I
 don't own any (working) consoles - and frankly wouldn't want to give out money just to try a
 slightly better version of this game -, so the HD PC version of the game will have to make
-do. Especially since most of the issues I'll bring up simply stem from the design itself and not
+do; especially since most of the issues I'll bring up simply stem from the design itself and not
 from the atrocious bugs the game is riddled with.
 
 ### The Graphics
@@ -104,12 +104,12 @@ great.
 
 {% include caption.html url="/imgs/munchrant/slig.png" description="The same can more or less be said about this Slig model too." %}
 
-But sadly the pretty models aren't impressive enough to fix the glaring issue: The game simply looks
+But sadly the pretty models aren't impressive enough to fix the glaring issue: the game simply looks
 washed out. What I mean by this is that unlike the original two games, which took some heavy
 artistic liberties with the palettes and thus were able to give different areas main colors (for
 instance, the majority of RuptureFarms is brown, Necrum Mines is blue, Slig Barracks is green and so
 on), in Munch everything looks quite samey. Outside areas are all lush green meadows, Industrialist
-facilities are all gray concrete-jungles, there's no immediate association to the area you're in,
+facilities are all gray concrete jungles; there's no immediate association to the area you're in,
 unlike in the Abe games.
 
 {% include caption.html url="/imgs/munchrant/mocomp.jpg" description="Two levels from very different parts of the game, but it's hard to even tell them apart." %}
@@ -128,7 +128,7 @@ a lot, but why even go 3D if it only hurts the game's looks.
 
 ### The Sound Design
 
-This one is also somewhat of a mixed bag, but the distinction is quite clear: The music is great,
+This one is also somewhat of a mixed bag, but the distinction is quite clear: the music is great,
 the sounds otherwise range from "eh, okay" to "simply terrible." Compare for instance the ding that
 plays when you complete an objective to the sound Munch makes while moving around on land. The
 latter didn't become an ironic meme for no reason and on PC the problem is further exacerbated by
@@ -256,7 +256,7 @@ of pebbles, while they have the technology to rival Slig firepower.
 Even if we put all these plot contrivances aside, it is just kind of disheartening that the old
 games' nuanced approach of figuring out your environment, then stealthily navigating through it,
 while strategically using your tools is basically all but gone. In Munch's Oddysee the side that has
-more strength usually wins... And even that is not exactly true as the odds are heavily stacked in
+more strength usually wins...and even that is not exactly true as the odds are heavily stacked in
 your favor as you can just respawn the Snoozer or Big Bro you were using or resurrect your fallen
 and headbutt the brick-wall until it eventually collapses.
 
@@ -274,7 +274,7 @@ quite a few problems too.
 The eponymous protagonist of the game who hardly feels anything more than a sidekick. I mean
 honestly, who even is this guy? We know that he's the last of his species, but does that tell us of
 anything? He basically just exists and lets the narrative drag him around. He's either bossed around
-by the Raisin or the Fuzzles, having no real agency on his own... in his own game. This took its
+by the Raisin or the Fuzzles, having no real agency on his own...in his own game. This took its
 toll, as Munch by [my findings](/imgs/survey/favorite_protagonist.jpg) is the least liked
 protagonist out of the trio of Abe, him and Stranger.
 
@@ -305,7 +305,7 @@ good for marketing, but otherwise has no personality at all.
 
 ### Abe
 
-Well... He exists. He doesn't undergo any particularly huge changes in personality between
+Well...he exists. He doesn't undergo any particularly huge changes in personality between
 Oddysee/Exoddus and this game. This perhaps might not seem like a huge deal, considering this is
 Munch's game after all, but I think that's not a good approach. Characters really shouldn't "just
 exist," yet Abe is doing just that. Just like in Oddysee and Exoddus, he's still the same schmuck
@@ -341,9 +341,9 @@ individuals, but still, they don't exist in a vacuum, the story should reflect t
 
 ### Lulu
 
-Despite all, I consider Lulu is the most likable character of the entire game and I'm genuinely
-unsure whether that's a good thing. Ironically, despite being the least active member of the cast,
-he undergoes the most "character development" by undergoing a rags-to-riches then a riches-to-rags
+Despite all, I consider Lulu the most likable character of the entire game and I'm genuinely unsure
+whether that's a good thing. Ironically, despite being the least active member of the cast, he
+undergoes the most "character development" by undergoing a rags-to-riches then a riches-to-rags
 moment. Obviously he wouldn't fare well as a main character, but as a half-joke/half-plot device, he
 works well.
 
@@ -355,7 +355,7 @@ And how did every Glukkon get one? Question I don't think even Lanning knows the
 
 I hate this character and I hate the fact that I have to hate him. Here's someone who canonically
 existed for potentially thousands of years, so could lay some heavy story beats for us to broaden
-our perspective on the world... and what do we get? A senile old guy, who is nonetheless revered by
+our perspective on the world...and what do we get? A senile old guy, who is nonetheless revered by
 the Mudokons.
 
 Those who might have no idea, the Raisin has a backstory. He used to be this ancient tree, who upon
@@ -435,7 +435,7 @@ Oddworld, second only to the Stranger's Wrath's overgrown chickens, the Clakkerz
 
 > **Slig:** "Ayy, buttwipe!"
 
-Now, I feel like I have to preface this: Humor is extremely subjective, so while the whole writing
+Now, I feel like I have to preface this: humor is extremely subjective, so while the whole writing
 is largely an opinion piece, this part is even more so. Still, it is an important part of my review,
 so I can't leave it out. I will write in a tone that presents my opinion as if they were facts,
 because it's both easier to write and more pleasant to read, but I obviously recognize that they
@@ -456,7 +456,7 @@ still beat the slaves and shot you without wisecracking.
 For another, more hands on example, let's take possessing Glukkons in Exoddus and Munch: In the
 former, it is both an empowering moment of finally bossing others around, with the whole
 establishment suddenly becoming your ally and also an implicit source of jokes as while the Glukkons
-walk you can faintly hear the sound of a xylophone and whenever they accidentally hit a wall, the
+walk you can faintly hear the sound of a xylophone and whenever they accidentally hit a wall, they
 just flop and then stand up with a deliciously contemptuous grunt. Also whenever you possess a head
 Glukkon, they have a bunch of amusing lines that became memes in the fandom, whether it's "that blue
 bastard" or "Dripik! I knew that!" these lines gave these otherwise rarely appearing characters
@@ -467,8 +467,8 @@ are also very generic and have way less of an impact, because why'd you even car
 characters?
 
 Even in presentation the game is lying way too heavily on trying to be funny, which ultimately
-caused it to fall on its face for me. The comically sped up animations, Abe doing curling into a
-ball every time he jumps, herding one eyed sheep... The whole thing just feels like OWI wants to say
+caused it to fall on its face for me. The comically sped up animations, Abe curling into a ball
+every time he jumps, herding one eyed sheep... The whole thing just feels like OWI wants to say
 something like this,
 
 > "Hey kid, remember the originals? They were dark and moody, right? Well dont'cha worry, this one
@@ -487,7 +487,7 @@ some cases perhaps malicious) events surrounding its development. Here you can r
 If you are old enough, you might remember this, hell, perhaps you're one of the unfortunates, who
 fell victim to this. Through most of its marketing cycle Munch's Oddysee was heavily pushed as a PS2
 launch title and several pieces of media wrote about it as such. I've spoken with multiple people,
-who in anticipation of the game bought a PS2 from their saved up cash... Only to be severely
+who in anticipation of the game bought a PS2 from their saved up cash...only to be severely
 disappointed, when OWI sneakily struck a deal with Microsoft and turned Munch into an Xbox title.
 
 {% include caption.html url="/imgs/munchrant/pennyarcade.jpg" description="<a href='https://www.penny-arcade.com/comic/2000/10/23'>Penny Arcade</a> is well known for their comics that satirized OWI's overly financial-oriented choices." %}
@@ -515,9 +515,9 @@ story for another time:
 > **[PlayStation 2 Magazine:](https://magogonthemarch.wordpress.com/official-uk-playstation-2-magazine-oddworld-obliterated-2004/)**
 > "Like an ex-girlfriend who offers a mercy shag and then changes her mind at the last minute,
 > Oddworld Inhabitants has decided not to bring its new game to PS2 after all. Oddworld Stranger,
-> published by EA, was due to mark the developer’s return to Sony hardware, but apparently the PS2
-> version was too far behind the Xbox to make a simultaneous release viable. It’s a shame really,
-> but we’re not about to lose any beauty sleep over an alien cowboy."
+> published by EA, was due to mark the developer's return to Sony hardware, but apparently the PS2
+> version was too far behind the Xbox to make a simultaneous release viable. It's a shame really,
+> but we're not about to lose any beauty sleep over an alien cowboy."
 
 One thing is for certain, while Microsoft has a lot of blood on their hands, the failure of Munch
 wasn't their fault. If anything, they provided the means for the game to become reality in the first
@@ -536,8 +536,8 @@ an article:
 > pre-render game scenes from Munch. Because these scenes were not rendered in the PS2 devkit, but
 > were simply “visualizations” of their product, it was perfectly legal for them to share them,
 > which they did. They made about a hundred CDs with these game visualizations and sent them to
-> major media contacts. They said, ‘Hey, look at what we’re working on. Here’s the movie
-> clips. Here’s screenshots. Here’s the story about Munch’s Oddysee.”
+> major media contacts. They said, ‘Hey, look at what we're working on. Here's the movie
+> clips. Here's screenshots. Here's the story about Munch's Oddysee.”
 
 As written above, these were animated scenes that were all but presented as actual gameplay
 footage. There are still many of these floating around on Youtube, some calling them "betas," some
@@ -609,7 +609,7 @@ form of Munch being the only creature who can understand the Fuzzles as their sp
 > [PlayStation Magazine UK](https://magogonthemarch.wordpress.com/official-uk-playstation-magazine-monster-munch-1999/):
 > "Obviously communicating with these creatures will require a vocabulary slightly more sophisticated
 > than the phrases and farts of the Abe games. How this will be achieved on what is essentially the
-> same joypad is anybody’s guess, but Lorne claims that, 'Gamespeak will become much more highly
+> same joypad is anybody's guess, but Lorne claims that, 'Gamespeak will become much more highly
 > evolved and smarter, but also much simpler to understand and use.'"
 
 I don't think this requires much explanation, unless he literally meant that instead of one line for
@@ -641,16 +641,16 @@ One memorable review describes Munch as a "great game, but it's a little long":
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ozAsuPx1qoo?start=16" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 One can say without much hesitation that Munch's overly ambitious goals and yet less than stellar
-delivery practically set up OWI for it's closure after Stranger's Wrath's release, as the company
-got a nasty mark on its prestige which barred them from partnering with more supportive
-companies. This is why saying that EA killed Oddworld is short-sighted I think. Their lack of
-marketing might have delivered the final blow, but OWI by then was already pretty bleeding heavily
-from a self-inflicted gunshot in the foot.
+delivery practically set up OWI for its closure after Stranger's Wrath's release, as the company got
+a nasty mark on its prestige which barred them from partnering with more supportive companies. This
+is why saying that EA killed Oddworld is short-sighted I think. Their lack of marketing might have
+delivered the final blow, but OWI by then was already pretty bleeding heavily from a self-inflicted
+gunshot in the foot.
 
 ## Conclusion
 
-Well, we're almost 6000 words in, so if you've reached this far, congratulations! While it might
-seem that I'm very harsh on this game, that really isn't the intention, I'm just trying to hold it
+Well, we're almost 6000 words in; so if you've reached this far, congratulations! While it might
+seem that I'm very harsh on this game, that really isn't the intention. I'm just trying to hold it
 to the same standards as the old ones. To summarize the problem with Munch, it simply wasn't
 different enough to be interesting, nor samey enough to capitalize on nostalgia and the
 tried-and-true methods of Oddysee and Exoddus.
@@ -667,7 +667,7 @@ OWI too made it quite clear that Munch is more or less a sunken ship. While they
 re-releasing it every once in a while on new platforms (it's free money, yo), Soulstorm effectively
 retcons Munch's Oddysee leaving the character in the abyss between the canon and the obsolete
 lore. Apparently Lanning still considers Munch a character that's part of the universe, but every
-other circumstance is up in the air... And frankly maybe that's for the better.
+other circumstance is up in the air...and frankly maybe that's for the better.
 
 <center><p><b>Thanks for sticking by.</b></p></center>
 
