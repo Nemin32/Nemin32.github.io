@@ -37,6 +37,8 @@ finally made me reconsider about which game I consider my favorite.
 
 ## The First Impressions
 
+![](/imgs/aorant/rf_outside.jpg)
+
 > **Abe:** This... is RuptureFarms. They say it's the biggest meat-processing plant on Oddworld.
 
 Even from the very first second you start the game, it is made clear to you, that Abe - and by
@@ -47,17 +49,23 @@ nor would anyone care if they did. The feeling is reinforced by the ever-present
 survey both the outside of the facility and the workers inside, along with our first short sighting
 of the Slig guards. Maybe your death means nothing, but it is obvious that your discontent would
 swiftly be dealt with.
-pla
+
+![](/imgs/aorant/rf_workers.jpg)
+
 Then we arrive at the only unintentionally humorous part of the cutscene, the part where Mudokons
 are pulling levers for absolutely no obvious reason. Perhaps the original intention was to be more
 or less a metaphor, showing how little their work is worth, but sadly whether this was the case or
 not, it just looks silly in hindsight. Still, such a mistake is minuscule compared to how great of a
 moodsetter this intro is, so lets leave it at that.
 
+![](/imgs/aorant/rf_chute.jpg)
+
 Even the products this plant makes look disgusting. From the endless lines of carcasses and huge
 circular saws, to the dirty barrels and the chutes whose method of filling them reminds one of
 vomiting -- or worse, defecation; the crapsack nature of this world starts forming in the players
 mind as they realize someone probably eats this stuff.
+
+![](/imgs/aorant/protag_antag.jpg)
 
 Finally we are introduced to our main protagonist and main antagonist. The game makes sure we
 understand just how different these characters are just from how they are showcased. Abe is shown
@@ -75,9 +83,9 @@ who's at the worst place at the worst place possible.
 After a quick reminiscing from Abe about the extinct Meeches and the other products RuptureFarms
 still produces; we are shown a room full of creatures like Molluck and it is quickly obvious from
 both Abe's narration and their grimaces that they are not happy. Indeed, they are rather scared as
-the company is facing financial hardships. Every eye is on Molluck, who despite the tension, does
-not buckle and quickly convinces the board that everything is going to be fine if they go through
-with his plan. This plan being the systemic genocide of the factory's Mudokon workforce. Abe who
+the company is facing financial hardships. Every eye is on Molluck, who despite the tension does not
+buckle and quickly convinces the board that everything is going to be fine if they go through with
+his plan. This plan being the systemic genocide of the factory's Mudokon workforce. Abe who
 accidentally eavesdropped on the meeting decides to abandon his post and try to save his
 life. Moments later a camera descends from the ceiling, documenting the event and unleashing the
 numerous security forces of RuptureFarms on him.
@@ -107,7 +115,7 @@ organic fashion and experienced players aren't forced to play "by the rules;" if
 that Abe is capable of possessing enemies, you can simply possess the Slig on the screen which is
 supposed to teach you sneaking and then shoot the one sleeping next to the elevator.
 
-Speaking of possession, it is an exemption of the organic tutorial described above. The game never
+Speaking of possession, it is an exemption to the organic tutorial described above. The game never
 directly tells you about it until you reach the Monsaic Lines. Even the manual keeps a tight lip
 about this. This is in fact a lucky byproduct of the game's original plot-progression that
 ultimately didn't make the cut. Basically the idea was that since Abe's mouth is stitched shut, he's
@@ -117,11 +125,13 @@ his stitches - could he start retaliating, peacefully and otherwise.
 Moving on, even if these areas are only here to teach you, the art does not take a backseat. We are
 shown parts of the production line and just how wasteful RuptureFarms really is. There are tons upon
 tons of barrels and yet they are supposedly losing profits? Nothing points these things out, the
-player is expected to draw conclusions themselves, which I consider a strong side of this
+player is expected to draw the conclusions themselves, which I consider a strong side of this
 game. There is a certain wonder to realizing things, that simply isn't there if you're told.
 
-One way or another the player will reach the end of the line, however, their triumph is short lived
-as you're unexpectedly slapped with one of the biggest sucker punches of the game
+After being given the chance the rescue your first Mudokons and have survived the encounters with
+the somewhat lazy Sligs of Zulag 1; the player will reach the end of the line, however, their
+triumph is short lived as you're unexpectedly slapped with one of the biggest sucker punches of the
+game:
 
 > You escape and all 28 workers on this level die!
 
@@ -285,19 +295,73 @@ gameplay. It serves as one of the three columns that makes Abe's Oddysee great.
 
 ### Movement
 
-### Possession
+Grid-based movement isn't exactly a novel concept, but it is nonetheless a great way of making
+things more predictable in chaotic situations. The distances Abe can hop, jump and survive falling
+eventually become a sort of muscle-memory as you progress through the game, which lets you abstract
+away the the scenery and focus on the puzzles as pure logical riddles.
+
+On the other hand, sadly the system isn't perfect. The game is a bit iffy about how many inputs it
+is willing to accept at once, so it happened to me multiple times that the game simply forgot that I
+pressed a key in the heat of the action and Abe just fell to his death or ran right into the
+enemy. Deaths like this are frustrating and can easily cause a loss of enjoyment for the player.
+
+### Empowerment / Disempowerment
+
+A very prevalent part of the gameplay is the repeated switches between giving power to the player
+and taking it away from them. Abe is no fighter and he dies in one hit, so by default the player is
+severely disempowered and has to rely on their stealth to get by. This is then broken by moments of
+power, where the tables are turned and the player becomes the one to dish out some long-awaited
+revenge.
+
+#### Throwables
+
+It might sound funny at face value, but the items Abe can pick up is one of the most basic examples
+of empowerment utilized by the game. Rocks let him set off bombs, meat can be used to distract
+enemies and grenades provide a weapon to a character that doesn't wield guns. It also plays into the
+whole idea that Abe is just some lowly janitor, who has to use whatever means necessary to even the
+absolutely brutal odds.
+
+#### Possession
+
+Possession is empowerment in two ways: obviously it gives a weapon to the player who is almost
+defenseless otherwise, but it also gives them a "second life" as getting your Slig killed is not a
+game-over (except in some sections where it is mandatory to keep your Slig alive or else you simply
+can't complete the puzzle.)
+
+Also, by possessing Sligs, you also gain the ability to command some of the Slogs, turning one of
+the most vicious enemies Abe has to face into a satisfying tool to murder other Sligs.
+
+#### The Shrykull
+
+I believe the Shrykull practically speaks for itself as for why it's a tool of empowerment. Both in
+gameplay (as Abe becomes invincible and capable of destroying every enemy) and in the story (being a
+Mudokon demigod whose power is only granted to the worthiest) the Shrykull is presented as the
+ultimate power-fantasy.
+
+Because of this the game has to be prudent enough with giving the player a tool this strong as a
+very important part of empowerment is that it is relative. If Abe could turn into the Shrykull
+anytime then all tension of the game would suddenly be lost, because you'd just obliterate all the
+levels...and promptly forget about the game probably.
 
 ### GameSpeak
 
-### Throwables
+GameSpeak is honestly nothing jaw-dropping. It's a nice system sure, but talking to other characters
+is basically a norm in video-games; so it being given a fancy name is pretty much just a marketing
+thing. Sadly on the PC version of the game (this doesn't happen on the PSX as far as I know), you
+need to hold down the button to talk all the way. This peculiarity caused many people to have
+immediate bad impressions about the game and I can't entirely blame them. It feels awkward and
+unintuitive.
 
-### The Shrykull
+Still, the system serves it's purpose well and there isn't really any voice lines that don't have
+their proper purpose.
 
 ## The Sound Design
 
 The sound design serves as the second column of the three columns that creates the uniqueness of
 this game. From the atmospheric musics of each area, to the noises the characters make everything
 feels unique and crisp and powerful.
+
+### Sound Effects
 
 An example I simply can't leave without mention is the possession sound. It is hands down the single
 best video game sound effect that I know of. It is a perfect little story in itself: it starts out
@@ -306,16 +370,113 @@ graphics until finally the crescendo peaks and the whole thing is punctuated fur
 of silence. It is almost like an exclamation mark at the end of a sentence and it practically
 screams: the gameplay has changed, Abe is now in control.
 
+### Character Voices
+
+As for what the characters say, if there is one thing no one could dispute about Lorne Lanning, it's
+that he's an excellent voice actor. Fans of the series all around the world know the famous
+*"Hi. Hello. Follow me. Okay."* mantra by heart.
+
+### Music
+
+The music is one I've got sort of a controversial opinion about: while I absolutely believe it fits
+the game and serves its purpose well, I don't think it is good enough to stand on its own legs. Once
+you take the music out of the game, the repetitiveness that you never otherwise notice due to all
+the myriad of other noises the game makes suddenly becomes obvious. I've spoken with people who said
+they like to listen to the OST outside the game, but I frankly couldn't really bear to do it when I
+tried myself.
+
+Putting this aside, I love how the game uses leitmotifs. "Slig Action" an obvious example that comes
+to mind as a leitmotif that doesn't exist as an individual piece of music, rather it is a techno
+beat that gets layered over the basic theme of the level thus implying that the Industrialists are
+basically intruding and overshadowing everything they touch.
+
 ## The Art
+
+I strive to keep this site mostly clean from swears, not because I shun them or anything, but
+because I find them undignified for the topics I talk about, yet here I can't avoid it: Oddysee's
+art is fucking amazing! I mean, seriously, look at that art! Sure it might be sort of pixelated due
+to its age, but if you look past that veil and into what's actually being conveyed; you can't help
+but be pulled into a living, breathing world, full of organic and logical - if exaggerated - objects.
+
+This is of course due to the methods and principles OWI used to create the game's looks. There is a
+set of rules that the fanbase sometimes refers to as the ALIVE principles, which dictated what each
+screen in the game must look like. These can be read below:
+
+> **[Paul
+>  O'Connor](https://web.archive.org/web/19990221091824/http://www.videogames.com/features/universal/abe_dd/110298/index.html):**
+>  All images must:
+>* Be realistic.
+>* Have solidity.
+>* Be original.
+>* Be cool.
+>* Evoke emotion.
+>* Look ALIVE!
+
+Upon cursory glance these rules might sound somewhat vague, but they lay down some very important
+requirements. Realism for instance, practically everything in the game makes sense and with some
+suspension of disbelief could be imagined to exist in our world. Similarly solidity is one that
+catches my attention, you practically feel the weight of the boulders and trees around you.
+
+## The Level Design
+
+This section is strictly about how the levels work, not what they look like. Oddysee's levels can
+more or less be divided into two general layouts, "Corridors" and "Hubs."
+
+### "Corridors"
+
+These are levels like the very first one, basically one long line of rooms, usually featuring some
+setpieces (the Grinding Area in RuptureFarms, the Elum-run in Paramonia or the final trials in both
+temples). These are mostly longer areas, sometimes spanning over multiple loading screens and
+usually appear in the beginning or at the very end of chapters. They are great at breaking up the
+Hubs' monotony, while also test the player to be able to complete larger sections of the game
+without checkpoints.
+
+### "Hubs"
+
+Hubs are levels where there is one main screen where you can choose from several shorter challenges,
+each of which you have to complete before you can move on. The most prominent examples of these are
+in the temples and the Zulags of RuptureFarms. They serve as walls in front of the player's
+progress, who has to spend quite some time to finish every mini-challenge. On the other hand, due to
+the shortness of these sub-levels, failure is less punishing and players are free to choose some
+any other sub-level if they feel frustrated. This is further encouraged by the maps that clearly
+display how many Mudokons does each sub-level have and also their general layout. AO is strict
+enough not to let you pass without first proving yourself, however, it is also kind enough to give
+you the tools to let you progress at your own pace.
+
+Every hub features special switches (flintlocks in the Native areas, door release levers in
+RuptureFarms) that present a tangible way of conveying progress to the player. There is not much
+fanfare to entering a level, trudging through, then leaving on the end; so putting in a special
+level provides at least some ceremony to the whole ordeal.
+
+### Level elements
+
+Here I'll discuss some objects that you can find on levels.
+
+#### Boom Machines
+
+Gameplay-wise I have no problem with these as they present a pretty clear and clean way of
+empowering the player as discussed above. However, in-universe they hardly make any sense. I get
+that RuptureFarms is a very dangerous workplace, but that is due to the ruthless Sligs and the
+machines that'd make any OSHA agent cry. Why is the place littered with free-to-take explosives?
+It's practically screaming for workers to use it to rebel.
+
+#### Sligs
+
+Sligs are extremely versatile tools in terms of level design. They're enemies, tools and
+environmental storytelling in one nicely-knit package. Their presence alone can easily make a less
+experienced player uneasy as unlike in later installations, AO's Sligs shoot immediately and never
+miss. The whirring of their mechanical pants also provide to the atmosphere, giving them a both
+menacing and unnatural aura.
 
 ## The Story
 
 As you might have noticed I didn't include the story into the three pillars that make AO
-great. Before you close the page in anger, please let me explain myself. I like AO's story a lot, I
-just don't find it part of its strongest suits. It is a simple but sweet story, easy trumped by
-plenty of moderately famous books and even other videogames. The characters too aren't particularly
-deep; they're basically the equivalents of folk tale characters. Abe goes through the Hero's
-Journey, more or less point-by-point. Molluck too is almost satirically evil.
+great. Before you close the page in anger, please let me explain myself. I appreciate AO's story for
+what it is, but I don't find it part of its strongest suits. It is a simple but sweet story, easy
+trumped by plenty of moderately famous books and even other videogames. The characters too aren't
+particularly deep; they're basically the equivalents of folk tale characters. Abe goes through the
+[Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey), more or less
+point-by-point. Molluck too is almost satirically evil.
 
 However, here comes the major "but" of this section. Perhaps the story and characters aren't the
 best of the best, but the implied world is one of the best I've experienced in gaming. What I mean
@@ -325,6 +486,12 @@ megastructures like the Paramonian and Scrabanian temples to a dumb cattle-race 
 the societies work? Or if RuptureFarms is only a factory, how does the rest of the "civilized" world
 look like?
 
+This, however, is a double-edged sword. While it is true that leaving just enough things vague to
+make the world more mysterious is an art on its own; one can nonetheless really easily fall into the
+trap of attributing their own creativity as something that was "always intended as such." What I
+mean by this is that I've spoken with many people who talk about how great this and that in Oddworld
+is and then use their own head-canon as evidence.
+
 <!--  LocalWords: RuptureFarms Mudokon Molluck Mudokons Slig Oddysee Exoddus Paramonia Paramonian
- gameplay Glukkon
+ gameplay Glukkon Sligs Gameplay
  -->
