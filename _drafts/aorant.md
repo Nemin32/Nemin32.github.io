@@ -117,10 +117,13 @@ supposed to teach you sneaking and then shoot the one sleeping next to the eleva
 
 Speaking of possession, it is an exemption to the organic tutorial described above. The game never
 directly tells you about it until you reach the Monsaic Lines. Even the manual keeps a tight lip
-about this. This is in fact a lucky byproduct of the game's original plot-progression that
-ultimately didn't make the cut. Basically the idea was that since Abe's mouth is stitched shut, he's
-not capable of either talking or chanting and thus only when he reached the native areas - and lost
-his stitches - could he start retaliating, peacefully and otherwise.
+about this. This is in fact a lucky byproduct of the game's [original
+plot-progression](https://magogonthemarch.wordpress.com/2008-2/nathan-interviews-lorne-lanning/)
+that ultimately didn't make the cut. Basically the idea was that since Abe's mouth is stitched shut,
+he's not capable of either talking or chanting and thus only when he reached the native areas - and
+lost his stitches - could he start retaliating, peacefully and otherwise.
+
+![](/imgs/aorant/barrels.png)
 
 Moving on, even if these areas are only here to teach you, the art does not take a backseat. We are
 shown parts of the production line and just how wasteful RuptureFarms really is. There are tons upon
@@ -133,7 +136,7 @@ the somewhat lazy Sligs of Zulag 1; the player will reach the end of the line, h
 triumph is short lived as you're unexpectedly slapped with one of the biggest sucker punches of the
 game:
 
-> You escape and all 28 workers on this level die!
+![](/imgs/aorant/workers_die.jpg)
 
 I imagine most people are shocked upon reading this sign, albeit for very different reasons: some
 because they didn't even bother to save Mudokons until now and the consequences of their lack of
@@ -145,17 +148,21 @@ despite the fact that the game isn't warning you as a joke.
 ### The Escape / Stockyards
 
 So, you finally left that hellhole behind. Or so you thought, as it isn't Mother Nature who greets
-you at the other end of Abe's comical escape. Before you can escape, you still have to dare the
+you at the other end of Abe's comical escape. Before you can leave, you still have to dare the
 outskirts of RuptureFarms, the Stockyards. This area uses the game's screen-based layout greatly. As
 you move further and further away from the factory which is perpetually illuminated by sickly
 lamp-light so does it dawn on you that it is in fact the middle of the night. This is a nice example
 of subtle continuity, as in the intro Abe said that he "was working **one night** at RuptureFarms."
 
+{% include caption.html url="/imgs/aorant/stockyards.png" description="Credits: <a href='https://vgmaps.com/Atlas/PSX/index.htm#OddworldAbesOddysee'>vgmaps.com</a>" %}
+
 The level can be divided into two sections, one of which is where the influence of the factory is
-still very strong. This is signaled by the presence of bright lights, floating mines, guard towers
+still very strong. This is signaled by the presence of bright lights, floating mines, guard towers,
 captive animals, and the general appearance of the platforms Abe is walking on. The other, far
 longer section is where Abe moves in almost complete darkness and the only Industrialist influence
 he encounters are Slig and Slog patrols and some mines.
+
+{% include caption.html url="/imgs/aorant/lynched.jpg" description="Notice how the distant moon is contrasts the dark silhouettes of the dead Mudokons." %}
 
 It easy to zone out and get lost in the beautifully painted night skies or lose focus due to being
 chased around by enemies, however, the real elephant in the room shows itself once one pays more
@@ -163,12 +170,14 @@ attention to the environment. The silhouettes of lynched Mudokons are almost eve
 the feeling of overwhelming odds and hopelessness Abe is facing against.
 
 Still, he perseveres and finally encounters one of the most uplifting moments of the game, the
-Mudokon Moon. As revealed later by Lanning, this holy celestial body caused the disagreement the at
-the time allied Mudokons and Glukkons, leading to the former's eventual enslavement. However, Abe
-knows nothing of this, he just stands there, fascinated. That is until the ground under him gives
-way and he falls...and dies. Yeah, in about one hour of gameplay we were bombarded with experiences
-such as an oppressive and dangerous factory, trigger happy guards, the moral weight of not saving
-your kin, seeing the lynched remains of said kin and now the main character's death.
+Mudokon Moon. As [revealed later by
+Lanning](https://magogonthemarch.wordpress.com/oddworld-history/), this holy celestial body caused
+the disagreement the at the time allied Mudokons and Glukkons, leading to the former's eventual
+enslavement. However, Abe knows nothing of this, he just stands there, fascinated. That is until the
+ground under him gives way and he falls...and dies. Yeah, in about one hour of gameplay we are
+bombarded with experiences such as an oppressive and dangerous factory, trigger happy guards, the
+moral weight of not saving your kin, seeing the lynched remains of said kin and now the main
+character's death.
 
 However, this isn't the time and place for Abe to die, so a new character enters to save the day,
 BigFace. He is a mysterious shaman, who resurrects Abe and tasks him with completing two sacred
@@ -193,6 +202,8 @@ says "they don't take kindly to city-folk." Similarly one could say that they si
 long, but this is extremely unlikely as the average Mudokon lifespan is 45 years, much less than the
 "eons" that the story about the Schism is talking about.
 
+![](/imgs/aorant/monsaic.jpg)
+
 Grumbling aside, the Monsaic Lines is a gorgeous area and a great momentary stop for a breath. This
 area provides relatively few challenges aside from the initial "mini-trial" Abe has to complete to
 be let into the more inner areas of the place. This is mostly in the form of slingshot-wielding
@@ -201,23 +212,25 @@ other party has to mimic perfectly. Step too close and you'll soon find yourself
 between your eyes. Other obstacles include falling rocks, swarms of angry bees and the
 oh-so-familiar bottomless pits.
 
-Also, this is where Abe/player is first taught to use possession against enemies. This is a huge
+This is where Abe/player is first taught to use possession against enemies. This is a huge
 moment of empowerment as the Sligs who you could only outwit or perhaps sneakily take down using a
 grenade suddenly become tools too that you can use and abuse for your own purposes.
 
-Another thing you're introduced to are the Flintlocks which serve as sort of special "switches" that
-you have to activate in later areas to proceed.
+Also this is where you're introduced to the Flintlocks which serve as sort of special "switches"
+that you have to activate in later areas to proceed.
 
 Once the player is equipped to face the dangers ahead, they are given a choice of how to
-proceed. They're free to dare either Paramonia or Scrabania first, though once they made their
-choice, there are no backsies. There is also a third "choice" albeit that one is basically just
-going one screen further to see an envoy of Sligs patrolling the road back to RuptureFarms. This is
-also a bit of environmental storytelling as it becomes obvious that even with your magical powers,
-Abe alone isn't enough to surmount this blockade.
-
+proceed. They're free to choose whether they want to dare Paramonia or Scrabania first, though once
+they made their choice, there are no backsies. There is also a third "choice" albeit that one is
+basically just going one screen further to see an envoy of Sligs patrolling the road back to
+RuptureFarms. This is also a bit of environmental storytelling as it becomes obvious that even with
+your magical powers, Abe alone isn't enough to surmount this blockade.
+g
 I'll first discuss Paramonia and then Scrabania as the wells leading to them come in that order.
 
 ### Rumble in the Jungle / Paramonia
+
+![](/imgs/aorant/paramonia.png)
 
 And so we arrive to one of my favorite locations of the game; the lush, green forests of
 Paramonia. It is just such joy to experience this place, it's beautiful, full of great setpieces and
@@ -228,6 +241,8 @@ Paramonia is really about spectacle as the area doesn't really provide any new g
 (other than Elum of course), rather focuses on providing memorable moments. It also provides a
 nice bit of foreshadowing as in one of the screens the player is treated to a several screens long
 spiderweb, that implies what sort of enemies he's going to be facing against in the temple.
+
+{% include caption.html url="/imgs/aorant/paramonia_temple.jpg" description="I am also a huge fan of those windmills you can see in the distance. Knowing that these areas are devoid of native Mudokons, they present an eerie reminder that there used to be a civilization here." %}
 
 The whole area reaches its peak on its last screen, where we see Abe being nothing more than a tiny
 ant in front of the door of the gigantic temple.
@@ -245,6 +260,30 @@ platform, their anxiety evaporates and they immediately attempt to turn you into
 This is where the Flintlocks come up again as you have to complete several smaller puzzles to
 proceed to a final trial. This sort of layout is called a "Hub" in the community and there are
 several of these in the game. I'll talk about them in more detail later, for now just keep them in mind.
+
+It is interesting to note that this temple contains two gameplay features that don't appear anywhere
+else in the game: swinging rocks that can kill Abe if he jumps at the wrong time and an Indiana
+Jones-esque rolling boulder that you have to run away from.
+
+### Scrabania
+
+Unlike Paramonia, which is a lush forest, Scrabania is a sweltering desert, full of sand, huge rocks
+and cacti. Elum joins us once more on the journey to the temple, as the duo dares the bomb-ridden
+desert. Interestingly Slig patrols are far rarer in this area, their place taken by floating
+mines. Perhaps the design intention behind this is the fact that Sligs are bog-dwelling creatures
+and thus they can't tolerate the heat. The game never details this, so this is just me seeing things
+into where there might not even be anything.
+
+This area also features the so-called bladders. These are inflated balloons of animal-bladders
+hanged onto poles with what appears to be antennas sticking out of them. The game never acknowledges
+them, but it is pretty obviously part of ancient Mudokon tech, (the artbooks further give this credit.)
+
+#### The Scrabanian Temple
+
+After a stressful and narrow escape from Slogs, you finally arrive to the nesting place of
+Scrabs. These are quadrupedal carnivores with surprisingly Mudokon-like chests. Similarly to the
+Paramonian Temple, this area too presents you with an intro section and then later a hub, then
+finally culminates in one long trial.
 
 ### Free-Fire Zone
 
@@ -275,11 +314,11 @@ Once you feel like you're done, you can take the ballcar and leave for Zulag 2.
 
 Molluck's not happy about Abe's progress as he's practically breathing down his and his board's
 necks. Figuring RuptureFarms is a lost ship, he orders the complete gassing of the entire area,
-killing off every Mudokon left in the facility, including Abe. The Boardroom is a short and sweet
-gauntlet of rescuing a single Mudokon to in turn receive the power of the Shrykull one last
-time. Despite the fact that there is a time limit, it's not really there to really screw you over,
-it's more or less just a ploy along with the blaring sirens and flashing lights to try to get the
-player riled up and cause them to make mistakes.
+intending to kill off every Mudokon left in the facility, including Abe. The Boardroom is a short,
+nerve-wrecking gauntlet of rescuing a single Mudokon to in turn receive the power of the Shrykull
+one last time. Despite the fact that there is a time limit, it's not really there to really screw
+you over, it's more or less just a ploy along with the blaring sirens and flashing lights to try to
+get the player riled up and cause them to make mistakes.
 
 But once you successfully faced the challenge, you are presented with an extremely satisfying ending
 as you fry the Glukkon directors and shut down the gas...only to be promptly knocked out.
@@ -288,10 +327,11 @@ The story loops back into itself and Abe is right back in his cell, having finis
 falls on the player whether Abe is rescued by the BigFace or is left to die in the hands of one very
 angry Glukkon.
 
-## Gameplay mechanics
+## Gameplay Mechanics
 
 Now that we are up to speed, we can finally focus on the most obvious part of the game, the
-gameplay. It serves as one of the three columns that makes Abe's Oddysee great.
+gameplay. It serves as one of the three columns that makes Abe's Oddysee great. A lot of these can
+be thanked to Paul O'Connor, one of the major game designers working on Oddysee.
 
 ### Movement
 
@@ -332,6 +372,8 @@ Also, by possessing Sligs, you also gain the ability to command some of the Slog
 the most vicious enemies Abe has to face into a satisfying tool to murder other Sligs.
 
 #### The Shrykull
+
+![](/imgs/aorant/shrykull.jpg)
 
 I believe the Shrykull practically speaks for itself as for why it's a tool of empowerment. Both in
 gameplay (as Abe becomes invincible and capable of destroying every enemy) and in the story (being a
@@ -417,6 +459,18 @@ requirements. Realism for instance, practically everything in the game makes sen
 suspension of disbelief could be imagined to exist in our world. Similarly solidity is one that
 catches my attention, you practically feel the weight of the boulders and trees around you.
 
+I'd like to mention three names whom are in large part responsible for the amazing visuals we see in
+the game: Steven Olds, Farzad Varahramyan and Raymond Swanland.
+
+Olds was responsible for creating most of the characters we know and love. He had a huge hand in
+creating Abe's design, along with planning out other memorable characters like Sligs, Glukkons,
+etc. Varahramyan was part of the Production Design team, his job was in-part to keep everything
+consistent and fitting to the world. However, he also created creature designs, one of his
+contributions being the design of Munch. Finally Swanland was responsible for the art of the world,
+the matte paintings and large scope images of locations are all done by him. It's safe to say that
+these three men had a huge impact on what Oddworld became and their names should be etched in every
+fan's memory.
+
 ## The Level Design
 
 This section is strictly about how the levels work, not what they look like. Oddysee's levels can
@@ -448,7 +502,7 @@ RuptureFarms) that present a tangible way of conveying progress to the player. T
 fanfare to entering a level, trudging through, then leaving on the end; so putting in a special
 level provides at least some ceremony to the whole ordeal.
 
-### Level elements
+### Level Features
 
 Here I'll discuss some objects that you can find on levels.
 
@@ -476,7 +530,10 @@ what it is, but I don't find it part of its strongest suits. It is a simple but 
 trumped by plenty of moderately famous books and even other videogames. The characters too aren't
 particularly deep; they're basically the equivalents of folk tale characters. Abe goes through the
 [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey), more or less
-point-by-point. Molluck too is almost satirically evil.
+point-by-point. Molluck too is almost satirically evil, plus he basically doesn't really appear
+until the very end of the story. He's an effective villain, but he's not really a fleshed out
+character. Which is somewhat understandable, knowing how he was supposed come back in Munch's
+Oddysee, but still.
 
 However, here comes the major "but" of this section. Perhaps the story and characters aren't the
 best of the best, but the implied world is one of the best I've experienced in gaming. What I mean
@@ -492,6 +549,23 @@ trap of attributing their own creativity as something that was "always intended 
 mean by this is that I've spoken with many people who talk about how great this and that in Oddworld
 is and then use their own head-canon as evidence.
 
+## The William Anderson Controversy
+
+> **William Anderson:** Lorne started telling people I never worked for his company and to this date doesn’t list me on the credits for the game.
+
+Sadly even a game as great as AO has its darker side. William Anderson was a game designer employed
+by OWI to create the basic systems of the game along with some level designs. He was never credited
+for his work and to this day OWI refuses to recognize him for his work. Instead of paraphrasing or
+copy pasting, I'll leave a link to the story
+[here](https://magogonthemarch.wordpress.com/2019/03/11/mom-interview-william-anderson/). It is a
+story worth knowing as it's one of the major blemishes on OWI's image.
+
+## Conclusion
+
+Is Abe's Oddysee a perfect game? No, obviously not. It has several shortcomings, some even quite
+severe and still, to date I think it is the most distilled version of the Oddworld-experience that
+none of the later games could capture quite as well.
+
 <!--  LocalWords: RuptureFarms Mudokon Molluck Mudokons Slig Oddysee Exoddus Paramonia Paramonian
- gameplay Glukkon Sligs Gameplay
+ gameplay Glukkon Sligs Gameplay Oddworld
  -->
