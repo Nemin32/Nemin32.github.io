@@ -34,6 +34,18 @@ main {
   }
 }
 
+#lightswitch {
+  font-size: 2rem;
+  opacity: 0.5;
+  margin: 0;
+  cursor: pointer;
+  visibility: hidden;
+  position: fixed;
+  right: 10px;
+  bottom: 5px;
+}
+
+
 @media (orientation: portrait) {
   body {
     width: 100%;
