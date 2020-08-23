@@ -11,7 +11,7 @@ layout: index_layout
     <li>
     <a href="{{ post.url }}">
         <div>
-        <img src="/imgs/thumbs/{{id[1]}}.webp">
+        <img src="/imgs/thumbs/{{id[1]}}.webp" alt="{{ post.title }}">
         </div>
         <p title="{{ post.title }}" class="link">{{ post.title }}</p>
         <p class="content"> {{ post.summary }} </p>
