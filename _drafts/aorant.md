@@ -37,7 +37,7 @@ finally made me reconsider about which game I consider my favorite.
 
 ## The First Impressions
 
-![](/imgs/aorant/rf_outside.jpg)
+![](/imgs/aorant/rf_outside.webp)
 
 > **Abe:** This... is RuptureFarms. They say it's the biggest meat-processing plant on Oddworld.
 
@@ -50,7 +50,7 @@ survey both the outside of the facility and the workers inside, along with our f
 of the Slig guards. Maybe your death means nothing, but it is obvious that your discontent would
 swiftly be dealt with.
 
-![](/imgs/aorant/rf_workers.jpg)
+![](/imgs/aorant/rf_workers.webp)
 
 Then we arrive at the only unintentionally humorous part of the cutscene, the part where Mudokons
 are pulling levers for absolutely no obvious reason. Perhaps the original intention was to be more
@@ -58,14 +58,14 @@ or less a metaphor, showing how little their work is worth, but sadly whether th
 not, it just looks silly in hindsight. Still, such a mistake is minuscule compared to how great of a
 moodsetter this intro is, so lets leave it at that.
 
-![](/imgs/aorant/rf_chute.jpg)
+![](/imgs/aorant/rf_chute.webp)
 
 Even the products this plant makes look disgusting. From the endless lines of carcasses and huge
 circular saws, to the dirty barrels and the chutes whose method of filling them reminds one of
 vomiting -- or worse, defecation; the crapsack nature of this world starts forming in the players
 mind as they realize someone probably eats this stuff.
 
-![](/imgs/aorant/protag_antag.jpg)
+![](/imgs/aorant/protag_antag.webp)
 
 Finally we are introduced to our main protagonist and main antagonist. The game makes sure we
 understand just how different these characters are just from how they are showcased. Abe is shown
@@ -123,7 +123,7 @@ that ultimately didn't make the cut. Basically the idea was that since Abe's mou
 he's not capable of either talking or chanting and thus only when he reached the native areas - and
 lost his stitches - could he start retaliating, peacefully and otherwise.
 
-![](/imgs/aorant/barrels.png)
+![](/imgs/aorant/barrels.webp)
 
 Moving on, even if these areas are only here to teach you, the art does not take a backseat. We are
 shown parts of the production line and just how wasteful RuptureFarms really is. There are tons upon
@@ -136,7 +136,7 @@ the somewhat lazy Sligs of Zulag 1; the player will reach the end of the line, h
 triumph is short lived as you're unexpectedly slapped with one of the biggest sucker punches of the
 game:
 
-![](/imgs/aorant/workers_die.jpg)
+![](/imgs/aorant/workers_die.webp)
 
 I imagine most people are shocked upon reading this sign, albeit for very different reasons: some
 because they didn't even bother to save Mudokons until now and the consequences of their lack of
@@ -154,7 +154,7 @@ you move further and further away from the factory which is perpetually illumina
 lamp-light so does it dawn on you that it is in fact the middle of the night. This is a nice example
 of subtle continuity, as in the intro Abe said that he "was working **one night** at RuptureFarms."
 
-{% include caption.html url="/imgs/aorant/stockyards.png" description="Credits: <a href='https://vgmaps.com/Atlas/PSX/index.htm#OddworldAbesOddysee'>vgmaps.com</a>" %}
+{% include caption.html url="/imgs/aorant/stockyards.webp" description="Credits: <a href='https://vgmaps.com/Atlas/PSX/index.htm#OddworldAbesOddysee'>vgmaps.com</a>" %}
 
 The level can be divided into two sections, one of which is where the influence of the factory is
 still very strong. This is signaled by the presence of bright lights, floating mines, guard towers,
@@ -162,7 +162,7 @@ captive animals, and the general appearance of the platforms Abe is walking on. 
 longer section is where Abe moves in almost complete darkness and the only Industrialist influence
 he encounters are Slig and Slog patrols and some mines.
 
-{% include caption.html url="/imgs/aorant/lynched.jpg" description="Notice how the distant moon is contrasts the dark silhouettes of the dead Mudokons." %}
+{% include caption.html url="/imgs/aorant/lynched.webp" description="Notice how the distant moon is contrasts the dark silhouettes of the dead Mudokons." %}
 
 It easy to zone out and get lost in the beautifully painted night skies or lose focus due to being
 chased around by enemies, however, the real elephant in the room shows itself once one pays more
@@ -202,7 +202,7 @@ says "they don't take kindly to city-folk." Similarly one could say that they si
 long, but this is extremely unlikely as the average Mudokon lifespan is 45 years, much less than the
 "eons" that the story about the Schism is talking about.
 
-![](/imgs/aorant/monsaic.jpg)
+![](/imgs/aorant/monsaic.webp)
 
 Grumbling aside, the Monsaic Lines is a gorgeous area and a great momentary stop for a breath. This
 area provides relatively few challenges aside from the initial "mini-trial" Abe has to complete to
@@ -230,7 +230,7 @@ I'll first discuss Paramonia and then Scrabania as the wells leading to them com
 
 ### Rumble in the Jungle / Paramonia
 
-![](/imgs/aorant/paramonia.png)
+![](/imgs/aorant/paramonia.webp)
 
 And so we arrive to one of my favorite locations of the game; the lush, green forests of
 Paramonia. It is just such joy to experience this place, it's beautiful, full of great setpieces and
@@ -242,7 +242,7 @@ Paramonia is really about spectacle as the area doesn't really provide any new g
 nice bit of foreshadowing as in one of the screens the player is treated to a several screens long
 spiderweb, that implies what sort of enemies he's going to be facing against in the temple.
 
-{% include caption.html url="/imgs/aorant/paramonia_temple.jpg" description="I am also a huge fan of those windmills you can see in the distance. Knowing that these areas are devoid of native Mudokons, they present an eerie reminder that there used to be a civilization here." %}
+{% include caption.html url="/imgs/aorant/paramonia_temple.webp" description="I am also a huge fan of those windmills you can see in the distance. Knowing that these areas are devoid of native Mudokons, they present an eerie reminder that there used to be a civilization here." %}
 
 The whole area reaches its peak on its last screen, where we see Abe being nothing more than a tiny
 ant in front of the door of the gigantic temple.
@@ -377,7 +377,7 @@ the most vicious enemies Abe has to face into a satisfying tool to murder other 
 
 #### The Shrykull
 
-![](/imgs/aorant/shrykull.jpg)
+![](/imgs/aorant/shrykull.webp)
 
 I believe the Shrykull practically speaks for itself as for why it's a tool of empowerment. Both in
 gameplay (as Abe becomes invincible and capable of destroying every enemy) and in the story (being a
