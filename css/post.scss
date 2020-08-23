@@ -45,7 +45,7 @@ main {
     display: inline-block;
     font-weight: bold;
 
-    padding: 1rem;
+    padding: 0.5rem;
 
     margin-top: 1.5em;
     margin-bottom: 0.5em;
@@ -222,10 +222,16 @@ main {
 
 @media (orientation: portrait) {
   main {
-    .figure_box, h1,h2,h3,h4, p, code, iframe, img {
+    .figure_box, p, code, iframe, img {
       width: 95%;
       margin-left: auto;
       margin-right: auto;
+    }
+
+    h1,h2,h3,h4  {
+        //width: 100%;
+        padding: 0.5rem;
+        margin-left: 2.5%;
     }
 
     li {
