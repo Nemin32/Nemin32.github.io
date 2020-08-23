@@ -285,6 +285,10 @@ Scrabs. These are quadrupedal carnivores with surprisingly Mudokon-like chests. 
 Paramonian Temple, this area too presents you with an intro section and then later a hub, then
 finally culminates in one long trial.
 
+This temple is less about introducing new mechanics as it rather tests your abilities to abuse the
+Scrabs' hyper-territorial behavior. Still it's a nice area and definitely just as challenging as the
+other.
+
 ### Free-Fire Zone
 
 So, you just completed two huge treks and received the magical tattoos. It's time to put the power
@@ -418,6 +422,10 @@ As for what the characters say, if there is one thing no one could dispute about
 that he's an excellent voice actor. Fans of the series all around the world know the famous
 *"Hi. Hello. Follow me. Okay."* mantra by heart.
 
+The voices also greatly help to emphasize qualities of the characters. The shrill, authoritarian
+voice of the Sligs reinforces their role as corporate bullies. The unassumingly innocent voice of
+Mudokons underlines their naivety.
+
 ### Music
 
 The music is one I've got sort of a controversial opinion about: while I absolutely believe it fits
@@ -470,6 +478,23 @@ contributions being the design of Munch. Finally Swanland was responsible for th
 the matte paintings and large scope images of locations are all done by him. It's safe to say that
 these three men had a huge impact on what Oddworld became and their names should be etched in every
 fan's memory.
+
+### Mudokon culture
+
+As it becomes obvious from the story the Mudokons weren't always slaves, rather they used to be
+pretty powerful species, capable of building magnificent structures along with devices, like the
+bladders, that one can't even really guess the usage of. I felt like this is worth pointing out as
+the locations would have looked great without them and yet they went that extra mile to convey a bit
+of history without words.
+
+### Technique
+
+So what makes these screens appear so life-like? Well, it turns out they are actually paintings that
+have been digitalized and the further drawn over by artists to give everything a realistic and
+consistent look. This allowed artists to create environments that 3D models couldn't have replicated
+at the time and also let them use the several boons conventional art brings to the table. Examples
+include the gradient in the Stockyards escape and the decals (like blood-splatters, moss, etc.) that
+fit realistically on objects.
 
 ## The Level Design
 
