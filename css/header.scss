@@ -3,26 +3,21 @@
 
 header {
   background: var(--header-bg);
+  position: sticky;
+  top: 0;
 
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  height: 50px;
+  padding: 0.3rem;
 
-  width: 100%;
+  display: flex;
 
-  margin: 0 auto;
-
-  p {
-    color: white;
-    //max-width: 60ch;
-    margin-top: 0.5rem;
-    font-size: 0.9rem;
-  }
+  align-items: center;
 
   h1 {
     margin: 0;
-    font-size: 3rem;
-
-    width: 90%;
+    font-size: 2rem;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
 
     a {
       text-decoration: none;
@@ -31,31 +26,28 @@ header {
     }
   }
 
-  #lightswitch {
-    font-size: 3rem;
-    margin: 0;
-    cursor: pointer;
-    visibility: hidden;
-  }
+  #logolink {
+      width: 50px;
+      flex-shrink: 0;
 
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-
-  a {
-    padding-left: 0.5rem;
-    width: 90px;
-
-    img {
-      max-width: 100%;
-    }
+      img {
+          display: block;
+          width: 100%;
+      }
   }
 }
 
-@media (orientation: portrait) {
-  header {
-    width: 100%;
+:root {
+    --progress: 0%;
+}
 
-    h1 {font-size: 2rem;}
-  }
+header:after {
+  content: '';
+  width: var(--progress);
+  height: 3px;
+  background: #a03030;
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  transition: width 0.5s;
 }
