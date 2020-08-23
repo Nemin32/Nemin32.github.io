@@ -8,8 +8,11 @@ summary: A love-letter to Abe's Oddysee
 
 I love Abe's Oddysee. Perhaps it's not exactly a unique sentiment, but nonetheless it's true. There
 are very few if any games that come close to the joy Oddysee gives me. In this post I would like to
-provide some introspection why this is and I hope that it might give a few of you a new angle of
+provide a perspective on why this is and I hope that it might give a few of you a new angle of
 appreciation for the game.
+
+This is the second post in my long-form game reviews. The previous one was about [Munch's
+Oddysee](/munchrant).
 
 **Contents:**
 
@@ -225,9 +228,9 @@ Once the player is equipped to face the dangers ahead, they are given a choice o
 proceed. They're free to choose whether they want to dare Paramonia or Scrabania first, though once
 they made their choice, there are no backsies. There is also a third "choice" albeit that one is
 basically just going one screen further to see an envoy of Sligs patrolling the road back to
-RuptureFarms. This is also a bit of environmental storytelling as it becomes obvious that even with
-your magical powers, Abe alone isn't enough to surmount this blockade.
-g
+RuptureFarms. This is a bit of environmental storytelling as it becomes obvious that even with
+his magical powers, Abe in his current state isn't enough to surmount this blockade.
+
 I'll first discuss Paramonia and then Scrabania as the wells leading to them come in that order.
 
 ### Paramonia
@@ -244,12 +247,12 @@ Paramonia is really about spectacle as the area doesn't really provide any new g
 nice bit of foreshadowing as in one of the screens the player is treated to a several screens long
 spiderweb, that implies what sort of enemies he's going to be facing against in the temple.
 
-{% include caption.html url="/imgs/aorant/paramonia_temple.webp" description="I am also a huge fan of those windmills you can see in the distance. Knowing that these areas are devoid of native Mudokons, they present an eerie reminder that there used to be a civilization here." %}
-
 The whole area reaches its peak on its last screen, where we see Abe being nothing more than a tiny
 ant in front of the door of the gigantic temple.
 
 #### The Paramonian Temple
+
+{% include caption.html url="/imgs/aorant/paramonia_temple.webp" description="I am also a huge fan of those windmills you can see in the distance. Knowing that these areas are devoid of native Mudokons, they present an eerie reminder that there used to be a civilization here." %}
 
 In stark contrast to the welcoming, bright forest, the temple is a cold, ancient structure which
 immediately forebodes a change. The huge suspended stone tablet bearing the mark of the Paramite
@@ -479,7 +482,8 @@ while loading on the PlayStation? :)
 
 ### Sound Effects
 
-An example I simply can't leave without mention is the possession sound. It is hands down the single
+As mentioned above, the sound effects, created by Josh Gabriel, provide a lot to the atmosphere. An
+example I simply can't leave without mention is the possession sound. It is hands down the single
 best video game sound effect that I know of. It is a perfect little story in itself: it starts out
 modestly as Abe starts chanting, then the sounds starts swelling as the music cooperates with the
 graphics until finally the crescendo peaks and the whole thing is punctuated further with a moment
@@ -498,12 +502,12 @@ Mudokons underlines their naivety.
 
 ### Music
 
-The music is one I've got sort of a controversial opinion about: while I absolutely believe it fits
-the game and serves its purpose well, I don't think it is good enough to stand on its own legs. Once
-you take the music out of the game, the repetitiveness that you never otherwise notice due to all
-the myriad of other noises the game makes suddenly becomes obvious. I've spoken with people who said
-they like to listen to the OST outside the game, but I frankly couldn't really bear to do it when I
-tried myself.
+The music - done by Ellen Meijers - is a topic I've got sort of a controversial opinion about: while
+I absolutely believe it fits the game and serves its purpose well, I don't think it is good enough
+to stand on its own legs. Once you take the music out of the game, the repetitiveness that you never
+otherwise notice due to all the myriad of other noises the game makes suddenly becomes obvious. I've
+spoken with people who said they like to listen to the OST outside the game, but I frankly couldn't
+really bear to do it when I tried myself.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2D0UiuSZs2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -521,11 +525,12 @@ because I find them undignified for the topics I talk about, yet here I can't av
 art is fucking amazing!** I mean, seriously, look at that art! Sure it might be sort of pixelated
 due to its age, but if you look past that veil and into what's actually being conveyed; you can't
 help but be pulled into a living, breathing world, full of organic and logical - if exaggerated -
-objects. Obviously the art serves as the third column of what makes AO brilliant.
+objects.
 
-This is of course due to the methods and principles OWI used to create the game's looks. There is a
-set of rules that the fanbase sometimes refers to as the *"ALIVE principles,"* which dictate what each
-screen in the game must look like. These can be read below:
+Obviously the art serves as the third column of what makes AO brilliant. This is of course due to
+the methods and principles OWI used to create the game's looks. There is a set of rules that the
+fanbase sometimes refers to as the *"ALIVE principles,"* which dictate what each screen in the game
+must look like. These can be read below:
 
 > **[Paul
 >  O'Connor](https://web.archive.org/web/19990221091824/http://www.videogames.com/features/universal/abe_dd/110298/index.html):**
@@ -618,10 +623,10 @@ display how many Mudokons does each sub-level have and also their general layout
 enough not to let you pass without first proving yourself, however, it is also kind enough to give
 you the tools to let you progress at your own pace.
 
-Every hub features special switches (flintlocks in the Native areas, door release levers in
-RuptureFarms) that present a tangible way of conveying progress to the player. There is not much
-fanfare to entering a level, trudging through, then leaving on the end; so putting in a special
-level provides at least some ceremony to the whole ordeal.
+Every hub features special switches (flintlocks in the Native areas, piston-locks in RuptureFarms)
+that present a tangible way of conveying progress to the player. There is not much fanfare to
+entering a level, trudging through, then leaving on the end; so putting in a special level provides
+at least some ceremony to the whole ordeal.
 
 ### Level Features
 
@@ -634,6 +639,20 @@ empowering the player as discussed above. However, in-universe they hardly make 
 that RuptureFarms is a very dangerous workplace, but that is due to the ruthless Sligs and the
 machines that'd make any OSHA agent cry. Why is the place littered with free-to-take explosives?
 It's practically screaming for workers to use it to rebel.
+
+#### Mudokons
+
+They're dumb simpletons...but that's alright. It is pretty obvious from his more recent interviews,
+that Lorne Lanning isn't exactly a fan of helpless Mudokons, that weight the player down, but I
+personally disagree somewhat. I think it's a great story element that the Mudokons have so long
+endured servitude that they're basically incapable of fighting back. Being wholly happy about
+fighting back and doing stunts at the first word from Abe would be quite unbelievable.
+
+I also really like that they're for the most part silent. It adds a lot to the oppressive atmosphere
+to see them work without a single word aside from the occasional grunt after being beaten by the
+Sligs. Similarly, I don't mind that they don't say anything after being saved (except in the case of
+the good ending), it is pretty obvious from the context that the player did the right thing, a pat
+on the back is pretty superfluous.
 
 #### Sligs
 
@@ -667,6 +686,24 @@ don't see anything inherently wrong with this, but I don't really like how the p
 temples have both bell-locks and flintlocks. Having two extremely similar goals to work towards just
 detracts from the sense of accomplishment from both.
 
+#### UXBs
+
+UXBs are those small bombs that either blink red or green. They present perhaps the simplest
+skill-check in the game as you have to time your button press well or you're propelled back to the
+start. I like them, the only thing I could note is that perhaps there could have been a few more
+puzzles where the solution is to re-enable the bomb as it's a nice subversion of expectations.
+
+#### Elum
+
+![The Elum trap](/imgs/aorant/elumtrap.webp)
+
+The Elum is an absolute delight to use...when the grid based system doesn't work against you of
+course. Abe isn't slow by any means, however, the way the Elum effortlessly dashes through screens
+provides a really memorable experience in the game. I also like how bees and honey were incorporated
+into temporarily trapping the animal. It feels really natural unlike what one can see in a
+screenshot of an older version of the game in which a sort of machine captured Elum and you'd
+presumably have to find a way to turn it off.
+
 ## The Story
 
 As you might have noticed I didn't include the story into the three pillars that make AO
@@ -682,19 +719,24 @@ Oddysee, but still. There is only really one more character in the story, the Bi
 purpose well and I find the fact that he uses very few words quite elegant, but he is practically
 the deus-ex-machina in the plot.
 
-However, here comes the major "but" of this section. Perhaps the story and characters aren't the
-best of the best, but the implied world is one of the best I've experienced in gaming. What I mean
-by "implied world" is things that aren't mentioned in-game, but rather left open as things that the
-player can ponder about. For instance, how did the Mudokons fall from a species that can build
-megastructures like the Paramonian and Scrabanian temples to a dumb cattle-race of slaves. Or how
-the societies work? Or if RuptureFarms is only a factory, how does the rest of the "civilized" world
-look like?
+The cutscenes do their jobs well, everything looks beautiful considering we're talking PS1-era
+graphics. I also really like the fact that both endings are so extreme. The bad ending shows how
+ungrateful the average Mudokon is, them letting Abe die despite him risking his life again and
+again. The good ending on the other hand provides a cathartic end to RuptureFarms and Molluck (or so
+we are led to believe.)
+
+While I don't consider the story and the characters outstanding, the implied world is one of the
+best I've experienced in gaming. What I mean by "implied world" is things that aren't mentioned
+in-game, but rather left open as things that the player can ponder about. For instance, how did the
+Mudokons fall from a species that can build megastructures like the Paramonian and Scrabanian
+temples to a dumb cattle-race of slave?? Or how the Native and Industrial societies work? Or if
+RuptureFarms is only a factory, how does the rest of the "civilized" world look like?
 
 This, however, is a double-edged sword. While it is true that leaving just enough things vague to
 make the world more mysterious is an art on its own; one can nonetheless really easily fall into the
-trap of attributing their own creativity as something that was "always intended as such." What I
-mean by this is that I've spoken with many people who talk about how great this and that in Oddworld
-is and then use their own head-canon as evidence.
+trap of attributing their own creativity as something that was "always intended as such." I've
+spoken with many people who talk about how great this and that in Oddworld is and then use their own
+head-canon as evidence, which speaks way more about their creativity than about the series.
 
 ## The William Anderson Controversy
 
@@ -704,8 +746,8 @@ Sadly even a game as great as AO has its darker side. William Anderson was a gam
 by OWI to create the basic systems of the game along with some level designs. He was never credited
 for his work and to this day OWI refuses to recognize him for his work. Instead of paraphrasing or
 copy pasting, I'll leave a link to the story
-[here](https://magogonthemarch.wordpress.com/2019/03/11/mom-interview-william-anderson/). It is a
-story worth knowing as it's one of the major blemishes on OWI's image.
+[here](https://magogonthemarch.wordpress.com/2019/03/11/mom-interview-william-anderson/). It worth
+knowing as it's one of the major blemishes on OWI's image.
 
 ## Conclusion
 
@@ -723,6 +765,14 @@ To this date AO is consistently one of the favorites of the fandom, depending on
 the best or the second best game of the series. Too bad OWI doesn't capitalize on this and release a
 proper remaster of the game, but I guess that's a story for another time.
 
+Finally, I'd like to ask you to watch this video and really pay attention. All these people worked
+on delivering this amazing game to us. Knowing only Lanning's and Ms. McKenna's names really doesn't
+do them justice.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bAR5ZVDk_q0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center><p><b>Thanks for sticking by.</b></p></center>
+
 <!--  LocalWords: RuptureFarms Mudokon Molluck Mudokons Slig Oddysee Exoddus Paramonia Paramonian
- gameplay Glukkon Sligs Gameplay Oddworld
+ gameplay Glukkon Sligs Gameplay Oddworld disempowerment
  -->
