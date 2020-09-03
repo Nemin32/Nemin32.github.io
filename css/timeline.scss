@@ -1,6 +1,12 @@
 ---
 ---
 
+@media(orientation: landscape) {
+    main {
+        width: 1480px;
+    }
+}
+
 div p {
   width: unset !important;
 }

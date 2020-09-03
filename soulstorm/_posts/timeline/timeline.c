@@ -133,6 +133,7 @@ const struct EVENT event_list[] = {
   EVENT(19, 11, 18, MARKETING, "AE' 21st anniversary video #1",                                             "https://www.youtube.com/watch?v=csSCkk-xULw"),
   EVENT(19, 11, 19, MARKETING, "AE' 21st anniversary video #2",                                             "https://www.youtube.com/watch?v=6kSUOTlDRCg"),
   EVENT(19, 11, 20, MARKETING, "AE' 21st anniversary video #3",                                             "https://www.youtube.com/watch?v=XyWvUL9K_co"),
+  EVENT(20,  9,  2, MARKETING, "OWI describes its philosophy",                                              "https://www.youtube.com/watch?v=PgPiY4kkfOM"),
 
   /* ODDCASTS */
   EVENT(18,  5,  3, MARKETING, "The first Oddcast airs",                                                    "https://www.youtube.com/watch?v=AbG_Fg_gbC0"),
@@ -147,6 +148,7 @@ const struct EVENT event_list[] = {
   EVENT(19, 12, 10, OTHER,     "Stranger's Wrath Switch port is teased to come at January 23rd of 2020",    "https://twitter.com/OddworldInc/status/1204477347363090433"),
   EVENT(20,  1, 23, OTHER,     "Stranger's Wrath arrives to the Nintendo Switch",                           NULL),
   EVENT(20,  3, 13, OTHER,     "Microids announces limited physical release for Stranger's Wrath",          "https://www.microids.com/oddworld-strangers-wrath-hd-retail-versions-launching-in-us-and-eu/"),
+  EVENT(20,  9,  3, OTHER,     "LRG/Microids announces limited Stranger's Wrath box edition",               "https://twitter.com/LimitedRunGames/status/1301581015568257026"),
 
   /* MUNCH */
   EVENT(20,  4, 30, OTHER,     "OWI/Microids announces Munch's Oddysee's Switch port.",                    "https://www.microids.com/us/oddworld-munchs-oddysee-coming-to-nintendo-switch-may-14th-2/"),
