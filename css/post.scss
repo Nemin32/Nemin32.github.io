@@ -3,10 +3,11 @@
 
 @import 'monokai.css';
 
-$width: 840px;
+$width: 900px;
 main {
   width: $width;
   max-width: 100%;
+  text-rendering: optimizelegibility;
 
   & > * {
     margin-left: auto;
@@ -78,10 +79,29 @@ main {
     display: block;
     margin: 0 auto;
     min-width: 20%;
-    max-width: 90%;
+    max-width: 100%;
+    max-height: 500px;
   }
 
   .figure_box {
+      figure {
+          display: table;
+          margin: 2rem auto;
+
+          figcaption {
+              text-align: center;
+              font-size: 0.9em;
+              padding-top: 0.5em;
+
+              display: table-caption;
+              caption-side: bottom;
+
+              opacity: 0.6;
+          }
+      }
+  }
+
+  /*.figure_box {
     display: block;
     max-width: $width * 0.9;
 
@@ -102,16 +122,24 @@ main {
 
       figcaption {
         background: var(--figcap-color);
-        display: table-caption;
-        caption-side: bottom;
+        //display: table-caption;
+        //caption-side: bottom;
+        
         padding: 0.5rem;
+
+        text-align: center;
+
+        font-size: 0.8em;
+        //padding-top: 0.5rem;
+
+        margin-bottom: 1rem;
       }
     }
 
     & + blockquote {
       margin-top: 1rem;
     }
-  }
+  }*/
 
   blockquote {
     li, p {
@@ -217,7 +245,7 @@ main {
 
 @media (orientation: portrait) {
   main {
-    .figure_box, p, code, iframe, img {
+    .figure_box, p, code, iframe {
       width: 95%;
       margin-left: auto;
       margin-right: auto;
@@ -226,6 +254,10 @@ main {
     h1,h2,h3,h4  {
       margin-left: 2.5%;
       max-width: 95%;
+    }
+
+    img {
+        max-width: 95%;
     }
 
     li {
