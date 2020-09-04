@@ -1,0 +1,656 @@
+<link rel="stylesheet" href="pseudo.css" />
+
+<h1 id="a-pszeudokd-problmi-s-ezek-javasolt-megoldsai">A Pszeudokód problémái és ezek javasolt megoldásai</h1>
+
+<ul id="markdown-toc">
+  <li><a href="#a-pszeudokd-problmi-s-ezek-javasolt-megoldsai" id="markdown-toc-a-pszeudokd-problmi-s-ezek-javasolt-megoldsai">A Pszeudokód problémái és ezek javasolt megoldásai</a>    <ul>
+      <li><a href="#elsz" id="markdown-toc-elsz">Előszó</a>        <ul>
+          <li><a href="#mit-llt-ez-a-dokumentum" id="markdown-toc-mit-llt-ez-a-dokumentum">Mit állít ez a dokumentum?</a></li>
+          <li><a href="#mit-nem-llt-ez-a-dokumentum" id="markdown-toc-mit-nem-llt-ez-a-dokumentum">Mit NEM állít ez a dokumentum?</a></li>
+        </ul>
+      </li>
+      <li><a href="#i-szintaxis" id="markdown-toc-i-szintaxis">I. Szintaxis</a>        <ul>
+          <li><a href="#a-hozzrendels" id="markdown-toc-a-hozzrendels">a. Hozzárendelés</a></li>
+          <li><a href="#b-scope-ok-jellse" id="markdown-toc-b-scope-ok-jellse">b. Scope-ok jelölése</a></li>
+          <li><a href="#c-az-akkor-sz-elhagysa-az-elgazsokbl" id="markdown-toc-c-az-akkor-sz-elhagysa-az-elgazsokbl">c. Az “akkor” szó elhagyása az elágazásokból.</a></li>
+          <li><a href="#d-a-ciklusok-egyrtelmbb-ttele" id="markdown-toc-d-a-ciklusok-egyrtelmbb-ttele">d. A ciklusok egyértelműbbé tétele</a></li>
+          <li><a href="#c-vltozk" id="markdown-toc-c-vltozk">c. Változók</a></li>
+          <li><a href="#d-indexels" id="markdown-toc-d-indexels">d. Indexelés</a></li>
+          <li><a href="#e-break-vagyis-ciklusbl-val-kiugrs" id="markdown-toc-e-break-vagyis-ciklusbl-val-kiugrs">e. ‘Break’ vagyis ciklusból való kiugrás</a></li>
+          <li><a href="#f-visszatrs-meglv-vltozval" id="markdown-toc-f-visszatrs-meglv-vltozval">f. Visszatérés meglévő változóval</a></li>
+        </ul>
+      </li>
+      <li><a href="#ii-fggvnyek" id="markdown-toc-ii-fggvnyek">II. Függvények</a>        <ul>
+          <li><a href="#a-ne-ismteld-magad-alkalmazsa" id="markdown-toc-a-ne-ismteld-magad-alkalmazsa">a. “Ne ismételd magad” alkalmazása</a></li>
+          <li><a href="#b-fggvny--eljrs-egysgestse" id="markdown-toc-b-fggvny--eljrs-egysgestse">b. Függvény / Eljárás egységesítése</a></li>
+          <li><a href="#c-bemenetek-s-kimenetek-stlusnak-egysgestse" id="markdown-toc-c-bemenetek-s-kimenetek-stlusnak-egysgestse">c. Bemenetek és Kimenetek stílusának egységesítése</a></li>
+        </ul>
+      </li>
+      <li><a href="#iii-pldk" id="markdown-toc-iii-pldk">III. Példák</a>        <ul>
+          <li><a href="#a-sorozatszmts" id="markdown-toc-a-sorozatszmts">a. Sorozatszámítás</a></li>
+          <li><a href="#b-lineris-keress" id="markdown-toc-b-lineris-keress">b. Lineáris keresés</a></li>
+          <li><a href="#c-c-kd-sszehasonltsa-a-vltoztatsokon-tesett-pszeudokddal" id="markdown-toc-c-c-kd-sszehasonltsa-a-vltoztatsokon-tesett-pszeudokddal">c. C kód összehasonlítása a változtatásokon átesett Pszeudokóddal</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="elsz">Előszó</h2>
+
+<p>A Pszeudokód egy C-szerű nyelvet utánzó ál-programozási nyelv, mely
+célja az algoritmusok egyes programozási nyelvekre jellemző sajátságos
+tulajdonságok használata nélkül, egységesen és egyszerűen megérthető
+módon való rögzítése.</p>
+
+<p>Ez a dokumentum arra próbál rávilágítani, hogy a szerkezetek, melyek a
+diákok segítésére lettek kitalálva, valójában megnehezíthetik az
+algoritmusok való életben való alkalmazását és megoldást is próbál
+nyújtani ezekre.</p>
+
+<h3 id="mit-llt-ez-a-dokumentum">Mit állít ez a dokumentum?</h3>
+
+<ul>
+  <li>
+    <p>Hogy ezen javaslatok közül néhány vagy akár az összes
+implementálásával egyértelműbbé és egyszerűbbé válhat a Pszeudokód.</p>
+  </li>
+  <li>
+    <p>Hogy, ha a Pszeudokód jobban hasonlít egy valódi nyelvhez, az
+könnyebbé teszi a benne leírt algoritmusok lefordítását és felhasználását.</p>
+  </li>
+</ul>
+
+<h3 id="mit-nem-llt-ez-a-dokumentum">Mit NEM állít ez a dokumentum?</h3>
+
+<ul>
+  <li>
+    <p>Hogy ezek a javaslatok tényszerűen jobbak. Bár igyekeztem az
+ismeretségi köröm nagy hányadától tanácsot kérni, természetesen a
+mintavételezés így is aránylag kicsi halmazból történt, így lehet
+egyes javaslatok a többség számára kedvezőtlennek hatnának.</p>
+  </li>
+  <li>
+    <p>Hogy a Pszeudokód rossz volna. Logikus, hogy szükséges egy olyan
+nyelv, mely a programozási nyelvek sajátságaitól mentes, így
+bármilyen más nyelvre könnyen fordítható. A dokumentum csupán a
+nyelv dizájnjának részleteit kérdőjelezi meg.</p>
+  </li>
+</ul>
+
+<h2 id="i-szintaxis">I. Szintaxis</h2>
+
+<p>Az egyik első ok, mely miatt megfogalmazódott bennem ennek a
+dokumentumnak a létrehozása a szintaxis volt, mely több általam vélt
+problémát is magában hordoz.</p>
+
+<h3 id="a-hozzrendels">a. Hozzárendelés</h3>
+
+<p>Első változtatásképp elhagyjuk az ‘&lt;-‘ jelölést, melyet a
+matematikából ismert egyenlőségjellel helyettesítünk. Ugyanígy, egy
+egyetemi hallgató számára nem jelenthet nehézséget, hogy megértse a
+‘(operátor)=’ jelölés értelmét is.</p>
+
+<pre><code>i &lt;- 1
+i &lt;- i + 5
+</code></pre>
+
+<p>Helyett:</p>
+
+<pre><code>i = 1
+i += 5
+</code></pre>
+
+<h3 id="b-scope-ok-jellse">b. Scope-ok jelölése</h3>
+
+<p>Jelenleg a Pszeudokód a ‘(kulcsszó) vége’ jelöléssel zárja le a
+scope-okat. Ez azonban ahhoz vezet, hogy a kódot több fölösleges szó
+teszi átláthatatlanabbá, hisz nem közvetít új információt, hogy mit is
+zárunk le, ugyanis ezt a behúzás mértéke már elárulja nekünk. Ezek
+helyett az új Pszeudokód Allman-stílusú kapcsos-zárójelekkel jelzi a
+scope-ok határait.</p>
+
+<pre><code>i &lt;- 0
+
+ciklus amíg (i &lt; 10)
+    ha (i &lt; 5) akkor
+        i &lt;- i * 2
+    különben
+        i &lt;- i + 1
+    elágazás vége
+ciklus vége
+</code></pre>
+
+<p>Helyett:</p>
+
+<pre><code>i = 0
+
+ciklus amíg (i &lt; 10)
+{
+    ha (i &lt; 5) akkor
+    {
+        i *= 2
+    }
+    különben
+    {
+        i += 1
+    }
+}
+</code></pre>
+
+<p>Abban az esetben, ha az új scope csak egy sorból áll, a
+kapcsos-zárójelek elhagyhatók.</p>
+
+<pre><code>i = 0
+
+ciklus  (i &lt; 10)
+{
+    ha (i &lt; 5)
+        i *= 2
+    különben
+        i += 1
+}
+</code></pre>
+
+<h3 id="c-az-akkor-sz-elhagysa-az-elgazsokbl">c. Az “akkor” szó elhagyása az elágazásokból.</h3>
+
+<p>Hasonlóan az előző pontban megfogalmazottakhoz, a “Ha (feltétel)
+akkor” szerkezet is lerövidíthető információvesztés nélkül szimplán
+“Ha (feltétel)”-re.</p>
+
+<pre><code>ha (5 &lt; 6) akkor
+    ... további kód
+különben ha (8 &gt; 4) akkor
+    ... kód ami nem fog lefutni
+elágazás vége
+</code></pre>
+
+<p>Helyett:</p>
+
+<pre><code>ha (5 &lt; 6)
+{
+    ... további kód
+}
+különben ha (8 &gt; 4)
+{
+    ... kód ami nem fog lefutni
+}
+</code></pre>
+
+<h3 id="d-a-ciklusok-egyrtelmbb-ttele">d. A ciklusok egyértelműbbé tétele</h3>
+
+<p>A Pszeudokód jelenleg kétféle ciklust tesz lehetővé:</p>
+
+<ul>
+  <li>
+    <p>Számtartományon átlépkedő (‘for’)</p>
+
+    <pre><code>  ciklus i = 1-től 10-ig
+      ... az i fölvesz minden értéket 1-től 10-ig
+  ciklus vége
+</code></pre>
+  </li>
+  <li>
+    <p>Predikátum-alapú (‘while’)</p>
+
+    <pre><code>  ciklus amíg ~P(x)
+      ... amíg P(x) igazzá nem válik, a kód ismétlődni fog
+  ciklus vége
+</code></pre>
+  </li>
+</ul>
+
+<p>Mindkettőt minimálisan változtatnám csak. A számtartomány-alapú ciklus
+jelölését a következővé változtatnám:</p>
+
+<pre><code>ciklus i = 1 -&gt; 10
+{
+    ... az i fölvesz minden értéket 1-től 10-ig
+}
+</code></pre>
+
+<p>Ugyanannyira könnyű megérteni, de rövidebb és a “-tól/-től” és “-ig”
+szerepét egy egységes jel veszi át.</p>
+
+<p>A predikátum-alapú ciklusnál pedig elhagynám a “ciklus” szót.</p>
+
+<pre><code>amíg ~P(x)
+{
+    ... amíg P(x) igazzá nem válik, a kód ismétlődni fog
+}
+</code></pre>
+
+<p>Így az olvasó számára egyértelmű melyik ciklussal is van dolga a sor
+legelső szavának elolvasásától.</p>
+
+<h3 id="c-vltozk">c. Változók</h3>
+
+<p>Bár a Pszeudokód már jelenlegi állapotában is nyújt limitált
+lehetőségeket a típusok deklarálására, az új változatban kötelezővé
+tennénk minden új változó típusának jelölését. Ez egységesítené a
+tömbök létrehozását is, megszüntetve a “Létrehozás” függvény
+szükségességét.</p>
+
+<pre><code>i &lt;- 5
+x &lt;- Létrehoz(egész)[i]
+</code></pre>
+
+<p>Helyett:</p>
+
+<pre><code>egész i = 5
+egész[i] x
+</code></pre>
+
+<p>Ezáltal az olvasó szeme rögtön a változó elé ugrik, ha annak típusát
+akarja tudni, azonnal egyértelművé téve milyen változóval is van
+dolga.</p>
+
+<h3 id="d-indexels">d. Indexelés</h3>
+
+<p>Bár elsőre logikusnak hangzik, hogy egytől kezdjük a tömbök
+indexelését, a programozási nyelvek túlnyomó hányadában szimplán
+architektúrális okokból a nullától való indexelés terjedt el.</p>
+
+<p>Ennek elfelejtése, miközben más nyelvre implementáljuk az algoritmust
+könnyen vezethet az első elem kihagyásához, vagy egy a tömb határainak
+túllépése miatt fellépő futásidei hibához.</p>
+
+<p>Hogy ezt elkerülhessük az új Pszeudokód idomulna a valós programozási
+nyelvekhez és szintén nulla-indexeltté válna.</p>
+
+<pre><code>x &lt;- Létrehoz(egész)[2]
+x[1] &lt;- 3
+x[2] &lt;- 5
+</code></pre>
+
+<p>Helyett:</p>
+
+<pre><code>egész[2] x
+x[0] = 3
+x[1] = 5
+</code></pre>
+
+<p>Bár ez elsőre némi félreértéshez vezethet, miszerint az olvasó esetleg
+a tömb (n+1).-edik elemét keresheti az n.-edik helyén, ám némi
+gyakorlással hamar kiküszöbőlődik. Cserébe a fentebb említett
+esetleges problémák megszűnnek.</p>
+
+<h3 id="e-break-vagyis-ciklusbl-val-kiugrs">e. ‘Break’ vagyis ciklusból való kiugrás</h3>
+
+<p>A ‘break’ utasítás használatának meg nem engedése több algoritmust is
+fölöslegesen bonyolít, hosszabbá és nehézkesebbé téve őket. Az új
+Pszeudokódban tehát engedélyezve van.</p>
+
+<p>A kulcsszót ebben a dokumentumban “kiugrás”-nak fogom fordítani, mivel jól
+demonstrálja, hogy valójában mi is a célunk, amikor ezt látjuk a kódban és
+semelyik másik kulcsszóra se hasonlít.</p>
+
+<p>Az algoritmusok közül rengetegben fordul elő az Eldöntés tétel alkalmazása,
+mely eldönti, egy tömb elemei közül bármelyik is teljesít-e egy tulajdonságot.
+Ez lehet egy predikátumfüggvény, vagy bármely más tulajdonság, mint például az
+elem egy számtartományon belül való tartózkodása. Ennek a tételnek a
+pszeudokódban való megvalósítása a következő:</p>
+
+<pre><code>Bemenet: x - T tömb, n - egész, P - logikai
+Kimenet: van - logikai
+függvény Eldöntés(x,n,P)
+  i &lt;- 1
+  ciklus amíg (i &lt;= n) /\ ~P(x[i])
+    i &lt;- i + 1
+  ciklus vége
+  van &lt;- (i &lt;= n)
+  vissza i
+függvény vége
+</code></pre>
+
+<p>A probléma itt az, hogy sokkal kevésbé magától adódó, hogy a “van” változó
+miért is ez alapján kap értéket, mintha a lejjebb olvasható verziót olvasná az
+ember:</p>
+
+<pre><code>Bemenet: T[] x, egész n, logikai P
+Kimenet: logikai van
+függvény Eldöntés(x,n,P)
+{
+  van &lt;- hamis
+  ciklus i = 0 -&gt; (n-1)
+  {
+    ha (P(x[i]))
+    {
+      van &lt;- igaz
+      kiugrás
+    }
+  }
+  vissza van
+}
+</code></pre>
+
+<p>Ebben a formátumban egyértelműen látszik, hogy a “van” csak akkor válik igazzá,
+ha találunk egy olyan elemet, amelyre P igaz. Ezen kívül hozzáadott plusz, hogy
+az “i” változó ezáltal nem szivárog ki a függvény scopejába, hanem a ciklus
+után megszűnik létezni.</p>
+
+<p>Még egy példaként itt a lineáris keresés eredeti implementációja:</p>
+
+<pre><code>Bemenet: x - T tömb, n - egész, P - logikai
+Kimenet: van - logikai, idx - egész
+függvény LineárisKeresés(x,n,P)
+  i &lt;- 1
+  ciklus amíg (i &lt;= n) /\ ~P(x[i])
+    i &lt;- i + 1
+  ciklus vége
+  van &lt;- (i &lt;= n)
+  ha van akkor
+    idx &lt;- i
+    vissza (van, idx)
+  különben
+    vissza van
+  elágazás vége
+függvény vége
+</code></pre>
+
+<p>És a kiugrást alkalmazó változat:</p>
+
+<pre><code>Bemenet: T[] x, egész n, logikai P
+Kimenet: logikai van, egész idx
+függvény LineárisKeresés(x,n,P)
+{
+  ciklus i = 1 -&gt; n
+  {
+    ha P(x[i])
+      vissza (igaz, i)
+  }
+  vissza hamis
+}
+</code></pre>
+
+<p>Felmerülhet esetlegesen, hogy a “break” különleges utasítás, amely nem
+található meg minden nyelvben, ám ez az aggodalom alaptalan, hisz az
+Assembly-tól kezdve a Python-ig minden gyakran használt nyelvben előfordul.</p>
+
+<h3 id="f-visszatrs-meglv-vltozval">f. Visszatérés meglévő változóval</h3>
+
+<p>Ez csupán egy apró változtatás, de mivel a valódi programozási nyelvek sem
+várják el, hogy csak újonnan deklarált változóval térhetünk vissza,
+így ez az új Pszeudokódban is eltörlésre kerül.</p>
+
+<pre><code>i &lt;- 0
+
+ciklus amíg (i &lt; 10)
+    i &lt;- i + 10
+ciklus vége
+
+idx &lt;- i
+vissza idx
+</code></pre>
+
+<p>Helyett:</p>
+
+<pre><code>i = 0
+
+amíg (i &lt; 10)
+{
+    i += 10
+}
+
+vissza i
+</code></pre>
+
+<h2 id="ii-fggvnyek">II. Függvények</h2>
+
+<p>Önmagukban természetesen a függvények is a szintaxis része, ám mégis
+külön szeretném tárgyalni őket, mivel az itt tapasztalt problémáim más
+jellegűek.</p>
+
+<h3 id="a-ne-ismteld-magad-alkalmazsa">a. “Ne ismételd magad” alkalmazása</h3>
+
+<p>Az úgy nevezett ‘DRY’ vagyis “Don’t Repeat Yourself” a tiszta kód
+egyik alappillére. Röviden összefoglalva annyit jelent, hogy ha egy
+kód-részletet többször is fel akarunk használni, akkor érdemes azt
+külön függvényként deklarálni és csak újra meghívni. Ezzel csökkentjük
+a hibák esélyét és átláthatóbbá tesszük a kódot.</p>
+
+<p>TODO: Találni ide egy jó példát.</p>
+
+<h3 id="b-fggvny--eljrs-egysgestse">b. Függvény / Eljárás egységesítése</h3>
+
+<p>A Pszeudokód különbséget tesz függvények és úgynevezett eljárások
+között abban, hogy az előbbi visszatér egy értékkel, míg az utóbbi egy
+címszerint átadott változót módosít.</p>
+
+<p>A gyakorlatban ennek a megkülönböztetésnek sok haszna nincs, ezen
+kívül a legtöbb nyelv nem is jelöli az ilyesmit. Így az új Pszeudokód
+szintén nem tesz különbséget, ehelyett ezt vagy a függvény bemenetei
+és kimenetei fogják jelezni.</p>
+
+<pre><code>Bemenet: x - egész
+Kimenet: x - egész
+eljárás Példa(címszerint x)
+    x &lt;- x + 5
+eljárás vége
+</code></pre>
+
+<p>Helyett:</p>
+
+<pre><code>Bemenet: x - egész
+Kimenet: x - egész
+függvény Példa(címszerint x)
+{
+    x += 5
+}
+</code></pre>
+
+<h3 id="c-bemenetek-s-kimenetek-stlusnak-egysgestse">c. Bemenetek és Kimenetek stílusának egységesítése</h3>
+
+<p>Követve a változók deklarálásának fentebbi változtatásait, a kimenet
+és bemenet is hasonlóan megváltozik. A magyarázatokat viszont ugyanúgy
+a változó mögé írjuk.</p>
+
+<pre><code>Bemenet: a - egész, b - T tömb (T rendezhető), c - szöveg
+Kimenet: d - logikai
+</code></pre>
+
+<p>Helyett:</p>
+
+<pre><code>Bemenet: egész a, T[] b (T rendezhető), szöveg c
+Kimenet: logikai d
+</code></pre>
+
+<h2 id="iii-pldk">III. Példák</h2>
+
+<p>Végül szeretnék közölni pár tételt, átírva az új szabályokkal, mely
+remélhetőleg meggyőzi azokat, akik a fentebbi izolált példákat látva
+nem látják ezek hasznát.</p>
+
+<h3 id="a-sorozatszmts">a. Sorozatszámítás</h3>
+
+<p>Természetesen első példaképp az programozási tételt vesszük, mely egy
+érték kiszámolása egy tömb összes elemének felhasználásával.</p>
+
+<p>Jelen példában “[+]” tetszőleges operátort jelöl, pl. ‘+’, ‘-‘ vagy ‘*’.</p>
+
+<p>Eredeti tétel:</p>
+
+<pre><code>Bemenet: x - T tömb, n - egész (tömb mérete)
+Kimenet: érték - T
+függvény Sorozatszámítás(x,n)
+    érték &lt;- érték0
+    ciklus i &lt;- 1-től n-ig
+        érték &lt;- érték [+] x[i]
+    ciklus vége
+    vissza érték
+függvény vége
+</code></pre>
+
+<p>A változtatások alkalmazásával:</p>
+
+<pre><code>Bemenet: T[] x, egész n (tömb mérete)
+Kimenet: T érték
+függvény Sorozatszámítás(x,n)
+{
+    T érték
+
+    ciklus i = 1 -&gt; n
+    {
+        érték [+]= x[i]
+    }
+
+    vissza érték
+}
+</code></pre>
+
+<p>Rövidebben:</p>
+
+<pre><code>Bemenet: T[] x, egész n (tömb mérete)
+Kimenet: T érték
+függvény Sorozatszámítás(x,n)
+{
+    T érték
+
+    ciklus i = 1 -&gt; n
+        érték [+]= x[i]
+
+    vissza érték
+}
+</code></pre>
+
+<h3 id="b-lineris-keress">b. Lineáris keresés</h3>
+
+<p>A következő példa egy fokkal hosszabb és demonstrálja a változtatások
+nagy hányadát.</p>
+
+<p>Eredeti tétel:</p>
+
+<pre><code>Bemenet: x − T tömb, n − egész, P − logikai
+Kimenet: van − logikai, idx − egész
+függvény LineárisKeresés(x,n,P)
+    i &lt;- 1
+    ciklus amíg (i &lt;= n) /\ ~P(x[i])
+        i &lt;- i + 1
+    ciklus vége
+    van &lt;- (i &lt;= n)
+    ha van akkor
+        idx &lt;- i
+        vissza (van, idx)
+    különben
+        vissza van
+    elágazás vége
+függvény vége
+</code></pre>
+
+<p>Kiugrás nélkül:</p>
+
+<pre><code>Bemenet: x − T tömb, n − egész, P − logikai
+Kimenet: van − logikai, i − egész
+függvény LineárisKeresés(x,n,P)
+{
+    egész i = 0
+
+    amíg (i &lt; n) /\ ~P(x[i])
+    {
+        i += 1
+    }
+
+    logikai van = (i &lt; n)
+
+    ha van
+    {
+        vissza (van, i)
+    }
+    különben
+    {
+        vissza van
+    }
+}
+</code></pre>
+
+<p>Kiugrással:</p>
+
+<pre><code>Bemenet: x − T tömb, n − egész, P − logikai
+Kimenet: van − logikai, i − egész
+függvény LineárisKeresés(x,n,P)
+{
+    egész i = 0
+    logikai van = hamis
+
+    ciklus i = 0 -&gt; n
+    {
+        ha P(x)
+        {
+            van = igaz
+            kiugrás
+        }
+
+        i += 1
+    }
+
+    ha van
+    {
+        vissza (van, i)
+    }
+    különben
+    {
+        vissza van
+    }
+}
+</code></pre>
+
+<p>Rövidebben:</p>
+
+<pre><code>Bemenet: x − T tömb, n − egész, P − logikai
+Kimenet: van − logikai, i − egész
+függvény LineárisKeresés(x,n,P)
+{
+    egész i = 0
+    logikai van = hamis
+
+    ciklus i = 0 -&gt; n
+    {
+        ha P(x)
+        {
+            van = igaz
+            kiugrás
+        }
+
+        i += 1
+    }
+
+    ha van
+        vissza (van, i)
+    különben
+        vissza van    }
+</code></pre>
+
+<h3 id="c-c-kd-sszehasonltsa-a-vltoztatsokon-tesett-pszeudokddal">c. C kód összehasonlítása a változtatásokon átesett Pszeudokóddal</h3>
+
+<p>Hasonlítsunk össze egy nagyon rövid C nyelven írt kódot, mely
+összeadja az első tíz szám közül azokat, melyek párosak, egy
+Pszeudokód átirattal.</p>
+
+<p>C:</p>
+
+<pre><code>int c = 0;
+
+for (int i = 1; i &lt;= 10; i++)
+{
+    if (i % 2 == 0)
+        c += i;
+}
+</code></pre>
+
+<p>Pszeudokód:</p>
+
+<pre><code>egész c = 0
+
+ciklus i = 1 -&gt; 10
+{
+    ha i páros
+        c += i
+}
+</code></pre>
+
+<p>Ezen változtatások közelebb hozzák a Pszeudokódot egy valódi
+programozási nyelvhez, mely által könnyebbé válhat az átültetése,
+cserébe nem rugaszkodik el a magas-szintű megközelítéstől, mint
+például az egyszerű és intuitív ciklus deklaráció vagy az olyan
+irreleváns részletek deklarálásának nélküli használata mint
+egy szám párosságát eldöntő függvény.</p>
