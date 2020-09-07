@@ -75,7 +75,7 @@ hardly being more than wishful thoughts.
 
 ### SligStorm
 
-> **[Wil](http://www.oddworldforums.net/showpost.php?s=e96e4753f6b342a303c16e3f59d0f35f&p=92509&postcount=11):**
+> **[Wil:](http://www.oddworldforums.net/showpost.php?s=e96e4753f6b342a303c16e3f59d0f35f&p=92509&postcount=11)**
 > Story: In a Slig Birthing Complex an Albino Slig Larva is born. Like many
 > creatures in our world, Sligs don't much care for such mutants, so they kill
 > it.
@@ -135,7 +135,7 @@ one of the Sligs there has *suspiciously pale skin:*
 However, the game hardly had the chance to even enter production as soon after
 announcing the game OWI closed its gates.
 
-> **[David Fried](/swinterview):**
+> **[David Fried:](/swinterview)**
 >I've heard nothing... I did hear about Fangus when I was leaving. That was
 >supposed to be the next project that everyone would work on. Had some
 >interesting concepts in it, like battle armor that could be blown off the
