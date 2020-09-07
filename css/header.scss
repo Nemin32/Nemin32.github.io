@@ -10,8 +10,13 @@ header {
   padding: 0.3rem;
 
   display: flex;
+  justify-content: center;
 
-  align-items: center;
+  div {
+      width: var(--width);
+      display: flex;
+      align-items: center;
+  }
 
   z-index: 1;
 
