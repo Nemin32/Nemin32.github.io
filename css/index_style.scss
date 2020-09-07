@@ -1,6 +1,10 @@
 ---
 ---
 
+main {
+    width: var(--width);
+}
+
 ul {
   display: grid;
   grid-template-columns: repeat(auto-fit, calc(25% - 0.4rem));

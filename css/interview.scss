@@ -4,7 +4,8 @@
 @import "variables";
 
 p {
-  text-align: justify;
+  font-family: Montserrat;
+  font-weight: bold;
 }
 
 p + .figure_box, blockquote + .figure_box {
@@ -12,10 +13,17 @@ p + .figure_box, blockquote + .figure_box {
   margin-bottom: 1rem;
 }
 
+main blockquote {
+  border-left: none;
+  padding: 0;
+}
+
 .figure_box + p {
   margin-top: 1rem !important;
 }
 
-blockquote p {
+main blockquote p {
   font-weight: 400 !important;
+  font-size: var(--font-size);
+  margin-left: 0;
 }
