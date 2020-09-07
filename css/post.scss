@@ -3,9 +3,8 @@
 
 @import 'monokai.css';
 
-$width: 900px;
 main {
-  width: $width;
+  width: var(--width);
   max-width: 100%;
   text-rendering: optimizelegibility;
 
@@ -17,7 +16,7 @@ main {
   h1 {
     text-align: center;
     display: block;
-    width: $width;
+    width: var(--width);
 
     margin-bottom: 0;
 
@@ -40,18 +39,24 @@ main {
 
   & > h1, & > h2, & > h3, & > h4 {
     font-weight: bold;
-    margin-top: 1.5em;
-    margin-bottom: 1.5em;
+    margin-top: 3.0em;
+    margin-bottom: 1em;
   }
 
   a {
     font-weight: bold;
     text-decoration: none;
     color: var(--link-color);
+
+    transition: filter 0.25s;
+
+    &:hover {
+        filter: brightness(120%);
+    }
   }
 
   ul {
-    width: $width;
+    width: var(--width);
   }
 
   li {
@@ -64,7 +69,7 @@ main {
   }
 
   p {
-    width: $width;
+    width: var(--width);
     max-width: 100%;
   }
 
@@ -72,7 +77,7 @@ main {
     display: block;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
-    max-width: $width;
+    max-width: var(--width);
   }
 
   img {
@@ -96,54 +101,20 @@ main {
               display: table-caption;
               caption-side: bottom;
 
-              opacity: 0.6;
+              opacity: 0.8;
           }
       }
   }
 
-  /*.figure_box {
-    display: block;
-    max-width: $width * 0.9;
-
-    & + .figure_box {
-      margin-top: 1rem;
-    }
-
-    figure {
-      display: table;
-      margin: 0 auto;
-
-      img {
-        min-width: 20%;
-        max-width: 100%;
-        display: block;
-        margin: 0 auto;
-      }
-
-      figcaption {
-        background: var(--figcap-color);
-        //display: table-caption;
-        //caption-side: bottom;
-        
-        padding: 0.5rem;
-
-        text-align: center;
-
-        font-size: 0.8em;
-        //padding-top: 0.5rem;
-
-        margin-bottom: 1rem;
-      }
-    }
-
-    & + blockquote {
-      margin-top: 1rem;
-    }
-  }*/
-
   blockquote {
     li, p {
 	font-weight: 300;
+    }
+
+    a:first-child {
+        background: var(--link-color);
+        color: var(--background);
+        padding: 0.3rem;
     }
 
     border-left: 5px solid;
@@ -173,7 +144,7 @@ main {
 
   .highlighter-rouge {
     max-width: 95%;
-    width: $width;
+    width: var(--width);
     overflow: auto;
     background: #272822;
   }
@@ -188,28 +159,35 @@ main {
 }
 
 #navigation {
-  display: flex;
-  justify-content: space-around;
-  width: $width;
+  width: var(--width);
   max-width: 95%;
   margin-top: 1rem;
   margin-bottom: 1rem;
 
+  display: grid;
+  justify-content: space-evenly;
+  grid-template-columns: 25% 25%;
+
   a {
     font-size: 1.2rem;
+    padding: 1rem;
+    border-radius: 5px;
+    background: var(--link-color);
+    color: var(--background);
+    text-align: center;
   }
 }
 
 #links {
   background: #333;
 
-  & > p {
-    color: #e2e2e2;
-    text-align: center;
-    padding-top: 1rem;
-    margin-bottom: 0;
-    font-size: 1.2rem;
+  display: flex;
+  justify-content: center;
+
+  &>div {
+    width: var(--width);
   }
+
 
   ul {
     display: grid;
@@ -243,7 +221,7 @@ main {
   }
 }
 
-@media (orientation: portrait) {
+@media (orientation: portrait), (max-width: 1300px) {
   main {
     .figure_box, p, code, iframe {
       width: 95%;

@@ -5,6 +5,10 @@
 @import "footer.css";
 @import "fonts.css";
 
+:root {
+    --width: 1000px;
+}
+
 html {
   background: var(--html-bg);
 }
@@ -16,8 +20,8 @@ html, body {
 body {
   // Uppercase M because of Sass dumbness
   // See: https://css-tricks.com/when-sass-and-new-css-features-collide/
-  min-width: Min(100%, 1300px);
-  max-width: Min(100%, 1910px);
+  //min-width: 1300px;
+  //max-width: Min(100%, 1910px);
 
   background: var(--background);
   color: var(--font-color);
@@ -26,7 +30,6 @@ body {
 main {
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
 }
 
 #lightswitch {

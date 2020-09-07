@@ -4,18 +4,19 @@ p.lcd {
   font-family: VT323;
   font-weight: bold;
   border: 5px solid black;
-  background: #0f0f0f;
-  padding-top: 6px;
-  padding-bottom: 6px;
-  padding-left: 16px;
-  padding-right: 16px;
+  background: #222;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 18px;
+  padding-right: 18px;
   border-radius: 12px;
   text-transform: uppercase;
-  color: #ccc;
+  color: #ddd;
+  font-size: 20px;
 }
 
 p.lcd.red {
-  color: darkred;
+  color: #cc3333;
 }
 
 p.lcd.new {

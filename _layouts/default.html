@@ -24,10 +24,12 @@
   </head>
   <body>
     <header>
+      <div>
         <a href="/index.html" id="logolink" alt="Go back to the frontpage">
           <img src="/logo.webp" alt="Oddwords Logo">
         </a>
         <h1><a href="/index.html">Oddwords</a></h1>
+      </div>
     </header>
 
     <main>
@@ -40,11 +42,11 @@
     </main>
 
     <div id="links">
+      <div>
       {% assign cat = page.categories[0] | strip %}
       {% assign len = cat | size %}
       {% assign posts = 6 %}
       {% if len != 0 %}
-      <p>Other posts in the {{page.categories[0] | capitalize}} category:</p>
       <ul>
         {% for p in site.categories[cat] %}
         {% if p.title != page.title %}
@@ -63,6 +65,7 @@
       </ul>
       {% endif %}
     </div>
+      </div>
     </div>
 
     <footer>
