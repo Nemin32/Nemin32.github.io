@@ -96,7 +96,7 @@ li a {
 
   #main {
     grid-area: a;
-    margin: 1rem auto;
+    margin: 2rem auto;
 
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -108,6 +108,7 @@ li a {
   }
 
   #sidebar {
+    margin: 2rem auto;
     
     grid-area: b;
 
