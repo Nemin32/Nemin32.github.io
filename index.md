@@ -1,98 +1,84 @@
 ---
 layout: index_layout
 ---
+<div class="featured">
 
-<div class="category featured">
-<h2>Featured posts</h2>
-<ul>
-{% assign posts = site.tags.spec | reverse %}
-{% for post in posts %}
-    {% assign id = post.id | split: '/' %}
-    <li>
-    <a href="{{ post.url }}">
-        <div>
-        <img src="/imgs/thumbs/{{id[1]}}.webp" alt="{{ post.title }}">
-        </div>
-        <p title="{{ post.title }}" class="link">{{ post.title }}</p>
-        <p class="content"> {{ post.summary }} </p>
-        <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
-    </a>
-    </li>
+{% assign side = "guide,foundarchives,miodd,timeline,mapinterview,pgyft,swinterview,unreleased" | split: ',' %}
+
+{% assign posts = site.tags.spec %}
+
+<h1>Featured posts</h1>
+<div id="featured_posts">
+<ul id="footer">
+{% assign sides = "swinterview,unreleased,mapinterview" | split: ',' %}
+{% for side in sides %}
+{% assign post = posts | where:"slug", side | first %}
+{% include list.html post=post %}
 {% endfor %}
 </ul>
+
+<ul id="sidebar">
+{% assign sides = "foundarchives,miodd,squeek,pgyft" | split: ',' %}
+{% for side in sides %}
+{% assign post = posts | where:"slug", side | first %}
+{% assign id = post.id | split: '/' %}
+{% include list.html post=post %}
+{% endfor %}
+</ul>
+
+<ul id="main">
+{% assign sides = "guide,timeline" | split: ',' %}
+{% for side in sides %}
+{% assign post = posts | where:"slug", side | first %}
+{% include list.html post=post %}
+{% endfor %}
+</ul>
+
+
+</div>
 </div>
 
 <div class="category">
-    <h2>Newest posts</h2>
+    <h1>Newest posts</h1>
     <ul>
     {% for post in site.posts limit:8 %}
-    <li>
-    <a href="{{ post.url }}">
-        <p title="{{ post.title }}" class="link">{{ post.title }}</p>
-        <p class="content"> {{ post.summary }} </p>
-        <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
-    </a>
-    </li>
+    {% include elem.html post=post %}
     {% endfor %}
     </ul>
 </div>
 
 <div class="category">
-    <h2>Soulstorm-related content</h2>
+    <h1>Soulstorm-related content</h1>
     <ul>
     {% for post in site.categories["soulstorm"] %}
-    <li>
-    <a href="{{ post.url }}">
-        <p title="{{ post.title }}" class="link">{{ post.title }}</p>
-        <p class="content"> {{ post.summary }} </p>
-        <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
-    </a>
-    </li>
+    {% include elem.html post=post %}
     {% endfor %}
     </ul>
 </div>
 
 <div class="category">
-    <h2>Other Oddworld-related content</h2>
+    <h1>Other Oddworld-related content</h1>
     <ul>
     {% for post in site.categories["other"] %}
-    <li>
-    <a href="{{ post.url }}">
-        <p title="{{ post.title }}" class="link">{{ post.title }}</p>
-        <p class="content"> {{ post.summary }} </p>
-        <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
-    </a>
-    </li>
+    {% include elem.html post=post %}
     {% endfor %}
     </ul>
 </div>
 
 <div class="category">
-    <h2>Blog</h2>
+    <h1>Blog</h1>
     <ul>
     {% for post in site.categories["blog"] %}
-    <li>
-    <a href="{{ post.url }}">
-        <p title="{{ post.title }}" class="link">{{ post.title }}</p>
-        <p class="content"> {{ post.summary }} </p>
-        <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
-    </a>
-    </li>
+    {% include elem.html post=post %}
     {% endfor %}
     </ul>
 </div>
 
 <div class="category">
-    <h2>Essays</h2>
+    <h1>Essays</h1>
     <ul>
     {% for post in site.categories["essay"] %}
-    <li>
-    <a href="{{ post.url }}">
-        <p title="{{ post.title }}" class="link">{{ post.title }}</p>
-        <p class="content"> {{ post.summary }} </p>
-        <p class="date">{{ post.date | date: "%Y.%m.%d" }}</p>
-    </a>
-    </li>
+    {% include elem.html post=post %}
     {% endfor %}
     </ul>
 </div>

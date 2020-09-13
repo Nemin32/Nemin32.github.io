@@ -4,9 +4,11 @@
 @import "header.css";
 @import "footer.css";
 @import "fonts.css";
+@import "variables.css";
 
-:root {
-    --width: 1000px;
+
+* {
+    transition: background 0.5s, color 0.5s;
 }
 
 html {

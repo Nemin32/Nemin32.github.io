@@ -3,6 +3,20 @@
 
 @import 'monokai.css';
 
+main > p:first-of-type::first-letter {
+    float: left;
+    margin-top: 0.55rem;
+    margin-right: 0.04em;
+    margin-bottom: -0.15em;
+    margin-left: -0.15ex;
+    padding-left: 0;
+    line-height: 0.83em;
+    font-family: "Linux Libertine O", serif;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 4rem;
+}
+
 main {
   width: var(--width);
   max-width: 100%;
@@ -109,6 +123,10 @@ main {
   blockquote {
     li, p {
 	font-weight: 300;
+    }
+
+    strong {
+        font-feature-settings: "onum", "c2sc", "smcp";
     }
 
     a:first-child {
