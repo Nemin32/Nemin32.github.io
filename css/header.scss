@@ -44,10 +44,6 @@ header {
   }
 }
 
-:root {
-    --progress: 0%;
-}
-
 header:after {
   content: '';
   width: var(--progress);
