@@ -102,6 +102,7 @@ const struct EVENT event_list[] = {
   EVENT(20,  1, 14, SOULSTORM, "Soulstorm appears in 1UP Conf's Most Awaited Sequel poll and wins",         "https://twitter.com/1UPconf/status/1217015459893170177"),
   EVENT(20,  6, 11, SOULSTORM, "Soulstorm is shown at Sony's PS5 stream",                                   "https://www.youtube.com/watch?v=F9b-_jCCBhg"),
   EVENT(20,  8, 17, SOULSTORM, "Microids announces Soulstorm Physical Release",                             "https://twitter.com/Microids_off/status/1295375489402576897?s=19"),
+  EVENT(20,  9, 16, SOULSTORM, "'Molluck Return' PS5 trailer",                                              "https://www.youtube.com/watch?v=8OSFEL0PNYs"),
 
   /* ARG */
   EVENT(16,  3, 16, ARG,       "First phase of the ARG starts",                                             "http://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary"),
