@@ -5,22 +5,25 @@
 
 main > p:first-of-type::first-letter {
     float: left;
-    margin-top: 0.55rem;
+    margin-top: 0.44rem;
     margin-right: 0.04em;
-    margin-bottom: -0.15em;
+    //margin-bottom: -0.15em;
     margin-left: -0.15ex;
     padding-left: 0;
     line-height: 0.83em;
-    font-family: "Linux Libertine O", serif;
+    //font-family: "Linux Libertine O", serif;
     text-transform: uppercase;
     font-weight: normal;
-    font-size: 4rem;
+    font-size: 6rem;
 }
 
 main {
   width: var(--width);
   max-width: 100%;
+
   text-rendering: optimizelegibility;
+  font-kerning: normal;
+  hyphens: auto;
 
   & > * {
     margin-left: auto;
@@ -53,9 +56,17 @@ main {
 
   & > h1, & > h2, & > h3, & > h4 {
     font-weight: bold;
-    margin-top: 3.0em;
-    margin-bottom: 1em;
   }
+
+  h2,h3,h4 {
+      margin-top: 2em;
+      margin-bottom: 0;
+
+      & + p {
+          margin-top: 0.5em;
+      }
+  }
+
 
   a {
     font-weight: bold;
