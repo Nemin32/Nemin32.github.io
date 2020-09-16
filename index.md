@@ -7,7 +7,7 @@ layout: index_layout
 
 {% assign posts = site.tags.spec %}
 
-<h1>Featured posts</h1>
+<h2>Featured posts</h2>
 <div id="featured_posts">
 <ul id="footer">
 {% assign sides = "swinterview,unreleased,mapinterview" | split: ',' %}
@@ -39,7 +39,7 @@ layout: index_layout
 </div>
 
 <div class="category">
-    <h1>Newest posts</h1>
+    <h2>Newest posts</h2>
     <ul>
     {% for post in site.posts limit:8 %}
     {% include elem.html post=post %}
@@ -48,7 +48,7 @@ layout: index_layout
 </div>
 
 <div class="category">
-    <h1>Soulstorm-related content</h1>
+    <h2>Soulstorm-related content</h2>
     <ul>
     {% for post in site.categories["soulstorm"] %}
     {% include elem.html post=post %}
@@ -57,7 +57,7 @@ layout: index_layout
 </div>
 
 <div class="category">
-    <h1>Other Oddworld-related content</h1>
+    <h2>Other Oddworld-related content</h2>
     <ul>
     {% for post in site.categories["other"] %}
     {% include elem.html post=post %}
@@ -66,7 +66,7 @@ layout: index_layout
 </div>
 
 <div class="category">
-    <h1>Blog</h1>
+    <h2>Blog</h2>
     <ul>
     {% for post in site.categories["blog"] %}
     {% include elem.html post=post %}
@@ -75,7 +75,7 @@ layout: index_layout
 </div>
 
 <div class="category">
-    <h1>Essays</h1>
+    <h2>Essays</h2>
     <ul>
     {% for post in site.categories["essay"] %}
     {% include elem.html post=post %}
