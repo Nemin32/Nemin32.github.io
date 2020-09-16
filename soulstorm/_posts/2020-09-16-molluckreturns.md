@@ -24,10 +24,11 @@ overgrown area.)
 
 ![](/imgs/molre/hideout.png)
 
-## Weird device
+## Phone
 
-Behind Molluck and the immediately sympathetic pilot-Slig there is a weird green device that looks
-like a health station.
+Behind Molluck and the immediately sympathetic pilot-Slig there is a green device with a phone
+symbol on it. Perhaps it'll be later used in the game by Molluck to communicate with the rest of the
+Cartel.
 
 ![](/imgs/molre/health.png)
 
@@ -123,7 +124,7 @@ They still exist.
 
 ![](/imgs/molre/rockbag.png)
 
-## Mollcuk bossfight / escape sequence
+## Molluck bossfight / escape sequence
 
 We see Abe escape from Molluck's airship, who's shooting missiles at him from far away.
 
