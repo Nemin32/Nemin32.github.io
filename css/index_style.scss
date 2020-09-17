@@ -28,6 +28,9 @@ li a {
 
 #header {
   padding-top: 1rem;
+  max-width: 95%;
+
+  margin: 0 auto;
 
   h1 {
     text-align: center;
@@ -48,6 +51,7 @@ li a {
     margin-top: 1rem;
     font-size: 20px;
     text-align: justify;
+    max-width: 95%;
   }
 }
 
@@ -59,8 +63,8 @@ li a {
   ul {
     list-style-type: none;
     padding: 0;
-    margin: 0;
     display: grid;
+    margin: 2rem auto;
   }
 
   li {
@@ -99,9 +103,7 @@ li a {
 
   #main {
     grid-area: a;
-    margin: 2rem auto;
 
-    display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 1rem;
 
@@ -111,7 +113,6 @@ li a {
   }
 
   #sidebar {
-    margin: 2rem auto;
     
     grid-area: b;
 
@@ -127,8 +128,6 @@ li a {
 
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 1rem;
-
-    margin: 2rem 0;
   }
   
 }
@@ -194,6 +193,55 @@ li a {
 
 
 @media (orientation: portrait) {
+    #header {
+        img {
+            width: 40%;
+        }
+        
+        h1 {
+            font-size: 3rem;
+        }
+    }
+    
+    #featured_posts {
+        ul {
+            display: block;
+            margin: 0;
+        }
+
+        li a {
+            display: grid;
+            grid-template:
+                "b b b" auto
+                "a c c" 1fr / 1fr 2fr;
+            grid-gap: 0.5rem;
+
+            grid-template-columns: 1fr, 1fr 2fr;
+
+            margin-bottom: 0.5rem;
+
+            div {
+                display: flex;
+                align-items: center;
+                grid-area: a;
+                //max-width: Min(100%, 250px);
+            }
+
+            img {
+                width: 100%;
+            }
+
+            .link {
+                grid-area: b;
+            }
+
+            .content {
+                grid-area: c;
+                min-width: 66%;
+            }
+        }
+  }
+    
   main {
     width: 95%;
     margin: 0 auto;
