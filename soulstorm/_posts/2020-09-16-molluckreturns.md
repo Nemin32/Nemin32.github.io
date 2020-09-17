@@ -133,8 +133,7 @@ We see Abe escape from Molluck's airship, who's shooting missiles at him from fa
 ## *"A Classic Refresher"*
 
 We see this sign several times during the trailer. The text seems to say *"A CLASSIC REFRESHER / Be
-wise! Know your basics(?) / Tough path lies ahead. Learn how here and now./ Only fools dial(?)
-in."*
+wise! Know your basics(?) / Tough path lies ahead. Learn how here and now./ Only fools dive in."*
 
 ![](/imgs/molre/refresher.png)
 
