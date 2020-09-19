@@ -40,7 +40,7 @@ I imagine now that he lost almost all his wealth he can't afford to boss others 
 
 ## The Monsaic Lines burns
 
-So in my last post I wrote that I find it confusing the Mudokon hideout is in a jungle considering
+So in my last post I wrote that I find it confusing the Mudokon hideout is in a desert considering
 the Monsaic Lines appears to be inside a jungle.
 
 {% include caption.html url="/imgs/molre2/monsaic.jpg" description="Notice the light emanating from the ceiling." %}
