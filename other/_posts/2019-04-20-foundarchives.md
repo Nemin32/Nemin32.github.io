@@ -48,6 +48,8 @@ main {
 
 <p>On this page I collected almost all posts from the Lost Arcvhives. Clicking on an image opens its Instagram page, where you can find it in full resolution.</p>
 
+<br>
+
 <div class="flexer">
 <a href="https://instagram.com/p/Bwpif1ElJwF/"><img loading="lazy" src = "/imgs/insta_images/56905195_328804467780476_155031530092347563_n.webp"></a>
 <a href="https://instagram.com/p/Bwm5z06l42H/"><img loading="lazy" src = "/imgs/insta_images/58409198_456790251756776_670031078643189384_n.webp"></a>
