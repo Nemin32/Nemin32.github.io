@@ -159,7 +159,82 @@ monstrous guards.
 
 "The great detective afraid of my guards?" - He laughed.
 
-"Please Lem, cut the shit. This is serious business." 
+"Please Lem, cut the shit. This is serious business."
 
 My tone seems to have gone through to him, because he stopped laughing and nodded towards the
-guards, who shuffled out of view.
+guards, who shuffled out of view. Once they were gone, he turned back towards me.
+
+"Alright. What can I do for you?"
+
+"I need info Lem. I've been roped into a very high-stakes investigation, my life is on the
+line. Do you have any inside intel about GutCo? I'm most interested in any recent conflicts or
+provocations that might have happened."
+
+"Sure, I can help you with that. But as much as I'd like to do it for free, you know this isn't a
+charity old pal."
+
+"How much?"
+
+"Five grands." - He said slyly. Friends or not, Lem was a businessman with money on his mind.
+
+"That's ridiculous."
+
+"Hey, you need the info. But alright, just this once because we're buddies, I'm willing to lower it
+to four and a half."
+
+"How extremely generous of you!" - I groaned while handing over the notes. He quickly flipped over
+them and put them in his pocket.
+
+"GutCo pays its employees quite well. They sort of have to, from what I've heard the working
+conditions are so horrifying, no one, not even the most downtrodden would willingly work there
+otherwise. Some theorize most of their product line contains bit and pieces of less lucky
+employees."
+
+"Lem, I haven't given you all this cash to hear you babble, get to the point."
+
+"Sure, sure, sorry. Anyway as I was saying, the employees are unlikely to have done the murder. I
+personally suspect the guys at Gruel Inc. The two companies have been secretly vying with each other
+for quite some time now and reputable sources say both received unsigned, provocative mail, likely
+from each other. Who knows where this could escalate?"
+
+"Wait, how do you know about the murder? I didn't tell you anything."
+
+"Ned, I have many clients and not all belong to this level. You know my species' reputation and my
+innocent looks put many dumber folk into a false sense of security, making them blurt out some
+things they shouldn't have. Hell, I sometimes throw in a bit of extra for the especially resilient
+ones and it never fails to work. Treat others well and they might treat you well too."
+
+"Very clever. What else can you tell me?"
+
+"Look I'm not omnipotent and I've already told you plenty. I might be the biggest Mud' in the city,
+but that doesn't mean there aren't people out there who'd rip my head off the first chance they
+have. I'd rather not give them more munition. Still, I suppose there is one more thing I can do. A
+friend by the name of Grod works at Gruel Inc. I can't promise much, but he'll let you inside the
+facility. Afterwards, you're on your on."
+
+"Fine. I also need an entry permit to level three."
+
+"Sure, we can arrange that. One grand and we're good."
+
+"You're one slimy bastard, you know that?" - I couldn't help but laugh a little at his greed, but he
+was the only person in the city capable of providing me with a good enough forgery and the clock was
+ticking.
+
+"Always lovely to conduct business with you." - He said smiling, then stood up and went into a
+backroom behind the office we were talking in. He returned soon with a paper in hand. It had several
+stamps from local authorities on it declaring the free passage between the second and third levels
+for one Slig. A perfect forgery.
+
+"Thanks Lem. I'd love to chat more, but I cherish the fact of my head staying on my shoulders even
+more."
+
+"Good luck Ned. Oh and one more thing and this on the house. Times are changing. I really hope you
+can finish this investigation of yours quickly, because you really don't want to be caught between
+two walls."
+
+I left the way I came in, the young bouncer threw a mean look at me, but I didn't pay much
+attention. Lem sounded a bit scared and he was never the cowardly type. Dark thoughts troubled my
+mind as I went home. It was way past midnight and my head was throbbing from the exhaustion. I had
+to get some sleep, because likely tomorrow would be an even more stressful day.
+
+## Chapter 4
