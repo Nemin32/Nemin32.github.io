@@ -157,6 +157,7 @@ const struct EVENT event_list[] = {
 
   /* NNT */
   EVENT(20,  8, 11, OTHER,     "OWI/Microids announces NnT's Switch port.",                                 "https://twitter.com/Microids_off/status/1293125005740580864?s=20"),
+  EVENT(20,  9, 29, OTHER,     "Microids announces NnT's Switch port coming 27th of October.",              "https://twitter.com/Microids_off/status/1310958095703724035"),
 
   /* DISCORD */
   EVENT(17,  5,  2, DISCORD,   "Discord server launches",                                                   "https://discordapp.com/channels/293291256736382976/293291256736382976/308969023981486082"),
@@ -167,6 +168,7 @@ const struct EVENT event_list[] = {
   /* KILLED */
   EVENT(19,  4, 24, KILLED,    "Lost Archives ends",                                                        "https://www.instagram.com/p/Bwpif1ElJwF/"),
   EVENT(19,  6,  1, KILLED,    "The Oddwall gets shelved",                                                  NULL),
+  EVENT(19,  8, 14, KILLED,    "The ARG goes into silence.",                                                NULL),
   EVENT(19,  9, 23, KILLED,    "22nd anniversary series abruptly ends",                                     NULL),
   EVENT(19, 11, 20, KILLED,    "21st anniversary series abruptly ends",                                     NULL),
 };
