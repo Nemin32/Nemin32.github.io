@@ -135,6 +135,7 @@ const struct EVENT event_list[] = {
   EVENT(19, 11, 19, MARKETING, "AE' 21st anniversary video #2",                                             "https://www.youtube.com/watch?v=6kSUOTlDRCg"),
   EVENT(19, 11, 20, MARKETING, "AE' 21st anniversary video #3",                                             "https://www.youtube.com/watch?v=XyWvUL9K_co"),
   EVENT(20,  9,  2, MARKETING, "OWI describes its philosophy",                                              "https://www.youtube.com/watch?v=PgPiY4kkfOM"),
+  EVENT(20, 11, 19, MARKETING, "OWI asks for new subscribers to reveal new content",                        "https://twitter.com/OddworldInc/status/1329536557741613056"),
 
   /* ODDCASTS */
   EVENT(18,  5,  3, MARKETING, "The first Oddcast airs",                                                    "https://www.youtube.com/watch?v=AbG_Fg_gbC0"),
@@ -158,6 +159,7 @@ const struct EVENT event_list[] = {
   /* NNT */
   EVENT(20,  8, 11, OTHER,     "OWI/Microids announces NnT's Switch port.",                                 "https://twitter.com/Microids_off/status/1293125005740580864?s=20"),
   EVENT(20,  9, 29, OTHER,     "Microids announces NnT's Switch port coming 27th of October.",              "https://twitter.com/Microids_off/status/1310958095703724035"),
+  EVENT(20, 10, 27, OTHER,     "Microids releases NnT on the Switch",                                       NULL),
 
   /* DISCORD */
   EVENT(17,  5,  2, DISCORD,   "Discord server launches",                                                   "https://discordapp.com/channels/293291256736382976/293291256736382976/308969023981486082"),
