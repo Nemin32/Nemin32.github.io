@@ -41,7 +41,7 @@ layout: index_layout
 <div class="category">
     <h2>Newest posts</h2>
     <ul>
-    {% for post in site.posts limit:8 %}
+    {% for post in site.posts limit:9 %}
     {% include elem.html post=post %}
     {% endfor %}
     </ul>
