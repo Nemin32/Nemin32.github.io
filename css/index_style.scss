@@ -32,24 +32,27 @@ li a {
 
   margin: 0 auto;
 
+  display: grid;
+  grid-template-columns: 0.7fr 1.3fr;
+  width: var(--width);
+
   h1 {
     text-align: center;
-    font-size: 5rem;
+    font-size: 6rem;
     font-weight: 600;
     margin: 0;
+
   }
 
   img {
-    width: 300px;
-    margin: 0.5rem auto;
+    max-width: 100%;
     display: block;
   }
 
   p {
-    width: var(--width);
     margin: 0 auto;
-    margin-top: 1rem;
-    font-size: 20px;
+    margin-top: -0.5rem;
+    font-size: 18px;
     text-align: justify;
     max-width: 95%;
   }
@@ -194,8 +197,11 @@ li a {
 
 @media (orientation: portrait) {
     #header {
+	display: block;
+	
         img {
             width: 40%;
+	    margin: 0 auto;
         }
         
         h1 {
