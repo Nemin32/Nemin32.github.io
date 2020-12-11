@@ -41,8 +41,8 @@ Mayan-looking device, that I've spoken about [here](/ps5footage) is at the base 
 Next we see Abe run in front of a conspicuous looking door. I believe this is likely the end of a
 vault or something similar. The floor in front of the door in the background almost looks like as if
 it could slide out (and thus provide a way inside for Abe.) I think it's not unreasonable to think
-that once you have met some condition this will happen you'll be let inside. There are two notable
-things here:
+that once you have met some condition, this will happen and you'll be let inside. There are two
+notable things here:
 
 ## Dead guy
 
@@ -67,7 +67,7 @@ a similar color palette in the matte painting of Necrum done by Raymond Swanland
 
 {% include caption.html url="/imgs/gameawards/honey.jpg" description="You can see one on the far right and on the far left." %}
 
-This, however, connects even more dot as if we look back to one of the screenshots released
+This, however, connects one more dot because if we look back to one of the screenshots released
 previously, we can see the same bird statues looking over the pool of "honey" where Abe gets his
 chest scar.
 
@@ -91,8 +91,8 @@ for the level exit as it's been stated that Abe will mostly travel using a train
 This is the first time we see a new Glukkon-character (christened "Baron" by Abe's Origins) in more
 detail than a still image. The phone he's looking at looks quite similar to the one used in
 Stranger's Wrath and what's probably even more interesting is that while he stays silent, the
-phone's mesh slightly moves, which likely indicates that the character is in the middle of receiving
-a call... Probably about Abe's shenanigans.
+phone's mesh slightly vibrates, which likely indicates that the character is in the middle of
+receiving a call... Probably about Abe's shenanigans.
 
 # Necrum sign
 
