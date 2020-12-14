@@ -105,6 +105,7 @@ const struct EVENT event_list[] = {
   EVENT(20,  9, 16, SOULSTORM, "'Molluck Return' PS5 trailer",                                              "https://www.youtube.com/watch?v=8OSFEL0PNYs"),
   EVENT(20, 12,  7, SOULSTORM, "OWI promises an 'explosive week'",                                          "https://twitter.com/OddworldInc/status/1336018375798091776"),
   EVENT(20, 12,  9, SOULSTORM, "OWI promises Soulstorm news at the Game Awards",                            "https://twitter.com/OddworldInc/status/1336742617955135489"),
+  EVENT(20, 12, 10, SOULSTORM, "OWI appears at the Game Awards",                                            "https://www.youtube.com/watch?v=2NCQS7hSUBE"),
 
   /* ARG */
   EVENT(16,  3, 16, ARG,       "First phase of the ARG starts",                                             "http://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary"),
