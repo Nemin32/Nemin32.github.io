@@ -1,10 +1,12 @@
 {% assign id = include.post.id | split: '/' %}
-<li>
-  <a href="{{ include.post.url }}">
-    <div>
+<a href="{{ include.post.url }}">
+  <li>
+    <div class="image_container">
       <img src="/imgs/thumbs/{{id[1]}}.webp" alt="{{ include.post.title }}">
     </div>
-    <p title="{{ include.post.title }}" class="link">{{ include.post.title }}</p>
-    <p class="content"> {{ include.post.summary }} </p>
-  </a>
-</li>
+    <div class="description">
+      <p title="{{ include.post.title }}" class="link">{{ include.post.title }}</p>
+      <p class="content"> {{ include.post.summary }} </p>
+    </div>
+  </li>
+</a>
