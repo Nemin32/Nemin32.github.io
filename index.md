@@ -9,8 +9,9 @@ layout: index_layout
 
 <h2>Featured posts</h2>
 <div id="featured_posts">
-<ul id="footer">
-{% assign sides = "swinterview,unreleased,mapinterview" | split: ',' %}
+
+<ul id="main">
+{% assign sides = "guide,timeline" | split: ',' %}
 {% for side in sides %}
 {% assign post = posts | where:"slug", side | first %}
 {% include list.html post=post %}
@@ -26,14 +27,13 @@ layout: index_layout
 {% endfor %}
 </ul>
 
-<ul id="main">
-{% assign sides = "guide,timeline" | split: ',' %}
+<ul id="footer">
+{% assign sides = "swinterview,unreleased,mapinterview" | split: ',' %}
 {% for side in sides %}
 {% assign post = posts | where:"slug", side | first %}
 {% include list.html post=post %}
 {% endfor %}
 </ul>
-
 
 </div>
 </div>
