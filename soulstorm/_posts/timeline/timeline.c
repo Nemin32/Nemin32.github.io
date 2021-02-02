@@ -106,6 +106,7 @@ const struct EVENT event_list[] = {
   EVENT(20, 12,  7, SOULSTORM, "OWI promises an 'explosive week'",                                          "https://twitter.com/OddworldInc/status/1336018375798091776"),
   EVENT(20, 12,  9, SOULSTORM, "OWI promises Soulstorm news at the Game Awards",                            "https://twitter.com/OddworldInc/status/1336742617955135489"),
   EVENT(20, 12, 10, SOULSTORM, "OWI appears at the Game Awards",                                            "https://www.youtube.com/watch?v=2NCQS7hSUBE"),
+  EVENT(20, 12, 15, SOULSTORM, "Soulstorm pre-orders launch on EGS",                                        "https://www.epicgames.com/store/en-US/news/oddworld-soulstorm-coming-spring-2021"),
 
   /* ARG */
   EVENT(16,  3, 16, ARG,       "First phase of the ARG starts",                                             "http://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary"),
@@ -139,6 +140,8 @@ const struct EVENT event_list[] = {
   EVENT(19, 11, 20, MARKETING, "AE' 21st anniversary video #3",                                             "https://www.youtube.com/watch?v=XyWvUL9K_co"),
   EVENT(20,  9,  2, MARKETING, "OWI describes its philosophy",                                              "https://www.youtube.com/watch?v=PgPiY4kkfOM"),
   EVENT(20, 11, 19, MARKETING, "OWI asks for new subscribers to reveal new content",                        "https://twitter.com/OddworldInc/status/1329536557741613056"),
+  EVENT(21,  1, 20, MARKETING, "Mudokons Recap video is released",                                          "https://www.instagram.com/p/CKR13wGjaVU/"),
+  EVENT(21,  1, 27, MARKETING, "Sligs Recap video is released",                                             "https://www.instagram.com/p/CKj9Ir3DLbE/"),
 
   /* ODDCASTS */
   EVENT(18,  5,  3, MARKETING, "The first Oddcast airs",                                                    "https://www.youtube.com/watch?v=AbG_Fg_gbC0"),
@@ -208,7 +211,7 @@ int main(void) {
   printf(header, date, date, NUM_OF_EVENTS);
 
   //if (0)
-  for (int year = 16; year <= 20; year++) {
+  for (int year = 16; year <= 21; year++) {
     printf("<div class='year'>\n");
     printf("<h2>20%d</h2>\n", year);
     printf("<div>\n");
