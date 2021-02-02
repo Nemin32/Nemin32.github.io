@@ -161,63 +161,31 @@ li a {
 
 
 @media (orientation: portrait) {
-    #header {
-	display: block;
-	
-        img {
-            width: 40%;
-	    margin: 0 auto;
-        }
-        
-        h1 {
-            font-size: 3rem;
-        }
+  #header {
+    display: block;
+
+    img {
+      width: 40%;
+      margin: 0 auto;
     }
-    
-    #featured_posts {
-        ul {
-            display: block;
-            margin: 0;
-        }
 
-        li a {
-            display: grid;
-            grid-template:
-                "b b b" auto
-                "a c c" 1fr / 1fr 2fr;
-            grid-gap: 0.5rem;
-
-            grid-template-columns: 1fr, 1fr 2fr;
-
-            margin-bottom: 0.5rem;
-
-            div {
-                display: flex;
-                align-items: center;
-                grid-area: a;
-                //max-width: Min(100%, 250px);
-            }
-
-            img {
-                width: 100%;
-            }
-
-            .link {
-                grid-area: b;
-            }
-
-            .content {
-                grid-area: c;
-                min-width: 66%;
-            }
-        }
+    h1 {
+      font-size: 3rem;
+    }
   }
-    
+
+  #featured_posts {
+    ul {
+      //display: block !important;
+      grid-template-columns: 1fr 1fr !important;
+    }
+  }
+
   main {
     width: 95%;
     margin: 0 auto;
   }
-  
+
   .category ul {
     grid-template-columns: 1fr;
 
