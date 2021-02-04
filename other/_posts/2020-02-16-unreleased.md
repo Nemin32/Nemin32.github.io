@@ -75,7 +75,7 @@ hardly being more than wishful thoughts.
 
 ### SligStorm
 
-> **[Wil:](http://www.oddworldforums.net/showpost.php?s=e96e4753f6b342a303c16e3f59d0f35f&p=92509&postcount=11)**
+> **[Wil:](http://www.owforums.net/showpost.php?s=e96e4753f6b342a303c16e3f59d0f35f&p=92509&postcount=11)**
 > Story: In a Slig Birthing Complex an Albino Slig Larva is born. Like many
 > creatures in our world, Sligs don't much care for such mutants, so they kill
 > it.
