@@ -34,7 +34,9 @@ li a {
   margin: 0 auto;
 
   display: grid;
-  grid-template-columns: 0.7fr 1.3fr;
+  grid-template-columns: 200px auto;
+  grid-gap: 1rem;
+  align-items: center;
   width: var(--width);
 
   h1 {
@@ -55,7 +57,6 @@ li a {
     margin-top: -0.5rem;
     font-size: 18px;
     text-align: justify;
-    max-width: 95%;
   }
 }
 
