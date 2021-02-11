@@ -1,6 +1,6 @@
 ---
 title: Epic Games Stream Trailer
-summary: Things to take note of in the new trailer
+summary: Things to take note of in the new trailer.
 ---
 
 # Epic Games Stream Trailer
@@ -102,11 +102,12 @@ soda and a very shaken up one, also two types of brew, probably one is lethal an
 {% include caption.html url="/imgs/epic/other.jpg" description="" %}
 
 It seems like our crafting materials and such get placed to an entirely different section.
-"Phatoline" is likely a pun on gasoline. What caught my attention was the antidote item, seems like
-Abe can get poisoned, perhaps with the Meetlebat venom we can see right next to it. More on them
-later. A thing to note is that there is no space for rubber bands. Either the player hasn't unlocked
-them yet - which I'd consider very unlikely - or perhaps they're placed in a different section
-altogether. We know they are still in the game due to a vending machine which will come up soon.
+"Phatoline" is likely a pun on gasoline and also where Phat Station gets its name from (or
+vice-versa). What caught my attention was the antidote item, seems like Abe can get poisoned,
+perhaps with the Meetlebat venom we can see right next to it. More on them later. A thing to note is
+that there is no space for rubber bands. Either the player hasn't unlocked them yet - which I'd
+consider very unlikely - or perhaps they're placed in a different section altogether. We know they
+are still in the game due to a vending machine which will come up soon.
 
 Also we can see that Abe can amass quite a few keys, which as we've learned before can be used to
 open lockers and similar.
