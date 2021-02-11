@@ -107,6 +107,7 @@ const struct EVENT event_list[] = {
   EVENT(20, 12,  9, SOULSTORM, "OWI promises Soulstorm news at the Game Awards",                            "https://twitter.com/OddworldInc/status/1336742617955135489"),
   EVENT(20, 12, 10, SOULSTORM, "OWI appears at the Game Awards",                                            "https://www.youtube.com/watch?v=2NCQS7hSUBE"),
   EVENT(20, 12, 15, SOULSTORM, "Soulstorm pre-orders launch on EGS",                                        "https://www.epicgames.com/store/en-US/news/oddworld-soulstorm-coming-spring-2021"),
+  EVENT(21,  2, 11, SOULSTORM, "Epic Games stream features Soulstorm",                                      "https://www.youtube.com/watch?v=P-FHfUvMpwE"),
 
   /* ARG */
   EVENT(16,  3, 16, ARG,       "First phase of the ARG starts",                                             "http://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary"),
@@ -142,6 +143,7 @@ const struct EVENT event_list[] = {
   EVENT(20, 11, 19, MARKETING, "OWI asks for new subscribers to reveal new content",                        "https://twitter.com/OddworldInc/status/1329536557741613056"),
   EVENT(21,  1, 20, MARKETING, "Mudokons Recap video is released",                                          "https://www.instagram.com/p/CKR13wGjaVU/"),
   EVENT(21,  1, 27, MARKETING, "Sligs Recap video is released",                                             "https://www.instagram.com/p/CKj9Ir3DLbE/"),
+  EVENT(21,  2,  3, MARKETING, "Glukkons Recap video is released",                                          "https://twitter.com/OddworldInc/status/1356998284750049283"),
 
   /* ODDCASTS */
   EVENT(18,  5,  3, MARKETING, "The first Oddcast airs",                                                    "https://www.youtube.com/watch?v=AbG_Fg_gbC0"),
