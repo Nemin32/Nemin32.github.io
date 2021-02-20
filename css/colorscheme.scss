@@ -1,0 +1,40 @@
+---
+---
+
+body[type="bright"] {
+  --header-bg: #3f663b;
+  --html-bg: #f5f5d0;
+  --background: #f2f2e0;
+  --font-color: #2e2e2e;
+  --figcap-color: #eaeac0;
+  --quote-color: #e8e8c0;
+  --link-color: #3f663b;
+  --interview-color: #dda;
+  --pgyft-bg: #dec588;
+  --pgyft-qna: #e9d9b0;
+  --timeline-bg: #d3d3af;
+  --timeline-header: #d6d6a2;
+  --timeline-month: beige;
+  --timeline-event: #f3f3d6;
+
+  --border-color: #474747;
+}
+
+body[type="dark"] {
+  --header-bg: #343;
+  --html-bg: #080808;
+  --background: #141610;
+  --font-color: #ddddb9;
+  --figcap-color: #101010;
+  --quote-color: #0b0b0b;
+  --link-color: #b04030;
+  --interview-color: #222;
+  --pgyft-bg: #222;
+  --pgyft-qna: #333;
+  --timeline-bg: #090909;
+  --timeline-header: #141414;
+  --timeline-month: #121212;
+  --timeline-event: #1a1a1a;
+
+  --border-color: #a6a69e;
+}
