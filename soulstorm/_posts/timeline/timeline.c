@@ -36,19 +36,19 @@ const char* header =
 "### Color codes:\n" \
 "\n" \
 "<center>\n" \
-"<div style=\"width: 20rem\" id=\"legend\">\n" \
+"<div id=\"legend\">\n" \
 "<div class=\"event event-soulstorm\"><p>Soulstorm related event</p></div>\n" \
 "<div class=\"event event-discord\"><p>Discord related event</p></div>\n" \
 "<div class=\"event event-marketing\"><p>Marketing/Social media related event</p></div>\n" \
-"<div class=\"event event-killed\"><p>End of such an event</p></div>\n" \
+"<div class=\"event event-killed\"><p>End of a marketing-related event</p></div>\n" \
 "<div class=\"event event-arg\"><p>ARG related event</p></div>\n" \
-"<div class=\"event event-other\"><p>Other Oddworld-related news (e.g. port announcements)</p></div>\n" \
+"<div class=\"event event-other\"><p>Other Oddworld-related news</p></div>\n" \
 "</div>\n" \
 "</center>\n";
 
 
 enum EVENT_TYPE {
-  MARKETING,
+  MARKETING = 0,
   KILLED,
   SOULSTORM,
   ARG,
@@ -144,6 +144,7 @@ const struct EVENT event_list[] = {
   EVENT(21,  1, 20, MARKETING, "Mudokons Recap video is released",                                          "https://www.instagram.com/p/CKR13wGjaVU/"),
   EVENT(21,  1, 27, MARKETING, "Sligs Recap video is released",                                             "https://www.instagram.com/p/CKj9Ir3DLbE/"),
   EVENT(21,  2,  3, MARKETING, "Glukkons Recap video is released",                                          "https://twitter.com/OddworldInc/status/1356998284750049283"),
+  EVENT(21,  2, 18, MARKETING, "Greeters Recap video is released",                                          "https://twitter.com/OddworldInc/status/1362466131974496256"),
 
   /* ODDCASTS */
   EVENT(18,  5,  3, MARKETING, "The first Oddcast airs",                                                    "https://www.youtube.com/watch?v=AbG_Fg_gbC0"),
@@ -171,9 +172,10 @@ const struct EVENT event_list[] = {
 
   /* DISCORD */
   EVENT(17,  5,  2, DISCORD,   "Discord server launches",                                                   "https://discordapp.com/channels/293291256736382976/293291256736382976/308969023981486082"),
-  EVENT(19,  2, 16, DISCORD,   "One hour Discord Q&A",                                                      "/lanningqna"),
+  EVENT(19,  2, 16, DISCORD,   "Lorne Lanning's one hour Discord Q&A",                                      "/lanningqna"),
   EVENT(19,  4, 24, DISCORD,   "Hackattack joins the Discord",                                              "https://discordapp.com/channels/293291256736382976/293291256736382976/570667262063935489"),
   EVENT(19,  5, 13, DISCORD,   "OWI_Lewis joins the Discord",                                               "https://discordapp.com/channels/293291256736382976/293291256736382976/577526814411325450"),
+  EVENT(19, 12, 22, DISCORD,   "Sherry McKenna joins the Discord",                                          "https://discordapp.com/channels/293291256736382976/308941610132045824/658148011809046528"),
 
   /* KILLED */
   EVENT(19,  4, 24, KILLED,    "Lost Archives ends",                                                        "https://www.instagram.com/p/Bwpif1ElJwF/"),
@@ -181,6 +183,7 @@ const struct EVENT event_list[] = {
   EVENT(19,  8, 14, KILLED,    "The ARG goes into silence.",                                                NULL),
   EVENT(19,  9, 23, KILLED,    "22nd anniversary series abruptly ends",                                     NULL),
   EVENT(19, 11, 20, KILLED,    "21st anniversary series abruptly ends",                                     NULL),
+  EVENT(21,  1, 22, KILLED,    "The 250 followers social media game is delayed indefinitely.",               "https://discordapp.com/channels/293291256736382976/308941610132045824/802289904348299364"),
 };
 
 const unsigned long NUM_OF_EVENTS = sizeof(event_list)/sizeof(struct EVENT);
