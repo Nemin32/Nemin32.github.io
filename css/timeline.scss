@@ -1,125 +1,113 @@
 ---
 ---
 
-div p {
-  width: unset !important;
-}
-
 #legend {
-  color: #e2e2e2;
-  background: #222;
+  margin: 1rem auto;
 
-  padding: 0.3rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-auto-rows: 1fr;
+  justify-content: center;
 
+  border: 1px solid var(--border-color);
 
-  div {
-    padding: 0.2rem;
-    margin-bottom: 0.3rem;
-  }
+  p {
+    width: unset;
+    margin: 0;
+    padding: 0.3rem;
 
-  div:last-child {
-    margin-bottom: 0;
+    color: white;
   }
 }
 
-h3 {
-  text-align: center;
+@media (orientation: portrait) {
+  .year > div {
+    grid-template-columns: 1fr;
+  }
 }
 
 .year {
-  font-family: Montserrat !important;
-  font-size: 16px;
-  
+  background-color: var(--timeline-bg);
+
+  .month {
+    background-color: var(--timeline-month);
+
+    .month_name {
+      background-color: var(--timeline-header);
+    }
+
+    .event_container {
+      background-color: var(--timeline-event);
+    }
+  }
+}
+
+
+.year {
+  padding: 1rem;
+  border: 1px solid var(--border-color);
+  margin-bottom: 3rem;
+
   h2 {
-    width: 100%;
+    margin: 0;
+    margin-bottom: 1rem;
+    font-size: 3rem;
     text-align: center;
-    padding-top: 0.5rem;
-    color: var(--font-color);
   }
 
+  p {
+    width: unset;
+  }
 
   & > div {
-    padding-left: 1rem;
-    padding-right: 1.25rem;
-    padding-bottom: 1rem;
     display: grid;
-    grid-template-columns: repeat(3, 33%);
-    margin: 0 auto;
-    grid-column-gap: 0.5rem;
-    grid-row-gap: 0.5rem;
-  }
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 1fr;
+    grid-gap: 0.5rem;
 
-  background: var(--timeline-bg);
-
-  color: black;
-  box-shadow: 1px 1px 1px 1px;
-}
-
-.month_name {
-  text-align: center;
-  background: var(--header-bg);
-  color: white;
-  font-weight: 700;
-  padding: 0.5rem 0;
-  margin: 0;
-}
-
-.month {
-  background: var(--timeline-month);
-  color: black;
-  box-shadow: 1px 1px 1px 1px;
-}
-
-.events {
-  min-height: 7rem;
-  display: flex;
-  flex-direction: column;
-
-  .event_container {
-    display: grid;
-    grid-template-columns: 35px auto;
-    min-height: 2rem;
-
-    border-bottom: 1px solid black;
-    background: var(--timeline-event);
-
-    .day {
-      text-align: right;
-      color: white;
-      padding: 0.3rem;
-      overflow: visible;
-    }
-
-    p:not(.day) {
-      color: var(--font-color);
-      padding: 0.5rem;
-    }
-
-    p {
+    .month_name {
+      font-weight: bold;
       margin: 0;
-      width: 100%;
+      border-bottom: 1px solid var(--border-color);
+      padding: 0.3rem;
+      font-size: 18px;
+    }
 
-      overflow: hidden;
-      white-space: nowrap;
-      text-overflow: ellipsis;
+    .month {
+      border: 1px solid var(--border-color);
+    }
 
-      &:hover {
-        overflow: unset;
-        white-space: unset;
-        height: auto;
+    .events {
+      display: flex;
+      flex-direction: column;
+      min-height: 160px;
+    }
+
+    .event_container {
+      display: grid;
+      grid-template-columns: 32px auto;
+      border-bottom: 1px solid var(--border-color);
+      box-sizing: border-box;
+
+      &:last-child {
+        margin-bottom: -1px;
+      }
+      
+      .day {
+        color: white;
+        text-align: center;
+        height: 100%;
+        box-sizing: border-box;
+      }
+      
+      p {
+        margin: 0;
+        padding: 0.5rem;
+        min-height: 4.5rem;
+        font-size: 18px;
       }
     }
-
-    a {
-      color: var(--link-color);
-      text-decoration: underline;
-    }
-
   }
-}
-
-#navigation {
-  width: 100% !important;
 }
 
 .event-arg {
@@ -141,9 +129,3 @@ h3 {
   background: #B07060;
 }
 
-
-@media (orientation: portrait) {
-  .year > div {
-    grid-template-columns: 1fr;
-  }
-}
