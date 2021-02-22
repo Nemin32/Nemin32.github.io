@@ -19,7 +19,7 @@ Well, he's back. Molluck is perhaps my favorite villain in the entire series due
 had a menacing presence despite the fact of hardly even appearing in the original game, so while I'm
 obviously happy to see him appear again, I'm a bit worried about his demeanor.
 
-{% include caption.html url="/imgs/molre2/molluck.png" description='<i>"My god, Molluck, what are you doing, eh?"</i>' %}
+{% include caption.html url="/imgs/molre2/molluck.webp" description='<i>"My god, Molluck, what are you doing, eh?"</i>' %}
 
 He's extremely over the top. I've spoken with others who say this is understandable due to the fact
 that he just survived a lightning strike to the head and lost his entire reputation. I don't
@@ -33,7 +33,7 @@ feels like a huge and disconnected jump in personality.
 I think we found our new Newscaster Slig, with one line this guy is already the most sympathetic
 character in the game. 
 
-{% include caption.html url="/imgs/molre2/pilot.png" description="- So you're saying he's the best character?<br>- It sounds idiotic, but that's exactly what he looks like." %}
+{% include caption.html url="/imgs/molre2/pilot.webp" description="- So you're saying he's the best character?<br>- It sounds idiotic, but that's exactly what he looks like." %}
 
 It is also interesting to see that Molluck is so direct with the guy, though
 I imagine now that he lost almost all his wealth he can't afford to boss others around the same way.
@@ -61,14 +61,14 @@ I found hilarious was when he says the following:
 
 And yet at the end of the trailer you see this:
 
-![](/imgs/molre2/ps4.png)
+![](/imgs/molre2/ps4.webp)
 
 ## Mining town / Gorge
 
 I like how this area looks, the rusted away machinery and rotting buildings provide a nice bit of
 atmosphere. The only thing I don't like about it are these hanging rocks.
 
-{% include caption.html url="/imgs/molre2/gorge.png" description="Notice how there is Royal Jelly on a path you otherwise probably wouldn't take." %}
+{% include caption.html url="/imgs/molre2/gorge.webp" description="Notice how there is Royal Jelly on a path you otherwise probably wouldn't take." %}
 
 Others have criticized it for not looking realistic and while yeah sure, they don't, to me there is
 something else that's a lot more bugging. Namely, what's the purpose of these rocks? If you spend a
@@ -78,14 +78,14 @@ all around in the Scrabanian temple too, but they have ornaments on them making 
 these are either decorations or perhaps even objects of devotion. In comparison these hanging rocks
 are just that. A bunch of rocks hung up by unrealistically thin ropes.
 
-![](/imgs/molre2/mines.png)
+![](/imgs/molre2/mines.webp)
 
 Also there appears to be mines on the ledge above the Jelly. The video's quality is too low to
 really tell, however, their general shape and color heavily reminds me of AO's landmines.
 
-![](/imgs/molre2/orb_on.png)
+![](/imgs/molre2/orb_on.webp)
 
-![](/imgs/molre2/orb_off.png)
+![](/imgs/molre2/orb_off.webp)
 
 The Security Orbs - which have actually grown quite gigantic compared to the previous games, - now
 have an animation where they "curl up" once deactivated. Many people complained that it was hard to
@@ -99,7 +99,7 @@ find their goal on their own, this hasn't really happened in any of the older ga
 the fact that there seems to be three ways, going left towards the working Mudokons, entering the
 door or going to the right with the open gate.
 
-{% include caption.html url="/imgs/molre2/desert.png" description="I don't really like the fences glistering this much, but it's a pretty minor thing to note." %}
+{% include caption.html url="/imgs/molre2/desert.webp" description="I don't really like the fences glistering this much, but it's a pretty minor thing to note." %}
 
 I wonder if the player is expected to escort the
 Mudokons, then come back to this area or if those Mudokons are free to be left to their own devices
@@ -118,7 +118,7 @@ Most people - including me - thus thought that this is
 where he receives it. However, if you pay close attention to Abe's backpack in the trailer, he has
 it even in areas that precede Necrum.
 
-![](/imgs/molre2/orb.png)
+![](/imgs/molre2/orb.webp)
 
 My only explanation to this is that they simply forgot to remove it from the model while demoing the
 game. Of course this also opens up the can of worms, that we've been entirely wrong about the plot's
@@ -133,22 +133,22 @@ warehouse needs a lot of power.
 
 ![](/imgs/e3/humphrey.jpg)
 
-![](/imgs/molre2/furnace.png)
+![](/imgs/molre2/furnace.webp)
 
 On the other hand, these furnaces look quite similar to the ones in Exoddus' Bonewerkz, so perhaps
 this area is Soulstorm's version of that?
 
-![](/imgs/molre2/aofurnace.png)
+![](/imgs/molre2/aofurnace.webp)
 
 What further complicates things is that they are also similar to the ones found in RuptureFarms
 are similar too. However, I don't think this happens there as the machinery is still working even
 though RuptureFarms was shut down then burned down.
 
-![](/imgs/molre2/rf.png)
+![](/imgs/molre2/rf.webp)
 
 ## Molluck 2: "Boss Fight"
 
-![](/imgs/molre2/blimp.png)
+![](/imgs/molre2/blimp.webp)
 
 In the penultimate scene of the trailer we see Molluck's blimp chase after Abe while firing rockets
 at him. Whether we'll be able to fight back or not is yet to be seen.

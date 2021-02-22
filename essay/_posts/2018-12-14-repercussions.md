@@ -5,7 +5,7 @@ summary: About what Abe's actions have caused.
 # The Repercussions of Abe's actions
 
 
-{% include caption.html url="/imgs/slig.png" description="<i>I'm telling ya', it's that Abe guy! Sell! Dump it! Lose it! Get rid of it!</i>" %}
+{% include caption.html url="/imgs/slig.webp" description="<i>I'm telling ya', it's that Abe guy! Sell! Dump it! Lose it! Get rid of it!</i>" %}
 
 We can witness a Slig saying this memorable line, while he flails his
 arm wildly in one of the cutscenes of Abe's Exoddus. While the scene is
@@ -25,7 +25,7 @@ situation by instructing whoever is on the other side of the phone
 (presumably another Slig) to sell the stocks while they're still worth
 something.
 
-![](/imgs/ripples.png)
+![](/imgs/ripples.webp)
 
 And before anyone thinks this is seeing too much into a background, it is very
 much not. At the EGX Soulstorm presentation Lanning has spent several minutes
