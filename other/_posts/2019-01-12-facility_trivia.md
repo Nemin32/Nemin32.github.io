@@ -14,7 +14,7 @@ Inhabitants: The First 10 Years".
 
 ## Necrum Mines:
 
-![](/imgs/necrummines.png){:.small}
+![](/imgs/necrummines.webp){:.small}
 
 Unusually, this place has no head-Glukkon, the only owner mentioned is the
 mysterious "SoulStorm Mining Co.". However, I believe that either this company
@@ -37,7 +37,7 @@ culture of their way of life. The skin of Blind Mudkons is paler than Abe's."
 
 ## Necrum:
 
-![](/imgs/necrum.png){:.small}
+![](/imgs/necrum.webp){:.small}
 
 I always found it weird how when Abe escapes from the Mines he ends up
 in a jungle. After all, the introductory cutscene talks about how they have
@@ -82,7 +82,7 @@ ceremonial themes assigned to each of the Weirdos."
 
 ## FeeCo Depot:
 
-![](/imgs/feeco.png){:.small}
+![](/imgs/feeco.webp){:.small}
 
 These are likely to be the most known information on this page, but FeeCo is
 actually a word-play on the word "fecal". Also there is a poster with the
@@ -126,7 +126,7 @@ that could have easily been a simple transportation solution."
 
 ## Slig Barracks:
 
-![](/imgs/sligbarracks.png){:.small}
+![](/imgs/sligbarracks.webp){:.small}
 
 If you think about it, Dripik's role is never really explained in the
 whole Brew-deal. Sure he has Sligs, but as the excerpt states, the location
@@ -151,7 +151,7 @@ when I was younger.
 
 ## Bonewerkz:
 
-![](/imgs/bonewerkz.png){:.small}
+![](/imgs/bonewerkz.webp){:.small}
 
 This place is the main bone-powder storage facility. When I was a child I always
 wondered, why the Glukkons feel like they're out of the stuff, if it lies in
