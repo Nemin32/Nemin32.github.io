@@ -115,6 +115,6 @@ will be the shiny object embedded in Abe's backpack. There is still a lot of con
 is exactly, but nonetheless it seems to constantly accompany Abe and later appear inserted into the
 Mayan-looking device.
 
-![](/imgs/ps5/backpack.png)
+![](/imgs/ps5/backpack.webp)
 
-{% include caption.html url='/imgs/ps5/device.png' description="To be frank, the both have somewhat different shapes, so they might not even be the same thing after all, but without knowing more, I'll believe they are." %}
+{% include caption.html url='/imgs/ps5/device.webp' description="To be frank, the both have somewhat different shapes, so they might not even be the same thing after all, but without knowing more, I'll believe they are." %}

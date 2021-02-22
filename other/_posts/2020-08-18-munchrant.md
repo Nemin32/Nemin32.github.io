@@ -102,7 +102,7 @@ great.
 
 {% include caption.html url="/imgs/munchrant/abe.jpg" description="Amusingly this render looks much better than how Abe looks like in New 'n' Tasty." %}
 
-{% include caption.html url="/imgs/munchrant/slig.png" description="The same can more or less be said about this Slig model too." %}
+{% include caption.html url="/imgs/munchrant/slig.webp" description="The same can more or less be said about this Slig model too." %}
 
 But sadly the pretty models aren't impressive enough to fix the glaring issue: the game simply looks
 washed out. What I mean by this is that unlike the original two games, which took some heavy

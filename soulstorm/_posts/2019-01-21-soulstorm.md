@@ -226,27 +226,27 @@ grid-gap: 2rem;
 </style>
 
 <ul id="items">
-<li>{% include caption.html url='/imgs/ss_images/ss_brew.png' description="<i>Brew Bottle</i> - Splashy, sticky, very tasty and highly flammable. Soulstorm Brew will help you get the party started and then help you burn down the venue when you've had enough." %}</li>
+<li>{% include caption.html url='/imgs/ss_images/ss_brew.webp' description="<i>Brew Bottle</i> - Splashy, sticky, very tasty and highly flammable. Soulstorm Brew will help you get the party started and then help you burn down the venue when you've had enough." %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/cap.png" description="We have no idea how it got through standards people, but they put bottlecaps on Soulstorm Brew that make sparks when they hit against hard materials. Sparks plus flammable liquid equals fun." %}</li>
+<li>{% include caption.html url="/imgs/ss_images/cap.webp" description="We have no idea how it got through standards people, but they put bottlecaps on Soulstorm Brew that make sparks when they hit against hard materials. Sparks plus flammable liquid equals fun." %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/extinguisher.png" description="<i>Fire Extinguisher</i> - Look, we've all done it. Sometimes you just set fire to something you wanted to keep. Use this handy fire extinguisher to hastily correct your overzealous use of flames." %}</li>
+<li>{% include caption.html url="/imgs/ss_images/extinguisher.webp" description="<i>Fire Extinguisher</i> - Look, we've all done it. Sometimes you just set fire to something you wanted to keep. Use this handy fire extinguisher to hastily correct your overzealous use of flames." %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/bottle.png" description=" _Empty Bottle_ - An empty bottle? What was inside? Who's been having a party? Why weren't you invited? Never mind, at least these things can be recycled, right?" %}</li>
+<li>{% include caption.html url="/imgs/ss_images/bottle.webp" description=" _Empty Bottle_ - An empty bottle? What was inside? Who's been having a party? Why weren't you invited? Never mind, at least these things can be recycled, right?" %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/gum.png" description="<i>Gum</i> - The flavor lasts for a few a seconds, but the stickiness is eternal. Chew this up a bit and you can use it to stick one thing to another thing. Handy!" %}</li>
+<li>{% include caption.html url="/imgs/ss_images/gum.webp" description="<i>Gum</i> - The flavor lasts for a few a seconds, but the stickiness is eternal. Chew this up a bit and you can use it to stick one thing to another thing. Handy!" %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/lighter.png" description="<i>Lighter</i> - It's like carrying a flint, some kindling at all times. Use it to start fires where there were previously no fires. Also handy to stick to other objects that might benefit from a quick and convenient fire source." %}</li>
+<li>{% include caption.html url="/imgs/ss_images/lighter.webp" description="<i>Lighter</i> - It's like carrying a flint, some kindling at all times. Use it to start fires where there were previously no fires. Also handy to stick to other objects that might benefit from a quick and convenient fire source." %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/flamethrower.png" description="<i>Flamethrower</i> - Well done. You've taken something that was made solely for putting out fires, tinkered around with it and made it into something that makes fire at a prodigious rate. Your momma would be proud.
+<li>{% include caption.html url="/imgs/ss_images/flamethrower.webp" description="<i>Flamethrower</i> - Well done. You've taken something that was made solely for putting out fires, tinkered around with it and made it into something that makes fire at a prodigious rate. Your momma would be proud.
 
 Recipe: Fire extinguisher + Soulstorm Brew + Lighter (Confirmed to be changed. Archived here only for completeness' sake.)" %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/pop.png" description="<i>Purple bottle with a green decal and 'PoP' written on it in white</i> - Reminds me a bit of the drinks you could get in Munch's Oddysee. Perhaps OWI is revisiting this concept." %}</li>
+<li>{% include caption.html url="/imgs/ss_images/pop.webp" description="<i>Purple bottle with a green decal and 'PoP' written on it in white</i> - Reminds me a bit of the drinks you could get in Munch's Oddysee. Perhaps OWI is revisiting this concept." %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/pop_gum.png" description='<i>Purple bottle with a green decal and a purple band over it</i> - The color of this band is very similar to the gum, so perhaps this is the result of crafting the two together.' %}</li>
+<li>{% include caption.html url="/imgs/ss_images/pop_gum.webp" description='<i>Purple bottle with a green decal and a purple band over it</i> - The color of this band is very similar to the gum, so perhaps this is the result of crafting the two together.' %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/jawbreaker.png" description="<i>Jawbreaker</i> - An ordinary looking jawbreaker-candy. OWI has alluded towards that its effects are going to be surprising." %}</li>
+<li>{% include caption.html url="/imgs/ss_images/jawbreaker.webp" description="<i>Jawbreaker</i> - An ordinary looking jawbreaker-candy. OWI has alluded towards that its effects are going to be surprising." %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/water.png" description="<i>Water in an SSB bottle</i> - This SoulStorm Brew bottle contains water that you can give to your Mudokons. The exact usage of them is not known." %}</li>
+<li>{% include caption.html url="/imgs/ss_images/water.webp" description="<i>Water in an SSB bottle</i> - This SoulStorm Brew bottle contains water that you can give to your Mudokons. The exact usage of them is not known." %}</li>
 </ul>

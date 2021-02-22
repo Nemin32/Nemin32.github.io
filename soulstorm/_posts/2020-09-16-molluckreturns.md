@@ -22,7 +22,7 @@ Lines or the area named Sorrow Valley. In this new trailer it becomes quite obvi
 that this hideout is located in the desert that it can't be Monsaic Lines (which is a thickly
 overgrown area.)
 
-![](/imgs/molre/hideout.png)
+![](/imgs/molre/hideout.webp)
 
 ## Phone
 
@@ -30,14 +30,14 @@ Behind Molluck and the immediately sympathetic pilot-Slig there is a green devic
 symbol on it. Perhaps it'll be later used in the game by Molluck to communicate with the rest of the
 Cartel.
 
-![](/imgs/molre/health.png)
+![](/imgs/molre/health.webp)
 
 ## Ship schematics
 
 In the background of the ship there seems to be a posted showing the schematics and perhaps even
 status of the airship.
 
-![](/imgs/molre/schematic.png)
+![](/imgs/molre/schematic.webp)
 
 ## Abandoned towns
 
@@ -45,110 +45,110 @@ Next we're shown the old, abandoned towns Lanning spoke about last year.
 
 > **Lorne Lanning:** Then we go into old, abandoned towns that are a little more like Stranger, these old mill towns and mining towns.
 
-![](/imgs/molre/town.png)
+![](/imgs/molre/town.webp)
 
 What I find here the biggest point of interest is a machine on the right that's thrashing around
 violently and counting back. I have no idea what it's purpose is, however.
 
-![](/imgs/molre/machine.png)
+![](/imgs/molre/machine.webp)
 
 ## Outside area
 
 We are shown an outside area, where Abe is shepherding a huge group of Mudokons. I'd like to note
 that these doors are very reminiscent of the ones seen in Exoduss' Slig Barracks.
 
-![](/imgs/molre/door.png)
+![](/imgs/molre/door.webp)
 
-![](/imgs/molre/sbdoor.png)
+![](/imgs/molre/sbdoor.webp)
 
 ## Necrum Mines Mudokon's death
 
 We're given an (incomplete) answer to how the Necrum Mines Mudokon dies (notice the logo on his
 clothes), who Abe saw in the last trailer. Looks to be a bullet wound to the abdomen.
 
-![](/imgs/molre/wound.png)
+![](/imgs/molre/wound.webp)
 
 ## Furnaces
 
 The furnaces are a classic sight, seen in very early concept art dating back to the nineties.
 
-![](/imgs/molre/furnace.png)
+![](/imgs/molre/furnace.webp)
 
-![](/imgs/molre/bwfurnace.png)
+![](/imgs/molre/bwfurnace.webp)
 
 We're also shown another instance of huge pistons killing Mudokons.
 
-![](/imgs/molre/piston.png)
+![](/imgs/molre/piston.webp)
 
 ## It's over 3000... Mudokons
 
 As noticed by someone else on the Discord, there seems to be at least three thousand if not more
 Mudokons in total.
 
-![](/imgs/molre/3000.png)
+![](/imgs/molre/3000.webp)
 
 Another thing of note is the huge drill with a surprisingly archaic looking Magog logo on it.
 
-![](/imgs/molre/drill.png)
+![](/imgs/molre/drill.webp)
 
 ## Placeholder Dripik
 
 Come on, at this point spotting him is tradition.
 
-![](/imgs/molre/dripik.png)
+![](/imgs/molre/dripik.webp)
 
 ## Slig Barracks toilets
 
 We see Abe escaping from what appears to be a lavatory in Slig Barracks with a Slig manically
 shooting at him from the cover of a toilet.
 
-![](/imgs/molre/toilet.png)
+![](/imgs/molre/toilet.webp)
 
 ## Mudokons chant
 
 We're shown another instance of Mudokons chanting. I'm unsure whether this is a special version of
 the bird portal or not, but we've seen multiple of them on older screenshots.
 
-![](/imgs/molre/portal.png)
+![](/imgs/molre/portal.webp)
 
 ## Shotgun flying Sligs
 
 In this scene Abe is controlling a flying Slig who kills one of his kin by what appears to be a
 shotgun blast. The victim then explodes.
 
-![](/imgs/molre/shotgun.png)
+![](/imgs/molre/shotgun.webp)
 
 ## Rockbags
 
 They still exist.
 
-![](/imgs/molre/rockbag.png)
+![](/imgs/molre/rockbag.webp)
 
 ## Molluck bossfight / escape sequence
 
 We see Abe escape from Molluck's airship, who's shooting missiles at him from far away.
 
-![](/imgs/molre/molluck.png)
+![](/imgs/molre/molluck.webp)
 
 ## *"A Classic Refresher"*
 
 We see this sign several times during the trailer. The text seems to say *"A CLASSIC REFRESHER / Be
 wise! Know your basics(?) / Tough path lies ahead. Learn how here and now./ Only fools dive in."*
 
-![](/imgs/molre/refresher.png)
+![](/imgs/molre/refresher.webp)
 
 ## Boulder
 
 The rolling boulder from Oddysee returns, albeit this time it looks much more futuristic, but still
 as lethal towards Abe and his buddies.
 
-![](/imgs/molre/boulder.png)
+![](/imgs/molre/boulder.webp)
 
 ## Extremely annoying Mudokon chatter
 
 Remember when these guys didn't have to wisecrack every 2 seconds to be worth saving?
 
-![](/imgs/molre/chatter.png)
+![](/imgs/molre/chatter.webp)
 
 My thoughts will come in a followup post, this one was really just what I noticed after one or two
 viewings.

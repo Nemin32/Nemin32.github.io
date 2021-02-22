@@ -25,7 +25,7 @@ that Abe in fact does not lose his stitches.
 If that is your first thought, I don't blame you because I fell into the same trap. However, watch
 this:
 
-![](/imgs/ps5/stitchcut.png)
+![](/imgs/ps5/stitchcut.webp)
 
 Do you see it? Or rather I should ask, do you see that you don't see it? The 'it' being of course
 Abe's chest scar. He is in fact missing it, but this alone obviously doesn't mean anything.
@@ -33,9 +33,9 @@ Abe's chest scar. He is in fact missing it, but this alone obviously doesn't mea
 Except -- and once again, thanks to /u/PlaceholderText for being so observant -- when he actually
 gains his chest scar, he still has them!
 
-{% include caption.html url='/imgs/ps5/beforescar.png' description="Moments before Abe receives his iconic scar" %}
+{% include caption.html url='/imgs/ps5/beforescar.webp' description="Moments before Abe receives his iconic scar" %}
 
-{% include caption.html url='/imgs/ps5/chestscar.png' description="Surprise, the stitches are still there." %}
+{% include caption.html url='/imgs/ps5/chestscar.webp' description="Surprise, the stitches are still there." %}
 
 So even if he does cut his stitches, which I heavily doubt, considering it is part of the
 character's identity and it was pretty much established before that the reason why he doesn't remove
@@ -75,7 +75,7 @@ a tech-demo:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T7L29DMzKco" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](/imgs/ps5/kick.png)
+![](/imgs/ps5/kick.webp)
 
 If you compare the two, the differences are obvious. Different body shape, different clothes and
 jewelry, different tattoos and different backgrounds. It is pretty obvious that these are two
@@ -104,7 +104,7 @@ unintentional innuendo, when you consider the other meaning of "birds and bees".
 Some seem to think that a Mudokon egg might be inside the glowing sack some of the characters have
 been holding before.
 
-![](/imgs/ps5/bag.png)
+![](/imgs/ps5/bag.webp)
 
 I am, however, not really into this theory, for one simple thing: Unless it was retconned, Mudokon
 eggs are massive and definitely don't fit into pockets.
@@ -114,7 +114,7 @@ eggs are massive and definitely don't fit into pockets.
 What I rather believe it to be, is whatever is inserted into the Mayan-looking device as it is more
 or less the same color, shape and size as the bag.
 
-![](/imgs/ps5/device.png)
+![](/imgs/ps5/device.webp)
 
 ## A few extra points of interest
 
