@@ -16,6 +16,7 @@ body[type="bright"] {
   --timeline-header: #d6d6a2;
   --timeline-month: beige;
   --timeline-event: #f3f3d6;
+  --timeline-event-dark: #e4e4c4;
 
   --border-color: #474747;
 }
@@ -34,7 +35,8 @@ body[type="dark"] {
   --timeline-bg: #090909;
   --timeline-header: #141414;
   --timeline-month: #121212;
-  --timeline-event: #1a1a1a;
+  --timeline-event: #1c1c1c;
+  --timeline-event-dark: #0f0f0f;
 
   --border-color: #a6a69e;
 }

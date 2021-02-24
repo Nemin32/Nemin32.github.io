@@ -193,7 +193,8 @@ main {
 
   display: grid;
   justify-content: space-evenly;
-  grid-template-columns: 25% 25%;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2rem;
 
   a {
     font-size: 1.2rem;
