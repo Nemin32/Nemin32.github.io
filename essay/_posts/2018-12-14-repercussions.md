@@ -25,7 +25,7 @@ situation by instructing whoever is on the other side of the phone
 (presumably another Slig) to sell the stocks while they're still worth
 something.
 
-![](/imgs/ripples.webp)
+{% include caption.html url="/imgs/ripples.webp" description="" %}
 
 And before anyone thinks this is seeing too much into a background, it is very
 much not. At the EGX Soulstorm presentation Lanning has spent several minutes

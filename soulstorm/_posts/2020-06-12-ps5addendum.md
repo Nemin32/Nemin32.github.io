@@ -25,7 +25,7 @@ that Abe in fact does not lose his stitches.
 If that is your first thought, I don't blame you because I fell into the same trap. However, watch
 this:
 
-![](/imgs/ps5/stitchcut.webp)
+{% include caption.html url="/imgs/ps5/stitchcut.webp" description="" %}
 
 Do you see it? Or rather I should ask, do you see that you don't see it? The 'it' being of course
 Abe's chest scar. He is in fact missing it, but this alone obviously doesn't mean anything.
@@ -56,7 +56,7 @@ narrating the trailer both looked and sounded very feminine.
 The reason why this is surprising is the fact that females of superspecies (like Mudokons and
 Glukkons) on Oddworld usually look something like this:
 
-![](/imgs/ps5/queen.jpg)
+{% include caption.html url="/imgs/ps5/queen.jpg" description="" %}
 
 My guess at the time (which I nonetheless still consider plausible) is that the Shaman is in fact an
 infertile female Mudokon, who retained their "shape," because of the lack of hormones and such.
@@ -75,7 +75,7 @@ a tech-demo:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T7L29DMzKco" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](/imgs/ps5/kick.webp)
+{% include caption.html url="/imgs/ps5/kick.webp" description="" %}
 
 If you compare the two, the differences are obvious. Different body shape, different clothes and
 jewelry, different tattoos and different backgrounds. It is pretty obvious that these are two
@@ -104,17 +104,17 @@ unintentional innuendo, when you consider the other meaning of "birds and bees".
 Some seem to think that a Mudokon egg might be inside the glowing sack some of the characters have
 been holding before.
 
-![](/imgs/ps5/bag.webp)
+{% include caption.html url="/imgs/ps5/bag.webp" description="" %}
 
 I am, however, not really into this theory, for one simple thing: Unless it was retconned, Mudokon
 eggs are massive and definitely don't fit into pockets.
 
-![](/imgs/ps5/eggs.jpg)
+{% include caption.html url="/imgs/ps5/eggs.jpg" description="" %}
 
 What I rather believe it to be, is whatever is inserted into the Mayan-looking device as it is more
 or less the same color, shape and size as the bag.
 
-![](/imgs/ps5/device.webp)
+{% include caption.html url="/imgs/ps5/device.webp" description="" %}
 
 ## A few extra points of interest
 
@@ -130,9 +130,9 @@ Also on this picture Alf seems to have a lot more tattoos than we thought he did
 The following two images seem to happen right after each other, both the colors and the geometry
 seems to add up, along with of course Abe looking really sad.
 
-![](/imgs/ps5/dead.jpg)
+{% include caption.html url="/imgs/ps5/dead.jpg" description="" %}
 
-![](/imgs/ps5/leave.jpg)
+{% include caption.html url="/imgs/ps5/leave.jpg" description="" %}
 
 Also, this guy isn't Toby after all, because this Mudokon is wearing a Necrum Mines hat and uniform,
 which also informs us of the location where this happens. Cancel the party lads.

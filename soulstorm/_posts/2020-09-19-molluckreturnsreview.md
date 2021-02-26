@@ -61,7 +61,7 @@ I found hilarious was when he says the following:
 
 And yet at the end of the trailer you see this:
 
-![](/imgs/molre2/ps4.webp)
+{% include caption.html url="/imgs/molre2/ps4.webp" description="" %}
 
 ## Mining town / Gorge
 
@@ -78,14 +78,14 @@ all around in the Scrabanian temple too, but they have ornaments on them making 
 these are either decorations or perhaps even objects of devotion. In comparison these hanging rocks
 are just that. A bunch of rocks hung up by unrealistically thin ropes.
 
-![](/imgs/molre2/mines.webp)
+{% include caption.html url="/imgs/molre2/mines.webp" description="" %}
 
 Also there appears to be mines on the ledge above the Jelly. The video's quality is too low to
 really tell, however, their general shape and color heavily reminds me of AO's landmines.
 
-![](/imgs/molre2/orb_on.webp)
+{% include caption.html url="/imgs/molre2/orb_on.webp" description="" %}
 
-![](/imgs/molre2/orb_off.webp)
+{% include caption.html url="/imgs/molre2/orb_off.webp" description="" %}
 
 The Security Orbs - which have actually grown quite gigantic compared to the previous games, - now
 have an animation where they "curl up" once deactivated. Many people complained that it was hard to
@@ -112,13 +112,13 @@ not him who I'd like to put in focus, rather the Orb, that Abe carries on his ba
 the screenshots and trailers OWI posted on their site, Abe doesn't have the Orb embedded in his
 backpack before meeting the dying Mudokon.
 
-![](/imgs/molre2/noorb.jpg)
+{% include caption.html url="/imgs/molre2/noorb.jpg" description="" %}
 
 Most people - including me - thus thought that this is
 where he receives it. However, if you pay close attention to Abe's backpack in the trailer, he has
 it even in areas that precede Necrum.
 
-![](/imgs/molre2/orb.webp)
+{% include caption.html url="/imgs/molre2/orb.webp" description="" %}
 
 My only explanation to this is that they simply forgot to remove it from the model while demoing the
 game. Of course this also opens up the can of worms, that we've been entirely wrong about the plot's
@@ -131,24 +131,24 @@ I'm way less sure about them. One of my guesses is that this could be the underb
 Depot. The colorscheme seems to match with a previous trailers' and it makes sense that a huge
 warehouse needs a lot of power.
 
-![](/imgs/e3/humphrey.jpg)
+{% include caption.html url="/imgs/e3/humphrey.jpg" description="" %}
 
-![](/imgs/molre2/furnace.webp)
+{% include caption.html url="/imgs/molre2/furnace.webp" description="" %}
 
 On the other hand, these furnaces look quite similar to the ones in Exoddus' Bonewerkz, so perhaps
 this area is Soulstorm's version of that?
 
-![](/imgs/molre2/aofurnace.webp)
+{% include caption.html url="/imgs/molre2/aofurnace.webp" description="" %}
 
 What further complicates things is that they are also similar to the ones found in RuptureFarms
 are similar too. However, I don't think this happens there as the machinery is still working even
 though RuptureFarms was shut down then burned down.
 
-![](/imgs/molre2/rf.webp)
+{% include caption.html url="/imgs/molre2/rf.webp" description="" %}
 
 ## Molluck 2: "Boss Fight"
 
-![](/imgs/molre2/blimp.webp)
+{% include caption.html url="/imgs/molre2/blimp.webp" description="" %}
 
 In the penultimate scene of the trailer we see Molluck's blimp chase after Abe while firing rockets
 at him. Whether we'll be able to fight back or not is yet to be seen.

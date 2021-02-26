@@ -18,7 +18,7 @@ Without further ado, let's begin.
 Firstly, I'd like to address the probably least *"controversial"* point of this post, namely the
 journey Abe is going to take in Soulstorm. To recap, here is the new, official Oddworld map:
 
-![](/imgs/sammi_mudos_map.jpg)
+{% include caption.html url="/imgs/sammi_mudos_map.jpg" description="" %}
 
 > [**Lorne Lanning:**](https://venturebeat.com/2019/05/13/how-lorne-lanning-re-imagined-abes-exoddus-as-oddworld-soulstorm/) “We start off in a hideout, with some more native environments. You escape that towering inferno. Then we go into old, abandoned towns that are a little more like Stranger, these old mill towns and mining towns. We have ancient ruins, pretty spooky-looking areas. We wind up at gas stations for trains, big fuel depots. Then we go to a Slig Barracks and the Necrum Mines, a mining factory that’s built on top of a graveyard, basically. They’re mining the bones. That’s the other secret ingredient in the Brew.”
 
@@ -115,6 +115,6 @@ will be the shiny object embedded in Abe's backpack. There is still a lot of con
 is exactly, but nonetheless it seems to constantly accompany Abe and later appear inserted into the
 Mayan-looking device.
 
-![](/imgs/ps5/backpack.webp)
+{% include caption.html url="/imgs/ps5/backpack.webp" description="" %}
 
 {% include caption.html url='/imgs/ps5/device.webp' description="To be frank, the both have somewhat different shapes, so they might not even be the same thing after all, but without knowing more, I'll believe they are." %}
