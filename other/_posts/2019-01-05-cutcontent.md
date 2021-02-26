@@ -120,7 +120,7 @@ healthier or more polluted.
 
 ### Abe and Munch's disfunctional partnership, Roid:
 
-![](/imgs/roid.jpg)
+{% include caption.html url="/imgs/roid.jpg" description="" %}
 
 One might notice that Munch and Abe become friends incredibly quickly and
 without any fanfare in Munch's Oddysee. Originally this would have been largely

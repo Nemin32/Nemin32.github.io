@@ -7,7 +7,7 @@ summary: On February 16th Lorne Lanning held a one hour Q&A on the official Disc
 
 On February 16th, 2019 Lorne Lanning came online on OWI's official Discord server and conversed with the fans for almost over an hour. In the overwhelming flurry of messages directed at Lanning there were also some questions that were answered by the man himself, whose content can be read here. Most of these responses were collected by user Sgabbit and then cleaned up and punctuated by me.
 
-![](/imgs/lanning.webp)
+{% include caption.html url="/imgs/lanning.webp" description="" %}
 
 ## What Mr. Lanning had to say about...
 

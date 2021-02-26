@@ -89,7 +89,7 @@ fights...  but - again - this has all changed.
 * The new thematic around brew is that if a Mudokon becomes addicted to it, then
 two days of withdrawal will result in their death by cardiac arrest.
 
-![](/imgs/ss_images/arrest.jpg)
+{% include caption.html url="/imgs/ss_images/arrest.jpg" description="" %}
 
 
 * The brew is also very flammable, which can be potentially used in gameplay
@@ -119,13 +119,13 @@ different. We’ve refined Abe’s Gamespeak considerably."
 * It seems like the Mudokons will be capable of fighting back and the player can
 select how aggressive they will act.
 
-![](/imgs/ss_images/mood.jpg)
+{% include caption.html url="/imgs/ss_images/mood.jpg" description="" %}
 
 
 * Abe will have an HP bar, Ammo counter and he can also collect Moolah. And he
 will also be able to amass Chi, which will let him use powerful abilities.
 
-![](/imgs/ss_images/chi_hp.jpg)
+{% include caption.html url="/imgs/ss_images/chi_hp.jpg" description="" %}
 
 * To get the best ending no Slig must die. (Whether we can save them or we just
 have to leave them be is not known.)
@@ -142,13 +142,13 @@ not even Sligs."
 * There is now a concrete Pyramid of Power that shows us just how powerful
 certain positions are.
 
-![](/imgs/brewing_pics/oddworld_pyramid.jpg)
+{% include caption.html url="/imgs/brewing_pics/oddworld_pyramid.jpg" description="" %}
 
 
 * RuptureFarms is confirmed to have burned down after it has been struck by
 lightning from the Mudokon Rainmaker.
 
-![](/imgs/brewing_pics/molluck_landscape.jpg)
+{% include caption.html url="/imgs/brewing_pics/molluck_landscape.jpg" description="" %}
 
 
 * The original trio of Glukkons is now gone, replaced by brand new ones.
@@ -165,7 +165,7 @@ we were getting more away from what that original story was."
 * The theme of Occultism seems to be returning in SS as evidenced by one Glukkon
 wearing the "Royal Society **Alchemic** Science" badge.
 
-![](/imgs/brewing_pics/brewmaster_badge.jpg)
+{% include caption.html url="/imgs/brewing_pics/brewmaster_badge.jpg" description="" %}
 
 ### CHARACTERS OF THE SOULSTORM ARG:
 
