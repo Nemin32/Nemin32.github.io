@@ -32,6 +32,19 @@ body {
 main {
   margin-left: auto;
   margin-right: auto;
+  width: 80%;
+
+  display: grid;
+  grid-template-columns: auto var(--width) auto;
+
+  & > * {
+    grid-column-start: 2;
+    width: 100%;
+  }
+
+  & > .figure_box {
+    grid-column: 1/-1;
+  }
 }
 
 #lightswitch {
@@ -54,6 +67,8 @@ main {
   }
 
   main {
-    width: 90%;
+    width: 95%;
+
+    display: block;
   }
 }

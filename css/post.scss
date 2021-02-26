@@ -16,8 +16,8 @@ main > p:first-of-type::first-letter {
 }
 
 main {
-  width: var(--width);
-  max-width: 100%;
+  //width: var(--width);
+  //max-width: 100%;
 
   text-rendering: optimizelegibility;
   font-kerning: normal;
@@ -130,6 +130,8 @@ main {
   }
 
   blockquote {
+    width: var(--width);
+
     li, p {
 	font-weight: 300;
     }
