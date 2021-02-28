@@ -39,12 +39,7 @@ main {
 
   & > * {
     grid-column-start: 2;
-    width: 100%;
   }
-
-  /*& > .figure_box {
-    grid-column: 1/-1;
-  }*/
 }
 
 #lightswitch {
