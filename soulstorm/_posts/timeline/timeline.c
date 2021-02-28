@@ -29,7 +29,6 @@ const char* header =
 "# Timeline\n" \
 "\n" \
 "On this page you can find most, if not all major events that happened since Soulstorm's announcement, separated into categories for easier navigation. " \
-"Mouse over events ending in '...' to see the rest of their text.\n" \
 "\n" \
 "<p class='centered'>This list was generated on %s and keeps track of %lu events.</p>\n" \
 "\n" \
