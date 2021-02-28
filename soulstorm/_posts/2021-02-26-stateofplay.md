@@ -7,6 +7,8 @@ summary: "My thoughts about the recent stream that also revealed the release dat
 
 Well here we are... It only took a little less than five years and four previous delays, but we finally have a release date and not even that far away on the 6th of April. Tough luck for all the people who hoped for their birthdays I guess, regardless the video contains more than simply the date, so let's get into it. Like usual, I'll go in chronological order as I've encounter things in the video.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/23fDmggOajM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Shrykull carpet on the door
 
 {% include caption.html url="/imgs/stateofplay/shrykull.webp" description="" %}
