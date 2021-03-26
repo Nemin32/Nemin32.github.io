@@ -108,7 +108,9 @@ const struct EVENT event_list[] = {
   EVENT(20, 12, 15, SOULSTORM, "Soulstorm pre-orders launch on EGS",                                        "https://www.epicgames.com/store/en-US/news/oddworld-soulstorm-coming-spring-2021"),
   EVENT(21,  2, 11, SOULSTORM, "Epic Games stream features Soulstorm",                                      "https://www.youtube.com/watch?v=P-FHfUvMpwE"),
   EVENT(21,  2, 11, SOULSTORM, "Lorne Lanning promises Soulstorm's release date to drop in February",       "https://twitter.com/OddworldInc/status/1359959464359694342"),
-  EVENT(21,  2, 25, SOULSTORM, "Soulstorm appears at State of Play, April 6th confirmed as release date",  "https://www.youtube.com/watch?v=23fDmggOajM"),
+  EVENT(21,  2, 25, SOULSTORM, "Soulstorm appears at State of Play, April 6th confirmed as release date",   "https://www.youtube.com/watch?v=23fDmggOajM"),
+  EVENT(21,  3, 25, SOULSTORM, "Soulstorm appears at the GamesRadar stream",                                "https://www.youtube.com/watch?v=b3xyOjj2s-4"),
+  EVENT(21,  3, 26, SOULSTORM, "Soulstorm gets another IGN showcase",                                       "https://www.ign.com/videos/oddworld-soulstorm-12-minute-developer-gameplay-commentary"),
 
   /* ARG */
   EVENT(16,  3, 16, ARG,       "First phase of the ARG starts",                                             "http://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary"),
