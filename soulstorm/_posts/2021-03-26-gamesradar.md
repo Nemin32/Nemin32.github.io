@@ -48,10 +48,16 @@ presentation we saw originally.
 
 {% include caption.html url="/imgs/brewing_pics/301.jpg" description="How the UI used to look like." %}
 
-I think it's a bit of a missed opportunity that Abe's heart looks almost entirely like a human
+~~I think it's a bit of a missed opportunity that Abe's heart looks almost entirely like a human
 heart. I mean, they descended from birds, why not go wild? I sort of understand that the point here
 is so that you can immediately know what the bar represents, but I think it's obvious either way or
-can be figured out very-very quickly by experimenting.
+can be figured out very-very quickly by experimenting.~~
+
+{% include caption.html url="/imgs/gamesradar/heart.png" description="A human and a bird heart." %}
+
+**Edit:** As it turns out I was the one who didn't do my research. As pointed out by a fellow fan
+called Phoetux, avian hearts are in fact very similar to human ones, so this is actually more or
+less thematically correct. Thus I'm taking my point back.
 
 ### The camera-system
 
@@ -126,6 +132,12 @@ I wonder if it's still related to him or not. One more thing to note is that the
 also appears on the new Oddworld map, which I made an [interview](/mapinterview) about.
 
 {% include caption.html url="/imgs/sammi_mudos_map.jpg" description="Click to see in full size." %}
+
+**Edit:** As pointed out by user gobo3D, the Flub Fuels logo looks very similar to the Shell
+oil-company's logo, which is certainly not a coincidence. Also that "Flub" is most likely a word
+play on "grub" hence the worm on the logo.
+
+{% include caption.html url="/imgs/gamesradar/shell.png" description="" %}
 
 ## Placeholder Dripik... is dead
 
