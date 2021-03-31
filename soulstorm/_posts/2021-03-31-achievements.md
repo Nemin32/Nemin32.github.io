@@ -41,6 +41,8 @@ area with the shadow creatures. Hence I think it's likely that this area is name
 
 ## About the the shadow creatures
 
+{% include caption.html url="/imgs/epic/other.jpg" description="But then what *are* MeetleBats?" %}
+
 Many people thought the shadow creatures inside Necrum are so called "MeetleBats" based on the item
 name in Abe's inventory, however, one of the achievements contradicts this:
 
@@ -48,7 +50,7 @@ name in Abe's inventory, however, one of the achievements contradicts this:
 >
 > Scared off at least 500 Sleeches
 
-So apparently these creatures are called "Sleeches" (an obvious callback to Exoduss' Fleeches) and
+So apparently these creatures are called "Sleeches" (an obvious callback to Exoddus' Fleeches) and
 this is likely what Lorne Lanning meant back in 2019 when he said that the Fleeches undervent major
 changes:
 
@@ -115,3 +117,5 @@ said it could work in both continuities, but a direct callback is still unexpect
 
 The achievements also seem to imply there are only two endings as opposed to the commonly mentioned
 theory of having a good/neutral/bad one.
+
+I also found the portal reference in "Now You're Thinking With Bird Portals" mildly amusing.
