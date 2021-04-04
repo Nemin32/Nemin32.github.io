@@ -6,16 +6,16 @@
 @import "fonts.css";
 @import "variables.css";
 
-
 * {
-    transition: background 0.25s, color 0.25s;
+  transition: background 0.25s, color 0.25s, border-color 0.25s;
 }
 
 html {
   background: var(--html-bg);
 }
 
-html, body {
+html,
+body {
   margin: 0 auto;
 }
 
@@ -52,7 +52,6 @@ main {
   right: 10px;
   bottom: 5px;
 }
-
 
 @media (orientation: portrait) {
   body {
