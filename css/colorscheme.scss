@@ -3,11 +3,12 @@
 
 body[type="bright"] {
   --header-bg: #3f663b;
-  --html-bg: #f5f5d0;
-  --background: #f2f2e0;
-  --font-color: #2e2e2e;
+  --html-bg: #fff;
+  --background: #f3f3f3;
+  --font-color: #222;
   --figcap-color: #eaeac0;
-  --quote-color: #e8e8c0;
+  --quote-color: #eee;
+  --quote-border: #ccc;
   --link-color: #3f663b;
   --interview-color: #dda;
   --pgyft-bg: #dec588;
@@ -18,7 +19,7 @@ body[type="bright"] {
   --timeline-event: #f3f3d6;
   --timeline-event-dark: #e4e4c4;
 
-  --border-color: #474747;
+  --border-color: #aaa;
 }
 
 body[type="dark"] {
@@ -27,7 +28,8 @@ body[type="dark"] {
   --background: #141610;
   --font-color: #ddddb9;
   --figcap-color: #101010;
-  --quote-color: #0b0b0b;
+  --quote-color: #0f0f0f;
+  --quote-border: #444;
   --link-color: #f35151;
   --interview-color: #222;
   --pgyft-bg: #222;
@@ -38,5 +40,5 @@ body[type="dark"] {
   --timeline-event: #1c1c1c;
   --timeline-event-dark: #0f0f0f;
 
-  --border-color: #a6a69e;
+  --border-color: #444;
 }

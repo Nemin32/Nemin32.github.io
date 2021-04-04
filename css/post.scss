@@ -4,9 +4,9 @@
 main > p:first-of-type::first-letter {
   float: left;
   margin-top: 0.44rem;
-  margin-right: 0.04em;
+  margin-right: 0.12em;
   //margin-bottom: -0.15em;
-  margin-left: -0.15ex;
+  //margin-left: -0.15ex;
   padding-left: 0;
   line-height: 0.83em;
   //font-family: "Linux Libertine O", serif;
@@ -159,12 +159,17 @@ main {
       padding: 0.3rem;
     }
 
-    border-left: 5px solid;
-
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     padding-left: 0.2rem;
     padding-right: 0.5rem;
+
+    background-color: var(--quote-color);
+    border: 1px solid;
+    border-left: 5px solid;
+
+    border-color: var(--quote-border);
+    border-left-color: var(--font-color);
 
     p:first-child {
       margin-top: 0;
