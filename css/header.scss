@@ -13,9 +13,9 @@ header {
   justify-content: center;
 
   div {
-      width: var(--width);
-      display: flex;
-      align-items: center;
+    width: var(--width);
+    display: flex;
+    align-items: center;
   }
 
   z-index: 1;
@@ -34,18 +34,24 @@ header {
   }
 
   #logolink {
-      width: 50px;
-      flex-shrink: 0;
+    width: 50px;
+    flex-shrink: 0;
 
-      img {
-          display: block;
-          width: 100%;
-      }
+    img {
+      display: block;
+      width: 100%;
+    }
+  }
+
+  p {
+    text-align: right;
+    color: white;
+    flex: 1;
   }
 }
 
 header:after {
-  content: '';
+  content: "";
   width: var(--progress);
   height: 3px;
   background: #a03030;
