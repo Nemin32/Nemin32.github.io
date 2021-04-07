@@ -1,7 +1,7 @@
 ---
 ---
 
-$elem-height: 75px;
+$elem-height: 60px;
 
 #legend {
   margin: 1rem auto;
@@ -48,6 +48,7 @@ $elem-height: 75px;
   padding: 1rem;
   border: 1px solid var(--border-color);
   margin-bottom: 3rem;
+  width: 100%;
 
   h2 {
     margin: 0;
@@ -58,6 +59,7 @@ $elem-height: 75px;
 
   p {
     width: unset;
+    font-weight: normal;
   }
 
   & > div {
