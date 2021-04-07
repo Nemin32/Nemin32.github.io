@@ -110,7 +110,10 @@ const struct EVENT event_list[] = {
   EVENT(21,  2, 11, SOULSTORM, "Lorne Lanning promises Soulstorm's release date to drop in February",       "https://twitter.com/OddworldInc/status/1359959464359694342"),
   EVENT(21,  2, 25, SOULSTORM, "Soulstorm appears at State of Play, April 6th confirmed as release date",   "https://www.youtube.com/watch?v=23fDmggOajM"),
   EVENT(21,  3, 25, SOULSTORM, "Soulstorm appears at the GamesRadar stream",                                "https://www.youtube.com/watch?v=b3xyOjj2s-4"),
+  EVENT(21,  3, 25, SOULSTORM, "Microids starts selling the phsyical edition of Soulstorm",                  "https://twitter.com/Microids_off/status/1375107844811452416"),
   EVENT(21,  3, 26, SOULSTORM, "Soulstorm gets another IGN showcase",                                       "https://www.ign.com/videos/oddworld-soulstorm-12-minute-developer-gameplay-commentary"),
+  EVENT(21,  4,  5, SOULSTORM, "Soulstorm is released in AUS and NZ on the PS5",                            NULL),
+  EVENT(21,  4,  6, SOULSTORM, "After exactly five years and 23 days Soulstorm is released worldwide",      NULL),
 
   /* ARG */
   EVENT(16,  3, 16, ARG,       "First phase of the ARG starts",                                             "http://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary"),
