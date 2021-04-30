@@ -1,12 +1,6 @@
 ---
 ---
 
-main {
-  //width: var(--width);
-  //max-width: 95vw;
-  //margin: 0 auto;
-}
-
 a {
   color: var(--link-color);
   text-decoration: none;
@@ -23,7 +17,7 @@ li a {
 
   .image_container {
     background: black;
-    border-bottom: 1px solid;
+    border-bottom: 1px solid var(--border-color);
   }
 }
 
@@ -34,27 +28,28 @@ li a {
   margin: 0 auto;
 
   display: grid;
-  grid-template-columns: auto auto;
-  grid-template-rows: 1fr;
+  grid-template-columns: 250px auto;
+  grid-template-rows: 250px;
   grid-gap: 1rem;
   align-items: center;
   width: var(--width);
 
   h1 {
-    text-align: center;
     font-size: 6rem;
     font-weight: 600;
     margin: 0;
+    line-height: 1;
   }
 
   img {
     max-width: 100%;
+    max-height: 100%;
     display: block;
+    margin: 0 auto;
   }
 
   p {
     margin: 0 auto;
-    margin-top: -0.5rem;
     font-size: 18px;
     text-align: justify;
   }
@@ -74,7 +69,7 @@ li a {
     li {
       background-color: var(--html-bg);
       list-style-type: none;
-      border: 1px solid;
+      border: 1px solid var(--border-color);
 
       a {
         color: var(--font-color);
@@ -176,6 +171,7 @@ li a {
     img {
       width: 40%;
       margin: 0 auto;
+      margin-bottom: 2rem;
     }
 
     h1 {
