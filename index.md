@@ -44,28 +44,28 @@ layout: index_layout
 </div>
 
 <div class="category">
-<h2>Soulstorm-related content</h2>
-<ul>
-  {% for post in site.categories["soulstorm"] %} {% include elem.html post=post %} {% endfor %}
-</ul>
-</div>
-
-<div class="category">
-<h2>Other Oddworld-related content</h2>
+<h2 id="owc">General Oddworld content</h2>
 <ul>
   {% for post in site.categories["other"] %} {% include elem.html post=post %} {% endfor %}
 </ul>
 </div>
 
 <div class="category">
-<h2>Blog</h2>
+<h2 id="ssc">Soulstorm-related content</h2>
+<ul>
+  {% for post in site.categories["soulstorm"] %} {% include elem.html post=post %} {% endfor %}
+</ul>
+</div>
+
+<div class="category">
+<h2 id="blog">Blog</h2>
 <ul>
   {% for post in site.categories["blog"] %} {% include elem.html post=post %} {% endfor %}
 </ul>
 </div>
 
 <div class="category">
-<h2>Essays</h2>
+<h2 id="essays">Essays</h2>
 <ul>
   {% for post in site.categories["essay"] %} {% include elem.html post=post %} {% endfor %}
 </ul>
