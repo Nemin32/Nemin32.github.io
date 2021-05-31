@@ -29,7 +29,7 @@ li a {
 
   display: grid;
   grid-template-columns: 250px auto;
-  grid-template-rows: 250px;
+  grid-template-rows: 300px;
   grid-gap: 1rem;
   align-items: center;
   width: var(--width);
@@ -52,6 +52,26 @@ li a {
     margin: 0 auto;
     font-size: 18px;
     text-align: justify;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(4, auto);
+
+    li {
+      //padding: 0.1rem 0.4rem;
+      margin: 0;
+      border: 1px solid var(--border-color);
+      background: var(--html-bg);
+      text-align: center;
+
+      a {
+        color: var(--font-color);
+      }
+    }
   }
 }
 
@@ -176,6 +196,10 @@ li a {
 
     h1 {
       font-size: 3rem;
+    }
+
+    ul {
+      grid-template-columns: 1fr;
     }
   }
 
