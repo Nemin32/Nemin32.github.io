@@ -22,10 +22,11 @@ better. Let's get into it!
 
 Of course first I'd like to lay down the "rules," so to speak. 262 people took part in this survey,
 which is frankly an amazing number, it's nearly a hundred more than last time. The survey was shared
-on five platforms: OWI's Discord, OWF's Discord, RELIVE's Discord, Insomniac Anvil's YouTube and
-finally Reddit. This was done to both attract as many participants as possible as well as as an
-attempt to have people from all "sub-groups" in the fandom. As it will later be shown someone from
-say OWF will likely have very differing opinions than someone from OWI's Discord.
+on five platforms: OWI's Discord, OWF's Discord, RELIVE's Discord, [Insomniac
+Anvil](https://www.youtube.com/channel/UCZkFTEkLt2wI0N8Qn_bCZdg)'s YouTube and finally Reddit. This
+was done to both attract as many participants as possible as well as as an attempt to have people
+from all "sub-groups" in the fandom. As it will later be shown someone from say OWF will likely have
+very differing opinions than someone from OWI's Discord.
 
 The best thing, however, is the fact that due to how statistics work we can make fairly educated
 guesses about the entirety of the fandom using this data. Using a so-called ["sample size
@@ -41,11 +42,11 @@ margin of error and thus we arrive at 30k people.
 
 With this many people the calculator reports the confidence interval as 6.03% at 95% confidence,
 which basically means that 95% of the population's answers will end up at most 6.03% off from my
-findings. For an example, if we asked some people about their favorite number between 1 and 50 and
-our result is 36, then for the whole population we could say that the favorite number of 95% of the
-people lies between 34 and 38 (because 36's 6.03% is 2.16.) Similarly we can estimate for 99% of the
-population, however, in that case we have to work with 7.93% due to the fact that it includes a lot
-more people.
+findings in either direction. For an example, if we asked some people about their favorite number
+between 1 and 50 and our result is 36, then for the whole population we could say that the favorite
+number of 95% of the people lies between 34 and 38 (because 36's 6.03% is 2.16.) Similarly we can
+estimate for 99% of the population, however, in that case we have to work with 7.93% due to the fact
+that it includes a lot more people.
 
 One more thing I'd like to make clear is that I am not a statistician. Big shocker I know, but I
 find it important to point it out. I am doing my best to draw conclusions with good faith, but I
@@ -195,6 +196,33 @@ minimum as good, if not better for it to be a worthwhile exchange.
 | YouTube       |  -0.200  | -0.600 |   +0.950   | +0.650 |    +0.900    | +0.400  |    +0.340    |
 | =             |    =     |   =    |     =      |   =    |      =       |    =    |      =       |
 | Weighted Avg. |  -0.945  | -1.247 |   -0.027   | -0.055 |    +0.239    | -0.812  |    -0.475    |
+{:#averages}
+
+<script>
+(() => {
+  const table = document.getElementById("averages")
+  
+  table.querySelectorAll("td").forEach(td => {
+    const num = Number(td.innerText)
+    console.log(num)
+    
+    if (!Number.isNaN(num))
+      {
+        const blue = 255 * (num + 1.5)/3
+        const green = 255 - blue
+        
+        td.style.background = `rgb(0, ${green}, ${blue})`
+
+        if (Math.abs(blue-green) < 100 || blue > 180)
+        {
+            td.style.color = "white"
+        } else {
+            td.style.color = "black"
+        }
+      }
+  })
+})()
+</script>
 
 I'd like to explain how to interpret the table above. People have been asked about whether they
 prefer AE or SS in six categories. Their answers could be one of the following:
@@ -208,13 +236,18 @@ prefer AE or SS in six categories. Their answers could be one of the following:
 To make it easier to quantify these answers, I have mapped them to values between -2 and +2 and then
 took the average of them, based on the platform where they found the survey. Values leaning towards
 negatives imply that the platform prefers Exoddus, consequently positive values imply preference
-towards Soulstorm.
+towards Soulstorm. If you have JavaScript enabled, you can see this on the table represented with
+colors, preference towards AE is shown with green and towards Soulstorm with blue.
 
 Finally there is one additional row and one column that was calculated using the averages
 themselves. The "Weighted average" took the averages of each column, but with respect to how many
 people took the survey from each platform (more people => stronger sway in the final average.) And
 finally the "Real overall" column is a row-wise average of the first five columns. I calculated this
 to check how self-aware the voters are about their real preferences.
+
+{% include caption.html url="/imgs/newsurvey/preferences.png" description="" %}
+
+{% include caption.html url="/imgs/newsurvey/prefplatform.png" description="" %}
 
 As I have previously joked with friends, there seems to be an "Iron Curtain" between the OWI-YouTube
 and OWF-RELIVE-Reddit axis. What I mean by this is aside from a few outlying cases OWI's Discord and
@@ -297,7 +330,7 @@ by designing nearly all of the original species seen in Oddysee.
 | Person             | Votes |     % | Who?                                                              |
 | :----------------- | ----: | ----: | :---------------------------------------------------------------- |
 | "Abraham O'Neil"   |   104 | 39.7% | Non-existent person.                                              |
-| Steven Olds        |   101 | 38.5% | Artist at '90s OWI who created most species. Created the drawing. |
+| **Steven Olds**    |   101 | 38.5% | Artist at '90s OWI who created most species. Created the drawing. |
 | Lorne Lanning      |    28 | 10.7% | Needs no introduction.                                            |
 | Farzad Varahramyan |    17 |  6.5% | Another artist, who carried Olds' legacy, after he left after AO. |
 | Paul O'Connor      |     5 |  1.9% | The main gameplay designer of AO-MO.                              |
@@ -310,7 +343,7 @@ Comparatively in the 2019 survey:
 | :----------------- | ----: | ----: |
 | Abraham O'Neil     |   106 | 62.0% |
 | Lorne Lanning      |    32 | 18.7% |
-| Steven Olds        |    13 |  7.6% |
+| **Steven Olds**    |    13 |  7.6% |
 | Paul O'Connor      |     9 |  5.3% |
 | Farzad Varahramyan |     8 |  4.7% |
 | Raymond Swanland   |     3 |  1.8% |
@@ -340,16 +373,16 @@ I was also interested in what sort of fan content creators people usually watch,
 a question:
 
 | Creator              | Viewers | Percent |
-| :------------------- | :-----: | :-----: |
-| The Oddworld FANDOM  |   109   |  48.4%  |
-| The Oddworld Library |   106   |  47.1%  |
-| Pupbenny             |   106   |  47.1%  |
-| Magog on the March   |   101   |  44.9%  |
-| Caddicarus           |   100   |  44.4%  |
-| Oddwords             |   80    |  35.6%  |
-| Spirit of 1029       |   54    |   24%   |
-| Crashpunk            |   37    |  16.4%  |
-| Insomniac Anvil      |   31    |  13.8%  |
+| :------------------- | ------: | ------: |
+| The Oddworld FANDOM  |     109 |   48.4% |
+| The Oddworld Library |     106 |   47.1% |
+| Pupbenny             |     106 |   47.1% |
+| Magog on the March   |     101 |   44.9% |
+| Caddicarus           |     100 |   44.4% |
+| Oddwords             |      80 |   35.6% |
+| Spirit of 1029       |      54 |   24.0% |
+| Crashpunk            |      37 |   16.4% |
+| Insomniac Anvil      |      31 |   13.8% |
 
 I don't really have much to comment as who you follow is a very subjective thing, but personally I'm
 not very surprised by the results. Also, of course I greatly appreciate the 80 people who continue
@@ -361,13 +394,13 @@ As I've written about [once](/unreleased) on my site there are quite a few unrel
 series that the fans still want to see made. This question intended to find out which of these games
 the people want to see made the most.
 
-| Game/Platform                    | Reddit | OWI | OWF | RELIVE | YouTube | Total |   %   |
-| :------------------------------- | :----: | :-: | :-: | :----: | :-----: | :---: | :---: |
-| Sligstorm                        |   36   | 12  |  9  |   18   |    7    |  82   | 33.2% |
-| The Hand of Odd                  |   22   | 13  | 10  |   12   |    2    |  59   | 23.7% |
-| Squeek's Oddysee                 |   28   |  9  |  5  |   11   |    4    |  57   | 22.9% |
-| Munch's Exoddus                  |   12   |  1  |  4  |   5    |    4    |  26   | 10.7% |
-| The Brutal Ballad of Fangus Klot |   7    |  4  |  4  |   6    |    3    |  24   | 9.5%  |
+| Game/Platform                    |         % | Total | Reddit | OWI | OWF | RELIVE |  YT |
+| :------------------------------- | --------: | ----: | -----: | --: | --: | -----: | --: |
+| Sligstorm                        | **33.2%** |    82 |     36 |  12 |   9 |     18 |   7 |
+| The Hand of Odd                  | **23.7%** |    59 |     22 |  13 |  10 |     12 |   2 |
+| Squeek's Oddysee                 | **22.9%** |    57 |     28 |   9 |   5 |     11 |   4 |
+| Munch's Exoddus                  | **10.7%** |    26 |     12 |   1 |   4 |      5 |   4 |
+| The Brutal Ballad of Fangus Klot |  **9.5%** |    24 |      7 |   4 |   4 |      6 |   3 |
 
 As the table makes clear most still want to see Sligstorm, the bonus game OWI planned that would
 have featured an albino Slig and his attempts to escape a Slig Birthing Complex. The second place is
@@ -377,15 +410,63 @@ game set in an Eastern-European-like world.
 
 ### What sort of merchandise would you like to see?
 
-### Age related questions
+#### How old were you when you first played the series? / How old are you now?
 
 Just like in the previous survey, I figured it'd be interesting to know how old people were when
 they first played the games and how old they are now. The reason why this is something of note
 (aside from the inherent curiosity we might have), is the fact that there is a really common belief
-that nearly everyone played Oddworld first when they were under about 9 years old.
+that nearly everyone played Oddworld first when they were under about 9 years old.  And as we can
+see the "myth" is once again largely reconfirmed just like it was back in 2019.
 
-And as we can see the "myth" is once again largely reconfirmed just like it was back in 2019.
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 1rem;">
 
-#### How old were you when you first played the series?
+{% include caption.html url="/imgs/newsurvey/firstplayed.png" description="A bar chart of this
+year's results." %}
 
-#### How old are you now?
+{% include caption.html url="/imgs/newsurvey/firstplayed2019.png" description="A bar chart of 2019's
+results." %}
+
+</div>
+
+| Survey  |  2019 |  2021 |
+| :------ | ----: | ----: |
+| Average |     7 |     8 |
+| Median  |     5 |     7 |
+| Mode    |     6 |     5 |
+| StD.    |  3.32 |  4.33 |
+| Var.    | 11.05 | 18.77 |
+
+As you can see both visually and by reading the table, most people were around 8 years old when they
+first played the games, however, with 2021's survey we had a much bigger variance as this time some
+of the participants were nearly 30.
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 1rem;">
+{% include caption.html url="/imgs/newsurvey/agenow.png" description="How old people are in 2021" %}
+
+{% include caption.html url="/imgs/newsurvey/agenow2019.png" description="The previous survey's results." %}
+</div>
+
+The 2021 graph has three submissions removed. Two due to trolling, one because it was such an
+outlier that including it would have totally messed up the graph. So, for you, that one 45 years old
+person, I offer my apologies, but you are regardless counted everywhere else.
+
+| Survey  |  2019 |  2021 |
+| :------ | ----: | ----: |
+| Average |    23 |    25 |
+| Median  |    24 |    25 |
+| Mode    |    23 |    23 |
+| StD.    |  4.78 |  6.15 |
+| Var.    | 22.88 | 37.84 |
+
+As expected the average age has increased by two, since there were two years between the two
+surveys. This time, however, the variance is much greater as more relatively old and young people
+have taken part in the survey.
+
+## Conclusion
+
+I'd like to thank everyone who took part in the survey, I literally couldn't have done it without
+you. I'd also like to ask my friends who provided support with the survey, whether by proliferating
+it or providing technical help.
+
+I believe with these numbers it is far clearer what the fandom thinks about the topics that were
+handled here and I hope you found the post entertaining.
