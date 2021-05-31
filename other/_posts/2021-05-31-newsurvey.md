@@ -237,7 +237,6 @@ minimum as good, if not better for it to be a worthwhile exchange.
 | YouTube       |  -0.200  | -0.600 |   +0.950   | +0.650 |    +0.900    | +0.400  |    +0.340    |
 | =             |    =     |   =    |     =      |   =    |      =       |    =    |      =       |
 | Weighted Avg. |  -0.945  | -1.247 |   -0.027   | -0.055 |    +0.239    | -0.812  |    -0.475    |
-
 {:#averages}
 
 <script>
