@@ -45,7 +45,8 @@ findings in either direction. For an example, if we asked some people about thei
 between 1 and 50 and our result is 36, then for the whole population we could say that the favorite
 number of 95% of the people lies between 34 and 38 (because 36's 6.03% is 2.16.) Similarly we can
 estimate for 99% of the population, however, in that case we have to work with 7.93% due to the fact
-that it includes a lot more people.
+that it includes a lot more people. All in all this means that we can make have a fairly good
+estimate of the entire fandom's opinions, while only having less than three hundred participants.
 
 One more thing I'd like to make clear is that I am not a statistician. Big shocker I know, but I
 find it important to point it out. I am doing my best to draw conclusions with good faith, but I
@@ -105,9 +106,9 @@ third of them (32%) never even played Stranger's Wrath. Seems like despite the f
 way more accessible nowadays, still many are not interested.
 
 The aforementioned trend in finishing the games multiple times is also found in the other games,
-albeit to not that much of an extent. The only exception is Soulstorm, where the ratio is basically the exact
-opposite. Though I personally wager this most likely comes down to the fact that the game hasn't
-been out for that long and it has been fairly buggy until now.
+albeit to not that much of an extent. The only exception is Soulstorm, where the ratio is basically
+the exact opposite. Though I personally wager this most likely comes down to the fact that the game
+hasn't been out for that long and it has been fairly buggy until now.
 
 Another thing to note is how many tried to play Munch's Oddysee, but gave up. 78 people chose this,
 with 77 answering that they finished it multiple times. It seems like many people can't really put
@@ -236,6 +237,7 @@ minimum as good, if not better for it to be a worthwhile exchange.
 | YouTube       |  -0.200  | -0.600 |   +0.950   | +0.650 |    +0.900    | +0.400  |    +0.340    |
 | =             |    =     |   =    |     =      |   =    |      =       |    =    |      =       |
 | Weighted Avg. |  -0.945  | -1.247 |   -0.027   | -0.055 |    +0.239    | -0.812  |    -0.475    |
+
 {:#averages}
 
 <script>
@@ -348,6 +350,8 @@ interesting to compare the two.
 Considering that the previous percentages were 64-36 in favor of the Visor mask, we can more or less
 conclude that while the old mask is still the fan favorite, the terms are far more even now.
 
+{% include caption.html url="/imgs/survey/slig_mask.jpg" description="2019's results." %}
+
 ### I believe cutting farting as a mechanic was...
 
 {% include caption.html url="/imgs/newsurvey/fart.png" description="" %}
@@ -371,12 +375,14 @@ people who considered it a bad move ultimately won by 10.6% or 28 votes.
 
 ### Who drew the picture?
 
-{% include caption.html url="/imgs/newsurvey/author.png" description="" %}
+{% include caption.html url="/imgs/survey/olds_abe.jpg" description="" %}
 
 This question was asked in this exact way two years ago. And just like back then, now I'm gonna
 break a few people's dreams. It was a trick question, there was never a person called "Abraham
 O'Neil" who worked at OWI. The name was made up by me. The text on the image is simply the title as
 Abe's original name was "Abraham Lure."
+
+{% include caption.html url="/imgs/newsurvey/author.png" description="" %}
 
 The real answer is of course Steven Olds, the artist who practically defined Oddworld's creative DNA
 by designing nearly all of the original species seen in Oddysee.
@@ -401,6 +407,8 @@ Comparatively in the 2019 survey:
 | Paul O'Connor      |     9 |  5.3% |
 | Farzad Varahramyan |     8 |  4.7% |
 | Raymond Swanland   |     3 |  1.8% |
+
+{% include caption.html url="/imgs/survey/artist.jpg" description="" %}
 
 As the numbers here show many more people knew the right answer this time around, which I'm personally
 really happy about. The original artists receive such little recognition despite their gigantic
@@ -521,7 +529,6 @@ year's results." %}
 
 {% include caption.html url="/imgs/newsurvey/firstplayed2019.png" description="A bar chart of 2019's
 results." %}
-
 </div>
 
 | Survey  |  2019 |  2021 |
@@ -540,7 +547,6 @@ of the participants were nearly 30.
 {% include caption.html url="/imgs/newsurvey/agenow.png" description="How old people are in 2021" %}
 
 {% include caption.html url="/imgs/newsurvey/agenow2019.png" description="The previous survey's results." %}
-
 </div>
 
 | Survey  |  2019 |  2021 |
