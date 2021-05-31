@@ -4,7 +4,6 @@ summary: Two years after my previous survey, it was time to question the communi
 ---
 
 # The Second Fandom Survey
-
 {:.no_toc}
 
 Circa two years ago I've decided to question the fans a bit about their tastes when it comes to
@@ -16,7 +15,7 @@ better. Let's get into it!
 **Table of Contents:**
 
 - TOC
-  {:toc}
+{:toc}
 
 ## Methodology
 
@@ -59,6 +58,8 @@ their answers.
 
 ### Which platform did you find this survey on?
 
+{% include caption.html url="/imgs/newsurvey/platform.png" description="" %}
+
 While this question appears quite late in the survey, I think it's important to take it first to
 give a better insight into the answers that were given.
 
@@ -75,22 +76,28 @@ the participants and the rest the other little less than a third.
 
 ### Which game did you play first?
 
+{% include caption.html url="/imgs/newsurvey/firstgame.png" description="" %}
+
 The first question was about which game fans played. It is interesting to see, albeit perhaps not
 entirely surprising that New 'n' Tasty which OWI intended to be the soft/hard reboot of the series
 didn't bring in nearly as much people as Abe's Oddysee which alone is responsible for two-thirds of
 the fans' first experience.
 
-- 66.4% (174) AO
-- 21% (55) AE
-- 6.5% (17) MO
-- 3.4% (9) NNT
-- 1.5% (4) SW
-- 1.1% (3) SS
+| Game | Count | Percentage |
+| :--- | ----: | ---------: |
+| AO   |   174 |      66.4% |
+| AE   |    55 |        21% |
+| MO   |    17 |       6.5% |
+| NNT  |     9 |       3.4% |
+| SW   |     4 |       1.5% |
+| SS   |     3 |       1.1% |
 
 What is also interesting to see that despite the PS5 deal there doesn't really seem to be all that
 many new fans as Soulstorm took the last place in this question.
 
 ### Which games have you played/finished?
+
+{% include caption.html url="/imgs/newsurvey/finished.png" description="" %}
 
 The results are fairly obvious in this question. If someone has finished AO and AE once, they are
 fairly likely to finish it multiple more times. Interestingly out of all participants nearly one
@@ -107,6 +114,8 @@ with 77 answering that they finished it multiple times. It seems like many peopl
 up with Munch.
 
 ### On a scale of 1-5 how would you rate the games?
+
+{% include caption.html url="/imgs/newsurvey/rating.png" description="" %}
 
 Parts of these results might not be entirely surprising:
 
@@ -164,7 +173,7 @@ This means that people have cast their votes this way:
     }
 </style>
 
-<table>
+<table id="lowesthighest">
 <tr><th>Percentage</th><th colspan=2>68%</th><th colspan=2>95%</th><th colspan=2>~100%</th></tr>
 <tr><th>Game</th><th>Lowest</th><th>Highest</th><th>Lowest</th><th>Highest</th><th>Lowest</th><th>Highest</th></tr>
 <tr><th>AO</th><td>3.30 (3)</td><td>5.07 (5)</td><td>2.42 (2)</td><td>5.95 (5)</td><td>+1.54 (2)</td><td>6.84 (5)</td></tr>
@@ -175,6 +184,35 @@ This means that people have cast their votes this way:
 <tr><th>SS</th><td>1.89 (2)</td><td>4.44 (4)</td><td>0.62 (1)</td><td>5.72 (5)</td><td>-0.66 (1)</td><td>7.00 (5)</td></tr>
 </table>
 
+<script>
+(() => {
+  const table = document.getElementById("lowesthighest")
+  
+  table.querySelectorAll("td").forEach(td => {
+    const num = Number(td.innerText.split(" (")[1][0])
+    
+    if (!Number.isNaN(num))
+      {
+        const green = Math.round(200 * ((num-1)/4))
+        const red = 200 - green
+        
+        console.log(`${red} ${green}`)
+        
+        td.style.background = `rgb(${red}, ${green}, 0)`
+
+        if (Math.abs(green-red) < 100 || red > green)
+        {
+            td.style.color = "white"
+        }
+        else
+        {
+            td.style.color = "black"
+        }
+      }
+  })
+})()
+</script>
+
 Of course some of the values are impossible (less than 1 or more than 5), but these are only the
 result of the calculation being so simple. I have rounded everything to correct values in
 parentheses. The reason why I nonetheless still included these outliers is to show just how divisive
@@ -182,6 +220,8 @@ the answers were in for instance Soulstorm's case, where the lowest score actual
 negatives, while the highest hit 7 points.
 
 ### Do you prefer the original or the new version in terms of...
+
+{% include caption.html url="/imgs/newsurvey/aepreference.png" description="" %}
 
 Now, while some people object to comparing Abe's Exoddus with Soulstorm, I personally think it is
 important to compare them as the latter is supposed to replace the former, so it should be at
@@ -208,12 +248,12 @@ minimum as good, if not better for it to be a worthwhile exchange.
     
     if (!Number.isNaN(num))
       {
-        const blue = 255 * (num + 1.5)/3
-        const green = 255 - blue
+        const blue = 200 * (num + 1.5)/3
+        const green = 200 - blue
         
         td.style.background = `rgb(0, ${green}, ${blue})`
 
-        if (Math.abs(blue-green) < 100 || blue > 180)
+        if (Math.abs(blue-green) < 100 || blue > 140)
         {
             td.style.color = "white"
         } else {
@@ -245,18 +285,26 @@ people took the survey from each platform (more people => stronger sway in the f
 finally the "Real overall" column is a row-wise average of the first five columns. I calculated this
 to check how self-aware the voters are about their real preferences.
 
-{% include caption.html url="/imgs/newsurvey/preferences.png" description="" %}
-
-{% include caption.html url="/imgs/newsurvey/prefplatform.png" description="" %}
+{% include caption.html url="/imgs/newsurvey/prefplatform.png" description="Each group represents a
+platform. Answers pointing downwards prefer AE, while those that are upwards prefer SS." %}
 
 As I have previously joked with friends, there seems to be an "Iron Curtain" between the OWI-YouTube
 and OWF-RELIVE-Reddit axis. What I mean by this is aside from a few outlying cases OWI's Discord and
 the people asked on YouTube overwhelmingly lean towards Soulstorm, while the other platforms lean
-towards Abe's Exoddus. However, there are two categories where everyone agrees: Both in the Music
-and Gameplay department Exoddus clearly wins. Similarly, however, a bit less unanimously people seem
-to prefer Abe's new design over his old one.
+towards Abe's Exoddus.
+
+{% include caption.html url="/imgs/newsurvey/preferences.png" description="The same dataset, but
+this time grouped by category." %}
+
+However, there are two categories where everyone agrees: Both in the Music and Gameplay department
+Exoddus clearly wins. Similarly, however, a bit less unanimously people seem to prefer Abe's new
+design over his old one.
+
+Either way as the averages show the participants prefer Abe's Exoddus overall.
 
 ### Would you rather see the Old Quintology continued or the New one?
+
+{% include caption.html url="/imgs/newsurvey/oldnew.png" description="" %}
 
 Of course now that the series has been rebooted, the question arose whether people are more
 interested in seeing the old story finished or the new one. While I assume most have a pretty clear
@@ -281,6 +329,8 @@ YouTube and OWI's Discord predominantly wants to see the new story finished.
 
 ### Do you prefer the visor Slig mask or the pilot goggles?
 
+{% include caption.html url="/imgs/newsurvey/sligmask.png" description="" %}
+
 First things first, yes I did write "pilot googles," silly mistake, but thankfully people understood
 what I meant. This is one of the questions I have asked in the last survey, so I think it's
 interesting to compare the two.
@@ -300,6 +350,8 @@ conclude that while the old mask is still the fan favorite, the terms are far mo
 
 ### I believe cutting farting as a mechanic was...
 
+{% include caption.html url="/imgs/newsurvey/fart.png" description="" %}
+
 There might not be a more divisive topic than the humble fart. On one hand, it was a really unique
 and well-integrated gameplay feature, that also added a bit of body horror to Exoddus. On the other,
 many consider it childish and Lanning himself hates the mechanic.
@@ -318,6 +370,8 @@ people who considered it a bad move ultimately won by 10.6% or 28 votes.
 | Average  |      44%      |     56%      |
 
 ### Who drew the picture?
+
+{% include caption.html url="/imgs/newsurvey/author.png" description="" %}
 
 This question was asked in this exact way two years ago. And just like back then, now I'm gonna
 break a few people's dreams. It was a trick question, there was never a person called "Abraham
@@ -390,6 +444,8 @@ to follow my site. Thank you! You make it all worth it!
 
 ### Which unreleased project would you see made the most?
 
+{% include caption.html url="/imgs/newsurvey/unreleased.png" description="" %}
+
 As I've written about [once](/unreleased) on my site there are quite a few unreleased games in the
 series that the fans still want to see made. This question intended to find out which of these games
 the people want to see made the most.
@@ -410,12 +466,52 @@ game set in an Eastern-European-like world.
 
 ### What sort of merchandise would you like to see?
 
-#### How old were you when you first played the series? / How old are you now?
+This question was about what sort of merchandise people would like to see. As it is evident many are
+desperate to see basically anything at this point.
+
+| Count | Item                                                                         |
+| :---- | :--------------------------------------------------------------------------- |
+| 39    | Figures                                                                      |
+| 37    | Lore books                                                                   |
+| 36    | Posters                                                                      |
+| 25    | Vinyls                                                                       |
+| 13    | Clothing                                                                     |
+| 8     | Plushies                                                                     |
+| 6     | Soulstorm Brew Bottles                                                       |
+| 4     | Novels                                                                       |
+| 3     | Comics                                                                       |
+| 2     | Art books                                                                    |
+| 2     | Consumables                                                                  |
+| 2     | Pins                                                                         |
+| 2     | Soundtracks                                                                  |
+| 1     | Stickers                                                                     |
+| 1     | Soundboards with rgbs idk                                                    |
+| 1     | RPG books                                                                    |
+| 1     | Porn                                                                         |
+| 1     | Paramite Pies etc.                                                           |
+| 1     | Oddworld themed PS5 controller                                               |
+| 1     | Oddworld the animated series                                                 |
+| 1     | Oddworld Alcoholic and soft drinks.                                          |
+| 1     | OST’s with a booklet on the lore designed like the AO/AE PS1 Booklet inserts |
+| 1     | Keychains and Mugs                                                           |
+| 1     | Jewlery                                                                      |
+| 1     | I just wish they could do animated movies instead of half baked videogames.  |
+| 1     | How about a game a little more often than once every decade?                 |
+| 1     | Good games                                                                   |
+| 1     | Food/confectionary goods                                                     |
+| 1     | Coasters                                                                     |
+| 1     | Board game                                                                   |
+| 1     | Abe’s backpack                                                               |
+
+Four people expressed that they wanted "anything" as long as it's merchandise. Two that they don't
+care or don't want anything.
+
+### How old were you when you first played the series? / How old are you now?
 
 Just like in the previous survey, I figured it'd be interesting to know how old people were when
 they first played the games and how old they are now. The reason why this is something of note
 (aside from the inherent curiosity we might have), is the fact that there is a really common belief
-that nearly everyone played Oddworld first when they were under about 9 years old.  And as we can
+that nearly everyone played Oddworld first when they were under about 9 years old. And as we can
 see the "myth" is once again largely reconfirmed just like it was back in 2019.
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 1rem;">
@@ -444,11 +540,8 @@ of the participants were nearly 30.
 {% include caption.html url="/imgs/newsurvey/agenow.png" description="How old people are in 2021" %}
 
 {% include caption.html url="/imgs/newsurvey/agenow2019.png" description="The previous survey's results." %}
-</div>
 
-The 2021 graph has three submissions removed. Two due to trolling, one because it was such an
-outlier that including it would have totally messed up the graph. So, for you, that one 45 years old
-person, I offer my apologies, but you are regardless counted everywhere else.
+</div>
 
 | Survey  |  2019 |  2021 |
 | :------ | ----: | ----: |
@@ -457,6 +550,10 @@ person, I offer my apologies, but you are regardless counted everywhere else.
 | Mode    |    23 |    23 |
 | StD.    |  4.78 |  6.15 |
 | Var.    | 22.88 | 37.84 |
+
+The 2021 graph has three submissions removed. Two due to trolling, one because it was such an
+outlier that including it would have totally messed up the graph. So, for you, that one 45 years old
+person, I offer my apologies, but rest assured you are counted everywhere else.
 
 As expected the average age has increased by two, since there were two years between the two
 surveys. This time, however, the variance is much greater as more relatively old and young people
