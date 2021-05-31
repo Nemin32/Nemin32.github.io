@@ -5,11 +5,18 @@ summary: Two years after my previous survey, it was time to question the communi
 
 # The Second Fandom Survey
 
+{:.no_toc}
+
 Circa two years ago I've decided to question the fans a bit about their tastes when it comes to
 Oddworld and 171 people dutifully responded. Based on the success of that survey, which you can read
 [here](/survey), I promised back then to make a second survey once Soulstorm comes out. While this
 took far longer than I assumed it would, we finally arrived here and my second survey is bigger and
 better. Let's get into it!
+
+**Table of Contents:**
+
+- TOC
+  {:toc}
 
 ## Methodology
 
@@ -49,6 +56,22 @@ cannot entirely guarantee that the post will be entirely rigorous.
 Now that I've described the background of the survey, it's time to finally look at the questions and
 their answers.
 
+### Which platform did you find this survey on?
+
+While this question appears quite late in the survey, I think it's important to take it first to
+give a better insight into the answers that were given.
+
+| Platform | Participants | Percentage |
+| :------- | :----------: | :--------: |
+| Reddit   |     108      |   42.4%    |
+| RELIVE   |      54      |   21.2%    |
+| OWI      |      39      |   15.3%    |
+| OWF      |      34      |   13.3%    |
+| YouTube  |      20      |    7.8%    |
+
+As you can see nearly half of the votes came from Reddit, RELIVE and OWF making up about a third of
+the participants and the rest the other little less than a third.
+
 ### Which game did you play first?
 
 The first question was about which game fans played. It is interesting to see, albeit perhaps not
@@ -86,12 +109,14 @@ up with Munch.
 
 Parts of these results might not be entirely surprising:
 
-- Abe's Exoddus - 4.6 (StD. 0.6, Var. 0.78)
-- Abe's Oddysee - 4.2 (StD. 0.66, Var. 0.74)
-- Stranger's Wrath - 3.7 (StD. 0.86, Var. 1.14)
-- New 'n' Tasty - 3.3 (StD. 0.82, Var. 1.0)
-- Soulstorm - 3.2 (StD. 1.06, Var. 1.62)
-- Munch's Oddysee - 2.6 (StD 0.84, Var. 1.04)
+| Game             | Average | StD. | Var. |
+| :--------------- | :-----: | :--: | :--: |
+| Abe's Exoddus    |   4.6   | 0.60 | 0.78 |
+| Abe's Oddysee    |   4.2   | 0.66 | 0.74 |
+| Stranger's Wrath |   3.7   | 0.86 | 1.14 |
+| New 'n' Tasty    |   3.3   | 0.82 | 1.00 |
+| Soulstorm        |   3.2   | 1.06 | 1.62 |
+| Munch's Oddysee  |   2.6   | 0.84 | 1.04 |
 
 As expected Abe's Exoddus blows everything out of the water. It was the fan favorite two years ago
 and nearly every single subsequent survey has placed it firmly on top. Of course Oddysee follows
@@ -113,6 +138,9 @@ are and the smaller it is, the more people have voted the same way. This means t
 AO's and AE's cases the large majority was in agreement about their score, but for instance for
 Soulstorm people have been much more divided.
 
+{% include caption.html url="/imgs/newsurvey/std.png" description="A graph demonstrating the Standard
+Deviation, taken from [Wikipedia](https://en.wikipedia.org/wiki/Standard_deviation)." %}
+
 The Standard Deviation on the other hand allows us to define ranges in which the true values lie.
 68% of the answers lie within one StD. distance from the result. 95% lie within two and finally
 99.7% lie within 3 Standard Deviations, which for our intentions we can basically consider 100%.
@@ -131,7 +159,7 @@ This means that people have cast their votes this way:
     }
 
     table tfoot {
-        font-weight: bolder;
+        font-weight: 700;
     }
 </style>
 
@@ -142,7 +170,7 @@ This means that people have cast their votes this way:
 <tr><th>AE</th><td>3.73 (4)</td><td>5.46 (5)</td><td>2.87 (3)</td><td>6.32 (5)</td><td>+2.01 (2)</td><td>7.18 (5)</td></tr>
 <tr><th>MO</th><td>1.56 (2)</td><td>3.60 (4)</td><td>0.54 (1)</td><td>4.62 (5)</td><td>-0.48 (1)</td><td>5.64 (5)</td></tr>
 <tr><th>SW</th><td>2.66 (3)</td><td>4.80 (5)</td><td>1.59 (2)</td><td>5.87 (5)</td><td>+0.53 (1)</td><td>6.94 (5)</td></tr>
-<tr><th>NT</th><td>2.28 (2)</td><td>4.29 (4)</td><td>1.28 (1)</td><td>5.29 (5)</td><td>+0.28 (1)</td><td>6.29 (5)</td></tr>
+<tr><th>NnT</th><td>2.28 (2)</td><td>4.29 (4)</td><td>1.28 (1)</td><td>5.29 (5)</td><td>+0.28 (1)</td><td>6.29 (5)</td></tr>
 <tr><th>SS</th><td>1.89 (2)</td><td>4.44 (4)</td><td>0.62 (1)</td><td>5.72 (5)</td><td>-0.66 (1)</td><td>7.00 (5)</td></tr>
 </table>
 
@@ -166,7 +194,6 @@ minimum as good, if not better for it to be a worthwhile exchange.
 | RELIVE        |  -1.296  | -1.352 |   -0.685   | -0.667 |    -0.463    | -1.296  |    -0.893    |
 | YouTube       |  -0.200  | -0.600 |   +0.950   | +0.650 |    +0.900    | +0.400  |    +0.340    |
 | =             |    =     |   =    |     =      |   =    |      =       |    =    |      =       |
-| Averages      |  -0.805  | -1.118 |   +0.180   | +0.078 |    +0.371    | -0.609  |    -0.259    |
 | Weighted Avg. |  -0.945  | -1.247 |   -0.027   | -0.055 |    +0.239    | -0.812  |    -0.475    |
 
 I'd like to explain how to interpret the table above. People have been asked about whether they
@@ -183,12 +210,11 @@ took the average of them, based on the platform where they found the survey. Val
 negatives imply that the platform prefers Exoddus, consequently positive values imply preference
 towards Soulstorm.
 
-Finally there are two additional rows and one column that was calculated using the averages
-themselves. The row titled "Averages," simply took all the values in every column and took their
-average. The "Weighted average" did the same, but with respect to how many people took the survey
-from each platform (more people => stronger sway in the final average.) And finally the "Real
-overall" column is a row-wise average of the first five columns. I calculated this to check how
-self-aware the voters are about their real preferences.
+Finally there is one additional row and one column that was calculated using the averages
+themselves. The "Weighted average" took the averages of each column, but with respect to how many
+people took the survey from each platform (more people => stronger sway in the final average.) And
+finally the "Real overall" column is a row-wise average of the first five columns. I calculated this
+to check how self-aware the voters are about their real preferences.
 
 As I have previously joked with friends, there seems to be an "Iron Curtain" between the OWI-YouTube
 and OWF-RELIVE-Reddit axis. What I mean by this is aside from a few outlying cases OWI's Discord and
@@ -199,6 +225,14 @@ to prefer Abe's new design over his old one.
 
 ### Would you rather see the Old Quintology continued or the New one?
 
+Of course now that the series has been rebooted, the question arose whether people are more
+interested in seeing the old story finished or the new one. While I assume most have a pretty clear
+idea about what the Quintology is at this point, I'd still give a short recap just to be sure:
+
+Basically the "Quintology" refers to the five planned main games in the series. Originally these
+would have featured five different characters (Abe being the first, Munch being the second, Squeek
+the third, etc.), however, with New 'n' Tasty and Soulstorm the focus has shifted to Abe only.
+
 | Platform | Old | New |
 | :------- | :-: | :-: |
 | RELIVE   | 69% | 31% |
@@ -208,6 +242,9 @@ to prefer Abe's new design over his old one.
 | YouTube  | 20% | 80% |
 | =        |  =  |  =  |
 | Average  | 47% | 53% |
+
+As the table shows the OWF-RELIVE axis prefers the old story, the Reddit is largely indecisive, while
+YouTube and OWI's Discord predominantly wants to see the new story finished.
 
 ### Do you prefer the visor Slig mask or the pilot goggles?
 
@@ -225,6 +262,9 @@ interesting to compare the two.
 | =        |     =      |       =       |
 | Average  |    59%     |      41%      |
 
+Considering that the previous percentages were 64-36 in favor of the Visor mask, we can more or less
+conclude that while the old mask is still the fan favorite, the terms are far more even now.
+
 ### I believe cutting farting as a mechanic was...
 
 There might not be a more divisive topic than the humble fart. On one hand, it was a really unique
@@ -236,14 +276,15 @@ people who considered it a bad move ultimately won by 10.6% or 28 votes.
 
 | Platform | Good decision | Bad decision |
 | :------- | :-----------: | :----------: |
-| Reddit   |    40.741%    |    59.26%    |
-| OWI      |    61.538%    |    38.46%    |
-| OWF      |    50.000%    |    50.00%    |
-| RELIVE   |    25.926%    |    74.07%    |
-| YouTube  |    65.000%    |    35.00%    |
-| Average  |    43.922%    |    56.08%    |
+| YouTube  |      65%      |     35%      |
+| OWI      |      62%      |     38%      |
+| OWF      |      50%      |     50%      |
+| Reddit   |      41%      |     59%      |
+| RELIVE   |      26%      |     74%      |
+| ===      |      ===      |     ===      |
+| Average  |      44%      |     56%      |
 
-### Who drew the picture above?
+### Who drew the picture?
 
 This question was asked in this exact way two years ago. And just like back then, now I'm gonna
 break a few people's dreams. It was a trick question, there was never a person called "Abraham
@@ -253,52 +294,98 @@ Abe's original name was "Abraham Lure."
 The real answer is of course Steven Olds, the artist who practically defined Oddworld's creative DNA
 by designing nearly all of the original species seen in Oddysee.
 
-- 39.7% (104) **"Abraham O'Neil"** - Non-existent person.
-- 38.5% (101) **Steven Olds** - Artist at '90s OWI, created most species.
-- 10.7% (28) **Lorne Lanning** - Needs no introduction.
-- 6.5% (17) **Farzad Varahramyan** - Another artist, who carried Olds' legacy, after he left after AO.
-- 1.9% (5) **Paul O'Connor** - The main gameplay designer of AO-MO.
-- 1.9% (5) **Raymond Swanland** - Environment artist, who actually worked on Soulstorm too.
-- 0.8% (2) **Chris Ulm** - Assistant Director/Writer between AO-MO.
+| Person             | Votes |     % | Who?                                                              |
+| :----------------- | ----: | ----: | :---------------------------------------------------------------- |
+| "Abraham O'Neil"   |   104 | 39.7% | Non-existent person.                                              |
+| Steven Olds        |   101 | 38.5% | Artist at '90s OWI who created most species. Created the drawing. |
+| Lorne Lanning      |    28 | 10.7% | Needs no introduction.                                            |
+| Farzad Varahramyan |    17 |  6.5% | Another artist, who carried Olds' legacy, after he left after AO. |
+| Paul O'Connor      |     5 |  1.9% | The main gameplay designer of AO-MO.                              |
+| Raymond Swanland   |     5 |  1.9% | Environment artist, who actually worked on Soulstorm too.         |
+| Chris Ulm          |     2 |  0.8% | Assistant Director/Writer between AO-MO.                          |
 
 Comparatively in the 2019 survey:
 
-- 62% (106) **Abraham O'Neil**
-- 18.7% (32) **Lorne Lanning**
-- 7.6% (13) **Steven Olds**
-- 5.3% (9) **Paul O'Connor**
-- 4.7% (8) **Farzad Varahramyan**
-- 1.8% (3) **Raymond Swanland**
+| Person             | Votes |     % |
+| :----------------- | ----: | ----: |
+| Abraham O'Neil     |   106 | 62.0% |
+| Lorne Lanning      |    32 | 18.7% |
+| Steven Olds        |    13 |  7.6% |
+| Paul O'Connor      |     9 |  5.3% |
+| Farzad Varahramyan |     8 |  4.7% |
+| Raymond Swanland   |     3 |  1.8% |
 
 As the numbers here show many more people knew the right answer this time around, which I'm personally
 really happy about. The original artists receive such little recognition despite their gigantic
 contributions to the series.
 
-Who drew the picture?
-Reddit : 37.037% Steven Olds / 62.96% Someone else
-OWI : 33.333% Steven Olds / 66.67% Someone else
-OWF : 41.176% Steven Olds / 58.82% Someone else
-RELIVE : 42.593% Steven Olds / 57.41% Someone else
-YouTube : 50.000% Steven Olds / 50.00% Someone else
-Average : 39.216% Steven Olds / 60.78% Someone else
+| Platform | Steven Olds | Abraham O'Neil | Someone else |
+| :------- | :---------: | :------------: | :----------: |
+| YouTube  |     50%     |      20%       |     30%      |
+| RELIVE   |     43%     |      37%       |     20%      |
+| OWF      |     41%     |      44%       |     15%      |
+| Reddit   |     37%     |      40%       |     23%      |
+| OWI      |     33%     |      46%       |     21%      |
+| =        |      =      |       =        |      =       |
+| Average  |     39%     |      40%       |     21%      |
 
----
-
-Reddit : 40.741% Abraham O'Neil / 59.26% Someone else
-OWI : 46.154% Abraham O'Neil / 53.85% Someone else
-OWF : 44.118% Abraham O'Neil / 55.88% Someone else
-RELIVE : 37.037% Abraham O'Neil / 62.96% Someone else
-YouTube : 20.000% Abraham O'Neil / 80.00% Someone else
-Average : 39.608% Abraham O'Neil / 60.39% Someone else
+Surprisingly YouTube was the platform who was least fooled by my trick question. I'm, however, a
+tiny bit suspicious about the result in this section as the Youtuber who showcased my survey gave
+away the correct answer, so I think it's plausible to consider that the viewers on YouTube simply
+followed along.
 
 ### Which fan-made content do you consume?
 
+I was also interested in what sort of fan content creators people usually watch, so I included it as
+a question:
+
+| Creator              | Viewers | Percent |
+| :------------------- | :-----: | :-----: |
+| The Oddworld FANDOM  |   109   |  48.4%  |
+| The Oddworld Library |   106   |  47.1%  |
+| Pupbenny             |   106   |  47.1%  |
+| Magog on the March   |   101   |  44.9%  |
+| Caddicarus           |   100   |  44.4%  |
+| Oddwords             |   80    |  35.6%  |
+| Spirit of 1029       |   54    |   24%   |
+| Crashpunk            |   37    |  16.4%  |
+| Insomniac Anvil      |   31    |  13.8%  |
+
+I don't really have much to comment as who you follow is a very subjective thing, but personally I'm
+not very surprised by the results. Also, of course I greatly appreciate the 80 people who continue
+to follow my site. Thank you! You make it all worth it!
+
 ### Which unreleased project would you see made the most?
+
+As I've written about [once](/unreleased) on my site there are quite a few unreleased games in the
+series that the fans still want to see made. This question intended to find out which of these games
+the people want to see made the most.
+
+| Game/Platform                    | Reddit | OWI | OWF | RELIVE | YouTube | Total |   %   |
+| :------------------------------- | :----: | :-: | :-: | :----: | :-----: | :---: | :---: |
+| Sligstorm                        |   36   | 12  |  9  |   18   |    7    |  82   | 33.2% |
+| The Hand of Odd                  |   22   | 13  | 10  |   12   |    2    |  59   | 23.7% |
+| Squeek's Oddysee                 |   28   |  9  |  5  |   11   |    4    |  57   | 22.9% |
+| Munch's Exoddus                  |   12   |  1  |  4  |   5    |    4    |  26   | 10.7% |
+| The Brutal Ballad of Fangus Klot |   7    |  4  |  4  |   6    |    3    |  24   | 9.5%  |
+
+As the table makes clear most still want to see Sligstorm, the bonus game OWI planned that would
+have featured an albino Slig and his attempts to escape a Slig Birthing Complex. The second place is
+the Hand of Odd's OWI's canceled RTS game and the third belongs to Squeek, the Old Quintology's
+third hero. Finally we have the sequel to Munch and Fangus which would have been a Stranger-like
+game set in an Eastern-European-like world.
 
 ### What sort of merchandise would you like to see?
 
-### Which platform did you find this survey on?
+### Age related questions
 
-### How old were you when you first played the series?
+Just like in the previous survey, I figured it'd be interesting to know how old people were when
+they first played the games and how old they are now. The reason why this is something of note
+(aside from the inherent curiosity we might have), is the fact that there is a really common belief
+that nearly everyone played Oddworld first when they were under about 9 years old.
 
-### How old are you now?
+And as we can see the "myth" is once again largely reconfirmed just like it was back in 2019.
+
+#### How old were you when you first played the series?
+
+#### How old are you now?
