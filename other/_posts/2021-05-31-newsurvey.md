@@ -138,6 +138,15 @@ surprising score, fan reactions have been and continue to be mixed at best when 
 game. The last place of course belongs to Munch, who continues to be the black sheep of the series
 and always placing last.
 
+| Game    |    AO    |    AE    |    MO    |    SW    |   NNT    |    SS    |
+| :------ | :------: | :------: | :------: | :------: | :------: | :------: |
+| OWF     | 4.52 (5) | 4.84 (5) | 2.67 (3) | 3.88 (4) | 2.73 (3) | 2.85 (3) |
+| RELIVE  | 4.19 (4) | 4.57 (5) | 2.40 (2) | 3.67 (4) | 3.11 (3) | 2.77 (3) |
+| Reddit  | 4.18 (4) | 4.60 (5) | 2.55 (3) | 3.62 (4) | 3.32 (3) | 2.96 (3) |
+| OWI     | 4.17 (4) | 4.69 (5) | 2.66 (3) | 3.97 (4) | 3.42 (3) | 3.92 (4) |
+| YouTube | 3.78 (4) | 4.18 (4) | 2.88 (3) | 3.67 (4) | 3.95 (4) | 3.87 (4) |
+{:.colored}
+
 However, what surprised me and might surprise the reader too is the fact that Soulstorm took the
 penultimate place in the ranking. It seems like despite the hype and being the Original Vision,
 Soulstorm wasn't able to truly steal the fandom's hearts.
@@ -174,7 +183,7 @@ This means that people have cast their votes this way:
     }
 </style>
 
-<table id="lowesthighest">
+<table class="colored">
 <tr><th>Percentage</th><th colspan=2>68%</th><th colspan=2>95%</th><th colspan=2>~100%</th></tr>
 <tr><th>Game</th><th>Lowest</th><th>Highest</th><th>Lowest</th><th>Highest</th><th>Lowest</th><th>Highest</th></tr>
 <tr><th>AO</th><td>3.30 (3)</td><td>5.07 (5)</td><td>2.42 (2)</td><td>5.95 (5)</td><td>+1.54 (2)</td><td>6.84 (5)</td></tr>
@@ -187,29 +196,31 @@ This means that people have cast their votes this way:
 
 <script>
 (() => {
-  const table = document.getElementById("lowesthighest")
-  
-  table.querySelectorAll("td").forEach(td => {
-    const num = Number(td.innerText.split(" (")[1][0])
-    
-    if (!Number.isNaN(num))
-      {
-        const green = Math.round(200 * ((num-1)/4))
-        const red = 200 - green
+  document.querySelectorAll(".colored").forEach( table => {
+    table.querySelectorAll("td").forEach(td => {
+      try {
+        const num = Number(td.innerText.split(" (")[1][0])
         
-        console.log(`${red} ${green}`)
-        
-        td.style.background = `rgb(${red}, ${green}, 0)`
+        if (!Number.isNaN(num))
+          {
+            const green = Math.round(200 * ((num-1)/4))
+            const red = 200 - green
+            
+            console.log(`${red} ${green}`)
+            
+            td.style.background = `rgb(${red}, ${green}, 0)`
 
-        if (Math.abs(green-red) < 100 || red > green)
-        {
-            td.style.color = "white"
-        }
-        else
-        {
-            td.style.color = "black"
-        }
-      }
+            if (Math.abs(green-red) < 100 || red > green)
+            {
+                td.style.color = "white"
+            }
+            else
+            {
+                td.style.color = "black"
+            }
+          }
+        } catch(e) {}
+    })
   })
 })()
 </script>
@@ -528,6 +539,7 @@ year's results." %}
 
 {% include caption.html url="/imgs/newsurvey/firstplayed2019.png" description="A bar chart of 2019's
 results." %}
+
 </div>
 
 | Survey  |  2019 |  2021 |
@@ -546,6 +558,7 @@ of the participants were nearly 30.
 {% include caption.html url="/imgs/newsurvey/agenow.png" description="How old people are in 2021" %}
 
 {% include caption.html url="/imgs/newsurvey/agenow2019.png" description="The previous survey's results." %}
+
 </div>
 
 | Survey  |  2019 |  2021 |
