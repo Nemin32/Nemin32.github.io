@@ -184,46 +184,19 @@ This means that people have cast their votes this way:
 </style>
 
 <table class="colored">
-<tr><th>Percentage</th><th colspan=2>68%</th><th colspan=2>95%</th><th colspan=2>~100%</th></tr>
-<tr><th>Game</th><th>Lowest</th><th>Highest</th><th>Lowest</th><th>Highest</th><th>Lowest</th><th>Highest</th></tr>
-<tr><th>AO</th><td>3.30 (3)</td><td>5.07 (5)</td><td>2.42 (2)</td><td>5.95 (5)</td><td>+1.54 (2)</td><td>6.84 (5)</td></tr>
-<tr><th>AE</th><td>3.73 (4)</td><td>5.46 (5)</td><td>2.87 (3)</td><td>6.32 (5)</td><td>+2.01 (2)</td><td>7.18 (5)</td></tr>
-<tr><th>MO</th><td>1.56 (2)</td><td>3.60 (4)</td><td>0.54 (1)</td><td>4.62 (5)</td><td>-0.48 (1)</td><td>5.64 (5)</td></tr>
-<tr><th>SW</th><td>2.66 (3)</td><td>4.80 (5)</td><td>1.59 (2)</td><td>5.87 (5)</td><td>+0.53 (1)</td><td>6.94 (5)</td></tr>
-<tr><th>NnT</th><td>2.28 (2)</td><td>4.29 (4)</td><td>1.28 (1)</td><td>5.29 (5)</td><td>+0.28 (1)</td><td>6.29 (5)</td></tr>
-<tr><th>SS</th><td>1.89 (2)</td><td>4.44 (4)</td><td>0.62 (1)</td><td>5.72 (5)</td><td>-0.66 (1)</td><td>7.00 (5)</td></tr>
+<thead>
+  <tr><th>Percentage</th><th colspan=2>68%</th><th colspan=2>95%</th><th colspan=2>~100%</th></tr>
+  <tr><th>Game</th><th>Lowest</th><th>Highest</th><th>Lowest</th><th>Highest</th><th>Lowest</th><th>Highest</th></tr>
+</thead>
+<tbody>
+  <tr><td>AO</td><td>3.30 (3)</td><td>5.07 (5)</td><td>2.42 (2)</td><td>5.95 (5)</td><td>+1.54 (2)</td><td>6.84 (5)</td></tr>
+  <tr><td>AE</td><td>3.73 (4)</td><td>5.46 (5)</td><td>2.87 (3)</td><td>6.32 (5)</td><td>+2.01 (2)</td><td>7.18 (5)</td></tr>
+  <tr><td>MO</td><td>1.56 (2)</td><td>3.60 (4)</td><td>0.54 (1)</td><td>4.62 (5)</td><td>-0.48 (1)</td><td>5.64 (5)</td></tr>
+  <tr><td>SW</td><td>2.66 (3)</td><td>4.80 (5)</td><td>1.59 (2)</td><td>5.87 (5)</td><td>+0.53 (1)</td><td>6.94 (5)</td></tr>
+  <tr><td>NnT</td><td>2.28 (2)</td><td>4.29 (4)</td><td>1.28 (1)</td><td>5.29 (5)</td><td>+0.28 (1)</td><td>6.29 (5)</td></tr>
+  <tr><td>SS</td><td>1.89 (2)</td><td>4.44 (4)</td><td>0.62 (1)</td><td>5.72 (5)</td><td>-0.66 (1)</td><td>7.00 (5)</td></tr>
+</tbody>
 </table>
-
-<script>
-(() => {
-  document.querySelectorAll(".colored").forEach( table => {
-    table.querySelectorAll("td").forEach(td => {
-      try {
-        const num = Number(td.innerText.split(" (")[1][0])
-        
-        if (!Number.isNaN(num))
-          {
-            const green = Math.round(200 * ((num-1)/4))
-            const red = 200 - green
-            
-            console.log(`${red} ${green}`)
-            
-            td.style.background = `rgb(${red}, ${green}, 0)`
-
-            if (Math.abs(green-red) < 100 || red > green)
-            {
-                td.style.color = "white"
-            }
-            else
-            {
-                td.style.color = "black"
-            }
-          }
-        } catch(e) {}
-    })
-  })
-})()
-</script>
 
 Of course some of the values are impossible (less than 1 or more than 5), but these are only the
 result of the calculation being so simple. I have rounded everything to correct values in
@@ -585,3 +558,36 @@ it or providing technical help.
 
 I believe with these numbers it is far clearer what the fandom thinks about the topics that were
 handled here and I hope you found the post entertaining.
+
+<script src="/assets/js/tableSorter.js"></script>
+
+<script>
+(() => {
+  document.querySelectorAll(".colored").forEach( table => {
+    table.querySelectorAll("td").forEach(td => {
+      try {
+        const num = Number(td.innerText.split(" (")[1][0])
+        
+        if (!Number.isNaN(num))
+          {
+            const green = Math.round(200 * ((num-1)/4))
+            const red = 200 - green
+            
+            console.log(`${red} ${green}`)
+            
+            td.style.background = `rgb(${red}, ${green}, 0)`
+
+            if (Math.abs(green-red) < 100 || red > green)
+            {
+                td.style.color = "white"
+            }
+            else
+            {
+                td.style.color = "black"
+            }
+          }
+        } catch(e) {}
+    })
+  })
+})()
+</script>
