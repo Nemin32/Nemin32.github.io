@@ -550,6 +550,81 @@ As expected the average age has increased by two, since there were two years bet
 surveys. This time, however, the variance is much greater as more relatively old and young people
 have taken part in the survey.
 
+<table>
+  <thead>
+  <tr><th></th><th colspan=5>First played</th><th colspan=5>Current Age</th></tr>
+  <tr><th>Platform</th><th>Average</th><th>Min</th><th>Max</th><th>StD.</th><th>Var.</th><th>Average</th><th>Min</th><th>Max</th><th>StD.</th><th>Var.</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Reddit</td>
+      <td>8</td>
+      <td>1</td>
+      <td>29</td>
+      <td>4.42</td>
+      <td>19.51</td>
+      <td>26</td>
+      <td>14</td>
+      <td>45</td>
+      <td>5.33</td>
+      <td>28.46</td>
+    </tr>
+    <tr>
+      <td>OWI</td>
+      <td>8</td>
+      <td>2</td>
+      <td>27</td>
+      <td>5.18</td>
+      <td>26.84</td>
+      <td>24</td>
+      <td>13</td>
+      <td>34</td>
+      <td>4.73</td>
+      <td>22.41</td>
+    </tr>
+    <tr>
+      <td>OWF</td>
+      <td>7</td>
+      <td>1</td>
+      <td>13</td>
+      <td>3.06</td>
+      <td>9.37</td>
+      <td>24</td>
+      <td>12</td>
+      <td>35</td>
+      <td>4.75</td>
+      <td>22.60</td>
+    </tr>
+    <tr>
+      <td>RELIVE</td>
+      <td>7</td>
+      <td>3</td>
+      <td>15</td>
+      <td>2.71</td>
+      <td>7.33</td>
+      <td>24</td>
+      <td>13</td>
+      <td>32</td>
+      <td>4.56</td>
+      <td>20.77</td>
+    </tr>
+    <tr>
+      <td>YouTube</td>
+      <td>10</td>
+      <td>3</td>
+      <td>22</td>
+      <td>5.50</td>
+      <td>30.29</td>
+      <td>22</td>
+      <td>14</td>
+      <td>34</td>
+      <td>5.02</td>
+      <td>25.25</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Conclusion
 
 I'd like to thank everyone who took part in the survey, I literally couldn't have done it without
