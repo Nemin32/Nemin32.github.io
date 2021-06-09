@@ -42,6 +42,8 @@ const char* header =
 "<div class=\"event event-killed\"><p>End of a marketing-related event</p></div>\n" \
 "<div class=\"event event-arg\"><p>ARG related event</p></div>\n" \
 "<div class=\"event event-other\"><p>Other Oddworld-related news</p></div>\n" \
+"<div class=\"event event-patch\"><p>Patch news</p></div>\n" \
+"<div class=\"event event-twitch\"><p>OWI Twitch stream</p></div>\n" \
 "</div>\n" \
 "</center>\n";
 
@@ -52,7 +54,9 @@ enum EVENT_TYPE {
   SOULSTORM,
   ARG,
   DISCORD,
-  OTHER
+  OTHER,
+  PATCH,
+  TWITCH,
 };
 
 const char* enum_to_str(enum EVENT_TYPE type) {
@@ -69,6 +73,10 @@ const char* enum_to_str(enum EVENT_TYPE type) {
       return "discord";
     case OTHER:
       return "other";
+    case PATCH:
+      return "patch";
+    case TWITCH:
+      return "twitch";
   };
 }
 
@@ -175,6 +183,8 @@ const struct EVENT event_list[] = {
   EVENT(20,  8, 11, OTHER,     "OWI/Microids announces NnT's Switch port.",                                 "https://twitter.com/Microids_off/status/1293125005740580864?s=20"),
   EVENT(20,  9, 29, OTHER,     "Microids announces NnT's Switch port coming 27th of October.",              "https://twitter.com/Microids_off/status/1310958095703724035"),
   EVENT(20, 10, 27, OTHER,     "Microids releases NnT on the Switch",                                       NULL),
+  
+  EVENT(21,  5, 22, OTHER,     "Microids releases trio pack of MO, SW and NNT",                             "https://www.youtube.com/watch?v=gN3KZ2kWIwY"),
 
   /* DISCORD */
   EVENT(17,  5,  2, DISCORD,   "Discord server launches",                                                   "https://discordapp.com/channels/293291256736382976/293291256736382976/308969023981486082"),
@@ -190,6 +200,23 @@ const struct EVENT event_list[] = {
   EVENT(19,  9, 23, KILLED,    "22nd anniversary series abruptly ends",                                     NULL),
   EVENT(19, 11, 20, KILLED,    "21st anniversary series abruptly ends",                                     NULL),
   EVENT(21,  1, 22, KILLED,    "The 250 followers social media game is delayed indefinitely.",               "https://discordapp.com/channels/293291256736382976/308941610132045824/802289904348299364"),
+  
+  /* PATCHES */
+  EVENT(21,  4,  7, PATCH,      "Patch 1.05",                                                                         "https://www.oddworld.com/2021/04/oddworld-soulstorm-1-05-patch-now-available/"),
+  EVENT(21,  4,  9, PATCH,      "Patch 1.06",                                                                         "https://www.oddworld.com/2021/04/oddworld-soulstorm-1-06-patch-available-now/"),
+  EVENT(21,  4, 14, PATCH,      "Patch 1.07",                                                                         "https://www.oddworld.com/2021/04/oddworld-soulstorm-patch-1-07-now-available/"),
+  EVENT(21,  4, 28, PATCH,      "Patch 1.08",                                                                         "https://www.oddworld.com/2021/04/oddworld-soulstorm-1-08-patch-now-available/"),
+  EVENT(21,  5, 14, PATCH,      "Patch 1.11",                                                                         "https://www.oddworld.com/2021/05/oddworld-soulstorm-patch-1-11-now-available/"),
+  EVENT(21,  6,  4, PATCH,      "Patch 1.13",                                                                         "https://www.oddworld.com/2021/06/oddworld-soulstorm-patch-1-13-now-available/"),
+  
+  /* TWTICH */
+  EVENT(20,  5, 21, TWITCH,     "OWI streams Munch's Oddysee on Twitch", "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(20,  7, 16, TWITCH,     "OWI streams Munch's Oddysee on Twitch", "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(20, 10, 27, TWITCH,     "OWI streams New 'n' Tasty on Twitch",   "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(21,  3, 12, TWITCH,     "OWI streams New 'n' Tasty on Twitch",   "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(21,  3, 19, TWITCH,     "OWI streams New 'n' Tasty on Twitch",   "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(21,  3, 26, TWITCH,     "OWI streams New 'n' Tasty on Twitch",   "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(21,  4, 26, TWITCH,     "OWI streams Soulstorm on Twitch",       "https://www.twitch.tv/officialoddworldinc"),
 };
 
 const unsigned long NUM_OF_EVENTS = sizeof(event_list)/sizeof(struct EVENT);
