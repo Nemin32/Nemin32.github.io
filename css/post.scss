@@ -15,8 +15,24 @@ main > p:first-of-type::first-letter {
   font-size: 4rem;
 }
 
-main {
-  //width: var(--width);
+#sidebar > ul{
+  padding: 0;
+  margin: 0;
+  position: sticky;
+  top: 60px;
+  left: 0;
+  height: 100vh;
+
+  overflow: auto;
+  width: inherit;
+
+  li {
+    width: inherit;
+  }
+}
+
+main > #content {
+  & > *  {max-width: var(--width);}
   //max-width: 100%;
 
   text-rendering: optimizelegibility;
