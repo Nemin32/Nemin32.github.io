@@ -1,0 +1,114 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #efefef;
+  font-family: sans-serif;
+}
+
+#radial {
+  display: block;
+  position: relative;
+  width: 350px;
+  height: 350px;
+}
+#radial .kor {
+  border-radius: 50%;
+  aspect-ratio: 1/1;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: absolute;
+  width: 120px;
+  color: #efefef;
+  font-size: 3rem;
+  text-align: center;
+}
+#radial .kor:hover {
+  width: 140px;
+  transform: translate(-10px, -10px);
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+#radial .kor:hover::after {
+  content: attr(val);
+  font-size: 1rem;
+  display: block;
+}
+#radial .kor:nth-child(1) {
+  top: calc(50% - 60px);
+  left: calc(100% - 60px);
+  background-color: #1dbe89;
+}
+#radial .kor:nth-child(2) {
+  top: calc(6.6987298108% - 60px);
+  left: calc(75% - 60px);
+  background-color: goldenrod;
+}
+#radial .kor:nth-child(3) {
+  top: calc(6.6987298108% - 60px);
+  left: calc(25% - 60px);
+  background-color: orangered;
+}
+#radial .kor:nth-child(4) {
+  top: calc(50% - 60px);
+  left: calc(0% - 60px);
+  background-color: teal;
+}
+#radial .kor:nth-child(5) {
+  top: calc(93.3012701892% - 60px);
+  left: calc(25% - 60px);
+  background-color: olivedrab;
+}
+#radial .kor:nth-child(6) {
+  top: calc(93.3012701892% - 60px);
+  left: calc(75% - 60px);
+  background-color: #c07c29;
+}
+#radial .kor:last-child {
+  top: calc(50% - 60px);
+  left: calc(50% - 60px);
+  background-color: #aaa;
+}
+
+@media (orientation: portrait) {
+  #radial {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 2rem;
+    grid-row-gap: 3rem;
+    width: 60%;
+    height: auto;
+    position: static;
+  }
+  #radial .kor {
+    position: relative;
+    width: 100%;
+    padding: 0;
+    top: 0 !important;
+    left: 0 !important;
+  }
+  #radial .kor::after {
+    content: attr(val);
+    display: block;
+    font-size: 1rem;
+    position: absolute;
+    color: black;
+    top: 105%;
+  }
+  #radial .kor:last-child {
+    display: none;
+  }
+  #radial .kor:hover {
+    width: initial;
+    transform: none;
+    box-shadow: none;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
