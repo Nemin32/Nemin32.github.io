@@ -30,6 +30,9 @@ body {
   font-size: 3rem;
   text-align: center;
 }
+#radial .kor img {
+  width: 40%;
+}
 #radial .kor:hover {
   width: 140px;
   transform: translate(-10px, -10px);
