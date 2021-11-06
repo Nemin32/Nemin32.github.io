@@ -1,116 +1,114 @@
 html, body {
+  font-family: "Roboto", sans-serif;
   height: 100%;
+  padding: 0;
+  margin: 0;
+  scroll-snap-type: y mandatory;
+  background-color: #eeeedf;
+  scroll-behavior: smooth;
 }
 
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #efefef;
-  font-family: sans-serif;
-}
-
-#radial {
-  display: block;
-  position: relative;
-  width: 350px;
-  height: 350px;
-}
-#radial .kor {
-  border-radius: 50%;
-  aspect-ratio: 1/1;
-  padding: 1rem;
+#header {
+  background-color: orange;
+  color: white;
+  text-align: center;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  position: absolute;
-  width: 120px;
-  color: #efefef;
-  font-size: 3rem;
-  text-align: center;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
-#radial .kor img {
-  width: 40%;
-}
-#radial .kor:hover {
-  width: 140px;
-  transform: translate(-10px, -10px);
-  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
-}
-#radial .kor:hover::after {
-  content: attr(val);
-  font-size: 1rem;
-  display: block;
-}
-#radial .kor:nth-child(1) {
-  top: calc(50% - 60px);
-  left: calc(100% - 60px);
-  background-color: #1dbe89;
-}
-#radial .kor:nth-child(2) {
-  top: calc(6.6987298108% - 60px);
-  left: calc(75% - 60px);
-  background-color: goldenrod;
-}
-#radial .kor:nth-child(3) {
-  top: calc(6.6987298108% - 60px);
-  left: calc(25% - 60px);
-  background-color: orangered;
-}
-#radial .kor:nth-child(4) {
-  top: calc(50% - 60px);
-  left: calc(0% - 60px);
-  background-color: teal;
-}
-#radial .kor:nth-child(5) {
-  top: calc(93.3012701892% - 60px);
-  left: calc(25% - 60px);
-  background-color: olivedrab;
-}
-#radial .kor:nth-child(6) {
-  top: calc(93.3012701892% - 60px);
-  left: calc(75% - 60px);
-  background-color: #c07c29;
-}
-#radial .kor:last-child {
-  top: calc(50% - 60px);
-  left: calc(50% - 60px);
-  background-color: #aaa;
+#header h1 {
+  font-weight: 900;
+  font-size: 2.5rem;
+  margin-bottom: 0;
+  margin-top: 1rem;
 }
 
-@media (orientation: portrait) {
-  #radial {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-column-gap: 2rem;
-    grid-row-gap: 3rem;
-    width: 60%;
-    height: auto;
-    position: static;
+.page {
+  height: 100vh;
+  max-height: 100vh;
+  scroll-snap-align: start;
+}
+.page div {
+  padding: 0.5rem;
+}
+
+.splash {
+  display: grid;
+  grid-template-rows: 15% 55% 30%;
+  grid-template-columns: 100%;
+}
+
+#main_menu {
+  display: grid;
+  grid-template-columns: repeat(2, calc(50% - 0.5rem));
+  grid-template-rows: repeat(2, calc(50% - 0.5rem));
+  padding: 1rem;
+  gap: 1rem;
+  justify-content: center;
+}
+#main_menu .kor {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+  max-height: 100%;
+  max-width: 100%;
+  height: 100%;
+}
+#main_menu .kor img {
+  border-radius: 50%;
+  background-color: #eee;
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  max-height: 80%;
+  aspect-ratio: 1;
+}
+#main_menu .kor p {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+#side_menu {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 50% 50%;
+  grid-gap: 0.2rem;
+  background-color: #222;
+  color: white;
+}
+#side_menu .kor {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#side_menu .kor img {
+  max-width: 100%;
+  max-height: 70%;
+}
+#side_menu .kor p {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
+@media (orientation: landscape) {
+  .splash {
+    grid-template-rows: 15% 70% 15%;
   }
-  #radial .kor {
-    position: relative;
-    width: 100%;
-    padding: 0;
-    top: 0 !important;
-    left: 0 !important;
+
+  #main_menu {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 100%;
   }
-  #radial .kor::after {
-    content: attr(val);
-    display: block;
-    font-size: 1rem;
-    position: absolute;
-    color: black;
-    top: 105%;
-  }
-  #radial .kor:last-child {
-    display: none;
-  }
-  #radial .kor:hover {
-    width: initial;
-    transform: none;
-    box-shadow: none;
+
+  #side_menu {
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: 100%;
   }
 }
 
