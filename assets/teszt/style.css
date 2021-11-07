@@ -4,12 +4,13 @@ html, body {
   padding: 0;
   margin: 0;
   scroll-snap-type: y mandatory;
-  background-color: #eeeedf;
+  background-color: #efefef;
   scroll-behavior: smooth;
+  font-size: 18px;
 }
 
 #header {
-  background-color: orange;
+  background-color: #4db2f8;
   color: white;
   text-align: center;
   display: flex;
@@ -115,43 +116,46 @@ html, body {
 /* --- */
 #title {
   padding: 1rem;
-  background-image: url("bp.jpg");
+  background-image: url("./imgs/bp.jpg");
 }
 #title p {
   margin: 0 auto;
   width: fit-content;
   background-color: white;
   font-weight: 900;
-  font-size: 3rem;
-  padding: 1rem;
+  font-size: 2rem;
+  padding: 0.5rem;
   text-align: center;
 }
 
 #content {
-  width: 95%;
+  width: min(95%, 1100px);
   margin: 0 auto;
 }
 #content > p {
-  text-align: justify;
   line-height: 1.5;
+  hyphens: auto;
 }
 #content h3 {
   text-decoration: underline;
   text-decoration-thickness: 4px;
-  text-decoration-color: orange;
+  text-decoration-color: #d2a4ef;
   width: fit-content;
   font-size: 1.5rem;
 }
 
 .highlight {
   margin: 1rem;
-  padding: 0.5rem;
+  padding: 1rem;
   font-size: 1.5rem;
-  background-color: #222;
-  color: white;
+  background-color: #d2a4ef;
+  color: black;
 }
-.highlight p {
-  margin: 0;
+.highlight p:first-child {
+  margin-top: 0;
+}
+.highlight p:last-child {
+  margin-bottom: 0;
 }
 
 /*# sourceMappingURL=style.css.map */
