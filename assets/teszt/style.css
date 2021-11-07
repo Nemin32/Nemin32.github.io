@@ -125,6 +125,7 @@ html, body {
   #main_menu a {
     display: inline-block;
     position: absolute;
+    width: fit-content;
   }
   #main_menu a:nth-child(1) {
     margin: 0 auto;
@@ -147,12 +148,12 @@ html, body {
     top: 40%;
   }
   #main_menu :not(.logo) .img_container {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
   }
   #main_menu .logo .img_container {
-    width: 300px;
-    height: 300px;
+    width: 275px;
+    height: 275px;
   }
 
   #side_menu {
@@ -190,7 +191,8 @@ html, body {
 }
 
 .highlight {
-  margin: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   padding: 1rem;
   font-size: 1.5rem;
   background-color: #d2a4ef;
@@ -200,6 +202,20 @@ html, body {
   margin-top: 0;
 }
 .highlight p:last-child {
+  margin-bottom: 0;
+}
+
+.white_highlight {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background-color: white;
+  color: #444;
+}
+.white_highlight *:first-child {
+  margin-top: 0;
+}
+.white_highlight *:last-child {
   margin-bottom: 0;
 }
 
