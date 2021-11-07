@@ -157,16 +157,16 @@ html, body {
     top: 60%;
   }
   #main_menu a:nth-child(4) {
-    left: 60%;
+    left: 57.5%;
     top: 40%;
   }
-  #main_menu .kor:not(.logo) {
-    max-width: 200px;
-    max-height: 200px;
+  #main_menu :not(.logo) .img_container {
+    width: 200px;
+    height: 200px;
   }
-  #main_menu .kor.logo {
-    max-width: 300px;
-    max-height: 300px;
+  #main_menu .logo .img_container {
+    width: 300px;
+    height: 300px;
   }
 
   #side_menu {
