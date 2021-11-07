@@ -11,20 +11,27 @@ html, body {
 
 #header {
   background-color: #4db2f8;
-  color: white;
-  text-align: center;
+  padding-left: 0.5rem;
   display: flex;
-  justify-content: center;
-  align-items: center;
   flex-direction: column;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
+  justify-content: center;
+  background-image: url("./imgs/gyerek.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+}
+#header h1, #header h2, #header a {
+  color: white;
+  text-decoration: none;
+  margin: 0;
 }
 #header h1 {
   font-weight: 900;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   margin-bottom: 0;
-  margin-top: 1rem;
+}
+#header h2 {
+  font-size: 1.25rem;
 }
 
 .page {
@@ -32,13 +39,10 @@ html, body {
   max-height: 100vh;
   scroll-snap-align: start;
 }
-.page div {
-  padding: 0.5rem;
-}
 
 .splash {
   display: grid;
-  grid-template-rows: 15% 55% 30%;
+  grid-template-rows: 10% 55% 35%;
   grid-template-columns: 100%;
 }
 
@@ -60,14 +64,36 @@ html, body {
   max-width: 100%;
   height: 100%;
 }
-#main_menu .kor img {
+#main_menu .kor .img_container {
   border-radius: 50%;
-  background-color: #eee;
-  max-width: 100%;
-  display: block;
-  box-sizing: border-box;
   max-height: 80%;
+  max-width: min(300px, 100%);
   aspect-ratio: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#main_menu .kor .img_container img {
+  max-width: 60%;
+  max-height: 60%;
+}
+#main_menu .kor.logo .img_container {
+  background-color: #ff8c00;
+}
+#main_menu .kor.logo .img_container img {
+  background-color: white;
+  border-radius: 100%;
+  max-width: 100%;
+  max-height: 100%;
+}
+#main_menu .kor.zold .img_container {
+  background-color: #b8dd74;
+}
+#main_menu .kor.turkiz .img_container {
+  background-color: #74dcc1;
+}
+#main_menu .kor.lila .img_container {
+  background-color: #d2a4ef;
 }
 #main_menu .kor p {
   margin-top: 0.5rem;
@@ -78,8 +104,9 @@ html, body {
 #side_menu {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: 50% 50%;
+  grid-template-rows: 40% 40%;
   grid-gap: 0.2rem;
+  padding-top: 0.5rem;
   background-color: #222;
   color: white;
 }
@@ -116,12 +143,10 @@ html, body {
 /* --- */
 #title {
   padding: 1rem;
-  background-image: url("./imgs/bp.jpg");
 }
 #title p {
   margin: 0 auto;
   width: fit-content;
-  background-color: white;
   font-weight: 900;
   font-size: 2rem;
   padding: 0.5rem;
@@ -149,7 +174,7 @@ html, body {
   padding: 1rem;
   font-size: 1.5rem;
   background-color: #d2a4ef;
-  color: black;
+  color: white;
 }
 .highlight p:first-child {
   margin-top: 0;
