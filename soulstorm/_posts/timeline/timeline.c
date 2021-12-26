@@ -122,6 +122,10 @@ const struct EVENT event_list[] = {
   EVENT(21,  3, 26, SOULSTORM, "Soulstorm gets another IGN showcase",                                       "https://www.ign.com/videos/oddworld-soulstorm-12-minute-developer-gameplay-commentary"),
   EVENT(21,  4,  5, SOULSTORM, "Soulstorm is released in AUS and NZ on the PS5",                            NULL),
   EVENT(21,  4,  6, SOULSTORM, "After exactly five years and 23 days Soulstorm is released worldwide",      NULL),
+  EVENT(21,  8, 18, SOULSTORM, "Soulstorm is confirmed to launch on Xbox later the year",                   "https://youtu.be/oazFm9DIr3o"),
+  EVENT(21,  9,  3, SOULSTORM, "Jason Shum interview",                                                      "https://youtu.be/biG-xFWKPgs"),
+  EVENT(21, 11,  4, SOULSTORM, "Pre-orders for Soulstorm on the Xbox begin",                                NULL),
+  EVENT(21, 11, 30, SOULSTORM, "Soulstorm launches on Xbox",                                                "https://youtu.be/xPsS45XaQ_A"),
 
   /* ARG */
   EVENT(16,  3, 16, ARG,       "First phase of the ARG starts",                                             "http://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary"),
@@ -178,6 +182,7 @@ const struct EVENT event_list[] = {
   /* MUNCH */
   EVENT(20,  4, 30, OTHER,     "OWI/Microids announces Munch's Oddysee's Switch port.",                    "https://www.microids.com/us/oddworld-munchs-oddysee-coming-to-nintendo-switch-may-14th-2/"),
   EVENT(20,  5, 14, OTHER,     "Munch's Oddysee is released on the Switch",                                "https://www.instagram.com/p/CALjzGVAXxr/"),
+  EVENT(21, 11, 15, OTHER,     "Munch launches on the Xbox again",                                         "https://www.microsoft.com/store/productid/9n2kkplp5g0g"),
 
   /* NNT */
   EVENT(20,  8, 11, OTHER,     "OWI/Microids announces NnT's Switch port.",                                 "https://twitter.com/Microids_off/status/1293125005740580864?s=20"),
@@ -208,6 +213,8 @@ const struct EVENT event_list[] = {
   EVENT(21,  4, 28, PATCH,      "Patch 1.08",                                                                         "https://www.oddworld.com/2021/04/oddworld-soulstorm-1-08-patch-now-available/"),
   EVENT(21,  5, 14, PATCH,      "Patch 1.11",                                                                         "https://www.oddworld.com/2021/05/oddworld-soulstorm-patch-1-11-now-available/"),
   EVENT(21,  6,  4, PATCH,      "Patch 1.13",                                                                         "https://www.oddworld.com/2021/06/oddworld-soulstorm-patch-1-13-now-available/"),
+  EVENT(21, 10, 19, PATCH,      "Patch 1.16",                                                                         NULL),
+  EVENT(21, 12, 17, PATCH,      "Patch 1.19",                                                                         "https://www.oddworld.com/2021/12/oddworld-soulstorm-patch-1-19-now-available/"),
   
   /* TWTICH */
   EVENT(20,  5, 21, TWITCH,     "OWI streams Munch's Oddysee on Twitch", "https://www.twitch.tv/officialoddworldinc"),
@@ -217,6 +224,9 @@ const struct EVENT event_list[] = {
   EVENT(21,  3, 19, TWITCH,     "OWI streams New 'n' Tasty on Twitch",   "https://www.twitch.tv/officialoddworldinc"),
   EVENT(21,  3, 26, TWITCH,     "OWI streams New 'n' Tasty on Twitch",   "https://www.twitch.tv/officialoddworldinc"),
   EVENT(21,  4, 26, TWITCH,     "OWI streams Soulstorm on Twitch",       "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(21, 11, 30, TWITCH,     "OWI streams Soulstorm: EE on Twitch",   "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(21, 12,  6, TWITCH,     "Bennie Terry Q&A on Twitch",           "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(21, 12, 14, TWITCH,     "Lorne Lanning Q&A on Twitch",           "https://www.twitch.tv/officialoddworldinc")
 };
 
 const unsigned long NUM_OF_EVENTS = sizeof(event_list)/sizeof(struct EVENT);
