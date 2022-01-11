@@ -3,8 +3,8 @@
 
 main > p:first-of-type::first-letter {
   float: left;
-  margin-top: 0.44rem;
-  margin-right: 0.12em;
+  margin-top: 0.66rem;
+  margin-right: 0.06em;
   //margin-bottom: -0.15em;
   //margin-left: -0.15ex;
   padding-left: 0;
@@ -61,6 +61,10 @@ main {
     font-weight: bold;
   }
 
+  h2 {
+    border-bottom: 2px solid var(--font-color);
+  }
+
   h2,
   h3,
   h4 {
@@ -100,6 +104,9 @@ main {
   p {
     width: var(--width);
     max-width: 100%;
+
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
   }
 
   video,
