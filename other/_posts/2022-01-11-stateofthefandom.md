@@ -149,10 +149,10 @@ all the rarer.
 ### Preferences based on OWI's query
 
 Before we wraps thing up I'd like to present one more interesting statistic, namely which game
-people named as their favorite on OWI's Twitter. At the time of writing the tweet received about 165
-replies, some of which couldn't be counted due to not containing clear answers. In instances where
-someone named multiple games, I counted each as a vote for that particular game to avoid introducing
-my own bias.
+people named as their favorite on OWI's Twitter. At the time of writing the
+[tweet](https://twitter.com/OddworldInc/status/1480607373316214786) received about 165 replies, some
+of which couldn't be counted due to not containing clear answers. In instances where someone named
+multiple games, I counted each as a vote for that particular game to avoid introducing my own bias.
 
 Without further ado, here are the results:
 
