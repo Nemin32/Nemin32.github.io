@@ -5,11 +5,11 @@ The rain was terrible. The already dark forest seemed almost impenetrable throug
 Only a single, hardly visible road split the vegetation in half created by some long bygone
 travellers.
 
-A lone shadow moved moved hastily through the path, its owner tightly gripping a cloak,
+A lone shadow moved hastily through the path, its owner tightly gripping a cloak,
 the only thing standing between him and the horrible weather. Every once in a while he glanced
 around, his red eyes surveying the trees around him.
 
-It was unlikely that anyone would have followed him here, this place was, for a lack of a better
+It was unlikely that anyone would have followed him here: This place was, for a lack of a better
 term, worthless to anyone. Yet it also made him painfully aware that for the same reason he was
 unlikely to encounter any foes, it was also nearly impossible to find anyone who could help him.
 
@@ -19,8 +19,8 @@ Forests like these house many wild creatures. Beings who aren't above killing an
 territory without second thoughts.
 
 He really wished he still had a weapon on him, but he knew that was impossible. Such things did not
-belong to his people anymore. As he moved on lost in thought he nearly didn't even notice the
-streaks of light that faintly shined towards him from the distance.
+belong to his people anymore. As he moved on, lost in thought, he nearly didn't notice the streaks
+of light that faintly shined towards him from the distance.
 
 "Crap! How did I not notice that?" he chided himself as he hurried behind a tree in panic. He could
 only hope whoever crossed his path didn't see him through the thick rainfall.
@@ -48,24 +48,24 @@ Soon the light became brighter and brighter as he approached and soon through th
 small hut.
 
 In normal circumstances it would have been entirely unremarkable. It was a mostly circular building,
-made from roughly hewn mud, it's mostly smooth surface broken only by a small, finicky wooden door;
+made from roughly hewn mud, its mostly smooth surface broken only by a small, finicky wooden door;
 two small, circular windows and what he could assume to be a chimney that peacefully billowed smoke
 into the harsh rain outside.
 
 What surprised him, however, was the location of the hut. As far as he knew not a single soul lived
 in these parts of Mudos, so seeing such a blatant display of civilization shocked him greatly.
 
-Still, he has came this far and turning back now would be pointless, so stepped in front of the door
+Still, he came this far and turning back now would be pointless, so he stepped in front of the door
 and knocked tentatively. Nothing happened. He sighed once more. Whomever is willing to leave their
 house lit up and unattended is either too dangerous or too big of a fool to be worth talking to.
 
 He stepped away from the door, pulled his cloak tighter on himself and turned around to leave.
 Suddenly he heard the door's inner latch rattle. He spun around and saw the door slowly open
-slightly. 
+slightly.
 
 "Umm... Who is it?" a subdued voice spoke.
 
-There was no animosity in the voice, quite the contrary, the wanderer could imagine the owner of
+There was no animosity in the voice; quite the contrary, the wanderer could imagine the owner of
 this voice be too meek to even swat a fly. Yet something also seemed very-very familiar about it
 that made him shudder, but he could not put his finger on it. Instead of pondering about it in the
 cold rain, he pushed this ridiculous feeling aside and replied with as much reassurance as he could
@@ -83,7 +83,7 @@ hoping they are not malicious.
 
 He knew the voice was lying.
 
-His kind was fairly unique, not many creatures possessed this sort of stature and red eyes like his,
+His kind was fairly unique, not many creatures possessed this sort of stature and red eyes like his;
 but he wasn't the one to make the terms, so slowly he stuck one hand out of his garb and pulled the
 hood down. Even with the rain and the lack of light his features were unmistakable. The warted,
 yellowish-green skin; the dark, almost black mask; and of course the many tentacles that covered his
@@ -96,14 +96,14 @@ executing the many slaves that served under the old world order. But that was in
 hardly possessed the means to defend himself from the rightfully angry masses.
 
 The voice behind the door spoke again, "I'm glad you are willing to put enough trust in me to reveal
-yourself. I think it is only fair if I return the favor. Please, come in." 
+yourself. I think it is only fair if I return the favor. Please, come in."
 
 With that the door opened fully, the voice hiding behind it. The Slig took a step back, shielding
 his eyes from suddenly being bathed in light and then clumsily entered the abode.  He heard the door
 hastily being shut behind him, the latch closing in place.
 
 The room before him was spartan, but cosy. In the middle a small fireplace burned happily, a small
-cauldron above it bubbled with some sort of vegetable soup. It smelled quite nicely, though he
+cauldron above it bubbled with some sort of vegetable soup. It smelled quite nice, though he
 wasn't able to name half the spices emanating from the dish.
 
 One half of the room was taken up by a bed haphazardly constructed from varyingly sized pillows and
@@ -128,12 +128,12 @@ by ancient scars.
 
 He stood next to the door silently, watching his guest with a single burning, orange and red eye.
 Where his other eye should have been was covered by a simple, gray eyepatch. His face showed a
-complex mix of emotions, somewhere between wanting to seem reassuring, but also unsuccessfully
+complex mix of emotions: somewhere between wanting to seem reassuring, but also unsuccessfully
 hiding contempt.
 
 "You... You're a Mudokon!" The Slig blurted out awkwardly, breaking the silence.
 
-From his point of view, it was as if even the rain has stopped pouring outside. Throughout most of
+From his point of view, it was as if even the rain had stopped pouring outside. Throughout most of
 recorded history, there have been few species less amicable towards each other than Sligs and
 Mudokons. While usually the former always had the upper hand, this time the tables were entirely
 turned and he was painfully aware of this.
@@ -161,16 +161,16 @@ of them."
 Peg did not want to offend him by admitting that he has no idea what any of this is supposed to
 mean, so he just gave him a slow nod and then spoke up.
 
-"Thank you, uhh Shaman, for taking me in, but I really do not understand why you did."
+"Thank you, uhh... Shaman, for taking me in; but I really do not understand why you did."
 
-"Let's just say it is atonement for things I have done in the past." Shaman said, his eyes staring
+"Let's just say it is atonement for things I have done in the past," Shaman said, his eyes staring
 blankly at something far beyond the brown walls.
 
 His vision then became focused again and he continued in a more chipper tone, "I believe dinner is
 almost ready. Tell me, Peg, I never really knew this about your kind, can you actually eat
 vegetables?"
 
-"Umm... Sure, but this is really not necessary." he said, while trying to wave him off politely, but
+"Umm... Sure, but this is really not necessary," he said, while trying to wave him off politely, but
 his stomach grumbled in treachery. Indeed, he was very much hungry, but he felt weird to accept
 another kindness from such a person.
 
@@ -186,14 +186,14 @@ They ate slowly and in silence. The Slig was largely used to solid meals that he
 into his mouth using his tentacles, but for soup they served as nothing more than annoying
 obstacles. The Mudokon had no such problems, but he seemed to be lost in thought.
 
-Finally he set his bowl down next to his feet and, without looking at Peg, he asked idly, "Do you
-know what year we're writing?"
+Finally he set his bowl down next to his feet and - without looking at Peg - he asked idly, "Do you
+know what year it is?"
 
 "N-no. I admit, I have no idea."
 
 "Don't feel too bad, I don't know either. What I do know though, is that it has been over ten years
 since the collapse. You've surely seen those carvings next to yourself by now, " he said, nodding
-towards the desk. "I make one every ten days." 
+towards the desk. "I make one every ten days."
 
 Peg wasn't great at counting, but it did seem like at least a few hundred assorted pieces of wood
 lied on the table.
@@ -221,26 +221,26 @@ Then he continued normally, "I assume by that time they were all already dead.  
 really interested in starving to death in the middle of some desert with a bunch of idiots, so I
 hitched a ride on one of those big trains and tried to return to HQ. I figured whoever caused this
 mess already lost his head and the pencil pushers just forgot about us. Wouldn't be the first time
-it happened. Of course, by then the cities were on fire." He suddenly came to a halt. 
+it happened. Of course, by then the cities were on fire." He suddenly came to a halt.
 
 Under their brutal training, Sligs were an emotional species and the trauma of seeing one's life go
 up in literal flames is not something anyone can just deal with. Even if it happened many years ago,
 the memory hurt like a wound freshly ripped open.
 
 He stared into his bowl, which still contained a few spoonfuls of food and idly stirred it, before
-continuing. 
+continuing.
 
 "To be honest, I was very lucky. The train station was surprisingly intact and, by the time I
 arrived, the revolutionaries were already long gone. I can only assume they were looking for even
 bigger fish to take revenge on.
 
 "I knew I had to get out of there. The fire was one thing, but then I saw the bodies. We are all
-taught to kill, of course, I've seen my fair share of corpses before, but this was something
-different. Every corner you looked, it was full of them. Bodies shot, beaten to death or burned to
-ashes. And not just adults, children too. Some shapes were brutalized to such extent I could not
+taught to kill, of course, I've seen my fair share of corpses before; but this was something
+different. Every corner you looked, it was full of them: bodies shot, beaten to death or burned to
+ashes; and not just adults, children too. Some shapes were brutalized to such extent I could not
 even figure out what they were before they got lynched.
 
-My escape was less than dignified. I ditched my weapon, it would've been useless against a horde
+"My escape was less than dignified. I ditched my weapon, it would've been useless against a horde
 that was willing to go to such extents, instead I've grabbed this." Peg tugged at his cloak.
 
 The dampness from the rain has masked it until now, but now that next to the fire it largely dried,
@@ -268,7 +268,7 @@ think we've ever even met before."
 
 "I don't understand what you're talking about."
 
-"When we started the revolution, the only thing that was on our mind is that we are the victims and
+"When we started the revolution, the only thing that was on our mind is that we were the victims and
 you, all of you, were equally guilty. Looking back, it was of course foolish to think that way."
 
 Shaman chuckled with disdain, before continuing.
@@ -284,9 +284,9 @@ civilized world once thought they could tame or at the very least pacify.
 
 "Y-you are!" Peg yelped as he recoiled in his chair.
 
-It suddenly felt like the room was very-very small. he shot a glance at the door, but it was still
-safely locked with the latch, even if he tried to run, the Mudokon would catch him. By now he
-understood, the door was not locked to keep anything out. It was locked to keep him inside.
+It suddenly felt like the room was very-very small. He shot a glance at the door, but it was still
+safely locked with the latch. Even if he tried to run, the Mudokon would catch him. By now he
+understood: the door was not locked to keep anything out. It was locked to keep him inside.
 
 "I know you. You are Abe, the scarred Mudokon," he whispered. "Are you going to hurt me?"
 
@@ -299,7 +299,7 @@ mention is that they never found a single Mudokon corpse.
 
 Many doubted the existence of him, considering it nothing more than a tool for scheming factory
 owners who wanted to cash in on insurance. All doubts were dispelled, however, when the revolution
-swung into full-force, lead by no one else but the demon that terrorized the civilized world. Soon
+swung into full-force; lead by no one else but the demon that terrorized the civilized world. Soon
 there was no paper or newscast that wasn't plastered full of the scars that now laid in front of
 Peg.
 
@@ -310,12 +310,12 @@ massaged his forehead for a second. "I never expected to see another Slig in my 
 my words do not even begin to fix the damage I have caused, but I really, truly want to apologize.
 Please allow me to explain my side of the story." He hung his head waiting for an answer.
 
-Peg was not sure what to say, the Mudokon in front of him did not seem like the wise Shaman he
-claimed himself to be. However, he also did not seem like the feared murderer he apparently was. No,
-what he currently saw a broken being in front of him, who is presenting his most vulnerable side of
-himself.
+Peg was not sure what to say. The Mudokon in front of him did not seem like the wise Shaman he
+claimed himself to be; however, he also did not seem like the feared murderer he apparently was. No,
+what he currently saw was a broken being in front of him, who was presenting his most vulnerable
+side of himself.
 
-"I... I am not sure if I can forgive you." He said drily. "Not after all that has happened. But I
+"I... I am not sure if I can forgive you," he said drily. "Not after all that has happened. But I
 will listen to your story, perhaps it will give us both some closure."
 
 Abe traced the scar on his left hand before starting.
@@ -369,9 +369,9 @@ plotting I overheard, finally sprang into action.
 it's time we made all the others pay for what they've done to us.'
 
 "I could not believe my ears, but I saw it in their eyes that they were serious. I've tried my
-hardest to pleade with them, I told them how continuing the cycle will only cause more pain in the
+hardest to plead with them, I told them how continuing the cycle will only cause more pain in the
 long run. They just laughed, then made it clear that the only way I was to leave the room alive was
-if I pledge my support and loyalty to their cause. 
+if I pledge my support and loyalty to their cause.
 
 Peg heard an odd whooshing sound from behind himself, but before he could glance back, some of the
 carvings from the desk flew past his head and came to a halt suspended around Abe's body.
@@ -386,14 +386,14 @@ deserve it.
 carvings glowed with a faint blue light. In a sudden flash of light they were violently torn to
 pieces by some invisible force and cast into the fire.
 
-"They died by my own hands. The brightest minds of our revolution. They were smart enough that I'm
-convinced, had they not chosen this path, we'd be living in utopia.
+"They died by my own hands. The brightest minds of our revolution, perhaps even our generation. They
+were smart enough that I'm convinced, had they not chosen this path, we'd be living in utopia.
 
 "Despite what those accursed newspapers said about me, I've never murdered any of my kin before that
 moment. But this... this was too much. I felt like my eyes were opening for the first time. I
 glanced at the mutilated corpse of that businessman lying on the ground, his blood mixing with my
 former friends'. He probably got rich and fat from our suffering, but did he have a choice? Was it
-truly everyone's fault equally? Was this truly the other way? I could not believe that anymore.
+truly everyone's fault equally? Was this truly the only way? I could not believe that anymore.
 
 "As I stumbled out of the room, I couldn't help but feel lost. I knew if I returned to my followers,
 they would ask me to lead them. I did not feel like a leader. My role was over. My job was to kill
@@ -427,13 +427,13 @@ cast odd shadows on his tattoos.
 
 There was silence for a moment. Then a bang.
 
-Outside the hut, a tree burst into flame, struck by a wayward lightning-bolt.
+Outside the hut, a tree burst into flame, struck by a wayward lightning bolt.
 
 "I will not continue the cycle," spoke Peg finally, as he lowered the weapon. "Both of us are
 murderers and both us are guilty. But this world is far too deep in crap to add another pointless
 death to the tally.
 
-"You want judgement? I will give you judgement: Stop being such a damn coward and seek your kin out.
+"You want judgement? I will give you judgement: stop being such a damn coward and seek your kin out.
 You have been skulking here for Odd knows how long, wasting away and expecting some miracle or
 something, while your fellows are out there rebuilding the world. Don't you think that's selfish?
 
@@ -444,4 +444,3 @@ Abe hung his head as the words poured on him.
 
 "Yes. Yes, I suppose you're right," was all he was finally able to muster. "I've been living alone
 for far too long."
-
