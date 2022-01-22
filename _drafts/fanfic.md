@@ -444,3 +444,25 @@ Abe hung his head as the words poured on him.
 
 "Yes. Yes, I suppose you're right," was all he was finally able to muster. "I've been living alone
 for far too long."
+
+He stood up and picked up a few logs from the pile next to the fireplace. As they fell into the
+flames, sparks flew up into the air. They flickered brightly for a second before fading away.
+
+"However, I cannot do this alone. Or, perhaps I should say, I shouldn't do it alone," Abe continued.
+"Come with me, Peg. We both ran from our past for far too long."
+
+The Slig merely scoffed.
+
+"Sure, try to drag me into this. What do you think will happen? Your old buddies will bash my head
+in the moment we set foot in a city."
+
+"If they try anything like that, then there is truly nothing worth saving in this world. Aren't you
+tired of being chased around your entire life."
+
+"I... guess I am," he said, then gripped his weapon once more. He thought about the weeks he spent
+fleeing from place to place. Never daring to sleep too deep. "Yes, it's worth a shot. Let's do
+this."
+
+Outside the hut, the rain slowly began to lose its strength. As the hours passed, the first rays of
+sunlight broke through the thick, black clouds. A new day had broken. One welcoming an unlikely duo,
+who set out to accomplish the impossible.
