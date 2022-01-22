@@ -1,5 +1,46 @@
 ---
+title: "The Wanderer and the Hermit"
 ---
+
+<style>
+
+main p {
+text-align: justify;
+font-size: 24px;
+hyphens: none;
+}
+
+section {
+grid-column: 1/4;
+width: 100%;
+padding-top: 2rem;
+padding-bottom: 2rem;
+}
+
+section p {
+margin-left: auto;
+margin-right: auto;
+}
+
+section h1 {
+width: 100%;
+}
+
+main {
+width: 100%;
+}
+
+main div {
+grid-column: 1/4;
+}
+
+</style>
+
+<section markdown=1 style="background: #111; color: #8db1b5;">
+
+# The Wanderer and the Hermit
+
+{% include caption.html url="/imgs/fanfic/slig.png" description="" %}
 
 The rain was terrible. The already dark forest seemed almost impenetrable through the thick mist.
 Only a single, hardly visible road split the vegetation in half created by some long bygone
@@ -97,6 +138,13 @@ hardly possessed the means to defend himself from the rightfully angry masses.
 
 The voice behind the door spoke again, "I'm glad you are willing to reveal yourself to me. It's only
 fair if I return the favor. Please, come in."
+
+</section>
+
+<div style="height: 10rem; width: 100%; background: linear-gradient(to bottom, #111, #806d41);">
+</div>
+
+<section markdown=1 style="background: #806d41; color: #fffee3;">
 
 With that the door opened fully, the voice hiding behind it. The Slig took a step back, shielding
 his eyes from suddenly being bathed in light and then clumsily entered the abode.  He heard the door
@@ -207,6 +255,13 @@ should by all means celebrate, with such a grim name.
 Peg wasn't too keen on sharing his life story, but this strange Mudokon had shown him nothing but
 kindness and he felt like he should repay him by at least entertaining his questions.
 
+</section>
+
+<div style="height: 10rem; width: 100%; background: linear-gradient(to bottom, #806d41, #5b5039);">
+</div>
+
+<section markdown=1 style="background: #5b5039; color: #d5c081;">
+
 "I was lucky. I was assigned to keep order in the frontier regions, close to the... Well, it doesn't
 really matter which station. By the time the slave revo-"
 
@@ -245,7 +300,7 @@ them were, before they got lynched.
 was willing to go to such lengths, instead I've grabbed this." Peg tugged at his cloak.
 
 The dampness from the rain has masked it until now, but now that next to the fire it largely dried,
-it was painfully obvious how old and tattered it was. The words "Central Train Station" could
+it was painfully obvious how old and tattered it was. The words _"Central Train Station"_ could
 faintly be seen on its back.
 
 "I looted a few stores for any scraps of food I could find, then legged it until the city was far
@@ -257,8 +312,17 @@ He shrugged and then ate another spoonful of food.
 out or intimidate others into not giving me away, but you gotta understand mine isn't exactly a
 welcome face in Mudos anymore."
 
+</section>
+
+<div style="height: 10rem; width: 100%; background: linear-gradient(to bottom, #5b5039, #806d41);">
+</div>
+
+<section markdown=1 style="background: #806d41; color: #fffee3;">
+
 There was silence between them again. The fire crackled and the rain continued to beat against the
-walls in vain fury. Eventually Shaman spoke up.
+walls in vain fury.
+
+Eventually Shaman spoke up.
 
 "I'm sorry."
 
@@ -323,6 +387,13 @@ side of himself.
 will listen to your story, maybe it will give us both some closure."
 
 Abe traced the scar on his left hand before starting.
+
+</section>
+
+<div style="height: 10rem; width: 100%; background: linear-gradient(to bottom, #806d41, #222);">
+</div>
+
+<section markdown=1 style="background: #222; color: #b8c189;">
 
 "I don't know how much they said about me or how true it was, but I was never really much more than
 a slave. Since my birth I've only known the beatings, work and those minimal periods of free time
@@ -389,7 +460,7 @@ scared to hurt someone who didn't deserve it, so I held back."
 glowed with a faint blue light. In a sudden flash of light they were violently torn to pieces by
 some invisible force and cast into the fire.
 
-"I killed them all. The smartest of our revolution, perhaps even our generation. They were clever
+<span style="color: #c00">"I killed them all.</span> The smartest of our revolution, perhaps even our generation. They were clever
 enough that I'm convinced, had they not chosen this path, we'd be living in utopia.
 
 "Despite what those lying newspapers said about me, I've never murdered any of my kin before that
@@ -406,6 +477,13 @@ only thing I could: I left quietly.
 "I'm sure my friends kept looking for me for a while, but you're the first creature I've met in
 years. I've spent almost a decade here. I hoped the world would forget about me and finally move
 on."
+
+</section>
+
+<div style="height: 10rem; width: 100%; background: linear-gradient(to bottom, #222, #482929);">
+</div>
+
+<section markdown=1 style="background: #482929; color: #efefef;">
 
 Peg sat in silence. He wasn't sure how to respond or if he was even supposed to respond. The fire
 had almost burned out, casting the room in gloomy half-darkness.
@@ -427,7 +505,21 @@ It felt like time slowed to a crawl. He grasped the gun firmly and aimed it on t
 of him. Abe closed his eyes and allowed his hands to fall to his side. The dim flames of the fire
 cast odd shadows on his tattoos. A serene smile crept onto his face.
 
+</section>
+
+<div style="height: 10rem; width: 100%; background: linear-gradient(to bottom, #482929, white);">
+</div>
+
+<section markdown=1 style="background: white; color: black;">
+
 There was silence for a moment. Then a bang.
+
+</section>
+
+<div style="height: 10rem; width: 100%; background: linear-gradient(to bottom, white, #806d41);">
+</div>
+
+<section markdown=1 style="background: #806d41; color: #fffee3;">
 
 Outside the hut, a tree burst into flame, struck by a wayward lightning bolt.
 
@@ -466,6 +558,19 @@ saving in this world. Aren't you tired of being chased around your entire life?"
 fleeing from place to place. Scavenging from trash heaps. Never daring to sleep too deep. "Yes, it's
 worth a shot. Let's do this."
 
-Outside the hut, the rain slowly began to lose its strength. As the hours passed, the first rays of
-sunlight broke through the thick, black clouds. A new day had broken. One welcoming an unlikely duo,
-who set out to accomplish the impossible.
+</section>
+
+<div style="height: 8rem; width: 100%; background: linear-gradient(to bottom, #806d41, #d5fdff);">
+</div>
+
+<section markdown=1 style="background: #d5fdff; color: black;">
+
+Outside the hut, the rain slowly began to lose its strength.
+
+As the hours passed, the first rays of sunlight broke through the thick, black clouds. A new day had
+broken, welcoming an unlikely duo, who set out to accomplish the impossible.
+
+</section>
+
+<div style="height: 8rem; width: 100%; background: linear-gradient(to bottom, #d5fdff, var(--background));">
+</div>
