@@ -126,6 +126,17 @@ const struct EVENT event_list[] = {
   EVENT(21,  9,  3, SOULSTORM, "Jason Shum interview",                                                      "https://youtu.be/biG-xFWKPgs"),
   EVENT(21, 11,  4, SOULSTORM, "Pre-orders for Soulstorm on the Xbox begin",                                NULL),
   EVENT(21, 11, 30, SOULSTORM, "Soulstorm launches on Xbox",                                                "https://youtu.be/xPsS45XaQ_A"),
+  EVENT(22,  4,  5, SOULSTORM, "Soulstorm appears at the Webby awards and doesn't win",                     "https://vote.webbyawards.com/PublicVoting#/2022/games/features/best-art-direction"),
+  EVENT(22,  4,  8, SOULSTORM, "A Soulstorm-themed Playerstate challenge is launched",                      "https://app.player-state.com/group/61b8a4d90a17f700062252cc"),
+  EVENT(22,  4, 20, SOULSTORM, "Soulstorm is announced to launch on Steam",                                 "https://store.steampowered.com/app/619390/Oddworld_Soulstorm_Enhanced_Edition/"),
+  EVENT(22,  6,  3, SOULSTORM, "A demo for Soulstorm on Steam is launched",                                 NULL),
+  EVENT(22,  6, 21, SOULSTORM, "Soulstorm launches on Steam",                                               "https://store.steampowered.com/app/619390/Oddworld_Soulstorm_Enhanced_Edition/"),
+
+  /* WISHLIST */
+  EVENT(22,  4, 12, SOULSTORM, "A wishlist challenge for Soulstorm is announced",          NULL),
+  EVENT(22,  4, 23, SOULSTORM, "The first milestone of the wishlist challenge is reached", NULL),
+  EVENT(22,  6, 28, SOULSTORM, "The wishlist challenge ends and the tiers are unlocked",   "https://www.oddworld.com/2022/06/steam-wishlist-rewards-available-now/"),
+
 
   /* ARG */
   EVENT(16,  3, 16, ARG,       "First phase of the ARG starts",                                             "http://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary"),
@@ -178,6 +189,8 @@ const struct EVENT event_list[] = {
   EVENT(20,  1, 23, OTHER,     "Stranger's Wrath arrives to the Nintendo Switch",                           NULL),
   EVENT(20,  3, 13, OTHER,     "Microids announces limited physical release for Stranger's Wrath",          "https://www.microids.com/oddworld-strangers-wrath-hd-retail-versions-launching-in-us-and-eu/"),
   EVENT(20,  9,  3, OTHER,     "LRG/Microids announces limited Stranger's Wrath box edition",               "https://twitter.com/LimitedRunGames/status/1301581015568257026"),
+  EVENT(22,  1, 25, OTHER,     "A Stranger-themed Playerstate challenge is launched",                       "https://app.player-state.com/group/61b8a4d90a17f700062252cc"),
+  EVENT(22,  2, 11, OTHER,     "SW:HD launches on Playstation and Xbox",                                    NULL),
 
   /* MUNCH */
   EVENT(20,  4, 30, OTHER,     "OWI/Microids announces Munch's Oddysee's Switch port.",                    "https://www.microids.com/us/oddworld-munchs-oddysee-coming-to-nintendo-switch-may-14th-2/"),
@@ -189,7 +202,10 @@ const struct EVENT event_list[] = {
   EVENT(20,  9, 29, OTHER,     "Microids announces NnT's Switch port coming 27th of October.",              "https://twitter.com/Microids_off/status/1310958095703724035"),
   EVENT(20, 10, 27, OTHER,     "Microids releases NnT on the Switch",                                       NULL),
   
+  /* OTHER */
   EVENT(21,  5, 22, OTHER,     "Microids releases trio pack of MO, SW and NNT",                             "https://www.youtube.com/watch?v=gN3KZ2kWIwY"),
+  EVENT(22,  6, 24, OTHER,     "Abe's Oddysee is released on the PS Store",                                 "https://store.playstation.com/en-gb/product/EP4134-CUSA34000_00-2204582245880524"),
+  EVENT(22,  8,  1, OTHER,     "Pre-orders for vinyls feautring NnT's and SS's soundtracks begin",          "https://blackscreenrecords.com/products/oddworld-soulstorm"),
 
   /* DISCORD */
   EVENT(17,  5,  2, DISCORD,   "Discord server launches",                                                   "https://discordapp.com/channels/293291256736382976/293291256736382976/308969023981486082"),
@@ -197,6 +213,17 @@ const struct EVENT event_list[] = {
   EVENT(19,  4, 24, DISCORD,   "Hackattack joins the Discord",                                              "https://discordapp.com/channels/293291256736382976/293291256736382976/570667262063935489"),
   EVENT(19,  5, 13, DISCORD,   "OWI_Lewis joins the Discord",                                               "https://discordapp.com/channels/293291256736382976/293291256736382976/577526814411325450"),
   EVENT(19, 12, 22, DISCORD,   "Sherry McKenna joins the Discord",                                          "https://discordapp.com/channels/293291256736382976/308941610132045824/658148011809046528"),
+  EVENT(22,  5, 23, DISCORD,   "A new role system is introduced on the Discord",                            NULL),
+  EVENT(22, 10,  6, DISCORD,   "'OddworldTober' - an Inktober-themed event begins",                         "https://cdn.discordapp.com/attachments/877259231819100200/1027542396138954873/OddworldTober-16x9.png"),
+
+  /* DISCODDCHAT */
+  EVENT(22,  3, 12, DISCORD,   "Discoddchat 1. - Creating Oddworld",         "https://anchor.fm/oddworldinc/episodes/Oddworld-DiscoddChat---Episode-1--Creating-Oddworld-e1ftc4u"),
+  EVENT(22,  5, 23, DISCORD,   "Discoddchat 2. - Exploring Mudos Part 1.",   "https://anchor.fm/oddworldinc/episodes/Oddworld-DiscoddChat---Episode-2--Exploring-Mudos-Part-1-e1iuqmc"),
+  EVENT(22,  5, 27, DISCORD,   "Discoddchat 3. - Exploring Mudos Part 2.",   "https://anchor.fm/oddworldinc/episodes/Oddworld-DiscoddChat---Episode-2--Exploring-Mudos-Part-1-e1iuqmc"),
+  EVENT(22,  6, 29, DISCORD,   "Discoddchat 4. - The Species",               "https://anchor.fm/oddworldinc/episodes/Oddworld-DiscoddChat---Episode-2--Exploring-Mudos-Part-1-e1iuqmc"),
+  EVENT(22,  7, 25, DISCORD,   "Discoddchat 5. - The Wildlife",              "https://anchor.fm/oddworldinc/episodes/Oddworld-DiscoddChat---Episode-2--Exploring-Mudos-Part-1-e1iuqmc"),
+  EVENT(22,  9,  2, DISCORD,   "Discoddchat 6. - Creating a Protagonist",    "https://anchor.fm/oddworldinc/episodes/Oddworld-DiscoddChat---Episode-2--Exploring-Mudos-Part-1-e1iuqmc"),
+  EVENT(22, 10, 11, DISCORD,   "Discoddchat 7. - What lies beneath...",      "https://anchor.fm/oddworldinc/episodes/Oddworld-DiscoddChat---Episode-2--Exploring-Mudos-Part-1-e1iuqmc"),
 
   /* KILLED */
   EVENT(19,  4, 24, KILLED,    "Lost Archives ends",                                                        "https://www.instagram.com/p/Bwpif1ElJwF/"),
@@ -204,29 +231,35 @@ const struct EVENT event_list[] = {
   EVENT(19,  8, 14, KILLED,    "The ARG goes into silence.",                                                NULL),
   EVENT(19,  9, 23, KILLED,    "22nd anniversary series abruptly ends",                                     NULL),
   EVENT(19, 11, 20, KILLED,    "21st anniversary series abruptly ends",                                     NULL),
-  EVENT(21,  1, 22, KILLED,    "The 250 followers social media game is delayed indefinitely.",               "https://discordapp.com/channels/293291256736382976/308941610132045824/802289904348299364"),
+  EVENT(21,  1, 22, KILLED,    "The 250 followers social media game is delayed indefinitely.",             "https://discordapp.com/channels/293291256736382976/308941610132045824/802289904348299364"),
   
   /* PATCHES */
-  EVENT(21,  4,  7, PATCH,      "Patch 1.05",                                                                         "https://www.oddworld.com/2021/04/oddworld-soulstorm-1-05-patch-now-available/"),
-  EVENT(21,  4,  9, PATCH,      "Patch 1.06",                                                                         "https://www.oddworld.com/2021/04/oddworld-soulstorm-1-06-patch-available-now/"),
-  EVENT(21,  4, 14, PATCH,      "Patch 1.07",                                                                         "https://www.oddworld.com/2021/04/oddworld-soulstorm-patch-1-07-now-available/"),
-  EVENT(21,  4, 28, PATCH,      "Patch 1.08",                                                                         "https://www.oddworld.com/2021/04/oddworld-soulstorm-1-08-patch-now-available/"),
-  EVENT(21,  5, 14, PATCH,      "Patch 1.11",                                                                         "https://www.oddworld.com/2021/05/oddworld-soulstorm-patch-1-11-now-available/"),
-  EVENT(21,  6,  4, PATCH,      "Patch 1.13",                                                                         "https://www.oddworld.com/2021/06/oddworld-soulstorm-patch-1-13-now-available/"),
-  EVENT(21, 10, 19, PATCH,      "Patch 1.16",                                                                         NULL),
-  EVENT(21, 12, 17, PATCH,      "Patch 1.19",                                                                         "https://www.oddworld.com/2021/12/oddworld-soulstorm-patch-1-19-now-available/"),
+  EVENT(21,  4,  7, PATCH,      "Patch 1.05", "https://www.oddworld.com/2021/04/oddworld-soulstorm-1-05-patch-now-available/"),
+  EVENT(21,  4,  9, PATCH,      "Patch 1.06", "https://www.oddworld.com/2021/04/oddworld-soulstorm-1-06-patch-available-now/"),
+  EVENT(21,  4, 14, PATCH,      "Patch 1.07", "https://www.oddworld.com/2021/04/oddworld-soulstorm-patch-1-07-now-available/"),
+  EVENT(21,  4, 28, PATCH,      "Patch 1.08", "https://www.oddworld.com/2021/04/oddworld-soulstorm-1-08-patch-now-available/"),
+  EVENT(21,  5, 14, PATCH,      "Patch 1.11", "https://www.oddworld.com/2021/05/oddworld-soulstorm-patch-1-11-now-available/"),
+  EVENT(21,  6,  4, PATCH,      "Patch 1.13", "https://www.oddworld.com/2021/06/oddworld-soulstorm-patch-1-13-now-available/"),
+  EVENT(21, 10, 19, PATCH,      "Patch 1.16", NULL),
+  EVENT(21, 12, 17, PATCH,      "Patch 1.19", "https://www.oddworld.com/2021/12/oddworld-soulstorm-patch-1-19-now-available/"),
+  EVENT(22,  1, 20, PATCH,      "Patch 1.20", NULL),
+
   
   /* TWTICH */
-  EVENT(20,  5, 21, TWITCH,     "OWI streams Munch's Oddysee on Twitch", "https://www.twitch.tv/officialoddworldinc"),
-  EVENT(20,  7, 16, TWITCH,     "OWI streams Munch's Oddysee on Twitch", "https://www.twitch.tv/officialoddworldinc"),
-  EVENT(20, 10, 27, TWITCH,     "OWI streams New 'n' Tasty on Twitch",   "https://www.twitch.tv/officialoddworldinc"),
-  EVENT(21,  3, 12, TWITCH,     "OWI streams New 'n' Tasty on Twitch",   "https://www.twitch.tv/officialoddworldinc"),
-  EVENT(21,  3, 19, TWITCH,     "OWI streams New 'n' Tasty on Twitch",   "https://www.twitch.tv/officialoddworldinc"),
-  EVENT(21,  3, 26, TWITCH,     "OWI streams New 'n' Tasty on Twitch",   "https://www.twitch.tv/officialoddworldinc"),
-  EVENT(21,  4, 26, TWITCH,     "OWI streams Soulstorm on Twitch",       "https://www.twitch.tv/officialoddworldinc"),
-  EVENT(21, 11, 30, TWITCH,     "OWI streams Soulstorm: EE on Twitch",   "https://www.twitch.tv/officialoddworldinc"),
-  EVENT(21, 12,  6, TWITCH,     "Bennie Terry Q&A on Twitch",           "https://www.twitch.tv/officialoddworldinc"),
-  EVENT(21, 12, 14, TWITCH,     "Lorne Lanning Q&A on Twitch",           "https://www.twitch.tv/officialoddworldinc")
+  EVENT(20,  5, 21, TWITCH,     "OWI streams Munch's Oddysee on Twitch",  "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(20,  7, 16, TWITCH,     "OWI streams Munch's Oddysee on Twitch",  "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(20, 10, 27, TWITCH,     "OWI streams New 'n' Tasty on Twitch",    "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(21,  3, 12, TWITCH,     "OWI streams New 'n' Tasty on Twitch",    "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(21,  3, 19, TWITCH,     "OWI streams New 'n' Tasty on Twitch",    "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(21,  3, 26, TWITCH,     "OWI streams New 'n' Tasty on Twitch",    "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(21,  4, 26, TWITCH,     "OWI streams Soulstorm on Twitch",        "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(21, 11, 30, TWITCH,     "OWI streams Soulstorm: EE on Twitch",    "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(21, 12,  6, TWITCH,     "Bennie Terry Q&A on Twitch",             "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(21, 12, 14, TWITCH,     "Lorne Lanning Q&A on Twitch",            "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(22,  2, 11, TWITCH,     "OWI streams Stranger's Wrath on Twitch", "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(22,  5, 27, TWITCH,     "OWI streams Soulstorm: EE on Twitch",    "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(22,  6, 13, TWITCH,     "Bennie Terry livestream on Twitch",      "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(22,  7, 14, TWITCH,     "OWI streams Soulstorm: EE on Twitch",    "https://www.twitch.tv/officialoddworldinc"),
 };
 
 const unsigned long NUM_OF_EVENTS = sizeof(event_list)/sizeof(struct EVENT);
@@ -259,7 +292,7 @@ int main(void) {
   printf(header, date, date, NUM_OF_EVENTS);
 
   //if (0)
-  for (int year = 16; year <= 21; year++) {
+  for (int year = 16; year <= 22; year++) {
     printf("<div class='year'>\n");
     printf("<h2>20%d</h2>\n", year);
     printf("<div>\n");
