@@ -19,6 +19,14 @@ body {
   margin: 0 auto;
 }
 
+hr {
+	width: 60%;
+	background: #ddd;
+	height: 1px;
+	margin: 1.5rem auto;
+	border: none;
+}
+
 body {
   // Uppercase M because of Sass dumbness
   // See: https://css-tricks.com/when-sass-and-new-css-features-collide/
