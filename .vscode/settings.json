@@ -4,6 +4,13 @@
     ],
     "spellright.documentTypes": [
         "latex",
-        "plaintext"
-    ]
+        "plaintext",
+        "markdown"
+    ],
+    "cSpell.words": [
+        "oddwords",
+        "oddworld",
+        "soulstorm"
+    ],
+    "cSpell.enabled": true
 }
