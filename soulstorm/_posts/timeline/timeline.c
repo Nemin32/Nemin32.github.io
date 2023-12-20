@@ -152,28 +152,32 @@ const struct EVENT event_list[] = {
   EVENT(19,  7, 31, ARG,       "OddworldNetwork.com is revealed",                                           "https://oddworldnetwork.com"),
 
   /* MARKETING */
-  EVENT(17,  1, 17, MARKETING, "Dear Alf #77",                                                              "https://www.oddworld.com/2017/01/dear-alf-77-ed-abe-and-stranger/"),
-  EVENT(17, 12,  4, MARKETING, "Lost Archives launches",                                                    "http://www.oddworld.com/2017/12/announcing-oddworld-the-lost-archives/"),
-  EVENT(17, 12,  4, MARKETING, "Oddysee's source is found",                                                 "http://www.oddworld.com/2017/12/announcing-oddworld-the-lost-archives/"),
-  EVENT(18,  3, 20, MARKETING, "Abe's Origin launches",                                                     "https://www.kickstarter.com/projects/1869209521/oddworld-abes-origins-book-and-game-collection"),
-  EVENT(18,  7,  9, MARKETING, "The Queens page launches",                                                  "https://oddworld.com/queens"),
-  EVENT(18,  8,  7, MARKETING, "The idea of an official Wiki surfaces",                                     "https://discordapp.com/channels/293291256736382976/293291256736382976/476323833545228298"),
-  EVENT(19,  4, 17, MARKETING, "Newsletter #1",                                                             "https://mailchi.mp/oddworld/read-the-first-of-our-new-oddworld-community-newsletters-right-now-with-issue-1"),
-  EVENT(19,  4, 29, MARKETING, "The Oddwall launches",                                                      "https://oddworld.com/oddwall"),
-  EVENT(19,  5, 30, MARKETING, "Newsletter #2",                                                             "https://mailchi.mp/oddworld/the-latest-issue-of-the-oddworld-newsletter-is-here-now"),
-  EVENT(19,  6,  5, MARKETING, "Newsletter #3",                                                             "https://mailchi.mp/oddworld/newsletter3"),
-  EVENT(19,  9, 19, MARKETING, "AO's 22nd anniversary video #1",                                            "https://www.youtube.com/watch?v=0sfL1vqDdf4"),
-  EVENT(19,  9, 20, MARKETING, "AO's 22nd anniversary video #2",                                            "https://www.youtube.com/watch?v=0DSJ1qUibXc"),
-  EVENT(19,  9, 23, MARKETING, "AO's 22nd anniversary video #3",                                            "https://www.youtube.com/watch?v=2JohJi-lG80"),
-  EVENT(19, 11, 18, MARKETING, "AE' 21st anniversary video #1",                                             "https://www.youtube.com/watch?v=csSCkk-xULw"),
-  EVENT(19, 11, 19, MARKETING, "AE' 21st anniversary video #2",                                             "https://www.youtube.com/watch?v=6kSUOTlDRCg"),
-  EVENT(19, 11, 20, MARKETING, "AE' 21st anniversary video #3",                                             "https://www.youtube.com/watch?v=XyWvUL9K_co"),
-  EVENT(20,  9,  2, MARKETING, "OWI describes its philosophy",                                              "https://www.youtube.com/watch?v=PgPiY4kkfOM"),
-  EVENT(20, 11, 19, MARKETING, "OWI asks for new subscribers to reveal new content",                        "https://twitter.com/OddworldInc/status/1329536557741613056"),
-  EVENT(21,  1, 20, MARKETING, "Mudokons Recap video is released",                                          "https://www.instagram.com/p/CKR13wGjaVU/"),
-  EVENT(21,  1, 27, MARKETING, "Sligs Recap video is released",                                             "https://www.instagram.com/p/CKj9Ir3DLbE/"),
-  EVENT(21,  2,  3, MARKETING, "Glukkons Recap video is released",                                          "https://twitter.com/OddworldInc/status/1356998284750049283"),
-  EVENT(21,  2, 18, MARKETING, "Greeters Recap video is released",                                          "https://twitter.com/OddworldInc/status/1362466131974496256"),
+  EVENT(17,  1, 17, MARKETING, "Dear Alf #77",                                        "https://www.oddworld.com/2017/01/dear-alf-77-ed-abe-and-stranger/"),
+  EVENT(17, 12,  4, MARKETING, "Lost Archives launches",                              "http://www.oddworld.com/2017/12/announcing-oddworld-the-lost-archives/"),
+  EVENT(17, 12,  4, MARKETING, "Oddysee's source is found",                           "http://www.oddworld.com/2017/12/announcing-oddworld-the-lost-archives/"),
+  EVENT(18,  3, 20, MARKETING, "Abe's Origin launches",                               "https://www.kickstarter.com/projects/1869209521/oddworld-abes-origins-book-and-game-collection"),
+  EVENT(18,  7,  9, MARKETING, "The Queens page launches",                            "https://oddworld.com/queens"),
+  EVENT(18,  8,  7, MARKETING, "The idea of an official Wiki surfaces",               "https://discordapp.com/channels/293291256736382976/293291256736382976/476323833545228298"),
+  EVENT(19,  4, 17, MARKETING, "Newsletter #1",                                       "https://mailchi.mp/oddworld/read-the-first-of-our-new-oddworld-community-newsletters-right-now-with-issue-1"),
+  EVENT(19,  4, 29, MARKETING, "The Oddwall launches",                                "https://oddworld.com/oddwall"),
+  EVENT(19,  5, 30, MARKETING, "Newsletter #2",                                       "https://mailchi.mp/oddworld/the-latest-issue-of-the-oddworld-newsletter-is-here-now"),
+  EVENT(19,  6,  5, MARKETING, "Newsletter #3",                                       "https://mailchi.mp/oddworld/newsletter3"),
+  EVENT(19,  9, 19, MARKETING, "AO's 22nd anniversary video #1",                      "https://www.youtube.com/watch?v=0sfL1vqDdf4"),
+  EVENT(19,  9, 20, MARKETING, "AO's 22nd anniversary video #2",                      "https://www.youtube.com/watch?v=0DSJ1qUibXc"),
+  EVENT(19,  9, 23, MARKETING, "AO's 22nd anniversary video #3",                      "https://www.youtube.com/watch?v=2JohJi-lG80"),
+  EVENT(19, 11, 18, MARKETING, "AE' 21st anniversary video #1",                       "https://www.youtube.com/watch?v=csSCkk-xULw"),
+  EVENT(19, 11, 19, MARKETING, "AE' 21st anniversary video #2",                       "https://www.youtube.com/watch?v=6kSUOTlDRCg"),
+  EVENT(19, 11, 20, MARKETING, "AE' 21st anniversary video #3",                       "https://www.youtube.com/watch?v=XyWvUL9K_co"),
+  EVENT(20,  9,  2, MARKETING, "OWI describes its philosophy",                        "https://www.youtube.com/watch?v=PgPiY4kkfOM"),
+  EVENT(20, 11, 19, MARKETING, "OWI asks for new subscribers to reveal new content",  "https://twitter.com/OddworldInc/status/1329536557741613056"),
+  EVENT(21,  1, 20, MARKETING, "Mudokons Recap video is released",                    "https://www.instagram.com/p/CKR13wGjaVU/"),
+  EVENT(21,  1, 27, MARKETING, "Sligs Recap video is released",                       "https://www.instagram.com/p/CKj9Ir3DLbE/"),
+  EVENT(21,  2,  3, MARKETING, "Glukkons Recap video is released",                    "https://twitter.com/OddworldInc/status/1356998284750049283"),
+  EVENT(21,  2, 18, MARKETING, "Greeters Recap video is released",                    "https://twitter.com/OddworldInc/status/1362466131974496256"),
+  EVENT(23, 12,  1, MARKETING, "Oddworld socials are taken over by the Magog Cartel", "https://twitter.com/OddworldInc/status/1730627468774514987"),
+  EVENT(23,  7, 13, MARKETING, "Soulstorm's OST is released on YouTube",              "https://www.youtube.com/watch?v=Zinf3-QvWPA"),
+  EVENT(23,  8, 20, MARKETING, "Video game crossover event begins",                   "https://twitter.com/OddworldInc/status/1693337183296291248"),
+  EVENT(23, 10,  1, MARKETING, "Oddworld Movie Mashups",                              "https://twitter.com/OddworldInc/status/1708527435791151288"),
 
   /* ODDCASTS */
   EVENT(18,  5,  3, MARKETING, "The first Oddcast airs",                                                    "https://www.youtube.com/watch?v=AbG_Fg_gbC0"),
@@ -206,6 +210,10 @@ const struct EVENT event_list[] = {
   EVENT(21,  5, 22, OTHER,     "Microids releases trio pack of MO, SW and NNT",                             "https://www.youtube.com/watch?v=gN3KZ2kWIwY"),
   EVENT(22,  6, 24, OTHER,     "Abe's Oddysee is released on the PS Store",                                 "https://store.playstation.com/en-gb/product/EP4134-CUSA34000_00-2204582245880524"),
   EVENT(22,  8,  1, OTHER,     "Pre-orders for vinyls feautring NnT's and SS's soundtracks begin",          "https://blackscreenrecords.com/products/oddworld-soulstorm"),
+  EVENT(23,  9, 30, OTHER,     "OddworldTober 2",                                                           "https://twitter.com/OddworldInc/status/1708165173175783883"),
+  EVENT(23, 11, 25, OTHER,     "Abe's Exoddus's 25th anniversary",                                          NULL),
+  EVENT(23, 11, 26, OTHER,     "Lorne Lanning announces attending LightBox Expo",                           "https://twitter.com/lorne_lanning/status/1717591047457710458"),
+  EVENT(23, 11, 28, OTHER,     "OWI remembers AE's anniversary",                                            "https://twitter.com/OddworldInc/status/1729552386895524018"),
 
   /* DISCORD */
   EVENT(17,  5,  2, DISCORD,   "Discord server launches",                                                   "https://discordapp.com/channels/293291256736382976/293291256736382976/308969023981486082"),
@@ -213,8 +221,10 @@ const struct EVENT event_list[] = {
   EVENT(19,  4, 24, DISCORD,   "Hackattack joins the Discord",                                              "https://discordapp.com/channels/293291256736382976/293291256736382976/570667262063935489"),
   EVENT(19,  5, 13, DISCORD,   "OWI_Lewis joins the Discord",                                               "https://discordapp.com/channels/293291256736382976/293291256736382976/577526814411325450"),
   EVENT(19, 12, 22, DISCORD,   "Sherry McKenna joins the Discord",                                          "https://discordapp.com/channels/293291256736382976/308941610132045824/658148011809046528"),
+  EVENT(22,  5,  6, DISCORD,   "OWI_Katie joins the Discord",                                               "https://discord.com/channels/293291256736382976/293291256736382976/989461444816936970"),
   EVENT(22,  5, 23, DISCORD,   "A new role system is introduced on the Discord",                            NULL),
   EVENT(22, 10,  6, DISCORD,   "'OddworldTober' - an Inktober-themed event begins",                         "https://cdn.discordapp.com/attachments/877259231819100200/1027542396138954873/OddworldTober-16x9.png"),
+  EVENT(23,  5, 25, DISCORD,   "The Oddworld brand account joins the Discord",                              "https://discord.com/channels/293291256736382976/877482197337124864/1111324070122889306"),
 
   /* DISCODDCHAT */
   EVENT(22,  3, 12, DISCORD,   "Discoddchat 1. - Creating Oddworld",         "https://anchor.fm/oddworldinc/episodes/Oddworld-DiscoddChat---Episode-1--Creating-Oddworld-e1ftc4u"),
@@ -224,14 +234,16 @@ const struct EVENT event_list[] = {
   EVENT(22,  7, 25, DISCORD,   "Discoddchat 5. - The Wildlife",              "https://anchor.fm/oddworldinc/episodes/Oddworld-DiscoddChat---Episode-2--Exploring-Mudos-Part-1-e1iuqmc"),
   EVENT(22,  9,  2, DISCORD,   "Discoddchat 6. - Creating a Protagonist",    "https://anchor.fm/oddworldinc/episodes/Oddworld-DiscoddChat---Episode-2--Exploring-Mudos-Part-1-e1iuqmc"),
   EVENT(22, 10, 11, DISCORD,   "Discoddchat 7. - What lies beneath...",      "https://anchor.fm/oddworldinc/episodes/Oddworld-DiscoddChat---Episode-2--Exploring-Mudos-Part-1-e1iuqmc"),
+  EVENT(22, 10, 31, DISCORD,   "Discoddchat 8. - Ask Lorne Anything!",       "https://podcasters.spotify.com/pod/show/oddworldinc/episodes/Oddworld-DiscoddChat---Episode-8--Ask-Lorne-Anything-e1q18ej"),
 
   /* KILLED */
-  EVENT(19,  4, 24, KILLED,    "Lost Archives ends",                                                        "https://www.instagram.com/p/Bwpif1ElJwF/"),
-  EVENT(19,  6,  1, KILLED,    "The Oddwall gets shelved",                                                  NULL),
-  EVENT(19,  8, 14, KILLED,    "The ARG goes into silence.",                                                NULL),
-  EVENT(19,  9, 23, KILLED,    "22nd anniversary series abruptly ends",                                     NULL),
-  EVENT(19, 11, 20, KILLED,    "21st anniversary series abruptly ends",                                     NULL),
-  EVENT(21,  1, 22, KILLED,    "The 250 followers social media game is delayed indefinitely.",             "https://discordapp.com/channels/293291256736382976/308941610132045824/802289904348299364"),
+  EVENT(19,  4, 24, KILLED,    "Lost Archives ends",                                           "https://www.instagram.com/p/Bwpif1ElJwF/"),
+  EVENT(19,  6,  1, KILLED,    "The Oddwall gets shelved",                                     NULL),
+  EVENT(19,  8, 14, KILLED,    "The ARG goes into silence",                                    NULL),
+  EVENT(19,  9, 23, KILLED,    "22nd anniversary series abruptly ends",                        NULL),
+  EVENT(19, 11, 20, KILLED,    "21st anniversary series abruptly ends",                        NULL),
+  EVENT(21,  1, 22, KILLED,    "The 250 followers social media game is delayed indefinitely.", "https://discordapp.com/channels/293291256736382976/308941610132045824/802289904348299364"),
+  EVENT(23,  7, 31, KILLED,    "The Oddcast is delayed indefinitely",                          "https://discord.com/channels/293291256736382976/951928620614574080/1135524254658613268"),
   
   /* PATCHES */
   EVENT(21,  4,  7, PATCH,      "Patch 1.05", "https://www.oddworld.com/2021/04/oddworld-soulstorm-1-05-patch-now-available/"),
@@ -260,6 +272,16 @@ const struct EVENT event_list[] = {
   EVENT(22,  5, 27, TWITCH,     "OWI streams Soulstorm: EE on Twitch",    "https://www.twitch.tv/officialoddworldinc"),
   EVENT(22,  6, 13, TWITCH,     "Bennie Terry livestream on Twitch",      "https://www.twitch.tv/officialoddworldinc"),
   EVENT(22,  7, 14, TWITCH,     "OWI streams Soulstorm: EE on Twitch",    "https://www.twitch.tv/officialoddworldinc"),
+
+  EVENT(23, 3, 22, TWITCH, "FriendshipFriday #1 - Psychonauts", "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(23, 3, 31, TWITCH, "FriendshipFriday #2 - Psychonauts", "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(23, 4, 20, TWITCH, "FriendshipFriday #3 - Psychonauts", "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(23, 4, 27, TWITCH, "FriendshipFriday #4 - Psychonauts", "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(23, 5,  5, TWITCH, "FriendshipFriday #5 - Psychonauts", "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(23, 5, 12, TWITCH, "FriendshipFriday #6 - Psychonauts", "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(23, 5, 26, TWITCH, "FriendshipFriday #7 - Psychonauts", "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(23, 6,  2, TWITCH, "FriendshipFriday #8 - Psychonauts", "https://www.twitch.tv/officialoddworldinc"),
+  EVENT(23, 6,  9, TWITCH, "FriendshipFriday #9 - Psychonauts", "https://www.twitch.tv/officialoddworldinc"),
 };
 
 const unsigned long NUM_OF_EVENTS = sizeof(event_list)/sizeof(struct EVENT);
@@ -292,7 +314,7 @@ int main(void) {
   printf(header, date, date, NUM_OF_EVENTS);
 
   //if (0)
-  for (int year = 16; year <= 22; year++) {
+  for (int year = 16; year <= 23; year++) {
     printf("<div class='year'>\n");
     printf("<h2>20%d</h2>\n", year);
     printf("<div>\n");
