@@ -1,5 +1,5 @@
 ---
-title: "[SPOILERS!] Soulstorm's achievements"
+title: "Soulstorm's achievements"
 summary: Discussing Soulstorm's recently leaked achievements.
 ---
 
