@@ -1,5 +1,5 @@
 ---
-title: "[SPOILER] The Transcript of Soulstorm's Cutscenes"
+title: "The Transcript of Soulstorm's Cutscenes"
 summary: In case you wanted to quote something quickly.
 ---
 
