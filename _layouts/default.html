@@ -27,11 +27,11 @@
           <img src="/logo.webp" alt="Oddwords Logo">
         </a>
         <h1><a href="/index.html">Oddwords</a></h1>
-        <p>Written at {{page.date | date: "%Y.%m.%d." }} / Words: {{ page.content | number_of_words }}</p>
+        <p>[Published at {{page.date | date: "%Y.%m.%d." }}] [{{ page.content | number_of_words }} words]</p>
       </div>
     </header>
 
-    <main>
+    <main class="content-grid">
       {{ content }}
 
       <div id="navigation">
