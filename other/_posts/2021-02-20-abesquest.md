@@ -1,6 +1,7 @@
 ---
 title: Abe's Quest
 summary: The most absurd Oddworld game you have never heard of before.
+tags: ["spec"]
 ---
 
 # Abe's Quest
