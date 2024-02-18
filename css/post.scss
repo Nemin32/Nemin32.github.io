@@ -16,22 +16,12 @@ main > p:first-of-type::first-letter {
 }
 
 main {
-  //width: var(--width);
-  //max-width: 100%;
-
   text-rendering: optimizelegibility;
   font-kerning: normal;
   hyphens: auto;
 
-  & > * {
-    margin-left: auto;
-    margin-right: auto;
-  }
-
   h1 {
-    // text-align: center;
     display: block;
-    width: var(--width);
 
     margin-bottom: 0;
 
@@ -92,7 +82,7 @@ main {
   }
 
   ul {
-    width: var(--width);
+    // width: var(--width);
   }
 
   li {
@@ -105,7 +95,7 @@ main {
   }
 
   p {
-    width: var(--width);
+    // width: var(--width);
     max-width: 100%;
 
     margin-top: 0.5rem;
@@ -117,7 +107,7 @@ main {
     display: block;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
-    max-width: var(--width);
+    // max-width: var(--width);
   }
 
   img {
@@ -152,14 +142,18 @@ main {
   }
 
   blockquote {
-    width: var(--width);
+    // width: var(--width);
     font-family: "Merriweather";
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     font-style: italic;
+
+    &>* {
+    line-height: 1.85;
+    }
 
     li,
     p {
-      font-weight: 300;
+      font-weight: 400;
     }
 
     a,strong {
@@ -174,15 +168,9 @@ main {
     a:first-child {
       background: var(--link-color);
       color: var(--background);
-      padding: 0.1rem 0.25rem;
+      padding: 0.1rem 0.3rem;
+      margin-right: 0.1rem;
     }
-
-    /*
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    padding-left: 0.2rem;
-    padding-right: 0.5rem;
-    */
 
     padding-top: 0.25rem;
     padding-bottom: 0.25rem;
@@ -213,7 +201,7 @@ main {
 
   .highlighter-rouge {
     max-width: 95%;
-    width: var(--width);
+    // width: var(--width);
     overflow: auto;
     background: #272822;
   }
@@ -228,7 +216,7 @@ main {
 }
 
 #navigation {
-  width: var(--width);
+  // width: var(--width);
   max-width: 95%;
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -255,7 +243,7 @@ main {
   justify-content: center;
 
   & > div {
-    width: var(--width);
+    // width: var(--width);
   }
 
   ul {

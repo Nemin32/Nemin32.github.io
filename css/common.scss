@@ -37,18 +37,48 @@ body {
   color: var(--font-color);
 }
 
-main {
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
+// https://codepen.io/kevinpowell/pen/ExrZrrw
+.content-grid {
+  --padding-inline: 0.5rem;
+
+  --content-width: 900px;
+  --quote-width: 850px;
+
+  --content-size: calc(
+    (var(--content-width) - var(--quote-width)) / 2
+  );
 
   display: grid;
-  grid-template-columns: auto var(--width) auto;
-
-  & > * {
-    grid-column-start: 2;
-  }
+  grid-template-columns:
+    [full-width-start] minmax(var(--padding-inline), 1fr)
+    [content-start] minmax(0, var(--content-size))
+    [quote-start] min( 100% - (var(--padding-inline) * 2), var(--quote-width)) [quote-end]
+    minmax(0, var(--content-size)) [content-end]
+    minmax(var(--padding-inline), 1fr) [full-width-end];
 }
+
+.content-grid > :not(.breakout, .full-width, blockquote),
+.full-width > :not(.breakout, .full-width) {
+  grid-column: content;
+}
+
+.content-grid > .breakout, .content-grid > blockquote {
+  grid-column: quote;
+}
+
+.content-grid > .full-width {
+  grid-column: full-width;
+
+  display: grid;
+  grid-template-columns: inherit;
+}
+
+img.full-width {
+  width: 100%;
+  max-height: 45vh;
+  object-fit: cover;
+}
+
 
 #lightswitch {
   font-size: 2rem;
