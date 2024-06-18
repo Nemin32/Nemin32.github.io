@@ -1,7 +1,11 @@
 ---
 title: "Lunar Eclipse"
-summary: "A short horrror fanfic"
+summary: "Queen Margaret learns the truth - A short horrror fanfic."
 ---
+
+# Lunar Eclipse
+
+{% include caption.html url="/imgs/trial/main.jpg" description="" %}
 
 Light slowly flooded into the dark room as the rusty metal gates slowly parted. It was already uncomfortably warm in the antechamber outside, but the heat inside was almost boiling. Margaret peered inside in disgust, the many flabs of her already-sagging body squelching from the sweat. She reached forward and pressed a button on her harness with a grunt. The railing on the ceiling whined as a pitiful engine began to propel her forward slowly, bringing the chair-bound Queen deeper and deeper into the vile sanctum in front of her.
 
@@ -61,7 +65,7 @@ For the first time, Margaret's eyes glinted and her greed shone through her fear
 
 "Of course, bu---"
 
-"PROMISE ME," Gertrude's booming voice nearly cracked the glass tube as she screamed. A machine nearby began to loudly hiss, flooding the tube with cooling agents to cool the matriarch's burning body down.
+"**PROMISE ME,**" Gertrude's booming voice nearly cracked the glass pane as she screamed. A machine nearby began to loudly hiss, flooding the tube with cooling agents to cool the matriarch's burning body down.
 
 Margaret took a ragged breath, suddenly feeling cold in the chamber's inferno. She remained silent for a few seconds, before quietly saying, "I promise, Great-Grandmother."
 
