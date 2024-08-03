@@ -1,0 +1,40 @@
+img {
+  max-width: min(100%, 1000px);
+  margin: 1rem auto;
+  display: block;
+}
+
+h1 + .figure_box, h2 + .figure_box {
+  float: right;
+  margin-left: 2rem;
+}
+
+.figure_box figure {
+  display: table;
+  margin: 1rem auto;
+
+  figcaption {
+    text-align: center;
+    font-size: 0.9em;
+    padding-top: 0.5em;
+
+    display: table-caption;
+    caption-side: bottom;
+
+    opacity: 0.8;
+
+    p {
+      width: inherit;
+      margin: 0;
+    }
+  }
+}
+
+iframe, video {
+  margin: 1rem auto;
+  display: block;
+}
+
+p, li {
+  line-height: 1.5;
+}
