@@ -16,12 +16,12 @@ summary: "Another fandom activity report"
 {% include caption.html url="/imgs/stateofthefandom/mom.png" description="\"Top management reports
 everything's gonna be fine! ... Uh-huh.\"" %}
 
+- TOC
+{:toc}
+
 Happy belated new year! Now that the _Enahnced Edition_ of _Soulstorm_ had been released, it's a bit
 of a slow-season when it comes to _Oddworld_-content. With that in mind, I'd like to take the
 opportunity to make a small tally about how each individual community of the fanbase is holding up.
-
-- TOC
-{:toc}
 
 ## Social Media
 
