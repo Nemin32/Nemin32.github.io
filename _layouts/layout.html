@@ -1,0 +1,118 @@
+{% if page.title and page.title.size > 0 %}
+{% capture title %} Oddwords: {{page.title}} {% endcapture }
+{% else %}
+{% assign title = "Oddwords" %}
+{% endif %}
+
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+  <head>
+    <!-- Meta -->
+    <meta charset="UTF-8">
+    <meta name="Description" content="Oddwords is a quasi-journalistic Oddworld fansite created by Nemin">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ title }}</title>
+
+    <style>
+      body[type="bright"] {
+        --highlight: #3f663bff;
+        --font-colour: #001524ff;
+        --background-colour: #F4FFF8;
+        --caput-mortuum: #63372cff;
+        --coral: #fc7a57ff;
+      }
+
+      body[type="dark"] {
+        --green: #3f663bff;
+        --background-colour: #001524ff;
+        --font-colour: #F4FFF8;
+        --caput-mortuum: #63372cff;
+        --highlight: #fc7a57ff;
+      }
+
+      body {
+        background-color: var(--background-colour);
+        color: var(--font-colour, #222);
+      }
+
+      a {
+        color: var(--highlight);
+        text-decoration: none;
+      }
+
+      header, main, footer {
+        width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      header {
+        display: flex;
+        justify-content: space-between;
+
+        border-bottom: 2px solid var(--font-colour);
+        padding: 1rem 0;
+
+        a {
+          color: var(--font-colour);
+        }
+      }
+
+      #logo_div {
+        display: flex;
+        align-items: end;
+        gap: 1rem;
+
+        h1, h2 {
+          margin: 0.2rem 0;
+        }
+      }
+
+      #header_info_div {
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+
+        p {
+          margin: 0.2rem;
+        }
+      }
+    </style>
+
+    <!-- OpenGraph stuff -->
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:description" content="{{ page.summary | default: "A fansite dedicated to Canon & Community." }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://oddwords.hu{{page.url}}">
+    <meta property="og:image" content="https://oddwords.hu/logo.webp">
+  </head>
+
+  <body type="bright">
+    <header>
+      <a href="/index.html">
+        <div id="logo_div">
+          <img src="/logo.webp" width="128px" height="128px">
+          <div>
+            <h1>Oddwords</h1>
+            <h2>"Of Canon and Community"</h2>
+          </div>
+        </div>
+      </a>
+
+      <div id="header_info_div">
+        {% if page.date %}
+        <p>Published at {{page.date | date: "%Y.%m.%d." }}</p> 
+        {% endif %}
+        <p>{{ page.content | number_of_words }} words</p>
+      </div>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+    </footer>
+  </body>
+</html>

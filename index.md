@@ -1,5 +1,4 @@
 ---
-layout: index_layout
 ---
 
 <div class="featured">

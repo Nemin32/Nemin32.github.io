@@ -3,7 +3,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "default"
+      layout: "layout"
 
 permalink: /:title/index.html
 
