@@ -1,5 +1,5 @@
 img {
-  max-width: min(100%, 1000px);
+  max-width: min(80%, 800px);
   margin: 1rem auto;
   display: block;
 }
@@ -37,4 +37,9 @@ iframe, video {
 
 p, li {
   line-height: 1.5;
+}
+
+code, pre {
+  max-width: 100%;
+  overflow: auto;
 }
