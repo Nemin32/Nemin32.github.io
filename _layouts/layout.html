@@ -14,6 +14,7 @@
     <title>{{ title }}</title>
 
     <link rel="stylesheet" href="/css/style.css">
+    <script type="module" src="/assets/js/lightswitch.js"></script>
 
     <style>
       body[type="bright"] {
@@ -89,6 +90,7 @@
         display: flex;
         flex-direction: column;
         justify-content: end;
+        align-items: end;
 
         p {
           margin: 0.2rem;
@@ -130,6 +132,7 @@
         <p>Published at {{page.date | date: "%Y.%m.%d." }}</p> 
         {% endif %}
         <p>{{ page.content | number_of_words }} words</p>
+        <a href="#" id="lightswitch" alt="Switch colourscheme." style="visibility: hidden;"></a>
       </div>
     </header>
 

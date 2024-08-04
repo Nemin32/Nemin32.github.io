@@ -6,23 +6,20 @@ const switchPalette = (light) => {
   }
 }
 
-let light = localStorage.getItem("light");
-
-if (light == null)
-  light = "true";
-
-light = (light == "true")
+let light = Boolean(localStorage.getItem("light") ?? "true");
 
 switchPalette(light)
 
 window.addEventListener("load", () => {
-  let lightswitch = document.getElementById("lightswitch");
+  const lightswitch = document.getElementById("lightswitch");
   lightswitch.style.visibility = "visible"
+  lightswitch.innerText = `Switch to ${!light ? "🌞" : "🌙"}`;
 
   switchPalette(light)
 
   lightswitch.addEventListener("click", () => {
     light = !light
+    lightswitch.innerText = `Switch to ${!light ? "🌞" : "🌙"}`;
     switchPalette(light)
     localStorage.setItem("light", light)
   })
