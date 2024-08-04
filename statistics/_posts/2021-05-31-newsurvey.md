@@ -167,22 +167,6 @@ The Standard Deviation on the other hand allows us to define ranges in which the
 
 This means that people have cast their votes this way:
 
-<style>
-    table {
-        background: var(--html-bg);
-        border: 1px solid var(--font-color);
-    }
-
-    table td, table th {
-        padding: 0.3rem;
-        border: 1px solid var(--border-color);
-    }
-
-    table tfoot {
-        font-weight: 700;
-    }
-</style>
-
 <table class="colored">
 <thead>
   <tr><th>Percentage</th><th colspan=2>68%</th><th colspan=2>95%</th><th colspan=2>~100%</th></tr>

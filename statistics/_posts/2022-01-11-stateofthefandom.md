@@ -170,21 +170,6 @@ Without further ado, here are the results:
 (Oddworld Adventures, Oddworld Adventures II, The Hand of Odd, and Sligstorm have received one vote
 each as well.)
 
-<style>
-    table, th, td {
-        border: 1px solid var(--font-color);
-    }
-
-    th {
-        background: var(--header-bg);
-        color: white;
-    }
-
-    th, td {
-        padding: 0.5rem;
-    }
-</style>
-
 As one can see [time](/newsurvey) and [time](/swgiveaway) (and [time](/survey)) again, Exoddus still
 reigns supreme, followed by the others in almost always the same order. Soulstorm seems to have
 failed to budge the original's status as the most beloved installation in the series.
