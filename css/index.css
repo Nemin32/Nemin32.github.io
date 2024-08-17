@@ -1,0 +1,69 @@
+.category {
+  li {
+    list-style-type: none;
+    margin-bottom: 1.5rem;
+
+    .link {
+      font-size: 1.25rem;
+      margin: 0;
+    }
+
+    .date {
+      font-size: 1rem;
+      color: var(--font-colour);
+    }
+
+    .content {
+      font-size: 1.1rem;
+      margin: 0.5rem 0; 
+      color: var(--font-colour);
+    }
+  }
+}
+
+.featured {
+  li {
+    list-style-type: none;
+    margin: 1.5rem 0;
+
+    p {
+      margin: 0.5rem 0;
+    }
+
+    .title {
+      font-size: 1.25rem;
+    }
+
+    .content {
+      font-size: 1.1rem;
+      color: var(--font-colour);
+    }
+
+    a>div {
+      display: flex;
+      gap: 0.5rem;
+    }
+  }
+
+  img {
+    width: 176px;
+    height: 176px;
+    margin: 0;
+  }
+
+  @media screen and (orientation: portrait) {
+    & ul {
+      padding: 0;
+    }
+
+    img {
+      width: 240px;
+      height: 240px;
+      align-self: center;
+    }
+
+    & li a>div {
+      flex-direction: column;
+    }
+  }
+}
