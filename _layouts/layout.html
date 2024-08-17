@@ -73,6 +73,18 @@
         a {
           color: var(--font-colour);
         }
+
+  @media screen and (orientation: portrait) {
+        & {
+          flex-direction: column;
+        }
+
+        #header_info_div {
+          justify-content: baseline;
+          align-items: baseline;
+          margin-top: 2rem;
+        }
+  }
       }
 
       #logo_div {

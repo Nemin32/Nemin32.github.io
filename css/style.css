@@ -1,3 +1,4 @@
+main {
 img {
   max-width: min(80%, 800px);
   margin: 1rem auto;
@@ -75,4 +76,5 @@ table {
   tr:nth-child(even) {
     background-color: var(--quote-colour);
   }
+}
 }
