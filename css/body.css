@@ -29,6 +29,7 @@ img {
 iframe, video {
   margin: 1rem auto;
   display: block;
+  max-width: min(100%, 800px);
 }
 
 p, li {
