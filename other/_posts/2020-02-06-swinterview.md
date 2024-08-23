@@ -4,8 +4,6 @@ summary: "One of Stranger's Wrath's game- and narrative desginers shares his tho
 tags: ["spec"]
 ---
 
-<link rel="stylesheet" href="/css/interview.css">
-
 # Interview with David Fried
 {:.no_toc}
 

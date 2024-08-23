@@ -3,13 +3,6 @@ title: "The Fly and the Worm"
 summary: "A short story about two unlikely creatures meeting underground."
 ---
 
-<style>
-p {
-font-size: 24px;
-hyphens: none;
-}
-</style>
-
 # The Fly and the Worm
 
 > **Disclaimer:** I've written this story several years ago and never
