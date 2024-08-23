@@ -9,6 +9,8 @@ summary: "A long-form essay/critique about Munch's Oddysee"
 	flex-direction: row;
 	justify-content: center;
 	max-width: 800px;
+
+	margin: 0 auto;
 }
 
 .showcase img {

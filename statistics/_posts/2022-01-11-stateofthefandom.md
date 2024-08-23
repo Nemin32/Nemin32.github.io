@@ -16,12 +16,12 @@ summary: "Another fandom activity report"
 {% include caption.html url="/imgs/stateofthefandom/mom.png" description="\"Top management reports
 everything's gonna be fine! ... Uh-huh.\"" %}
 
+- TOC
+{:toc}
+
 Happy belated new year! Now that the _Enahnced Edition_ of _Soulstorm_ had been released, it's a bit
 of a slow-season when it comes to _Oddworld_-content. With that in mind, I'd like to take the
 opportunity to make a small tally about how each individual community of the fanbase is holding up.
-
-- TOC
-{:toc}
 
 ## Social Media
 
@@ -169,21 +169,6 @@ Without further ado, here are the results:
 
 (Oddworld Adventures, Oddworld Adventures II, The Hand of Odd, and Sligstorm have received one vote
 each as well.)
-
-<style>
-    table, th, td {
-        border: 1px solid var(--font-color);
-    }
-
-    th {
-        background: var(--header-bg);
-        color: white;
-    }
-
-    th, td {
-        padding: 0.5rem;
-    }
-</style>
 
 As one can see [time](/newsurvey) and [time](/swgiveaway) (and [time](/survey)) again, Exoddus still
 reigns supreme, followed by the others in almost always the same order. Soulstorm seems to have
