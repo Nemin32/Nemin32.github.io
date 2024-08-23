@@ -6,7 +6,7 @@ const switchPalette = (light) => {
   }
 }
 
-let light = Boolean(localStorage.getItem("light") ?? "true");
+let light = (localStorage.getItem("light") ?? "true") === "true";
 
 switchPalette(light)
 

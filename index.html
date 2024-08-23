@@ -16,7 +16,7 @@ title: "Index"
   {% assign posts = site.tags.spec %}
 
   <h1>Featured posts</h1>
-  <ul class="buttons">
+  <ul class="trio">
     {% assign sides = "history,swinterview,mapinterview" | split: ',' %}
     {% for side in sides %}
     {% assign post = posts | where:"slug", side | first %}
@@ -25,7 +25,7 @@ title: "Index"
   </ul>
 
   <h1>Featured Non-Oddwords Oddworld Content</h1>
-  <ul class="buttons">
+  <ul class="four">
     {% include index_featured_offsite_item.html thumb="escaperf.webp" title="Escape from RuptureFarms 1029" description="A Text-Adventure Game by Nemin" url="/game" %}
     {% include index_featured_offsite_item.html thumb="relive.webp" title="R.E.L.I.V.E." description="Abe's Oddysee and Exoddus on modern systems" url="https://aliveteam.github.io/" %}
     {% include index_featured_offsite_item.html thumb="mom.webp" title="The Magog on the March" description="An Independent Source of Everything Oddworld" url="https://magogonthemarch.wordpress.com" %}
@@ -33,7 +33,7 @@ title: "Index"
   </ul>
 
   <h1>Resources</h1>
-  <ul class="buttons">
+  <ul class="four">
     {% assign sides = "guide,timeline,foundarchives,pgyft" | split: ',' %}
     {% for side in sides %}
     {% assign post = posts | where:"slug", side | first %}
@@ -43,7 +43,7 @@ title: "Index"
   </ul>
 
   <h1>Cut content</h1>
-  <ul class="buttons">
+  <ul class="four">
     {% assign sides = "miodd,abesquest,unreleased,squeek" | split: ',' %}
     {% for side in sides %}
     {% assign post = posts | where:"slug", side | first %}

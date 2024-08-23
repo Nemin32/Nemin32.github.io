@@ -67,3 +67,53 @@
     }
   }
 }
+
+ul.trio {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2rem;
+
+  li a div {
+    display: flex;
+    flex-direction: column;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  @media screen and (orientation: portrait) {
+    & {
+      display: block;
+    }
+  }
+}
+
+ul.four {
+  display: flex;
+  flex-wrap: wrap;
+
+  img {
+    aspect-ratio: 1 / 1;
+
+    height: auto;
+  }
+
+  li {
+    flex-basis: 50%;
+  }
+}
+
+.rest ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+
+  @media screen and (orientation: portrait) {
+    & {
+      display: block;
+      padding-left: 0.5rem;
+    }
+  }
+}
