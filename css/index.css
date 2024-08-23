@@ -1,3 +1,9 @@
+main a {
+  font-variant: normal;
+  font-size: 1rem;
+  text-transform: none;
+}
+
 .category {
   li {
     list-style-type: none;
