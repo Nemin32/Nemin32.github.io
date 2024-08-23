@@ -29,6 +29,9 @@ body {
 a {
   color: var(--highlight);
   text-decoration: none;
+  font-variant: small-caps;
+  font-size: 1.35rem;
+  text-transform: lowercase;
 
   font-family: "Platypi", serif;
 }
@@ -38,7 +41,7 @@ h1,h2,h3,h4,h5 {
 }
 
 header, main, footer {
-  width: 1200px;
+  width: 1000px;
   max-width: 95vw;
 
   margin-left: auto;
