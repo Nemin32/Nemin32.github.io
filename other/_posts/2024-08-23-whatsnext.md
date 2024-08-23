@@ -1,6 +1,6 @@
 ---
 title: "What comes next?" 
-summary: "Summarizing the state of Oddworld and the people involved in it."
+summary: "Summarizing what we know of the next Oddworld and OWI-related projects."
 ---
 
 # What comes next?
@@ -17,15 +17,15 @@ The earliest "direct" confirmation we've had about OWI working on something was 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V6QxUby3wD4?si=Jcpf_uxXYhEaQGUK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-> **Ashley Hackett:** Is there anything going in the Oddworld studio? Like, are you guys creating the new installment? Are you guys working on something new?
+> **Ashley Hackett:** Is there anything going in the Oddworld studio? Like, are you guys creating the new instalment? Are you guys working on something new?
 >
 > **Bennie Terry III:** Definitely working on something. Right, I'm nodding my head a lot, because there's, you know, "yes"-es to a lot of that. I can't speak to specifically what it is, what genre it is, what style of play, but what I can say is that there's something really cool, that has a unique visual signature to it, that is Oddworld through and through, but builds from character first.
 
-He also went on to mention, that the team is aware of the fact that it's very tight-lipped right now and that "there's going to be some more openess about things in the next coming months" and that they'd "try to build a more inclusive environment that allows [their] fans to have a voice."
+He also went on to mention, that the team is aware of the fact that it's very tight-lipped right now and that "there's going to be some more openness about things in the next coming months" and that they'd "try to build a more inclusive environment that allows [their] fans to have a voice."
 
 However, he also refused to go into details, citing the fact that old interviews with Lorne Lanning ended up being picked to pieces five years later which "bit him in the ass."
 
-Either way, despite the promise of openness, no direct announcement has been made since, nor has the public been more involved. The closest thing we have to more info being shared are the various [Poddcasts](https://anchor.fm/oddworldinc) and the #AskLorne Tweets, which are part of a multi-week Q&A session with Lanning.
+Either way, despite the promise of transparency, no direct announcement has been made since, nor has the public been more involved. The closest thing we have to more info being shared are the various [Poddcasts](https://anchor.fm/oddworldinc) and the #AskLorne Tweets, which are part of a multi-week Q&A session with Lanning.
 
 Since then I occasionally asked members of OWI in private messages, about whether they're working on a new game. Obviously they couldn't tell me anything, but both of them confirmed that the "team is very busy", which at the very least implies that the company isn't in a vegetative state like during the early 2000s after Stranger's Wrath.
 
@@ -55,7 +55,7 @@ Thankfully both of these trademarks are now expired and the company's other (sti
 
 Speaking of these still active trademarks, there's two---not counting the one for the name "Scattered Brains" itself. The former is "[DEDEX](https://furm.com/trademarks/dedex-98402505)", which is currently in its earliest state of submission and is therefore likely either a canned or future project. The other, more interesting one is titled "[Planet of the Pests](https://furm.com/trademarks/planet-of-the-pests-97492779)", which is at the time of writing marked "pending for opposition," which is legalese for "object now or forever hold your peace," i.e. the final period before a trademark can be activated fully.
 
-Not only that, but in May, 2024, I [noticed](https://reddit.com/r/oddworld/comments/1cmi07j/planet_of_the_pests_might_be_the_title_of/) that Bennie Terry III was actually playtesting / working on a development build of the game, making it the closest we have to a physical confirmation of the existence of a new OWI-related game.
+Not only that, but in May, 2024, I [noticed](https://reddit.com/r/oddworld/comments/1cmi07j/planet_of_the_pests_might_be_the_title_of/) that Bennie Terry III was actually play-testing / working on a development build of the game, making it the closest we have to a physical confirmation of the existence of a new OWI-related game.
 
 {% include caption.html url="/imgs/whatsnext/potp.png" description="The full window title is: 'Potp (64-bit Development PCD3D_SM6)', letting us know this is an Unreal Engine game." %}
 
