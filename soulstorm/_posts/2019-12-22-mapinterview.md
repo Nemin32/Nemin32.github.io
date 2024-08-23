@@ -4,8 +4,6 @@ summary: The author of the new Mudos-map found in Abe's Origins shares her exper
 tags: ["spec"]
 ---
 
-<link rel="stylesheet" href="/css/interview.css">
-
 # Nemin interviews Sammi McEwan
 
 {% include caption.html url="/imgs/sammi_stranger.jpg" description='<center>© <a href="https://www.artstation.com/artwork/xzOnDr">Sammi McEwan</a>, used with permission</center>' %}

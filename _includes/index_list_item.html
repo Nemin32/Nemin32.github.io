@@ -1,0 +1,11 @@
+<li>
+  <a href="{{ include.post.url }}">
+    <div>
+    <p title="{{ include.post.title }}" class="link">
+      <span class="date">[{{ include.post.date | date: "%Y.%m.%d." }}]</span>
+      {{ include.post.title }}
+    </p>
+    <p class="content"> {{ include.post.summary }} </p>
+    </div>
+  </a>
+</li>

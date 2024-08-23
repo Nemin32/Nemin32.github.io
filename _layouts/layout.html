@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+  <head>
+    <!-- Meta -->
+    <meta charset="UTF-8">
+    <meta name="Description" content="Oddwords is a quasi-journalistic Oddworld fansite created by Nemin">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+    {% capture title %} Oddwords: {{page.title}} {% endcapture %}
+    <title>{{ title }}</title>
+
+    <link rel="stylesheet" href="/css/common.css">
+    <link rel="stylesheet" href="/css/body.css">
+    <script type="module" src="/assets/js/lightswitch.js"></script>
+    <script type="module" src="/assets/js/progress.js"></script>
+
+    <!-- OpenGraph stuff -->
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:description" content="{{ page.summary | default: "A fansite dedicated to Canon & Community." }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://oddwords.hu{{page.url}}">
+    <meta property="og:image" content="https://oddwords.hu/logo.webp">
+  </head>
+
+  <body type="bright">
+    <div class="progress"></div>
+
+    <header>
+      <a href="/index.html">
+        <div id="logo_div">
+          <img src="/logo.webp" width="128px" height="128px">
+          <hgroup>
+            <h1>Oddwords</h1>
+            <p>"Of Canon and Community"</p>
+          </hgroup>
+        </div>
+      </a>
+
+      <div id="header_info_div">
+        {% if page.date %}
+        <p>Published at {{page.date | date: "%Y.%m.%d." }}</p> 
+        {% endif %}
+        <p>{{ page.content | number_of_words }} words</p>
+        <a href="#" id="lightswitch" alt="Switch colourscheme." style="visibility: hidden;"></a>
+      </div>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <p>Created by <a href="https://reddit.com/u/Nemin32">Nemin</a> (2018 - 2024)</p>
+    </footer>
+  </body>
+</html>
