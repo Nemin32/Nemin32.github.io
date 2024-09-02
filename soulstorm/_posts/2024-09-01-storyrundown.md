@@ -8,17 +8,19 @@ summary: "A critique/review of Soulstorm's plot"
 
 It's been over three years since Soulstorm dropped and while I have quite a few posts related to the game, if you were following the site, you may have noticed that I never made anything even remotely similar to a game and/or story review.
 
-Truth be told, this isn't because I didn't try. The platform I host this site records all edits and I can count at least three if not four drafts I've written over the years (as early as the week after release) where I tried reviewing Soulstorm. Each and every single time I failed. 
+Truth be told, this isn't because I didn't try. The platform I host this site records all edits and I can count at least three if not four drafts I've written over the years (as early as the week after release) where I tried reviewing Soulstorm. Some of these were only a couple hundred words, some thousands, resembling more mad rants than coherent, well-argued posts. Unsurprisingly, each and every one of these failed to live up to the standards I try to keep, so they never saw the light of day
 
-The reason? Scope.
+The reason for this? *Scope.*
 
-It's extremely hard to find a good angle of attack when it comes to the game. Not because there's nothing to criticize, but because it's hard to do it in a way that doesn't sound like I'm merely spewing hate indiscriminately. So I decided to focus only on the story in this post and even there not all of it, just stuff I find noteworthy in the following ways from least to most severe:
+It's extremely hard to find a good angle of attack when it comes to the game. Not because there's nothing to criticize, but because it's hard to do it in a way that doesn't sound like I'm merely spewing hate indiscriminately. Consider Shugendo's [excellent video](https://www.youtube.com/watch?v=smIGZcXEVEQ) about Soulstorm's bugs for instance---it's not necessarily even an exhaustive collection, yet it's over an hour long. I shudder to think how long an article would be that handles not only gameplay, but lore too.
+
+So, with this in mind, I decided to put a constructive limit on myself and focus only on the story in this post and even there not all of it, just stuff I find noteworthy in the following ways from least to most severe:
 
 - **Praise:** Something I consider the story doing especially well.
 - **Nitpick:** A minor issue that either doesn't seriously bother me or something I assume would completely fly over anyone else's head.
 - **Missed opportunity:** A scene that isn't necessarily bad per se, but it could have been so much more with reasonable changes.
-- **Unfixable without retcon:** A scene that could not be fixed without retconning (retroactively changing a past game's canon).
-- **Fundamental flaw:** An unfixable issue that I think fundamentally harms the story in some way, severely lessening its appeal.
+- **Unfixable without retcon:** An issue in a scene that could not be fixed without retconning (retroactively changing a past game's canon).
+- **Fundamental flaw:** An issue like above whose addition I think fundamentally harms the story in some way, severely lessening its appeal.
 
 Even with this restriction the post ended up being quite long, but I hope you'll enjoy it and maybe even agree on some stuff with me.
 
@@ -31,15 +33,17 @@ Even with this restriction the post ended up being quite long, but I hope you'll
 
 **Type:** Missed opportunity
 
-Immediately at the start, one of the biggest negative surprises the game presented to me was the fact that, despite appearing on concept art and despite [having been planned](https://twitter.com/OddworldInc/status/1026744486079160320?s=19) as a location during the development of AE, RuptureFarms never once appears in-game as either a playable or cutscene location.
+Immediately at the start, one of the biggest negative surprises the game pulled was the fact that---despite appearing on concept art and [having been planned](https://twitter.com/OddworldInc/status/1026744486079160320?s=19) as a location during the development of AE---RuptureFarms never once appears in-game as either a playable, cutscene location, or even just a still image (no, the miniatures in the newspapers don't count).
 
-It's not that the interviews don't technically tell us what happened, but I think it's a huge missed opportunity that they kept the ruins off-screen. Imagine, if instead of opening with the newspaper slide-show, the following scene played out:
+It's not that the game doesn't tell us what happened (Abe, Molluck, and the other characters mention the farm burning down plenty), but I think it's a huge missed opportunity that they kept the ruins off-screen. Imagine, if instead of opening with the newspaper slide-show, the following scene played out:
 
 {% include caption.html url="/imgs/storyrundown/intro.png" description="Credit: [Fuzzle Guy](https://discord.com/channels/164770326943760386/309087612419833866/1277310745981358174)" %}
 
 This way we would have both seen the "source" of what led to Molluck becoming a fugitive and could have introduced a future-game opportunity for Cartel higher-ups to actually already know and plot against Abe if he proves too successful.
 
-Instead what we got was an awkward slide-show, which you can't even read at your own leisure, as the video pans and switches between scenes wildly to a pumping yet somehow also droning beat, which never quite seems to reach its crescendo. Obviously there's enough time to get the gist, but it still feels weird, that if they wanted to go with this newspaper angle either for budgetary or stylistic reasons, why not give control to the player? Those who don't care could just skip it this way and those who very much do (which I assume are most players of the game) could soak in the info and enter the game immersed in the background.
+Instead what we got was an awkward slide-show, which you can't even read at your own leisure, as the video pans and switches between scenes wildly to a pumping yet somehow also droning beat, which never quite seems to reach its crescendo.
+
+Obviously there's enough time to get the gist, but it still feels weird, that if they wanted to go with this newspaper angle either for budgetary or stylistic reasons, why not give control to the player? Those who don't care could just skip it this way and those who very much do (which I assume are most players of the game) could soak in the info and enter the game immersed in the background.
 
 ## "Starring Abraham Lure as 'Abe'"
 
@@ -59,15 +63,19 @@ Yeah, as much as I don't think there will be many of these, I want to give prais
 
 While I'm not a huge fan of the way Toby and Alf act in the scene—in terms of movement and speech, I think they're overly-exaggerated, which turns an otherwise serious situation unintentionally comedic—starting the story before the final climax is a nice callback to Abe's Oddysee. It sets up the whole "depending on how well you do, the story will split"-angle and it gives a point in time to the player to look forward to.
 
-I do wish they emphasized the possibility of actually crashing into the Brewery, because until now this was never an issue. The major danger in the scene is the flying Sligs, whose effectiveness is kind of up in the air. They're completely unable to harm Alf or Toby, despite shooting straight at them, yet their bullets can also somehow penetrate across the train's hull.
+I do wish they emphasized the possibility of actually crashing into the Brewery, because until now this was never an issue in the story. The major danger in the scene is the flying Sligs, whose effectiveness is kind of up in the air. They're completely unable to harm Alf or Toby, despite shooting straight at them, yet their bullets can also somehow penetrate across the train's hull.
+
+What I imagine was the original intent is that since the security forces at the Brewery were meant to be Wolvarks, who are a lot more competent than Sligs, they would've put two and two together and ignored the Brewmaster's fit and just closed the gate when they realized Abe is most likely real and the runaway train heading towards them is most likely his doing.
 
 ## "12 Hours Earlier"
 
 **Type:** Missed opportunity
 
+{% include caption.html url="/imgs/storyrundown/twelvehours.png" description="You'd never guess how many hours passed between the two events." %}
+
 What I *think* the idea was with was to bridge over questions like "Why did nobody send investigators when the Mines / FeeCo stopped?", but with the Brew becoming deadly after 48 hours, I think it would've made a nice raising of stakes, if Abe's journey took (almost) two days.
 
-That way there could've been a good emotional opportunity where the trio had to argue about whether to keep the Brew to treat those most affected by it or use it to speed up the train and get faster to their destination.
+That way there could've been a good emotional opportunity where the trio had to argue about whether to keep the Brew to treat those most affected by it or use it to speed up the train and get faster to their destination. This kind of already happens, but by the time it becomes relevant we're already at the tail end of the story and it's hardly shown or implied that any Mudokons with Abe are suffering.
 
 In Exoddus, Abe's path took at least a few days: One day to get across the desert, about one day to get across Necrum and the Vaults, he gets into FeeCo during the late afternoon, the Barracks seem to be around noon as well, BoneWerkz is underground, so who knows, and by the end the day seems to be setting again when Abe reaches the Brewery.
 
@@ -111,6 +119,8 @@ This way Abe would have to still resign himself to the fact that he cannot save 
 
 Seriously, what was the point of this bloke? The designers and animators made an awesome character model... and then his entire purpose was to yap to Abe for two minutes, before he is crushed by debris, he could've easily sidestepped.
 
+{% include caption.html url="/imgs/storyrundown/shaman.png" description="Such a cool design, so quickly discarded..." %}
+
 This character fails the mentor role in all the ways BigFace---who's suspiciously absent from Soulstorm---didn't. While BigFace too sent Abe on dangerous and even deadly quests, he was also the first to jump to his aid when he truly needs it and the only Mudokon who still vouches for him, even when the others want him killed. He also fairly clearly tells Abe why he needs to do what he does and his guidance results in Abe becoming a stronger and more capable person, imbued with divine power. Also, BigFace would've sidestepped the logs, I'm convinced.
 
 I assume the point of the character is to face Abe with the reality of his situation, that he must grow into his role and also to provide us with the first hints of Abe still remembering Sam, but I think it ends up being a largely pointless scene. Neither Abe, nor the player receives any meaningful knowledge and it feels like not even the writers knew what to do with the character after this, as he is so unceremoniously and quickly killed off.
@@ -122,6 +132,8 @@ A much more natural way for this scene could've been if it is indeed BigFace, wh
 ## Where are the natives?
 
 **Type:** Unfixable without retcon
+
+{% include caption.html url="/imgs/storyrundown/natives.png" description="Did they vanish in the smoke that's all over this scene?" %}
 
 Okay, so Abe escaped with 300 Mudokons and then escapes from Monsaic with 300 Mudokons. So where are the others? The monks and slingshot wearing guards, those three tribal leaders who are so quick to sentence him to death? I just talked about him, but still, where's BigFace?
 
@@ -285,7 +297,7 @@ Unless, of course, because of the radio casts and whatnot that blares all over t
 
 This is another instance of this in the same cutscene. Fine, Toby knows how to operate a train, but he's also aware of where outdated tech is still used? Was that also in the manual?
 
-## A blast from the past
+## A Blast From the Past
 
 **Type:** Praise
 
@@ -375,7 +387,9 @@ Until now the answer was pretty simple: It doesn't. At least not in any way that
 
 But with this comment it's implied that Mudokons are attracted just like humans, which is bizarre, seeing how they never once had the opportunity to see a female member of their species. So it really feels to me like this whole situation was brought on the plot for the sake of a "lol, it's a woman!" kind of joke and it's a real shame if that's truly the reason.
 
----
+## Just Alf in General
+
+{% include caption.html url="/imgs/storyrundown/alf.png" description="'Who invited my man blud?'" %}
 
 **Type:** Missed opportunity
 
@@ -399,7 +413,7 @@ This leads to the unfortunate feeling that Abe is pretty much alone, despite bei
 
 Imagine if during levels you could see Alf sneak around or knock out a few Sligs in the background, maybe operate some machinery so you can pass. I understand that making him an interactable character that Abe could approach and talk to or whatnot is beyond the scope of the game, but the game demonstrates that these background actions are supported by the engine, only they're practically never used after the first few levels.
 
-## Old friends at FeeCo
+## Old Friends at FeeCo
 
 **Type:** Nitpick
 
@@ -413,7 +427,7 @@ But even with this in mind, I just don't see the why. Why would a Glukkon willin
 
 Either way, my issue is that the series never established that Mudokons work at several places in their lives and I wish there was at least a mention of it.
 
-## Meeting of the trio
+## Meeting of the Trio
 
 **Type:** Missed opportunity
 
@@ -427,9 +441,32 @@ While it is certainly a very unique choice to have the antagonists never even me
 
 The one I'm especially sad to see die like this is Morguer, who had the opportunity to be the Glukkon straight man and knock some sense into the others, since he didn't seem at all convinced by the cover up, but by the end he too was entirely on board and so all my interest dissipated as well.
 
+## The Brewmaster's Mean Green Brew Machine
+
+**Type:** Missed opportunity
+
+{% include caption.html url="/imgs/storyrundown/brewmachine.png" description="There's no way the alchemical symbols weren't shown for a reason here. You gotta wonder how he drew them though. Naked?" %}
+
+Such a cool machine... that gets zero noteworthy explanation. Evidently there's more going on. A mixer doesn't need to be a scary big head with lasers coming out of it and "just" making a deadly addictive concoction certainly shouldn't need magic like what the Brewmaster seems to ponder.
+
+
+{% include caption.html url="/imgs/brewing_pics/brewmaster_badge.jpg" description="'Royal Society Alchemic Science'" %}
+
+With the sigils shown off at [EGX 2017](/egx), I'm certain its actually meant to utilize some sort of black magic / occultism as a final ingredient, but none of this is ever elaborated on.
+
+## Abe just... leaves?
+
+**Type:** Unfixable without retcon
+
+I didn't really know where to put this, so I'll put it here. I find it so odd that Abe kind of just leaves all the places he goes through completely intact. While I understand he can't blow every single one of them up like in the olden days, it does leave a kind of nagging question behind: Why can't these facilities just be booted up again? I imagine even the Brewery could be reset to use the non-tainted formula again, which would severely thwart Abe's efforts.
+
+I think it would've worked much better if Abe somehow fundamentally sabotaged the factories he visits. Not just shut down communication lines, but pour Brew on them and burn it down. Not just rescue the Mudokons at FeeCo, but make trains run into each other. Not just walk through Necrum, but collapse a crane or two at least. All of these could have had both a symbolic and an actual physical boost to his nascent revolution, yet all he really does is free the workforce (potentially without even hurting the Sligs in the process.)
+
 ## The Slig Showdown
 
 **Type:** Praise
+
+{% include caption.html url="/imgs/storyrundown/the_goat2.png" description="His spine must be made out of metal to be able to carry the story this hard." %}
 
 I dig this scene, simple as. It's the strongest moment in the entire game for me, which is kind of funny seeing how the Pilot Slig is meant to be a secondary (maybe even tertiary?) antagonist, but it's true.
 
@@ -439,7 +476,15 @@ Seeing Molluck cowed and forced to negotiate was cathartic and the Slig banter i
 
 I really, *really* hope if the series continues, that the Pilot Slig's character won't be fumbled. I'm not sure what exactly makes Lanning write him so well (perhaps his military background?) but either way of everyone in this story, I really can't find much of a fault in him.
 
-## The Ending
+## The Bad Ending
+
+**Type:** Nitpick
+
+How the hell does Molluck kill the Pilot Slig? Is there some foot pedal that conveniently drops him out of the ship like in a Saturday morning cartoon?
+
+It's obviously a minor and inconsequential thing, but it's still such a bizarre moment, that I've heard mentioned quite a few times by others.
+
+## The Good Ending
 
 **Type:** Missed opportunity
 
