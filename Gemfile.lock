@@ -96,9 +96,6 @@ GEM
     rexml (3.3.9)
     rouge (4.3.0)
     safe_yaml (1.0.5)
-    sass-embedded (1.83.4)
-      google-protobuf (~> 4.29)
-      rake (>= 13)
     sass-embedded (1.77.8-aarch64-linux-android)
       google-protobuf (~> 4.26)
     sass-embedded (1.77.8-aarch64-linux-gnu)
@@ -161,7 +158,6 @@ PLATFORMS
   riscv64-linux-android
   riscv64-linux-gnu
   riscv64-linux-musl
-  ruby
   x86-cygwin
   x86-linux
   x86-linux-android
