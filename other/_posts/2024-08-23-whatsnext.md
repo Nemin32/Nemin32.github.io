@@ -1,5 +1,5 @@
 ---
-title: "What comes next?" 
+title: "What comes next?"
 summary: "Summarizing what we know of the next Oddworld and OWI-related projects."
 ---
 
@@ -43,12 +43,12 @@ It's worth noting that in March, 2024 Bing modified his status on LinkedIn to me
 
 Circling back to Scattered Brains, the company is very secretive at the moment, with little online presence beyond appearing in company registries. Observant fans noticed, however, that it already has a few live trademarks, which allow us to speculate on the sort of games they're planning.
 
-First and foremost, to jumpscare all readers, the company was originally looking into making NFT projects as evidenced by their "[NFTalent](https://furm.com/trademarks/nftalent-97492765)" and "[NFTalent Agency](https://furm.com/trademarks/nftalent-agency-97492781)" trademarks. 
+First and foremost, to jumpscare all readers, the company was originally looking into making NFT projects as evidenced by their "[NFTalent](https://furm.com/trademarks/nftalent-97492765)" and "[NFTalent Agency](https://furm.com/trademarks/nftalent-agency-97492781)" trademarks.
 
 Interestingly, these trademarks were submitted *after* OWI publicly confirmed that they will not be creating Oddworld NFTS:
 
-> **[OWI_Dan:](https://discord.com/channels/293291256736382976/293291256736382976/1026527776402051194)** With the AI art, we thought it would be cool to tap into the current AI art trend and see what we could come up with to celebrate Halloween along with Abe, it was more a fun activation for our social channels. I understand your concerns and I'll relay these back to the team.  
-> 
+> **[OWI_Dan:](https://discord.com/channels/293291256736382976/293291256736382976/1026527776402051194)** With the AI art, we thought it would be cool to tap into the current AI art trend and see what we could come up with to celebrate Halloween along with Abe, it was more a fun activation for our social channels. I understand your concerns and I'll relay these back to the team.
+>
 > **Re: NFTs, yes aware of them and no we won't be doing any.**
 
 Thankfully both of these trademarks are now expired and the company's other (still active) trademarks excised all mentions of NFTs from their scope definition since. I figure someone realized they're neither as lucrative as NFTbros wanted us to believe, nor exactly a good source of goodwill from people.
@@ -64,6 +64,29 @@ Similarly, Lanning went on record in March to mention the following:
 > **[Lorne Lanning:](https://www.youtube.com/watch?v=D0XkjgRRljY)** I wanna focus on new content, y'know? And then we started a new venture, we haven't exposed yet. But, let's say, I have a working multiplayer prototype. This is the most exciting thing I've ever built and we're getting some of the reaction to that.
 
 While he makes absolutely no mention of "Planet of the Pests," he did [mention](https://reddit.com/r/oddworld/comments/16krdnt/lorne_lanning_were_now_on_unreal_engine_5_for_new/) in another comment, that his team switched from Unity to Unreal Engine. With this in mind, I don't think it is a great stretch to assume he was talking about the same game.
+
+---
+
+**Update (February 9th, 2025):** Since then there have been two notable changes when it comes to Scattered Brains.
+
+Firstly, the trademarks have progressed:
+
+- the [trademark](https://furm.com/trademarks/scattered-brains-97492773) for "Scattered Brains" had received its "[Notice of Allowance](https://www.patenttrademarkblog.com/notice-of-allowance/)". In super laymen's terms this means that the trademark is one step from being finalized and is extremely unlikely to be turned down from this point forwards,
+- [Planet of the Pests](https://furm.com/trademarks/planet-of-the-pests-97492779) also received its own Notice of Allowance,
+- [DEDEX](https://furm.com/trademarks/dedex-98402505) is currently has the status of "PUBLICATION/ISSUE REVIEW COMPLETE", which means it's a step further than the other two, but has regardless passed examinations and will be published in the official [Trademark Gazette](https://www.uspto.gov/learning-and-resources/official-gazette/trademark-official-gazette-tmog),
+- NFTalent and NFTalent Agency are both (thankfully) still abandoned.
+
+The other interesting thing I've noticed is that all the people, who the [Oddworld Library](https://oddworldlibrary.net/wiki/Scattered_Brains) mentioned as working for Scattered Brains have changed their LinkedIn profiles:
+
+- [Alanna Lausch](https://www.linkedin.com/in/alanna-lausch/), [Stephen Gray](https://www.linkedin.com/in/stephenwgray/details/experience/), and [Leath Bing](https://www.linkedin.com/in/leathbing/details/experience/) have all removed explicit mentions of Scattered Brains from their profiles, instead replacing these with "Stealth Startup". A "Stealth Startup" is, as the name implies, a company which hasn't yet launched its product and is working in secrecy so to prevent competitors from sussing out what exactly they are doing. Why they started out public, but then decided to go dark is unclear to me.
+- [Anthony Palma](https://www.linkedin.com/in/anthonyrpalma/details/experience/) meanwhile seems to have completely removed the company from his profile.
+- [Lorne Lanning](https://www.linkedin.com/in/lornelanning/)'s profile also mentions "working in stealth", however, if I recall correctly, he had it this way since the beginning.
+
+One more interesting thing about Lanning's profile is the background image he set:
+
+{% include caption.html url="/imgs/whatsnext/llbg.jpg" description="" %}
+
+There is no further context to this image, but it definitely doesn't look like Oddworld.
 
 ## DeepWell Digital Therapeutics
 
@@ -101,7 +124,7 @@ He doubled down later in another post with the following:
 
 ## Conclusion
 
-And that's pretty much where we stand right now: 
+And that's pretty much where we stand right now:
 
 - OWI seems to be still kicking and constantly busy, but we have no idea with what,
 - Scattered Brains seem to be working diligently on Planet of the Pests, though what sort of game it is, beyond that it runs on Unreal Engine and that it is likely multiplayer we do not know,
