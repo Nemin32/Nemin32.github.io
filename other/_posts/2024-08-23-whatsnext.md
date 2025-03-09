@@ -4,12 +4,18 @@ summary: "Summarizing what we know of the next Oddworld and OWI-related projects
 ---
 
 # What comes next?
+{:.no_toc}
 
 Hello again, it's been a while! In this post I'd like to quickly recap where we currently stand and what tidbits of info we've received about the series' future since Soulstorm's release.
 
 > **TL;DR:** Not a whole lot on the Oddworld front. Maybe a non-Oddworld game soonTM.
 
 Obviously, the series story-wise is not even close to being over. Soulstorm ends on a fairly big sequel hook, so it'd be reasonable to expect that its sequel is already around the corner. Yet, as of the writing of this article, this is still not the case.
+
+**Contents:**
+
+* TOC
+{:toc}
 
 ## Oddworld News or The Lack Of Thereof
 
@@ -76,11 +82,12 @@ Firstly, the trademarks have progressed:
 - [DEDEX](https://furm.com/trademarks/dedex-98402505) is currently has the status of "PUBLICATION/ISSUE REVIEW COMPLETE", which means it's a step further than the other two, but has regardless passed examinations and will be published in the official [Trademark Gazette](https://www.uspto.gov/learning-and-resources/official-gazette/trademark-official-gazette-tmog),
 - NFTalent and NFTalent Agency are both (thankfully) still abandoned.
 
-The other interesting thing I've noticed is that all the people, who the [Oddworld Library](https://oddworldlibrary.net/wiki/Scattered_Brains) mentioned as working for Scattered Brains have changed their LinkedIn profiles:
+The other interesting thing I've noticed is that almost all the people, who the [Oddworld Library](https://oddworldlibrary.net/wiki/Scattered_Brains) mentioned as working for Scattered Brains have changed their LinkedIn profiles:
 
 - [Alanna Lausch](https://www.linkedin.com/in/alanna-lausch/), [Stephen Gray](https://www.linkedin.com/in/stephenwgray/details/experience/), and [Leath Bing](https://www.linkedin.com/in/leathbing/details/experience/) have all removed explicit mentions of Scattered Brains from their profiles, instead replacing these with "Stealth Startup". A "Stealth Startup" is, as the name implies, a company which hasn't yet launched its product and is working in secrecy so to prevent competitors from sussing out what exactly they are doing. Why they started out public, but then decided to go dark is unclear to me.
 - [Anthony Palma](https://www.linkedin.com/in/anthonyrpalma/details/experience/) meanwhile seems to have completely removed the company from his profile.
 - [Lorne Lanning](https://www.linkedin.com/in/lornelanning/)'s profile also mentions "working in stealth", however, if I recall correctly, he had it this way since the beginning.
+- [Bennie Terry III](https://www.linkedin.com/in/bennie-terry-iii-a470034/)'s profile is the only one which still proudly displays "Chief Product Officer \| Co-Founder" for Scattered Brains, however, it also shows him leaving Oddworld Inhabitants in April, 2023. Whether this is just a bureaucratic thing (no point in being in two since he works with LL either way) or a sign of times changing (he did post about delivering a completely unrelated product, named [Realize Music Sing](https://www.linkedin.com/feed/update/urn:li:activity:7298437484353310720/)) is not clear.
 
 One more interesting thing about Lanning's profile is the background image he set:
 
@@ -121,6 +128,20 @@ Yet, not too long afterwards, Lanning clarified that the pictures are not his, a
 He doubled down later in another post with the following:
 
 > **[Lorne Lanning:](https://twitter.com/lorne_lanning/status/1823445684311482849)** I want to emphasize that while I've been a driving force, it's truly been a team effort, with many talented people contributing to the IP in incredible ways. I don’t feel the age; I feel like I’m just getting started! Hopefully we will be able to share some new things soon!
+
+## Sherry McKenna's (not-)Retirment
+
+**Update (March 9th, 2025):** On February 28th, 2025 Sherry McKenna commented the following under a Reddit post, causing many fans great alarm:
+
+> **[Sherry McKenna:](https://reddit.com/r/oddworld/comments/1izyxbp/question_about_oddworld_inhabitants_and_fan_games/mfbelnp/)** Can you reach out and get approval. Not sure whom you deal with. But I’m sure it will be ok but if you could check with whoever ever you’re in contact with… **I’m retired or I would do it.** Thx
+
+Taking the comment at face value, fans [started speculating](https://reddit.com/r/oddworld/comments/1j3fb1i/sherry_is_retired_lorne_is_semiretired_and/) what such a sudden retirement could mean for the series and what would happen next. However, a few days later on the 4th of March, a user claiming to be Holly Newman, posted the following:
+
+> **[Confident_Throat_223](https://reddit.com/r/oddworld/comments/1j3fb1i/sherry_is_retired_lorne_is_semiretired_and/mg15mc1/)**: Ha,ha,ha! Sherry has a good sense of humor. Her idea of retired is that she doesn’t work 60 hour work weeks anymore, I communicate with her about business pretty much daily so I know she is NOT retired. As for Lorne, I would say he is still a bit of a Type A worker and personally I wish he took more breaks, but that guy loves his work. Forever Odd—Holly
+
+This was soon followed by another comment from McKenna:
+
+> **[Sherry McKenna](https://reddit.com/r/oddworld/comments/1izyxbp/question_about_oddworld_inhabitants_and_fan_games/mgmld1t/)** I’m not really retired retired. But I bet it would be fun. I just love OW and the story. I especially like when folks “get” how it applies. Anyway. Basically when I said I was retired, I was just basically lazy. 😵
 
 ## Conclusion
 
