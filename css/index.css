@@ -9,12 +9,14 @@ ul {
 
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 1rem;
 }
 
 ul.trio {
     li a > div img {
         max-width: unset;
+        min-width: 200px;
         width: 100%;
         height: auto;
     }
@@ -25,11 +27,19 @@ ul.trio {
 
 ul.four li a > div {
     flex-direction: row;
+    flex-wrap: wrap;
 
     img {
-        height: 196px;
-        width: 196px;
+        height: auto;
+        width: 200px;
+        min-width: 200px;
+        flex-basis: 200px;
+        aspect-ratio: 1 / 1;
         object-fit: fill;
+    }
+
+    div {
+        flex-basis: 220px;
     }
 }
 
