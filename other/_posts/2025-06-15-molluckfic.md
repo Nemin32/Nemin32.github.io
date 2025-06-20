@@ -45,11 +45,11 @@ For a moment Molluck stood still in disbelief. That voice wasn't his. But that w
 
 "Who... who the hell are you?" he demanded. His seething rage quickly turned to terror as he noticed a spear almost as tall as the room itself in his hands. "One more step and I'll have you shot and stuffed." Though the words rang false even to his own ears. This was his sanctum. There were no cameras, no microphones here. The only way to open this vault from the outside was to present a sample of his own blood and voice. His perfect castle became his perfect prison.
 
-The masked Mudokon chuckled quietly. "Ask first and shoot immediately afterwards? I'm glad your kind is at least taking baby-steps." He took a step closer. "Go ahead then, shoot me."
+The masked Mudokon chuckled quietly. "Ask first and shoot immediately afterwards? I'm glad your kind is at least taking baby-steps." He took a step closer and slapped his hand against his chest. "Go ahead then, shoot."
 
 "The name's Molluck, son of Queen Margaret. If you lay as much as a dirty finger on me, you'll bring down the hammer of my family on you." Molluck was disgusted at himself for how pathetic he sounded, but with no guards, no plan, and nowhere to run or hide, he was at the mercy of his own words and his captor's whims.
 
-"I know who you are, murderer. I know what you did and I know where it got you." With each word the stranger closed the distance, until the two were at arms reach. "I also know that no help is coming. You are just as caged as the thousands violated under your command." He readied his weapon. Even though Molluck was a head taller, that only brought his neck closer to BigFace's spear. Molluck closed his eyes and winced, expecting the stab. However, after a moment that felt like eternity, nothing happened. He carefully opened his eyes again. 
+"I know who you are, murderer. I know what you did and I know where it got you." With each word the stranger closed the distance, until the two were at arms reach. "I also know that no help is coming. You are just as caged as the thousands violated under your command." He readied his weapon. Even though Molluck was a head taller, that only brought his neck closer to the Mudokon's spear. Molluck closed his eyes and winced, expecting the stab. However, after a moment that felt like eternity, nothing happened. He carefully opened his eyes again. 
 
 "Since I know who you are, you should know who I am too." The Mudokon took a step back, allowing a little bit of breathing room. "In my tribe I am known by the name BigFace. Breathe easy, son of Margaret, if my intentions were to snuff out your flame, you would not have been given the opportunity to speak. But your reckoning, though close, need not necessarily be this day."
 
@@ -57,7 +57,7 @@ Molluck's fearful eyes immediately gained a slight glint. "You wanna do business
 
 BigFace let out a mirthless snort. "If you insist to call it that, yes, there is in fact something I wish to negotiate for. But I know your kind and you should know your place. Your business is doomed and your mortal coil is about to unwind. Whether I end your life here or your own kin a little while later is of no great consequence."
 
-Molluck, however, stood his ground. "So what's your angle? What deal are you try'na cut"
+Molluck, however, stood his ground. "So what's your angle? What deal are you try'na cut?"
 
 "There is a Prophecy. It is as old as time." Though Molluck could not see him behind the mask, BigFace's voice betrayed a sense of longing. He lowered his weapon. "A promise if you will. Of better times and a resurgence many think unbelievable. My ancestors waited one generation after the other for the stars to align, but they never did." He ran his fingers down his spear's hilt. "Until now. The elders finally think this moment is what we were waiting for." He paused for a second, then pointed at Molluck with his empty hand. "However, to kickstart the prophecy, we need a spark."
 
@@ -69,17 +69,17 @@ Molluck glanced at the spear in BigFace's hand, which remained firmly planted to
 
 "Yes, because of a premonition of my own. Simply put, I believe there to be another way. A deal, as you put it. If you promise to do two things and stand by your word, in return I promise not only not to kill you, but also allow you a chance to escape your inevitable fate when the time is right."
 
-"It feels'ta me you've not given me much of a choice." Molluck flashed his tobacco-rotten teeth. "Name your terms."
+"It feels'ta me you've not given me much of a choice." Molluck laughed grimly, flashing his tobacco-rotten teeth. "Name your terms."
 
-"Remember these words well. Tomorrow, just after the grand meeting, you will face a wave of breakout attempts. These will be orchestrated by one of us. You shall recognise him by his blue skin. You shall arrange for him to see something he should not and, once he tries to make his escape, you shall give him a fighting chance. Whether he rises to the occasion or falls for your traps afterwards is in his own hands."
+"Remember these words well. Tomorrow, just after the grand meeting, you will face a wave of breakout attempts. These will be orchestrated by one of us. You shall recognise him by his blue skin. You are going to arrange for him to see something he should not and, once he tries to make his escape, you will give him a fighting chance. Whether he rises to the occasion or falls for your traps afterwards is in his own hands."
 
 "You're asking me to assist in busting out my own sla-?" Molluck bit his tongue and cursed himself for letting his mouth run.
 
 "You don't have to be so polite," BigFace growled. "We know the hellish conditions you keep them. They are indeed slaves. And no, I'm not even asking you to help him. Only to give him a moment of respite, so that he has a chance to prove his mettle. What you do afterwards is your own choice." 
 
-Molluck turned around and looked out the window of the Vault. Outside a myriad of hanging cages like torn-open rib-cages looked back at him, each housing two or three Mudokons. He stared at them for a second, his orange eyes reflecting on the dark glass, before turning back. "My *employees* are docile and obedient. Blue or otherwise, none of them would be daft enough to think of a revolt."
+Molluck turned around and looked out the window of the Vault. Outside a myriad of hanging cages like torn-open rib-cages looked back at him, each housing two or three Mudokons. He stared at them for a second, his orange eyes reflecting on the dark glass, before turning back. "My *employees* are docile and obedient. Blue or not, none of them would be daft enough to think of a revolt."
 
-"On that we are in agreement." BigFace nodded. "Not by themselves, anyway. But tell me, do you know what your name means? Or, rather, *who* it means?"
+"Oh, on that we are in agreement." BigFace nodded. "Not by themselves, anyway. But tell me, do you know what your name means? Or, rather, *who* it means?"
 
 "My name?" Molluck furrowed his brows, the lights of his eye shimmering uneasily like a pair of old gas lamps. "What's that have to do with anythin'?"
 
@@ -87,11 +87,11 @@ Molluck turned around and looked out the window of the Vault. Outside a myriad o
 
 "Bullshit!" Molluck spat back with ire, his eyes shifting to red.
 
-"Whether you believe me or not doesn't really matter to me." The masked Mudokon shrugged, undeterred by Molluck's outburst. "Consider it a story then. Among these many gods some were benevolent and called upon often and with trust. Some were whimsical, treated with as much respect as wariness. And some, well, some were shunned, called upon only to curse and despoil. For they are destruction and calamity personified and their very names invite ill fortune."
+"Whether you believe me or not doesn't really matter to me." The masked Mudokon shrugged, undeterred by Molluck's outburst. "Consider it a story then. Among these many gods some were benevolent and called upon often and with trust. Some were whimsical, treated with as much respect as wariness. And some, well, some were shunned, called upon rarely and only to curse and despoil. For they are destruction and calamity personified and their very names invite ill fortune."
 
 "And?"
 
-"And one of them in particular bore a name quite similar to yours. The exact spelling was lost to time, but cautionary tales passed down still whisper of the one they called Molek." The Glukkon could have sworn that he saw darkness seep from the mask's carved eyes darkening the very room itself. "The shunned and forsaken god who provided great and terrible power and immeasurable riches to those, who offered children to him in ritual sacrifice."
+"And one of them in particular bore a name quite similar to yours. The exact spelling was lost to time, but cautionary tales passed down still whisper of the one they called Molek." The Glukkon could have sworn that he saw darkness seep from the mask's carved eyes darkening the very room itself. "The shunned and forsaken god who provided great and terrible power along with immeasurable riches to those, who offered children to him in ritual sacrifice."
 
 "Killin' kids? Ridiculous!" Molluck spat back. "I don't care what your backwards tribal crap says 'bout my name, that ain't nothing like me. I just process animals." Before he could say another word, he was silenced by BigFace's spear smashing against the carpet with a hollow thud.
 
@@ -117,11 +117,11 @@ Molluck remained silent for what felt like minutes. Finally, like a cornered bea
 
 He glanced at the weapon, his gaze now unwavering. "I swear it."
 
-BigFace nodded and pulled his weapon back. Molluck continued with one final question. "There's just one thing I don't get. Why are you asking me to chop  up your own guys?"
+BigFace nodded and pulled his weapon back. Molluck continued with one final question. "There's just one thing I don't get. Why are you asking me to chop up your own guys?"
 
-The Mudokon turned around and began to make his way towards the other corner of the room. A few steps in he stopped and looked slightly back. For the first time, Molluck could see glimpses of his actual face. "You are under false impressions. I was sent here with a single goal in mind. That is to allow the Prophecy to unfold." His voice lowered to a pious whisper. "And while I could have accomplished this in a far more direct way"---he glanced at his spear---"that would have resulted in senseless carnage and the unavoidable death of my brethren here." He chuckled, this time with actual spirit in his voice. "While it ultimately rests on the shoulders of the Savior to decide who gets to live and die, you could consider this my gambit to buy the chance for ninety-nine innocent souls to live for the price of saving one more who should rightfully die. I shall see you tomorrow."
+The Mudokon turned around and began to make his way towards the other corner of the room. A few steps in he stopped and looked slightly back. For the first time, Molluck could see a veiled glimpse of his actual face. "You are under false impressions. I was sent here with a single goal in mind. That is to allow the Prophecy to unfold." His voice lowered to a pious whisper. "And while I could have accomplished this in a far more direct way"---he glanced at his spear---"that would have resulted in senseless carnage and the unavoidable death of my brethren here." He chuckled, this time with actual spirit in his voice. "While it ultimately rests on the shoulders of the Savior to decide who gets to live and die, you could consider this my gambit to buy the chance for ninety-nine innocent souls to live for the price of saving one more who should rightfully die. I shall see you tomorrow."
 
-In that very same moment, Molluck was blinded by a flash of light and in place of BigFace, he saw a flow of birds, who quickly disappeared into the nooks and crannies of the vault.
+In that very same moment, Molluck was blinded by a flash of light and in place of BigFace, he saw a flock of birds, who quickly disappeared into the nooks and crannies of the vault.
 
 ---
 
@@ -137,7 +137,7 @@ Molluck winced as he felt the hands of Fate on his neck. "No."
 
 "Uh, no, Sir?"
 
-"No," Molluck repeated forcefully, the cogs of his tired mind scraping against each other as he tried to come up with a serviceable excuse. "A freak like him would sell for a pretty bag of cash on the next Slave 'X' Change. Give 'im a couple minutes to get back. Drag him back by the neck if you can, but no guns. If he ain't changing his mind in that time, shred 'em."
+"No," Molluck repeated forcefully, the cogs of his tired mind scraping against each other as he tried to come up with a serviceable excuse. "A weirdo like that would sell for a pretty bag of cash on the next Slave 'X' Change. Give 'im a couple minutes to get back. Drag him back by the neck if you can, but no guns. If he ain't changing his mind in that time, shred 'em."
 
 "I, uh, roger that." Chaffeur raised his arm and spoke into it. "You heard all that guys?"
 
