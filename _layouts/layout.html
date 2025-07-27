@@ -33,6 +33,18 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://oddwords.hu{{page.url}}" />
     <meta property="og:image" content="https://oddwords.hu/logo.webp" />
+
+    <script type="speculationrules">
+      {
+        "prerender": [
+          {
+            "where": {
+              "selector_matches": "a"
+            }
+          }
+        ]
+      }
+    </script>
   </head>
 
   <body type="bright">
