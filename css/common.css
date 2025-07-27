@@ -97,9 +97,30 @@ header {
 footer {
   border-top: 2px solid var(--font-colour);
   margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 0.75rem;
 
   p {
     text-align: right;
+    margin: 0;
+  }
+
+  h3 {
+    margin: 0;
+  }
+
+  .badges {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .badges img {
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -webkit-optimize-contrast;
   }
 }
 
