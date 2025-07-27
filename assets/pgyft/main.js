@@ -1,48 +1,95 @@
+/**
+ * @typedef {{question: string, answer: string}} QnA
+ * @typedef {{year: string, month: string, contents: Array<QnA>}} Entry
+ * @typedef {{question: string[], answer: string[]}} QnAWord
+ * @typedef {{total: string[], contents: QnAWord[] }} Word
+ * @typedef {{title: string, year: number, month: number, contents: QnA[]}} Post
+ */
+
 const root = document.getElementById("root");
 
-fetch("/assets/pgyft/posts.json").then(response => response.json()).then(json => {
-const titles = Object.keys(json)
-const len = Math.ceil(titles.length / 10);
+const keywords = {
+    "slig": ["pant", "gun", "evil", "wildum", "shoot", "shot", "slog"],
+    "slog": ["dog", "meat", "jaw", "bite"],
+    "gun": ["metal", "bullet", "fire"],
+    "wildum": ["beaten", "dead", "crig", "slig", "good"],
+    "mudokon": ["abe", "mud", "feather", "alf", "chant", "chanting", "possess", "slave"],
+    "abe": ["messiah", "savior", "saviour", "chant", "chanting", "possess", "hero", "mudokon", "good", "dead"],
+    "chant": ["bird", "possess", "sing", "mudokon"],
+    "molluck": ["glukkon", "wealth", "rupturefarms", "rupture", "farms", "slig", "queen"],
+    "glukkon": ["greed", "wealth", "legs", "hands", "slig", "evil", "smoke", "cigar"],
+    "bigface": ["shaman", "mask", "mudokon"],
+};
 
-let count = 0;
-for (let i = 0; i < len; i++) {
-    setTimeout(() => {
-    for (let step = 0; step < 10 && count < titles.length; step++) {
-    const title = titles[count];
+/** @type {{[k: string]: Word}} */
+const words = await fetch("/assets/pgyft/words.json").then(response => response.json());
 
-    const elem = document.createElement("div");
-    elem.className="post";
+/** @type {{[k: string]: Entry}} */
+const raw_posts = await fetch("/assets/pgyft/posts.json").then(response => response.json());
+const posts = Array.from(Object.entries(raw_posts).map(([key, entry]) => ({
+    title: key,
+    year: Number(entry.year),
+    month: Number(entry.month),
+    contents: entry.contents
+})));
 
-    const date = `${json[title].year}.${json[title].month}.`
-    const displayTitle = title.replaceAll("-", " ").replace(
+/**
+ * @param {Post} post 
+ * @param {Post} other 
+ */
+function sortByDate(post, other) {
+    const yearDiff = post.year - other.year;
+
+    if (yearDiff !== 0) {
+        return yearDiff;
+    }
+
+    // The year is the same, so we sort by month.
+    return post.month - other.month;
+}
+
+/**
+ * @param {Post} post 
+ */
+function renderPost(post) {
+    /**
+     * @param {string} type Type of the elem.
+     * @param {string} text Inner text of the elem. Optional.
+     * @param {string} className Optional classname.
+     * @returns 
+     */
+    const mkElem = (type, text, className) => {
+        const elem = document.createElement(type);
+
+        if (text) {
+            elem.innerHTML = text;
+        }
+
+        if (className) {
+            elem.className = className;
+        }
+
+        return elem;
+    };
+
+    const container = document.createElement("div");
+    container.className = "post";
+
+    const displayTitle = post.title.replaceAll("-", " ").replace(
         /\w\S*/g,
         text => text.charAt(0).toUpperCase() + text.substring(1).toLowerCase()
     )
 
-    const titleElem = document.createElement("h1")
-    titleElem.className = "title";
-    titleElem.innerHTML = `${displayTitle} <span class="date">[${date}]</span>`;
+    container.appendChild(mkElem("h1", displayTitle));
 
-    elem.appendChild(titleElem);
-
-    for (const content of json[title].contents) {
-        const question = document.createElement("p");
-        const answer = document.createElement("p");
-
-        question.innerHTML = `Question: ${content.question}`;
-        answer.innerHTML = content.answer;
-
-        question.className = "question";
-        answer.className = "answer";
-
-        elem.appendChild(question)
-        elem.appendChild(answer)
+    for (const qna of post.contents) {
+        container.appendChild(mkElem("p", `Question: ${qna.question}`, "question"));
+        container.appendChild(mkElem("p", `Answer: ${qna.answer}`, "answer"));
     }
 
-    root.appendChild(elem)
-
-    count++;
-    }
-    }, i * 200)
+    return container;
 }
-})
+
+for (const post of posts.toSorted(sortByDate)) {
+    root.appendChild(renderPost(post))
+}
