@@ -2,88 +2,100 @@
 title: "Index"
 ---
 
-<link rel="stylesheet" href="css/index.css">
+<link rel="stylesheet" href="css/index.css" />
 
 <section class="blurb">
   <h1>Welcome!</h1>
   <p>
-    Oddwords is a quasi-journalistic site founded in 2018, created to document and discuss the various games and events related to the Oddworld series, its community, and its developers. While most of the content on the site deals with Soulstorm, especially its pre-release material, you can also find game critiques, interviews, articles about various more or less known aspects of the series, a few surveys conducted by me, and even a couple of fanfics. I hope you enjoy your stay!
+    Oddwords is a quasi-journalistic site founded in 2018, created to document
+    and discuss the various games and events related to the Oddworld series, its
+    community, and its developers. While most of the content on the site deals
+    with Soulstorm, especially its pre-release material, you can also find game
+    critiques, interviews, articles about various more or less known aspects of
+    the series, a few surveys conducted by me, and even a couple of fanfics. I
+    hope you enjoy your stay!
   </p>
 </section>
 
 <section class="featured">
-  {% assign side = "history,guide,foundarchives,miodd,timeline,mapinterview,pgyft,swinterview,unreleased" | split: ',' %}
-  {% assign posts = site.tags.spec %}
+  {% assign side =
+  "history,guide,foundarchives,miodd,timeline,mapinterview,pgyft,swinterview,unreleased"
+  | split: ',' %} {% assign posts = site.tags.spec %}
 
   <h1>Featured posts</h1>
   <ul class="trio">
-    {% assign sides = "history,swinterview,mapinterview" | split: ',' %}
-    {% for side in sides %}
-    {% assign post = posts | where:"slug", side | first %}
-    {% include index_featured_item.html post=post %}
-    {% endfor %}
+    {% assign sides = "history,swinterview,mapinterview" | split: ',' %} {% for
+    side in sides %} {% assign post = posts | where:"slug", side | first %} {%
+    include index_featured_item.html post=post %} {% endfor %}
   </ul>
 
   <h1>Featured Non-Oddwords Oddworld Content</h1>
   <ul class="four">
-    {% include index_featured_offsite_item.html thumb="escaperf.webp" title="Escape from RuptureFarms 1029" description="A Text-Adventure Game by Nemin" url="/game" %}
-    {% include index_featured_offsite_item.html thumb="relive.webp" title="R.E.L.I.V.E." description="Abe's Oddysee and Exoddus on modern systems" url="https://aliveteam.github.io/" %}
-    {% include index_featured_offsite_item.html thumb="mom.webp" title="The Magog on the March" description="An Independent Source of Everything Oddworld" url="https://magogonthemarch.wordpress.com" %}
-    {% include index_featured_offsite_item.html thumb="tol.webp" title="The Oddworld Library" description="A comprehensive encycopledia of all things Oddworld" url="https://oddworldlibrary.net" %}
+    {% include index_featured_offsite_item.html thumb="escaperf.webp"
+    title="Escape from RuptureFarms 1029" description="A Text-Adventure Game by
+    Nemin" url="/game" %} {% include index_featured_offsite_item.html
+    thumb="relive.webp" title="R.E.L.I.V.E." description="Abe's Oddysee and
+    Exoddus on modern systems" url="https://aliveteam.github.io/" %} {% include
+    index_featured_offsite_item.html thumb="mom.webp" title="The Magog on the
+    March" description="An Independent Source of Everything Oddworld"
+    url="https://magogonthemarch.wordpress.com" %} {% include
+    index_featured_offsite_item.html thumb="tol.webp" title="The Oddworld
+    Library" description="A comprehensive encycopledia of all things Oddworld"
+    url="https://oddworldlibrary.net" %}
   </ul>
 
   <h1>Resources</h1>
   <ul class="four">
-    {% assign sides = "guide,timeline,foundarchives,pgyft" | split: ',' %}
-    {% for side in sides %}
-    {% assign post = posts | where:"slug", side | first %}
-    {% assign id = post.id | split: '/' %}
-    {% include index_featured_item.html post=post %}
-    {% endfor %}
+    {% assign sides = "guide,timeline,foundarchives,pgyft" | split: ',' %} {%
+    for side in sides %} {% assign post = posts | where:"slug", side | first %}
+    {% assign id = post.id | split: '/' %} {% include index_featured_item.html
+    post=post %} {% endfor %}
   </ul>
 
   <h1>Cut content</h1>
   <ul class="four">
-    {% assign sides = "miodd,abesquest,unreleased,squeek" | split: ',' %}
-    {% for side in sides %}
-    {% assign post = posts | where:"slug", side | first %}
-    {% assign id = post.id | split: '/' %}
-    {% include index_featured_item.html post=post %}
-    {% endfor %}
+    {% assign sides = "miodd,abesquest,unreleased,squeek" | split: ',' %} {% for
+    side in sides %} {% assign post = posts | where:"slug", side | first %} {%
+    assign id = post.id | split: '/' %} {% include index_featured_item.html
+    post=post %} {% endfor %}
   </ul>
 </section>
 
 <section class="rest">
   <div class="category">
-  <h2>Newest posts</h2>
-  <ul>
-    {% for post in site.posts limit:4 %} {% include index_list_item.html post=post %} {% endfor %}
-  </ul>
+    <h2>Newest posts</h2>
+    <ul>
+      {% for post in site.posts limit:4 %} {% include index_list_item.html
+      post=post %} {% endfor %}
+    </ul>
   </div>
 
   {% assign categories = "statistics, other, soulstorm, blog" | split: ", " %}
-  {% assign category_names = "Fandom-related Statistics, General Oddworld Content, Soulstorm-related Content, Blog" | split: ", " %}
-
-  {% for category in categories %}
+  {% assign category_names = "Fandom-related Statistics, General Oddworld
+  Content, Soulstorm-related Content, Blog" | split: ", " %} {% for category in
+  categories %}
   <div class="category">
-  <h2 id="{{ category }}">{{ category_names[forloop.index0] }}</h2>
-  <ul>
-    {% for post in site.categories[category] %} {% include index_list_item.html post=post %} {% endfor %}
-  </ul>
+    <h2 id="{{ category }}">{{ category_names[forloop.index0] }}</h2>
+    <ul>
+      {% for post in site.categories[category] %} {% include
+      index_list_item.html post=post %} {% endfor %}
+    </ul>
   </div>
   {% endfor %}
 
   <div class="category">
-  <h3>Archive</h3>
-  <p>Below you can find a list of posts that largely concern pre-release speculation from my part and so provide little relevant information these days.</p>
-  <details>
-  <summary>Reveal list</summary>
-  <ul>
-    {% for post in site.categories["ssarchive"] %} {% include index_list_item.html post=post %} {% endfor %}
-  </ul>
-  </details>
+    <h3>Archive</h3>
+    <p>
+      Below you can find a list of posts that largely concern pre-release
+      speculation from my part and so provide little relevant information these
+      days.
+    </p>
+    <details>
+      <summary>Reveal list</summary>
+      <ul>
+        {% for post in site.categories["ssarchive"] %} {% include
+        index_list_item.html post=post %} {% endfor %}
+      </ul>
+    </details>
   </div>
 </section>
-
-<center>
-</center>
