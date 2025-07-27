@@ -2,10 +2,12 @@
 <li>
   <a href="{{ include.post.url }}">
     <div>
-      <img src="/imgs/thumbs/{{id[1]}}.webp" alt="{{ include.post.title }}">
+      <img src="/imgs/thumbs/{{id[1]}}.webp" alt="{{ include.post.title }}" />
       <div class="description">
-        <p title="{{ include.post.title }}" class="title">{{ include.post.title }}</p>
-        <p class="content"> {{ include.post.summary }} </p>
+        <p title="{{ include.post.title }}" class="title">
+          {{ include.post.title }}
+        </p>
+        <p class="content">{{ include.post.summary }}</p>
       </div>
     </div>
   </a>
