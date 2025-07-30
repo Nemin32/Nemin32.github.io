@@ -2,7 +2,6 @@
  * @typedef {{question: string, answer: string}} QnA
  * @typedef {{year: string, month: string, contents: Array<QnA>}} Entry
  * @typedef {{question: string[], answer: string[]}} QnAWord
- * @typedef {{total: string[], contents: QnAWord[] }} Word
  * @typedef {{title: string, year: number, month: number, contents: QnA[]}} Post
  */
 
@@ -21,8 +20,10 @@ const keywords = {
     "bigface": ["shaman", "mask", "mudokon"],
 };
 
-/** @type {{[k: string]: Word}} */
-const words = await fetch("/assets/pgyft/words.json").then(response => response.json());
+/** @type {{[k: string]: Set<string>}} */
+const words = await fetch("/assets/pgyft/words.json").then(response => response.json()).then(words => {
+    return Object.fromEntries(Object.entries(words).map(([key, val]) => [key, new Set(val)]))
+});
 
 /** @type {{[k: string]: Entry}} */
 const raw_posts = await fetch("/assets/pgyft/posts.json").then(response => response.json());
@@ -33,46 +34,31 @@ const posts = Array.from(Object.entries(raw_posts).map(([key, entry]) => ({
     contents: entry.contents
 })));
 
+function getSortDirection() {
+    return document.querySelector("input[name='sort']:checked").value == "up";
+}
+
 /**
  * @param {Post} post 
  * @param {Post} other 
  */
-function sortByDate(post, other) {
+function sortByDate(post, other, direction) {
     const yearDiff = post.year - other.year;
 
     if (yearDiff !== 0) {
-        return yearDiff;
+        return direction ? yearDiff : (1 - yearDiff);
     }
 
     // The year is the same, so we sort by month.
-    return post.month - other.month;
+    const monthDiff = post.month - other.month
+    return direction ? monthDiff : (1 - monthDiff);
 }
 
 /**
  * @param {Post} post 
  */
 function renderPost(post) {
-    /**
-     * @param {string} type Type of the elem.
-     * @param {string} text Inner text of the elem. Optional.
-     * @param {string} className Optional classname.
-     * @returns 
-     */
-    const mkElem = (type, text, className) => {
-        const elem = document.createElement(type);
-
-        if (text) {
-            elem.innerHTML = text;
-        }
-
-        if (className) {
-            elem.className = className;
-        }
-
-        return elem;
-    };
-
-    const container = document.createElement("div");
+    const container = document.createElement("details");
     container.className = "post";
 
     const displayTitle = post.title.replaceAll("-", " ").replace(
@@ -80,16 +66,71 @@ function renderPost(post) {
         text => text.charAt(0).toUpperCase() + text.substring(1).toLowerCase()
     )
 
-    container.appendChild(mkElem("h1", displayTitle));
+    const header = document.createElement("summary");
+    header.className = "header"
+    header.innerHTML = `<h3>${displayTitle}</h3><span>[${post.year}-${post.month}]</span>`
+    container.appendChild(header);
 
     for (const qna of post.contents) {
-        container.appendChild(mkElem("p", `Question: ${qna.question}`, "question"));
-        container.appendChild(mkElem("p", `Answer: ${qna.answer}`, "answer"));
+        const question = document.createElement("p");
+        question.className = "question";
+        question.innerText = `Question: ${qna.question.trim()}`
+        container.appendChild(question);
+
+        const lines = qna.answer.split("\n\n");
+        lines[0] = `<b>Answer:</b> ${lines[0]}`;
+        const answerContainer = document.createElement("div");
+        answerContainer.className = "answer";
+        answerContainer.innerHTML = lines.map(l => `<p>${l}</p>`).join("")
+
+        container.appendChild(answerContainer);
     }
 
     return container;
 }
 
-for (const post of posts.toSorted(sortByDate)) {
-    root.appendChild(renderPost(post))
+const searchInput = document.getElementById("search");
+function getFilteredPost() {
+    /** @type {String} */
+    const search = searchInput.value;
+
+    if (search.length == 0) {
+        return posts;
+    } else {
+        const containingPostKeys = Object
+            .entries(words)
+            .filter(([_, val]) => {
+                if (val.has(search)) return true;
+                return Object.entries(val).some(word => word.includes(search));
+            })
+            .map(([key, _]) => key);
+
+        console.log(containingPostKeys)
+        return posts.filter(p => containingPostKeys.includes(p.title));
+    }
 }
+
+function rerender() {
+    const posts = getFilteredPost();
+    const sortedPosts = posts.toSorted((a, b) => sortByDate(a, b, getSortDirection()));
+    root.replaceChildren(...sortedPosts.map(renderPost))
+}
+
+document.querySelectorAll("input[name='sort']").forEach(input => {
+    input.addEventListener("change", rerender)
+})
+
+let debounceTimer = null;
+searchInput.addEventListener("input", () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(rerender, 250);
+})
+
+document.getElementById("open-all").addEventListener("click", () => {
+    document.querySelectorAll("details").forEach(detail => detail.open = true);
+})
+document.getElementById("close-all").addEventListener("click", () => {
+    document.querySelectorAll("details").forEach(detail => detail.open = false);
+})
+
+rerender()
