@@ -7,7 +7,7 @@
        * @param {string} text
        */
       function processText(text) {
-        text = text.replaceAll("\n", "");
+        text = text.replaceAll("\n", " ");
         text = text.toLowerCase();
         return new Set(text.split(/\W/).filter(l => l.length > 0));
       }
@@ -37,12 +37,7 @@
           return acc.union(merged);
         }, new Set()));
 
-        const contents = raw_contents.map(content => ({
-          question: Array.from(content.question),
-          answer: Array.from(content.answer),
-        }));
-
-        return {contents, total};
+        return total;
       }
 
       fetch("./posts.json").then(p => p.json()).then(posts => {
