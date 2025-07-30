@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <script>
+      /** @typedef {{question: string, answer: string}} QnA*/
+
+      /** 
+       * @param {string} text
+       */
+      function processText(text) {
+        text = text.replaceAll("\n", " ");
+        text = text.toLowerCase();
+        return new Set(text.split(/\W/).filter(l => l.length > 0));
+      }
+
+      /**
+       * @param {QnA} qna
+       */
+      function processQnA(qna) {
+        const q = processText(qna.question);
+        const a = processText(qna.answer);
+
+        return {
+          question: q,
+          answer: a,
+        };
+      }
+
+      /**
+       * @param {{contents: Array<QnA>}} post
+       */
+      function processPost(post) {
+        const raw_contents = post.contents.map(processQnA);
+
+        /** @type {Array<string>} */
+        const total = Array.from(raw_contents.reduce((acc, set) => {
+          const merged = set.question.union(set.answer);
+          return acc.union(merged);
+        }, new Set()));
+
+        return total;
+      }
+
+      fetch("./posts.json").then(p => p.json()).then(posts => {
+        const processed = Object.fromEntries(Object.entries(posts).map(([key, val]) => [key, processPost(val)]))
+        document.write(JSON.stringify(processed))
+      });
+    </script>
+  </head>
+  <body></body>
+</html>
