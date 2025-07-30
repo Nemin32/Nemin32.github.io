@@ -74,7 +74,7 @@ function renderPost(post) {
     for (const qna of post.contents) {
         const question = document.createElement("p");
         question.className = "question";
-        question.innerText = `Question: ${qna.question.trim()}`
+        question.innerHTML = `Question: ${qna.question.trim()}`
         container.appendChild(question);
 
         const lines = qna.answer.split("\n\n");
