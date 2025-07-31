@@ -1,0 +1,14 @@
+:root {
+  --progress: 0%;
+}
+
+.progress {
+  transition: all 0.25s ease-in-out;
+  width: var(--progress, 0);
+  height: 5px;
+  background-color: var(--highlight);
+
+  position: fixed;
+  top: 0;
+  left: 0;
+}

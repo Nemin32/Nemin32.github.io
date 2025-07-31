@@ -1,0 +1,30 @@
+footer {
+    border-top: 1px solid var(--quote-border);
+    margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 0.75rem;
+
+    p {
+        margin: 0;
+    }
+
+    h3 {
+        margin: 0;
+    }
+
+    #badges {
+        display: flex;
+        align-items: center;
+        gap: 0.25rem;
+        flex-wrap: wrap;
+
+        img {
+            image-rendering: auto;
+            image-rendering: crisp-edges;
+            image-rendering: pixelated;
+            image-rendering: -webkit-optimize-contrast;
+        }
+    }
+}
