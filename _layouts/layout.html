@@ -11,17 +11,13 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
     {% capture title %} Oddwords: {{page.title}} {% endcapture %}
     <title>{{ title }}</title>
 
     <link rel="stylesheet" href="/css/common.css" />
     <link rel="stylesheet" href="/css/body.css" />
-    <script type="module" src="/assets/js/lightswitch.js"></script>
     <script type="module" src="/assets/js/progress.js"></script>
 
     <!-- OpenGraph stuff -->
@@ -47,7 +43,7 @@
     </script>
   </head>
 
-  <body type="bright">
+  <body>
     <div class="progress"></div>
 
     <header>
@@ -56,29 +52,27 @@
           <img src="/logo.webp" width="128px" height="128px" />
           <hgroup>
             <h1>Oddwords</h1>
-            <p>"Of Canon and Community"</p>
+            <p>Of Canon and Community</p>
           </hgroup>
         </div>
       </a>
 
+    </header>
+
+    <main>
+      <!--
       <div id="header_info_div">
         {% if page.date %}
         <p>Published at {{page.date | date: "%Y.%m.%d." }}</p>
         {% endif %}
         <p>{{ page.content | number_of_words }} words</p>
-        <a
-          href="#"
-          id="lightswitch"
-          alt="Switch colourscheme."
-          style="visibility: hidden"
-        ></a>
       </div>
-    </header>
-
-    <main>{{ content }}</main>
+      -->
+      {{ content }}
+    </main>
 
     <footer>
-      <div class="badges">
+      <div id="badges">
         <a href="https://oddworld.com">
           <img
             alt="Oddworld badge"
@@ -117,8 +111,7 @@
         </a>
       </div>
       <p>
-        Created by <a href="https://reddit.com/u/Nemin32">Nemin</a> (2018 -
-        2025)
+        Created by <a href="https://reddit.com/u/Nemin32">Nemin</a> (2018 - 2025)
       </p>
     </footer>
   </body>
