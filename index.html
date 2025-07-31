@@ -22,14 +22,14 @@ title: "Index"
   "history,guide,foundarchives,miodd,timeline,mapinterview,pgyft,swinterview,unreleased"
   | split: ',' %} {% assign posts = site.tags.spec %}
 
-  <h1>Featured posts</h1>
+  <h2>Featured posts</h2>
   <ul class="trio">
     {% assign sides = "history,swinterview,mapinterview" | split: ',' %} {% for
     side in sides %} {% assign post = posts | where:"slug", side | first %} {%
     include index_featured_item.html post=post %} {% endfor %}
   </ul>
 
-  <h1>Featured Non-Oddwords Oddworld Content</h1>
+  <h2>Featured Non-Oddwords Oddworld Content</h2>
   <ul class="four">
     {% include index_featured_offsite_item.html thumb="escaperf.webp"
     title="Escape from RuptureFarms 1029" description="A Text-Adventure Game by
@@ -44,7 +44,7 @@ title: "Index"
     url="https://oddworldlibrary.net" %}
   </ul>
 
-  <h1>Resources</h1>
+  <h2>Resources</h2>
   <ul class="four">
     {% assign sides = "guide,timeline,foundarchives,pgyft" | split: ',' %} {%
     for side in sides %} {% assign post = posts | where:"slug", side | first %}
@@ -52,7 +52,7 @@ title: "Index"
     post=post %} {% endfor %}
   </ul>
 
-  <h1>Cut content</h1>
+  <h2>Cut content</h2>
   <ul class="four">
     {% assign sides = "miodd,abesquest,unreleased,squeek" | split: ',' %} {% for
     side in sides %} {% assign post = posts | where:"slug", side | first %} {%
