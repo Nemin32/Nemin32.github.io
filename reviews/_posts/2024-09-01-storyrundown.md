@@ -28,7 +28,7 @@ Even with this restriction the post ended up being quite long, but I hope you'll
 **Contents:**
 
 - TOC
-  {:toc}
+{:toc}
 
 ## Newspaper intro
 

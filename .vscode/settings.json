@@ -37,6 +37,4 @@
     ],
     "cSpell.enabled": true,
     "cSpell.language": "en-GB",
-    "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }

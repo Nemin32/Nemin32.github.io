@@ -13,7 +13,7 @@ trailer that we just saw.
 Contents:
 
 - TOC
-  {:toc}
+{:toc}
 
 ## Abe's Stitches
 

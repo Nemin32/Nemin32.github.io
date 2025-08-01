@@ -17,6 +17,16 @@ li {
   }
 }
 
+ul.four {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+
+  li {
+    flex-basis: calc(50% - 2rem);
+  }
+}
+
 ul.trio,
 ul.four {
   li a > div {
@@ -26,8 +36,8 @@ ul.four {
   }
 
   img {
-    width: 96px;
-    height: 96px;
+    width: 180px;
+    height: 180px;
     object-fit: fill;
     margin: 0;
     border: 1px solid var(--quote-border);

@@ -50,7 +50,7 @@ So, settle in and prepare yourself, as this one is a doozy. Enjoy!
 **Contents:**
 
 - TOC
-  {:toc}
+{:toc}
 
 ## Introduction
 
