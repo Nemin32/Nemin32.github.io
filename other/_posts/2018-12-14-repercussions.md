@@ -2,8 +2,8 @@
 title: Repercussions
 summary: About what Abe's actions have caused.
 ---
-# The Repercussions of Abe's actions
 
+# The Repercussions of Abe's actions
 
 {% include caption.html url="/imgs/slig.webp" description="<i>I'm telling ya', it's that Abe guy! Sell! Dump it! Lose it! Get rid of it!</i>" %}
 

@@ -35,7 +35,7 @@ You know, I have to wonder how they exactly sit in these chairs. Their anatomy d
 
 {% include caption.html url="/imgs/stateofplay/baron2.webp" description="" %}
 
-Baron looks quite surprised at the end of this scene, I have to wonder if this cutscene plays once Abe has infiltrated / wrecked havoc in Necrum. 
+Baron looks quite surprised at the end of this scene, I have to wonder if this cutscene plays once Abe has infiltrated / wrecked havoc in Necrum.
 
 ## So long, Comet
 
@@ -53,7 +53,7 @@ I believe this next area is likely BoneWerkz. While the floor is unmistakably of
 
 {% include caption.html url="/imgs/stateofplay/orb.webp" description="" %}
 
-Also on this screen one can notice a Security Orb that surprisingly gets *deactivated* when Abe gets close, the exact opposite of what one would expect. I wonder if this is the doing of an item, disrupting the workers or one of those vague "chi-charms" LL has talked about before.
+Also on this screen one can notice a Security Orb that surprisingly gets _deactivated_ when Abe gets close, the exact opposite of what one would expect. I wonder if this is the doing of an item, disrupting the workers or one of those vague "chi-charms" LL has talked about before.
 
 ## Placeholder Dripik
 
@@ -125,7 +125,7 @@ Abe can now tie up Sligs who are sleeping and thus non-lethally incapacitating t
 
 {% include caption.html url="/imgs/stateofplay/possession.webp" description="" %}
 
-Possession saw some changes since we last saw it, including the removal of the timer. However, I still sorely miss the old design of simple, swirling, blue orbs. They were really elegant in their simplicity, while this new design keeps being compared to *"Who wants to be a millionaire?"* and let's be honest, with good reason too.
+Possession saw some changes since we last saw it, including the removal of the timer. However, I still sorely miss the old design of simple, swirling, blue orbs. They were really elegant in their simplicity, while this new design keeps being compared to _"Who wants to be a millionaire?"_ and let's be honest, with good reason too.
 
 Anyway, we are also presented with the fact that after the first Slig dies, you're able to maneuver the orb into the second one taking him over too. I'm currently inclined to think, what I though were bells are in-fact "switches" you can possess to open doors, based on this quote:
 
@@ -151,12 +151,12 @@ Personally I'm okay with this. I get the thematic idea of saving everyone, but i
 
 This screen has quite a few points of note so let's go over them from left to right:
 
-* Chill Pill poster from Munch's Oddysee on the top left
-* Vykker poster just next to it
-* A TV screen showing a broadcast of something called "Slave Aid," the rest can't be read. The scene in the background seems to be the old B&W teaser we saw at the end of the ARG.
-* A TV screen broadcasting "SNN" with OWI's logo below it. I assume it stands for "SoulStorm News Network," but you guess is as good as mine.
-* A TV screen showing a newspaper titled "The Mudos Misinformer," the rest of the text is too blurry to read.
-* Finally on the far right, a hardly visible poster of Gum Rot from Munch's Oddysee.
+- Chill Pill poster from Munch's Oddysee on the top left
+- Vykker poster just next to it
+- A TV screen showing a broadcast of something called "Slave Aid," the rest can't be read. The scene in the background seems to be the old B&W teaser we saw at the end of the ARG.
+- A TV screen broadcasting "SNN" with OWI's logo below it. I assume it stands for "SoulStorm News Network," but you guess is as good as mine.
+- A TV screen showing a newspaper titled "The Mudos Misinformer," the rest of the text is too blurry to read.
+- Finally on the far right, a hardly visible poster of Gum Rot from Munch's Oddysee.
 
 {% include caption.html url="/imgs/stateofplay/run2.webp" description="Hey, we have seen this before!" %}
 
@@ -190,7 +190,7 @@ Finally we see Abe who takes a sigh of relief with a brand new chest tattoo on h
 
 I have been asked by a few people before what I'm thinking of the game... I hoped seeing new footage would decisively shift me in one way or another, but I have to sadly say it didn't. I like how the cutscenes look (can't speak of the content until we actually see them in full), they seem well made, kudos there. There seem to be a lot of story threads, so I'm curious to see how they will be handled.
 
- The gameplay though still feels like an erratic mess that's missing the pacing and quiet of the original. It's like Exoduss' weird cousin who has ADHD. From what we've seen the game wants to be so many things in once that I fear that it won't be any of them fully. I'm also sad to see the puzzler nature of the game more or less gone, sure you still have to make a strategy I assume, but there doesn't seem to be as much outsmarting as outfighting or "outstealthing" them.
+The gameplay though still feels like an erratic mess that's missing the pacing and quiet of the original. It's like Exoduss' weird cousin who has ADHD. From what we've seen the game wants to be so many things in once that I fear that it won't be any of them fully. I'm also sad to see the puzzler nature of the game more or less gone, sure you still have to make a strategy I assume, but there doesn't seem to be as much outsmarting as outfighting or "outstealthing" them.
 
 My biggest problem is probably the regressions the game suffered compared to AE, when this is supposed to be the "original vision" that's exactly how it was imagined. Were the creative gibs something GT forced? Or characters not moving like they're part of a cartoon? Or animations not clipping with attacks? Each of these is a minor thing, but they add up, especially when they are probably not terribly hard to fix.
 

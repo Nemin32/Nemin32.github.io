@@ -24,11 +24,13 @@
 }
 
 .year .month .events {
-  background: repeating-linear-gradient(0,
-      var(--quote-background),
-      var(--quote-background) var(--elem-height),
-      var(--quote-darker) var(--elem-height),
-      var(--quote-darker) calc(2 * var(--elem-height)));
+  background: repeating-linear-gradient(
+    0,
+    var(--quote-background),
+    var(--quote-background) var(--elem-height),
+    var(--quote-darker) var(--elem-height),
+    var(--quote-darker) calc(2 * var(--elem-height))
+  );
 }
 
 .year {
@@ -36,7 +38,8 @@
   margin-bottom: 3rem;
   width: 100%;
 
-  p, a {
+  p,
+  a {
     font-size: 18px;
     text-transform: none;
     font-variant: normal;
@@ -54,7 +57,7 @@
     font-weight: normal;
   }
 
-  &>div {
+  & > div {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 0.5rem;
@@ -147,7 +150,7 @@
 }
 
 @media (max-width: 990px) {
-  .year>div {
+  .year > div {
     grid-template-columns: 1fr;
   }
 }

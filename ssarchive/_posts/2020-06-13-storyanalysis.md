@@ -15,7 +15,7 @@ Without further ado, let's begin.
 
 ## The Journey
 
-Firstly, I'd like to address the probably least *"controversial"* point of this post, namely the
+Firstly, I'd like to address the probably least _"controversial"_ point of this post, namely the
 journey Abe is going to take in Soulstorm. To recap, here is the new, official Oddworld map:
 
 {% include caption.html url="/imgs/sammi_mudos_map.jpg" description="" %}
@@ -29,28 +29,28 @@ perfectly.
 
 With this in mind, I believe the path of progression will be something like this:
 
-* “We start off in a hideout" - Monsaic Lines
+- “We start off in a hideout" - Monsaic Lines
 
-* "Then we go into old, abandoned towns that are a little more like Stranger, these old mill towns and mining towns." - Gorge
+- "Then we go into old, abandoned towns that are a little more like Stranger, these old mill towns and mining towns." - Gorge
 
-* "We have ancient ruins, pretty spooky-looking areas." - Sorrow Valley
+- "We have ancient ruins, pretty spooky-looking areas." - Sorrow Valley
 
-* "We wind up at gas stations for trains, big fuel depots." - Phat Station
+- "We wind up at gas stations for trains, big fuel depots." - Phat Station
 
-* "Then we go to a Slig Barracks..." - Slig Barracks
+- "Then we go to a Slig Barracks..." - Slig Barracks
 
-* "...and the Necrum Mines" - Necrum Mines
+- "...and the Necrum Mines" - Necrum Mines
 
 While the quote ends here, my personal interpretation of what will happen afterwards is the
 following:
 
-* (Possibly a trip into the Mudomo and Mudanchee Vaults)
+- (Possibly a trip into the Mudomo and Mudanchee Vaults)
 
-* Comet Depot
+- Comet Depot
 
-* (Maybe Bonewerkz)
+- (Maybe Bonewerkz)
 
-* Soulstorm Brewery
+- Soulstorm Brewery
 
 There is some complication here, however, considering one of the early reviews said the following:
 
@@ -59,7 +59,7 @@ There is some complication here, however, considering one of the early reviews s
 > from five locations to guide Abe in any order. And they're all much bigger than the one I saw.
 
 The "giant train station" is without a doubt Comet Depot. The problem is rather, with these five
-'much bigger' locations.  Originally I was going to say, the Brewery must be one of them, but such
+'much bigger' locations. Originally I was going to say, the Brewery must be one of them, but such
 a central location surely isn't something you can do out of order. Rather it'll probably be at the
 climax. Unless of course, if you can go there, but you can't finish the game until you've visited
 the other places too. Or perhaps you can, but to get the best ending you have to leave it last.
@@ -68,15 +68,15 @@ Putting the Brewery aside, one has to wonder: Will the locations from Munch's Od
 Soulstorm? Looking at the map, Magog Motors is a direct connection to Comet and with them you'd
 finally have the five possibilities:
 
-* Bonewerkz
+- Bonewerkz
 
-* Soulstorm Brewery
+- Soulstorm Brewery
 
-* Magog Motors
+- Magog Motors
 
-* Splinterz
+- Splinterz
 
-* Flub Fuels
+- Flub Fuels
 
 While it does sound like a stretch, I honestly have no better explanation and seeing how the Vykkers
 and Fuzzles are part of the game, I consider it entirely possible.
@@ -110,7 +110,7 @@ thing, next to Abe's journey, which seems to be a lot more about leading the Mud
 This makes one wonder: **What if the Brew isn't even the important part of the story?**
 
 To elaborate, I'm not (necessarily) saying that the Brew is a bait-and-switch, but that rather it
-being *the* plot device, it's just one of multiple. In fact, I believe the story's main McGuffin
+being _the_ plot device, it's just one of multiple. In fact, I believe the story's main McGuffin
 will be the shiny object embedded in Abe's backpack. There is still a lot of confusion about what it
 is exactly, but nonetheless it seems to constantly accompany Abe and later appear inserted into the
 Mayan-looking device.

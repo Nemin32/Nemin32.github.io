@@ -47,7 +47,7 @@ together as a bunch in front of their leader.
   about sixty bodies. Once the hole is dug, you'll start the burial, then report back to me. Got
   it?"
 
-- "Yes... sir."  - The group replied without much eagerness. 
+- "Yes... sir." - The group replied without much eagerness.
 
 As they moved through the trees Zeg wondered what's the point in this operation. Their employers had
 machines that could eat up whole cities worth of land at a time. Why order a bunch of guys with

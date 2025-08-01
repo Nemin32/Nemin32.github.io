@@ -48,7 +48,7 @@ I see! And is Oddysee also your favorite of the series?
 Haha, I feel very similar, through I personally can't really choose between Oddysee and Exoddus.
 
 > **Sammi McEwan:**
-> They feel as though they're one game really :) 
+> They feel as though they're one game really :)
 
 ## The Map
 
@@ -160,7 +160,7 @@ Ah, I haven't received the new one yet, so I can only judge by the few photos yo
 Okay and now the final question, a staple one: Now that Soulstorm seems to be around the corner, I would like to know what you think of it. Do you like the new direction the game took? Is there something story-wise you're really looking forward to? Or perhaps seeing a teased location? Being the map maker, I imagine you thought a lot about the places that were placed on it.
 
 > **Sammi McEwan:**
-> My fiancé is a QA at Fat Kraken so I have had the chance to play bits of Soulstorm. I'm not allowed to say much but I think the game is very ambitious and I really hope that it does well when it comes out. So much love and hard work are  being poured into that game. 
+> My fiancé is a QA at Fat Kraken so I have had the chance to play bits of Soulstorm. I'm not allowed to say much but I think the game is very ambitious and I really hope that it does well when it comes out. So much love and hard work are being poured into that game.
 >
 > Personally I like the new direction, it's definitely grittier than New 'n' Tasty. I just can't wait to sit down and play the full thing.
 >
