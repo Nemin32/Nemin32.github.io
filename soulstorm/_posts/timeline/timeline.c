@@ -214,6 +214,18 @@ const struct EVENT event_list[] = {
   EVENT(23, 11, 25, OTHER,     "Abe's Exoddus's 25th anniversary",                                          NULL),
   EVENT(23, 11, 26, OTHER,     "Lorne Lanning announces attending LightBox Expo",                           "https://twitter.com/lorne_lanning/status/1717591047457710458"),
   EVENT(23, 11, 28, OTHER,     "OWI remembers AE's anniversary",                                            "https://twitter.com/OddworldInc/status/1729552386895524018"),
+  EVENT(24,  6, 27, OTHER,     "Abe's Exoddus gets trophies on the PS4/5",                                  "https://twitter.com/OddworldInc/status/1806311598480302217"),
+  EVENT(25,  4, 24, OTHER,     "GameTee launches Abe figure Kickstarter",                                   "https://www.kickstarter.com/projects/gametee/1629197328/"),
+  EVENT(25,  5, 12, OTHER,     "OWI announces 'Unlikely Heroes' bundle for the Switch",                     "https://x.com/OddworldInc/status/1922019045504626797"),
+  EVENT(25,  6, 30, OTHER,     "Abe's Oddysee gets trophies on PS4/5",                                      "https://twitter.com/OddworldInc/status/1939715611782721730"),
+  EVENT(25,  6, 19, OTHER,     "'Unlikely Heroes' bundle launches",                                         "https://www.amazon.com/Oddworld-Anthology-Unlikely-Heroes-Collection-Nintendo/dp/B0F1CWMJJ6"),
+
+  /* AskLorne */
+  EVENT(24,  8,  2, OTHER,     "AskLorne #1",                                                               "https://twitter.com/lorne_lanning/status/1819453766565089755"),
+  EVENT(24,  8, 23, OTHER,     "AskLorne #2",                                                               "https://twitter.com/lorne_lanning/status/1827064007842517324"),
+  EVENT(24, 10, 17, OTHER,     "AskLorne #3",                                                               "https://twitter.com/lorne_lanning/status/1846990626405208382"),
+  EVENT(25,  5,  5, OTHER,     "AskLorne #4",                                                               "https://twitter.com/lorne_lanning/status/1919476491966152911"),
+  EVENT(25,  6, 18, OTHER,     "AskLorne #5",                                                               "https://twitter.com/lorne_lanning/status/1935428777737421240"),
 
   /* DISCORD */
   EVENT(17,  5,  2, DISCORD,   "Discord server launches",                                                   "https://discordapp.com/channels/293291256736382976/293291256736382976/308969023981486082"),
@@ -314,7 +326,7 @@ int main(void) {
   printf(header, date, date, NUM_OF_EVENTS);
 
   //if (0)
-  for (int year = 16; year <= 23; year++) {
+  for (int year = 16; year <= 25; year++) {
     printf("<div class='year'>\n");
     printf("<h2>20%d</h2>\n", year);
     printf("<div>\n");
