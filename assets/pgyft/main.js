@@ -68,22 +68,25 @@ function renderPost(post) {
 
     const header = document.createElement("summary");
     header.className = "header"
-    header.innerHTML = `<h3>${displayTitle}</h3><span>[${post.year}-${post.month}]</span>`
+    header.innerHTML = `<h4>${displayTitle}</h4><span class="date">[${post.year}-${post.month}]</span>`
     container.appendChild(header);
 
     for (const qna of post.contents) {
+        const qnaContainer = document.createElement("div");
+
         const question = document.createElement("p");
         question.className = "question";
         question.innerHTML = `Question: ${qna.question.trim()}`
-        container.appendChild(question);
+        qnaContainer.appendChild(question);
 
         const lines = qna.answer.split("\n\n");
         lines[0] = `<b>Answer:</b> ${lines[0]}`;
         const answerContainer = document.createElement("div");
         answerContainer.className = "answer";
         answerContainer.innerHTML = lines.map(l => `<p>${l}</p>`).join("")
+        qnaContainer.appendChild(answerContainer);
 
-        container.appendChild(answerContainer);
+        container.appendChild(qnaContainer);
     }
 
     return container;
