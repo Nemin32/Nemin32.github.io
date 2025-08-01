@@ -31,7 +31,7 @@ feels like a huge and disconnected jump in personality.
 ## The Pilot Slig
 
 I think we found our new Newscaster Slig, with one line this guy is already the most sympathetic
-character in the game. 
+character in the game.
 
 {% include caption.html url="/imgs/molre2/pilot.webp" description="- So you're saying he's the best character?<br>- It sounds idiotic, but that's exactly what he looks like." %}
 

@@ -28,6 +28,7 @@ Since Soulstorm features a lot of things Exoddus and New 'n' Tasty also feature,
 I figured it would be interesting to see the similarities and differences. All
 pictures come from HD videos and I've tried to take the pictures from similar
 distances.
+
 ## Characters
 
 {:.compare}
@@ -85,44 +86,35 @@ and it also has some purple lights coming out of it's centre.
 {% include caption.html url="/imgs/comparison/open_nnt.jpg" description="" %}
 {% include caption.html url="/imgs/comparison/open_ss.jpg" description="" %}
 
-
 However, there doesn't seem to be any major changes between NnT's version of the
 open portal and Soulstorm's (other than slightly different light emanating from
 it).
-
 
 {:.compare}
 {% include caption.html url="/imgs/comparison/orb_ae.jpg" description="" %}
 {% include caption.html url="/imgs/comparison/orb_nnt.jpg" description="" %}
 {% include caption.html url="/imgs/comparison/orb_ss.jpg" description="" %}
 
-
 Similarly to above, the Security Orbs also didn't change much between NnT and
 Soulstorm, except the Orbs of Soulstorm occasionally emit sparks of red
 electricity.
 
-
 {:.compare}
 {% include caption.html url="/imgs/comparison/brew_ae.jpg" description="" %}
 {% include caption.html url="/imgs/comparison/brew_ss.jpg" description="" %}
-
 
 Since vending machines will be a prevalent mechanic in Soulstorm, the Brew
 dispensers themselves have received a similar design, making them quite
 different compared to Exoddus' dispensers. However, the signature laughing
 Glukkon remained.
 
-
 {:.compare}
 {% include caption.html url="/imgs/comparison/screen_ao.jpg" description="" %}
 {% include caption.html url="/imgs/comparison/screen_ae.jpg" description="" %}
 
-
-
 {:.compare}
 {% include caption.html url="/imgs/comparison/screen_nnt.jpg" description="" %}
 {% include caption.html url="/imgs/comparison/screen_ss.jpg" description="" %}
-
 
 Other than the obvious graphical changes, Soulstorm's status indicator screens
 also show the status of Sligs.

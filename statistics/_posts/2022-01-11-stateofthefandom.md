@@ -11,13 +11,14 @@ summary: "Another fandom activity report"
 </style>
 
 # State of the Fandom
+
 {:.no_toc}
 
 {% include caption.html url="/imgs/stateofthefandom/mom.png" description="\"Top management reports
 everything's gonna be fine! ... Uh-huh.\"" %}
 
 - TOC
-{:toc}
+  {:toc}
 
 Happy belated new year! Now that the _Enahnced Edition_ of _Soulstorm_ had been released, it's a bit
 of a slow-season when it comes to _Oddworld_-content. With that in mind, I'd like to take the
@@ -131,8 +132,8 @@ day running average." %}
 
 Whether this activity will stay remains to be seen, however, the short term trend seems to be
 downwards pointing. One thing's clear, however, conversations seem to have almost entirely moved
-away from discussing *Soulstorm* and rather focus either on the art posted in the server's related
-channel, off-topic discussions, or what if-s. 
+away from discussing _Soulstorm_ and rather focus either on the art posted in the server's related
+channel, off-topic discussions, or what if-s.
 
 ## Miscellaneous
 
@@ -180,7 +181,7 @@ As one can see 2022 is off to a somewhat perilous start for OWI, at least when i
 media engagement. While few platforms are outright bleeding users, (looking at the Facebook,) they
 are regardless either stagnating or experiencing almost insignificant growth.
 
-The question arises: **What next?** The *Enchanced Edition's* release, while probably great for sales,
+The question arises: **What next?** The _Enchanced Edition's_ release, while probably great for sales,
 did little to bring in many new people. This can be heavily felt in just how slow the communities
 feel.
 

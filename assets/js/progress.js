@@ -1,17 +1,19 @@
 window.addEventListener("load", () => {
-    let tick = false;
+  let tick = false;
 
-    window.addEventListener("scroll", () => {
-        const scrolly = window.scrollY;
+  window.addEventListener("scroll", () => {
+    const scrolly = window.scrollY;
 
-        if (!tick) {
-            requestAnimationFrame(() => {
-                const percent = Math.round(scrolly / (document.body.scrollHeight - window.innerHeight) * 100)
+    if (!tick) {
+      requestAnimationFrame(() => {
+        const percent = Math.round(
+          (scrolly / (document.body.scrollHeight - window.innerHeight)) * 100,
+        );
 
-                document.documentElement.style.setProperty("--progress", `${percent}%`);
-                tick = false;
-            })
-            tick = true;
-        }
-    })
-})
+        document.documentElement.style.setProperty("--progress", `${percent}%`);
+        tick = false;
+      });
+      tick = true;
+    }
+  });
+});

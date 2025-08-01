@@ -1,18 +1,18 @@
 :root {
-    --font-color: #d0ded0;
-    --sub-font-color: #b0b6b0;
-    --background-color: #222622;
-    --link-color: #b0dab0;
+  --font-color: #d0ded0;
+  --sub-font-color: #b0b6b0;
+  --background-color: #222622;
+  --link-color: #b0dab0;
 
-    /* Quote */
-    --quote-highlight: #aaccaa;
-    --quote-border: #779977;
-    --quote-background: #303830;
-    --quote-darker: #162016;
+  /* Quote */
+  --quote-highlight: #aaccaa;
+  --quote-border: #779977;
+  --quote-background: #303830;
+  --quote-darker: #162016;
 
-    /* Sizes */
-    --font-size: 22px;
-    --sub-font-size: 20px;
+  /* Sizes */
+  --font-size: 22px;
+  --sub-font-size: 20px;
 }
 
 @media screen and (max-width: 990px) {

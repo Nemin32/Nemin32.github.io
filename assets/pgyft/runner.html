@@ -3,13 +3,13 @@
     <script>
       /** @typedef {{question: string, answer: string}} QnA*/
 
-      /** 
+      /**
        * @param {string} text
        */
       function processText(text) {
         text = text.replaceAll("\n", " ");
         text = text.toLowerCase();
-        return new Set(text.split(/\W/).filter(l => l.length > 0));
+        return new Set(text.split(/\W/).filter((l) => l.length > 0));
       }
 
       /**
@@ -32,18 +32,24 @@
         const raw_contents = post.contents.map(processQnA);
 
         /** @type {Array<string>} */
-        const total = Array.from(raw_contents.reduce((acc, set) => {
-          const merged = set.question.union(set.answer);
-          return acc.union(merged);
-        }, new Set()));
+        const total = Array.from(
+          raw_contents.reduce((acc, set) => {
+            const merged = set.question.union(set.answer);
+            return acc.union(merged);
+          }, new Set()),
+        );
 
         return total;
       }
 
-      fetch("./posts.json").then(p => p.json()).then(posts => {
-        const processed = Object.fromEntries(Object.entries(posts).map(([key, val]) => [key, processPost(val)]))
-        document.write(JSON.stringify(processed))
-      });
+      fetch("./posts.json")
+        .then((p) => p.json())
+        .then((posts) => {
+          const processed = Object.fromEntries(
+            Object.entries(posts).map(([key, val]) => [key, processPost(val)]),
+          );
+          document.write(JSON.stringify(processed));
+        });
     </script>
   </head>
   <body></body>

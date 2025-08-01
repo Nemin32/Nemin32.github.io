@@ -11,9 +11,9 @@ Molluck took a deep breath in to calm his racing heart. Though he appeared calm 
 
 "A'ight, Boss," he chippered with gusto as he pressed a small switch hidden in his palm. The projector hanging over their head snuffed out for a moment, only to light up again in a blaze of glory, showing a brand new product. For a moment the room went silent, save for the deafening thuds of Molluck's heart, then, as if floodgates were opened, he was suddenly swept away by incredulity and confusion at the projected gains. He asked for the next slide and, gathering all his charisma and force, bellowed "We'll chop 'em up!"
 
-The results were immediate and unmistakable. With the doubts now dispelled and the future revealed in crystal clarity, his peers screamed in elation and approval: Molluck did it again. 
+The results were immediate and unmistakable. With the doubts now dispelled and the future revealed in crystal clarity, his peers screamed in elation and approval: Molluck did it again.
 
-He did it. 
+He did it.
 
 And yet, now that he was past the hardest moment, the roaring cheers and encouragements barely registered. He talked and smiled through the reception like a puppet, without even being sure how long the whole event lasted, inside begging to be allowed to leave.
 
@@ -41,7 +41,7 @@ It was a corner he could keep under lock and key, where he could be alone with o
 
 "Quite the predicament you found yourself in, no?" a voice called out to him, breaking the heavy silence.
 
-For a moment Molluck stood still in disbelief. That voice wasn't his. But that wasn't possible... He was in his vault. Nobody could enter here without him knowing. He spun around clumsily and the sight sent his already nervous brain into overdrive. Who stood in front of him was no other than a Mudokon, adorned in red paint, his face shrouded by a gigantic mask, whose blank eyes stared deeply into Molluck's hollow soul. 
+For a moment Molluck stood still in disbelief. That voice wasn't his. But that wasn't possible... He was in his vault. Nobody could enter here without him knowing. He spun around clumsily and the sight sent his already nervous brain into overdrive. Who stood in front of him was no other than a Mudokon, adorned in red paint, his face shrouded by a gigantic mask, whose blank eyes stared deeply into Molluck's hollow soul.
 
 "Who... who the hell are you?" he demanded. His seething rage quickly turned to terror as he noticed a spear almost as tall as the room itself in his hands. "One more step and I'll have you shot and stuffed." Though the words rang false even to his own ears. This was his sanctum. There were no cameras, no microphones here. The only way to open this vault from the outside was to present a sample of his own blood and voice. His perfect castle became his perfect prison.
 
@@ -49,7 +49,7 @@ The masked Mudokon chuckled quietly. "Ask first and shoot immediately afterwards
 
 "The name's Molluck, son of Queen Margaret. If you lay as much as a dirty finger on me, you'll bring down the hammer of my family on you." Molluck was disgusted at himself for how pathetic he sounded, but with no guards, no plan, and nowhere to run or hide, he was at the mercy of his own words and his captor's whims.
 
-"I know who you are, murderer. I know what you did and I know where it got you." With each word the stranger closed the distance, until the two were at arms reach. "I also know that no help is coming. You are just as caged as the thousands violated under your command." He readied his weapon. Even though Molluck was a head taller, that only brought his neck closer to the Mudokon's spear. Molluck closed his eyes and winced, expecting the stab. However, after a moment that felt like eternity, nothing happened. He carefully opened his eyes again. 
+"I know who you are, murderer. I know what you did and I know where it got you." With each word the stranger closed the distance, until the two were at arms reach. "I also know that no help is coming. You are just as caged as the thousands violated under your command." He readied his weapon. Even though Molluck was a head taller, that only brought his neck closer to the Mudokon's spear. Molluck closed his eyes and winced, expecting the stab. However, after a moment that felt like eternity, nothing happened. He carefully opened his eyes again.
 
 "Since I know who you are, you should know who I am too." The Mudokon took a step back, allowing a little bit of breathing room. "In my tribe I am known by the name BigFace. Breathe easy, son of Margaret, if my intentions were to snuff out your flame, you would not have been given the opportunity to speak. But your reckoning, though close, need not necessarily be this day."
 
@@ -75,15 +75,15 @@ Molluck glanced at the spear in BigFace's hand, which remained firmly planted to
 
 "You're asking me to assist in busting out my own sla-?" Molluck bit his tongue and cursed himself for letting his mouth run.
 
-"You don't have to be so polite," BigFace growled. "We know the hellish conditions you keep them. They are indeed slaves. And no, I'm not even asking you to help him. Only to give him a moment of respite, so that he has a chance to prove his mettle. What you do afterwards is your own choice." 
+"You don't have to be so polite," BigFace growled. "We know the hellish conditions you keep them. They are indeed slaves. And no, I'm not even asking you to help him. Only to give him a moment of respite, so that he has a chance to prove his mettle. What you do afterwards is your own choice."
 
-Molluck turned around and looked out the window of the Vault. Outside a myriad of hanging cages like torn-open rib-cages looked back at him, each housing two or three Mudokons. He stared at them for a second, his orange eyes reflecting on the dark glass, before turning back. "My *employees* are docile and obedient. Blue or not, none of them would be daft enough to think of a revolt."
+Molluck turned around and looked out the window of the Vault. Outside a myriad of hanging cages like torn-open rib-cages looked back at him, each housing two or three Mudokons. He stared at them for a second, his orange eyes reflecting on the dark glass, before turning back. "My _employees_ are docile and obedient. Blue or not, none of them would be daft enough to think of a revolt."
 
-"Oh, on that we are in agreement." BigFace nodded. "Not by themselves, anyway. But tell me, do you know what your name means? Or, rather, *who* it means?"
+"Oh, on that we are in agreement." BigFace nodded. "Not by themselves, anyway. But tell me, do you know what your name means? Or, rather, _who_ it means?"
 
 "My name?" Molluck furrowed his brows, the lights of his eye shimmering uneasily like a pair of old gas lamps. "What's that have to do with anythin'?"
 
-"Indeed, your name! It is more important than even your ego would let you think. Did you know that before your kind was lost to myopic denial, you had spirits and gods of your own?" 
+"Indeed, your name! It is more important than even your ego would let you think. Did you know that before your kind was lost to myopic denial, you had spirits and gods of your own?"
 
 "Bullshit!" Molluck spat back with ire, his eyes shifting to red.
 
@@ -95,7 +95,7 @@ Molluck turned around and looked out the window of the Vault. Outside a myriad o
 
 "Killin' kids? Ridiculous!" Molluck spat back. "I don't care what your backwards tribal crap says 'bout my name, that ain't nothing like me. I just process animals." Before he could say another word, he was silenced by BigFace's spear smashing against the carpet with a hollow thud.
 
-"You who grew fat on the blood of all the beings slaughtered here bear plenty resemblance to your namesake." He could barely keep his voice down. "Those *animals* have been sacred to us for millennia before your people forced yourself upon these lands."
+"You who grew fat on the blood of all the beings slaughtered here bear plenty resemblance to your namesake." He could barely keep his voice down. "Those _animals_ have been sacred to us for millennia before your people forced yourself upon these lands."
 
 "Whaddaya want then?" Despite his predicament, Molluck's patience for these riddles was running out. "Want the flesh? I can give you all I still have stockpiled. Moolah? I can pay for the ones I've sold. Take what'ya here for and if it's ain't enough..." Molluck couldn't finish the sentence. He keeled over in pain as BigFace withdrew the dull end of the spear from his abdomen.
 
@@ -103,7 +103,7 @@ Molluck turned around and looked out the window of the Vault. Outside a myriad o
 
 "How?" Molluck groaned, as he slowly straightened up.
 
-"What else are those *docile and obedient workers* if not children to someone like you?" asked BigFace bitterly as placed a piece of parchment on a desk next to Molluck. "You shall live up to your name. This is what you will announce on tomorrow's meeting."
+"What else are those _docile and obedient workers_ if not children to someone like you?" asked BigFace bitterly as placed a piece of parchment on a desk next to Molluck. "You shall live up to your name. This is what you will announce on tomorrow's meeting."
 
 Molluck's eyes ran across the lines of text and a crude, gruesome sketch. His skin turned pale as he comprehended their meaning. "This is... This is crazy!" He let out a weak laugh in incredulity. "Even if I can peddle this to the Board, this will bankrupt me in seconds! And... and if it ever gets out, it'd be a right scandal! The moneybags and the bleedin' hearts would whine until I'm right outta' the family!"
 
@@ -111,7 +111,7 @@ BigFace sighed. "I told you. The slaughterhouse will burn. With or without you."
 
 Molluck remained silent for what felt like minutes. Finally, like a cornered beast ready to gnaw off its own limbs, he leaned forward to meet BigFace eye to eye.
 
-"Alright. Alright. Point taken. I'll do what you want." 
+"Alright. Alright. Point taken. I'll do what you want."
 
 "Swear it." Once more, Molluck found the spear pointed at his neck, this time its tip nicking the skin. "We must know your true colors."
 
@@ -125,7 +125,7 @@ In that very same moment, Molluck was blinded by a flash of light and in place o
 
 ---
 
-"Um, Boss? Hello? Boss?" 
+"Um, Boss? Hello? Boss?"
 
 Molluck awoke to Chaffeur gently prodding his suit.
 

@@ -147,11 +147,10 @@ I ultimately realized less is sometimes more so I started utilzing a
 simple dirty-white background and almost-black font, which
 considerably improved readability.
 
-
         body {
             background-color: black;
         }
-        
+
         h1 {
             text-align: center;
             margin-top: 2ch;
@@ -160,7 +159,7 @@ considerably improved readability.
             font-size: 4ch;
             font-weight: bold;
         }
-        
+
         p {
             width: 80ch;
             margin: auto;
@@ -168,17 +167,17 @@ considerably improved readability.
             color: white;
             font-size: larger;
         }
-        
+
         p.centered {
             text-align: center;
         }
-        
+
         hr {
             width: 40ch;
             margin-top: 2ch;
             margin-bottom: 2ch;
         }
-        
+
         img {
             width: 60ch;
             display: block;
@@ -188,7 +187,7 @@ considerably improved readability.
             margin-top: 4ch;
         }
 
-The original CSS stylesheet of *cities.html*, only around 40 lines in
+The original CSS stylesheet of _cities.html_, only around 40 lines in
 size compared to the current 250-300.
 {:.subtitle}
 

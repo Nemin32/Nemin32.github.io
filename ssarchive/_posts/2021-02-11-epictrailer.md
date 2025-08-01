@@ -184,19 +184,19 @@ Not a bad trailer, still no release date, albeit we're
 
 ### What I've liked
 
-* The backgrounds mostly look great. Some look a bit rough, but nothing that grating.
-* The UI changes are very welcome. Obviously Oddworld games are best without UI, but one has to make
+- The backgrounds mostly look great. Some look a bit rough, but nothing that grating.
+- The UI changes are very welcome. Obviously Oddworld games are best without UI, but one has to make
   compromises, I guess.
-* The Greeters look fancy.
-* The animations look a bit slower. Still not to my fullest liking, but it's a definite step in the
+- The Greeters look fancy.
+- The animations look a bit slower. Still not to my fullest liking, but it's a definite step in the
   right direction.
 
 ### What I didn't:
 
-* The shadow creatures still look extremely out of place and un-Oddworldy.
-* The visual effects seem to be a bit overtuned. Seeing large flashes of light when Abe puts out
+- The shadow creatures still look extremely out of place and un-Oddworldy.
+- The visual effects seem to be a bit overtuned. Seeing large flashes of light when Abe puts out
   fires is very weird.
-* Still no release date. Come on, it's been five years almost...
-* Mudokon chatter. It'll always be annoying.
-* I find the Greeter death animation to be a bit too silly. It's a bit too cartoony even for the
+- Still no release date. Come on, it's been five years almost...
+- Mudokon chatter. It'll always be annoying.
+- I find the Greeter death animation to be a bit too silly. It's a bit too cartoony even for the
   series.
