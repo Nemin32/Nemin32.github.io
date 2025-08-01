@@ -5,8 +5,8 @@
 .progress {
   transition: all 0.25s ease-in-out;
   width: var(--progress, 0);
-  height: 5px;
-  background-color: var(--highlight);
+  height: 1px;
+  background-color: var(--quote-border);
 
   position: fixed;
   top: 0;
