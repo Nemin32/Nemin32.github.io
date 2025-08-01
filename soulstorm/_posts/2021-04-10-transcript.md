@@ -10,7 +10,7 @@ summary: In case you wanted to quote something quickly.
 This page contains all cutscenes in the game in text format.
 
 - TOC
-  {:toc}
+{:toc}
 
 ## Intro
 

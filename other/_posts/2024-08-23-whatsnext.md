@@ -16,7 +16,7 @@ Obviously, the series story-wise is not even close to being over. Soulstorm ends
 **Contents:**
 
 - TOC
-  {:toc}
+{:toc}
 
 ## Oddworld News or The Lack Of Thereof
 
