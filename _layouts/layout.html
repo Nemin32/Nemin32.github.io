@@ -1,36 +1,33 @@
 <!doctype html>
 <html lang="en" prefix="og: http://ogp.me/ns#">
-  <head>
-    <!-- Meta -->
-    <meta charset="UTF-8" />
-    <meta
-      name="Description"
-      content="Oddwords is a quasi-journalistic Oddworld fansite created by Nemin"
-    />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
+<head>
+  <!-- Meta -->
+  <meta charset="UTF-8" />
+  <meta name="Description" content="Oddwords is a quasi-journalistic Oddworld fansite created by Nemin" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    {% capture title %} Oddwords: {{page.title}} {% endcapture %}
-    <title>{{ title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap"
+    rel="stylesheet">
 
-    <link rel="stylesheet" href="/css/common.css" />
-    <link rel="stylesheet" href="/css/body.css" />
-    <script type="module" src="/assets/js/progress.js"></script>
+  {% capture title %} Oddwords: {{page.title}} {% endcapture %}
+  <title>{{ title }}</title>
 
-    <!-- OpenGraph stuff -->
-    <meta property="og:title" content="{{ title }}" />
-    <meta
-      property="og:description"
-      content='{{ page.summary | default: "A fansite dedicated to Canon & Community." }}'
-    />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://oddwords.hu{{page.url}}" />
-    <meta property="og:image" content="https://oddwords.hu/logo.webp" />
+  <link rel="stylesheet" href="/css/common.css" />
+  <link rel="stylesheet" href="/css/body.css" />
+  <script type="module" src="/assets/js/progress.js"></script>
 
-    <script type="speculationrules">
+  <!-- OpenGraph stuff -->
+  <meta property="og:title" content="{{ title }}" />
+  <meta property="og:description" content='{{ page.summary | default: "A fansite dedicated to Canon & Community." }}' />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://oddwords.hu{{page.url}}" />
+  <meta property="og:image" content="https://oddwords.hu/logo.webp" />
+
+  <script type="speculationrules">
       {
         "prerender": [
           {
@@ -41,26 +38,26 @@
         ]
       }
     </script>
-  </head>
+</head>
 
-  <body>
-    <div class="progress"></div>
+<body>
+  <div class="progress"></div>
 
-    <header>
-      <a href="/index.html">
-        <div id="logo_div">
-          <img src="/logo.webp" width="128px" height="128px" />
-          <hgroup>
-            <h1>Oddwords</h1>
-            <p>Of Canon and Community</p>
-          </hgroup>
-        </div>
-      </a>
+  <header>
+    <a href="/index.html">
+      <div id="logo_div">
+        <img src="/logo.webp" width="128px" height="128px" />
+        <hgroup>
+          <h1>Oddwords</h1>
+          <p>Of Canon and Community</p>
+        </hgroup>
+      </div>
+    </a>
+    {% include navigation.html %}
+  </header>
 
-    </header>
-
-    <main>
-      <!--
+  <main>
+    <!--
       <div id="header_info_div">
         {% if page.date %}
         <p>Published at {{page.date | date: "%Y.%m.%d." }}</p>
@@ -68,51 +65,30 @@
         <p>{{ page.content | number_of_words }} words</p>
       </div>
       -->
-      {{ content }}
-    </main>
+    {{ content }}
+  </main>
 
-    <footer>
-      <div id="badges">
-        <a href="https://oddworld.com">
-          <img
-            alt="Oddworld badge"
-            title="Oddworld.com - Odd to the Last Drop!"
-            width="88px"
-            height="31px"
-            src="/badges/badge1.png"
-          />
-        </a>
-        <a href="https://en.wikipedia.org/wiki/Hungary">
-          <img
-            alt="HUN badge"
-            title="From Hungary, with Love"
-            width="88px"
-            height="31px"
-            src="/badges/badge2.png"
-          />
-        </a>
-        <a href="/feed">
-          <img
-            alt="RSS badge"
-            title="RSS Feed"
-            width="88px"
-            height="31px"
-            src="/badges/badge4.png"
-          />
-        </a>
-        <a href="https://cadence.moe/blog/2024-10-05-created-by-a-human-badges">
-          <img
-            alt="Made by Human badge"
-            title="Created by a Human with a Heart"
-            width="88px"
-            height="31px"
-            src="/badges/badge3.png"
-          />
-        </a>
-      </div>
-      <p>
-        Created by <a href="https://reddit.com/u/Nemin32">Nemin</a> (2018 - 2025)
-      </p>
-    </footer>
-  </body>
+  <footer>
+    <div id="badges">
+      <a href="https://oddworld.com">
+        <img alt="Oddworld badge" title="Oddworld.com - Odd to the Last Drop!" width="88px" height="31px"
+          src="/badges/badge1.png" />
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Hungary">
+        <img alt="HUN badge" title="From Hungary, with Love" width="88px" height="31px" src="/badges/badge2.png" />
+      </a>
+      <a href="/feed">
+        <img alt="RSS badge" title="RSS Feed" width="88px" height="31px" src="/badges/badge4.png" />
+      </a>
+      <a href="https://cadence.moe/blog/2024-10-05-created-by-a-human-badges">
+        <img alt="Made by Human badge" title="Created by a Human with a Heart" width="88px" height="31px"
+          src="/badges/badge3.png" />
+      </a>
+    </div>
+    <p>
+      Created by <a href="https://reddit.com/u/Nemin32">Nemin</a> (2018 - 2025)
+    </p>
+  </footer>
+</body>
+
 </html>

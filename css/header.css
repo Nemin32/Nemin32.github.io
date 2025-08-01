@@ -10,7 +10,7 @@ header {
     color: var(--font-colour);
   }
 
-@media screen and (orientation: portrait) {
+@media screen and (max-width: 990px) {
   & {
     flex-direction: column;
   }
@@ -53,5 +53,105 @@ header {
 
   p {
     margin: 0.2rem;
+  }
+}
+
+nav {
+  display: flex;
+  width: 100%;
+  margin-top: 1rem;
+
+
+  div {
+    flex-grow: 1;
+
+    a {
+      width: inherit;
+    }
+
+    .btn::after {
+      content: "▼";
+      font-size: 12px;
+      padding-left: 0.25rem;
+      position: relative;
+      top: -2px;
+      left: 2px;
+    }
+  }
+
+  a {
+    display: block;
+    margin: 0;
+    font-variant: small-caps;
+    text-transform: lowercase;
+  }
+
+  .btn {
+    flex-grow: 1;
+    text-align: center;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border: 1px solid var(--quote-border);
+    border-right: none;
+    background-color: var(--quote-background);
+    position: relative;
+
+    &:last-of-type {
+      border-right: 1px solid var(--quote-border);
+    }
+  }
+
+  div ul {
+    display: none;
+  }
+
+  div:hover ul {
+    display: block;
+  }
+
+  ul {
+    position: absolute;
+    z-index: 1;
+    margin: 0;
+    padding: 0;
+
+    border: 1px solid var(--quote-border);
+    background-color: var(--quote-background);
+    list-style-type: none;
+
+    li, a {
+      margin: 0;
+    }
+
+    a {
+      padding: 0 0.25rem;
+      text-align: left;
+      border: none;
+      border-right: none;
+    }
+  }
+
+  a:hover {
+    background-color: var(--quote-border);
+  }
+}
+
+@media screen and (max-width: 990px ) {
+  nav {
+    flex-direction: column;
+
+    .btn {
+      border-right: 1px solid var(--quote-border) !important;
+    }
+
+    div {
+      display: flex;
+      flex-direction: column;
+
+      ul {
+        position:static;
+        flex-grow: 1;
+      }
+    }
   }
 }
