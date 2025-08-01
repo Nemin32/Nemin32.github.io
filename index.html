@@ -75,12 +75,15 @@ title: "Index"
     </ul>
   </div>
 
-  {% assign categories = "statistics, other, soulstorm, blog" | split: ", " %}
-  {% assign category_names = "Fandom-related Statistics, General Oddworld
-  Content, Soulstorm-related Content, Blog" | split: ", " %} {% for category in
-  categories %}
+  {% assign categories = "stories, statistics, reviews, other, soulstorm, blog" | split: ", " %}
+  {% assign category_names = "Fanfics, Fandom-related Statistics, Reviews, General Oddworld
+  Content, Soulstorm-related Content, Blog" | split: ", " %} 
+  {% assign category_descriptions = "Short stories written by me.; Surveys, measurements of social media engagement, and game rankings.; My reviews of Oddworld media.; Everything that doesn't fit elsewhere.; Content related to Soulstorm and its development.; Posts relating to Oddwords itself." | split: "; " %}
+  
+  {% for category in categories %}
   <div class="category">
     <h2 id="{{ category }}">{{ category_names[forloop.index0] }}</h2>
+    <p>{{ category_descriptions[forloop.index0] }}</p>
     <ul>
       {% for post in site.categories[category] %} {% include
       index_list_item.html post=post %} {% endfor %}
