@@ -14,7 +14,7 @@ noticed while watching the video.
 **Contents:**
 
 - TOC
-  {:toc}
+{:toc}
 
 ## Native hideout
 

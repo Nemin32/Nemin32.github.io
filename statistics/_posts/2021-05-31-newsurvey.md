@@ -16,7 +16,7 @@ better. Let's get into it!
 **Table of Contents:**
 
 - TOC
-  {:toc}
+{:toc}
 
 ## Methodology
 

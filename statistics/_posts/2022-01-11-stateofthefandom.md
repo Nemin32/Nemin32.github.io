@@ -18,7 +18,7 @@ summary: "Another fandom activity report"
 everything's gonna be fine! ... Uh-huh.\"" %}
 
 - TOC
-  {:toc}
+{:toc}
 
 Happy belated new year! Now that the _Enahnced Edition_ of _Soulstorm_ had been released, it's a bit
 of a slow-season when it comes to _Oddworld_-content. With that in mind, I'd like to take the

@@ -26,7 +26,7 @@ I tried to split the interview into sections, but because of the topics overlap 
 {:.intro}
 
 - TOC
-  {:toc}
+{:toc}
 
 ## Background
 

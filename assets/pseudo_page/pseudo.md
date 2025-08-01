@@ -3,7 +3,7 @@
 # A Pszeudokód problémái és ezek javasolt megoldásai
 
 - TOC
-  {:toc}
+{:toc}
 
 ## Előszó
 
