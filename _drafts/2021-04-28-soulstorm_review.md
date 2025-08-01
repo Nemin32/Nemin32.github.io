@@ -23,7 +23,7 @@ both Toby and him knows this is where they're headed and other than being imposi
 other locations Abe visits also share - I don't really see what he's on about. To me it sort of
 feels like this scene wasn't really made with the later story points in mind, rather as its own
 thing that can both be used as-is in-game and as promotional material. Regardless, we soon see Abe,
-who's very busy staring at *something,* which will be discussed soon and not even paying attention
+who's very busy staring at _something,_ which will be discussed soon and not even paying attention
 to the action that's going on in the meantime. Suddenly we're thrust 12 (CHECK) hours in the past
 and the story begins from where stories usually start, in its beginning.
 
@@ -209,7 +209,7 @@ retrieve the artifact. Not much story related happens here and Abe eventually fi
 then returns to the Keeper and is thus granted the knowledge. And here comes a major slap from the
 story: **We are never granted a peek into just what Abe learns,** aside from like two throwaway
 sentences. This to me totally undermines this scene. I'm sure some feel catharsis from seeing Abe's
-torture, but I personally just rolled my eyes seeing how 
+torture, but I personally just rolled my eyes seeing how
 
 ### FeeCo Depot
 

@@ -4,13 +4,14 @@ summary: "A critique/review of Soulstorm's plot"
 ---
 
 # Story Rundown
+
 {:.no_toc}
 
 It's been over three years since Soulstorm dropped and while I have quite a few posts related to the game, if you were following the site, you may have noticed that I never made anything even remotely similar to a game and/or story review.
 
 Truth be told, this isn't because I didn't try. The platform I host this site records all edits and I can count at least three if not four drafts I've written over the years (as early as the week after release) where I tried reviewing Soulstorm. Some of these were only a couple hundred words, some thousands, resembling more mad rants than coherent, well-argued posts. Unsurprisingly, each and every one of these failed to live up to the standards I try to keep, so they never saw the light of day
 
-The reason for this? *Scope.*
+The reason for this? _Scope._
 
 It's extremely hard to find a good angle of attack when it comes to the game. Not because there's nothing to criticize, but because it's hard to do it in a way that doesn't sound like I'm merely spewing hate indiscriminately. Consider Shugendo's [excellent video](https://www.youtube.com/watch?v=smIGZcXEVEQ) about Soulstorm's bugs for instance---it's not necessarily even an exhaustive collection, yet it's over an hour long. I shudder to think how long an article that handles not only gameplay, but lore too would be.
 
@@ -26,8 +27,8 @@ Even with this restriction the post ended up being quite long, but I hope you'll
 
 **Contents:**
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 ## Newspaper intro
 
@@ -73,7 +74,7 @@ What I imagine was the original intent is that since the security forces at the 
 
 {% include caption.html url="/imgs/storyrundown/twelvehours.png" description="You'd never guess how many hours passed between the two events." %}
 
-What I *think* the idea was with was to bridge over questions like "Why did nobody send investigators when the Mines / FeeCo stopped?", but with the Brew becoming deadly after 48 hours, I think it would've made a nice raising of stakes, if Abe's journey took (almost) two days.
+What I _think_ the idea was with was to bridge over questions like "Why did nobody send investigators when the Mines / FeeCo stopped?", but with the Brew becoming deadly after 48 hours, I think it would've made a nice raising of stakes, if Abe's journey took (almost) two days.
 
 That way there could've been a good emotional opportunity where the trio had to argue about whether to keep the Brew to treat those most affected by it or use it to speed up the train and get faster to their destination. This kind of already happens, but by the time it becomes relevant we're already at the tail end of the story and it's hardly shown or implied that any Mudokons with Abe are suffering.
 
@@ -95,7 +96,7 @@ I think the mere existence of this character makes the entire plot lose some of 
 - crossed a desert with zero supplies,
 - doing all this while suffering from Brew withdrawal, which the game later explicitly mentions causes dizziness and eventually causes the addict to collapse and be unable to move unless urgently treated.
 
-I could buy that Mudokons are naturally sturdy creatures, even if all the games in the series until now implied otherwise. I could even buy that the guy *somehow* managed to get to Abe with the map. But doing this while he's actively bleeding out as well?
+I could buy that Mudokons are naturally sturdy creatures, even if all the games in the series until now implied otherwise. I could even buy that the guy _somehow_ managed to get to Abe with the map. But doing this while he's actively bleeding out as well?
 
 I know gunshots don't always cause the injured to keel over and stay down, but once the adrenalin dissipates, you're not gonna sprint, especially not when you're suffering fantasy-fent withdrawal.
 
@@ -107,7 +108,7 @@ I think a much better way to handle this would've been to not have him be shot. 
 
 This way Abe would also have the, ehm, Brew of Damocles over his head the entire game: "You might have physically saved all these Mudokons, but they're still on death's door until you fix this," which could've been a great motivator for the character.
 
-The Courier could've also explained, that the reason why he stayed alive for so long was due to the Queen Bee. The game already heavily implies that the Bee(s) have some sort of healing or preserving power. Both the Royal Jelly (which increase Abe's max health) and the Keeper's home being basically a hive (and her being so ancient, yet still strong) point towards this. 
+The Courier could've also explained, that the reason why he stayed alive for so long was due to the Queen Bee. The game already heavily implies that the Bee(s) have some sort of healing or preserving power. Both the Royal Jelly (which increase Abe's max health) and the Keeper's home being basically a hive (and her being so ancient, yet still strong) point towards this.
 
 This could've been potentially another character-forming moment for Abe, since he cannot continue his journey without the Bee, yet the Courier cannot go with him due to his exhaustion, and they cannot wait, since Monsaic is actively burning down.
 
@@ -209,11 +210,11 @@ It's safe to say, that this scene is perhaps the single most appalling one for m
 
 I mean, goodness' sake, Abe heals Mudokons with literal bat shit mixed with some roadside herbs. The nicest interpretation of this I can give is that it's meant to be a metaphor for healing the Industrial world's maladies using natural remedies, but it just doesn't work.
 
-All it does is trivialize the game's biggest ticking clock. It turns the dread of "Oh crap, Abe and co. all drank the brew, what will happen to them now?" to "Phew, we can just make magic juice and fix all our immediate problems." 
+All it does is trivialize the game's biggest ticking clock. It turns the dread of "Oh crap, Abe and co. all drank the brew, what will happen to them now?" to "Phew, we can just make magic juice and fix all our immediate problems."
 
 And indeed, it never once feels like the main characters are in a hurry until the Brewery scene. Sure, there's the occasional half-hearted mention of Brew rations running out, but the whole survival aspect of the story poofs out of existence.
 
-Compare this with how Exoddus handles the Brew. Despite being far more goofy with its fart jokes and whatnot, AE had a certain reverence towards the Brew, which it showed off during cutscenes. The early stinger, where Abe learns that its made from the Mudokon bones is already a good example, but I think its what follows immediately afterwards that really sells it: The Mudokons are sick... and you have absolutely no way of saving them. In a series where you've been conditioned to not leave a single soul behind, this is devastating. With a little exaggeration, the player is as helpless as Abe himself. 
+Compare this with how Exoddus handles the Brew. Despite being far more goofy with its fart jokes and whatnot, AE had a certain reverence towards the Brew, which it showed off during cutscenes. The early stinger, where Abe learns that its made from the Mudokon bones is already a good example, but I think its what follows immediately afterwards that really sells it: The Mudokons are sick... and you have absolutely no way of saving them. In a series where you've been conditioned to not leave a single soul behind, this is devastating. With a little exaggeration, the player is as helpless as Abe himself.
 
 So when you do brave the Vaults and eventually return with the Healing Ring, it feels like a real accomplishment---Abe received a cool new scar and overcame the most insidious trap the Glukkons threw at him until then. The fact that this only happens after around the halfway point of the game further drives this feeling home. You have a clear goal in mind and a very obvious obstacle, that you can work towards defeating.
 
@@ -221,7 +222,7 @@ So when you do brave the Vaults and eventually return with the Healing Ring, it 
 
 Meanwhile, in Soulstorm the cure is received in the same level its effects are showcased and, after this single level, you hardly ever need to reuse it to heal sick Mudokons again.
 
-Sure, I hear you saying, "but Abe still has to figure out how to cure *all* Mudokons, not just the ones with him." Fair point... but even there the method lacks all the pathos of the original: Instead of braving depths and receiving a sign that he's worthy of supernatural intervention, he's simply lucky enough to have Toby around who just so happens to know that the ingredients are usually ferried through FeeCo.
+Sure, I hear you saying, "but Abe still has to figure out how to cure _all_ Mudokons, not just the ones with him." Fair point... but even there the method lacks all the pathos of the original: Instead of braving depths and receiving a sign that he's worthy of supernatural intervention, he's simply lucky enough to have Toby around who just so happens to know that the ingredients are usually ferried through FeeCo.
 
 Again, I kind of see the point---they're turning the Industrialists' tools against them by reusing the ingredients in a way that taints the Brew, but it all boils down to basically fortune.
 
@@ -253,7 +254,7 @@ My biggest issue with this scene is the fact, that it---like many others before 
 
 Abe brought down RuptureFarms, which is a deeply impressive feat on its own, but he had no time to become a celebrity yet. Unless we're led to believe that a lot of time passed the factory burning down and his escape and, more importantly, that Mudokons are somehow both capable of communicating with the free world and are clever enough to realize they've been misled.
 
-Thing is, until now nothing in the series implied these preconceptions. The things Molluck says imply that not a whole lot of time passed, though admittedly there's his healed scars, so this alone doesn't hold much water. 
+Thing is, until now nothing in the series implied these preconceptions. The things Molluck says imply that not a whole lot of time passed, though admittedly there's his healed scars, so this alone doesn't hold much water.
 
 However, for the other point there's really no excuse I could think of. Mudokons, including Abe, were shown to be extremely docile. Abe himself says he "thought he had a good job" and would have lived and died as cattle, had he not eavesdropped on Molluck. And native Mudokons are shown to be antagonistic, if not hostile towards "city Muds," like Abe, so I can't think they'd risk their lives to spread the revolution. Except perhaps for BigFace, but he's sitting in limbo.
 
@@ -269,9 +270,9 @@ There's, of course, also the elephant in the room---that is to say the Soulstorm
 
 I haven't mentioned him in his previous appearance, because he didn't really have any of his good lines yet, but I must absolutely bring up how much the Pilot Slig's character was nailed.
 
-He very quickly became my favourite character in the entire story and, funnily enough, I consider him to have the best arc in the entire story. His lines are witty, his delivery is good and the simple cap sets him apart without being anything too fancy. 
+He very quickly became my favourite character in the entire story and, funnily enough, I consider him to have the best arc in the entire story. His lines are witty, his delivery is good and the simple cap sets him apart without being anything too fancy.
 
-It is implied (and I believe later confirmed in a podcast), that he is the same Slig as the one who accompanied Molluck to the captive Abe. Because of this he can occasionally slip through a bit of sass or disagreement, that creates a great dynamic between him and the boss. 
+It is implied (and I believe later confirmed in a podcast), that he is the same Slig as the one who accompanied Molluck to the captive Abe. Because of this he can occasionally slip through a bit of sass or disagreement, that creates a great dynamic between him and the boss.
 
 The fact that they are clearly in conflict, yet must rely on each other allows for moments that no other pairing in the game could. Abe either receives blind praise or inflexible orders, there's never a point where he must compromise with someone or argue, all of which are things that near constantly happen between the Pilot Slig and Molluck.
 
@@ -309,7 +310,7 @@ This is another instance of this in the same cutscene. Fine, Toby knows how to o
 
 {% include caption.html url="/imgs/storyrundown/mom.png" description="News you can't abuse!" %}
 
-Before I tear into the tape scene, I must praise the little nods to the old games here. Whether it's the nasty Baby Chow Fuzzle, the original *Magog on the March* newscaster Slig, or the Chill Pill poster on the other side of the wall, seeing these old things again will me with a certain warmth.
+Before I tear into the tape scene, I must praise the little nods to the old games here. Whether it's the nasty Baby Chow Fuzzle, the original _Magog on the March_ newscaster Slig, or the Chill Pill poster on the other side of the wall, seeing these old things again will me with a certain warmth.
 
 Now, how much sense it makes for these random ads to be plastered over a communication tower I don't know, but this is Oddworld, they'd probably stitch ads in your eyelids if they could.
 
@@ -321,11 +322,11 @@ The tape, the big reveal, that the Brew is actually bad... I'm just not sure who
 
 But even if we put this to the side, there's a far larger can of worms that this cutscene tears up and spills all over the plot's metaphorical spaghetti:
 
->**Brewmaster:** They will not be running to the cities because they will die before they ever get there.
+> **Brewmaster:** They will not be running to the cities because they will die before they ever get there.
 >
->**Brewmaster:** They will not be meeting with Union Representatives because they will never reach one.
+> **Brewmaster:** They will not be meeting with Union Representatives because they will never reach one.
 >
->**Brewmaster:** They will not be causing you PR nightmares because they will be dead.
+> **Brewmaster:** They will not be causing you PR nightmares because they will be dead.
 
 Union Representatives? PR nightmares? What? This is the series where Molluck can casually say he'll chop up his workforce and his entire board of directors laughs with him and says it's a great idea!
 
@@ -351,7 +352,7 @@ One thing I really don't like about how Soulstorm handles its trio is the fact t
 
 The reason why I tagged this part a "missed opportunity" is because Morguer comes so damn close to being the exception. Out of the three main Glukkons (aside from Molluck), he's the only one who doesn't immediately go "nuh-uh" when his Slig implies there might be more to the RuptureFarms story.
 
-THe one thing I don't understand in this scene is why he's calling the Brewmaster *before* his guard tells him of Abe and thus plants the whole "the Brew might not work" idea in his head. But I can accept this if we assume he was already considering the opportunity seeing the recent disruptions.
+THe one thing I don't understand in this scene is why he's calling the Brewmaster _before_ his guard tells him of Abe and thus plants the whole "the Brew might not work" idea in his head. But I can accept this if we assume he was already considering the opportunity seeing the recent disruptions.
 
 ## The Keeper
 
@@ -363,7 +364,7 @@ Phew, isn't that a combination? But indeed, it's how I feel about these two scen
 
 One one hand, I adore the Keeper's design and mannerisms. I think she's both cool and quirky enough to stand out. I also quite like the idea that the Mudokons don't have written history (though what's all the story stones for then?) and rather they have unnaturally long-lived Keepers who act as remembers.
 
-Finally, I like that she's clearly female and yet isn't a massive blob, which is soft worldbuilding that implies that infertile queens remain similar to "normal" worker-type Mudokons, yet have unnatural longevity. 
+Finally, I like that she's clearly female and yet isn't a massive blob, which is soft worldbuilding that implies that infertile queens remain similar to "normal" worker-type Mudokons, yet have unnatural longevity.
 
 However, sadly this is where my praise ends and my issues begin. What the hell is a "Stone of the Fragon's Eye?" I mean, "Fragon" is probably a portmanteau of "frog" and "dragon", but what is this creature? If it is even a creature and not just some mythological being, seeing how the stone is clearly a tablet hidden in amber. If it's meant to be a challenge to "the one", who put it there? The Keeper mentions the previous ones "always having known that he'd come," but... why? Do Mudokons have some sort of messiah-myth? And I don't mean the modern stuff that current slave Mudokons believe in, but something since ancient times?
 
@@ -411,7 +412,7 @@ Same scene, but I really dislike how neither Alf, nor Toby ever really argue wit
 >
 > **Alf:** Did she say anything else?
 
-I understand Abe is the protagonist, but does this guy ever do *anything?* I mean, seriously, what is the point of Alf in Soulstorm beyond serving as a detached memento for a [man who had regrettably passed away](https://oddworldlibrary.net/wiki/Alfred_Gamble)?
+I understand Abe is the protagonist, but does this guy ever do _anything?_ I mean, seriously, what is the point of Alf in Soulstorm beyond serving as a detached memento for a [man who had regrettably passed away](https://oddworldlibrary.net/wiki/Alfred_Gamble)?
 
 Even poor Toby, whom the fandom dunked on so many times before the game's release has more reasons to be in the plot, since he drives the train. But Alf is just... there I guess? In conversations most he really does is ask questions or repeat info slightly rephrased. His maybe one original idea is to tell Abe to shut down the comms in Slig Barracks, but even there he'd rather die than to help in any way.
 
@@ -473,10 +474,10 @@ What even are we looking at? And no, I don't mean "a cool boss arena," that much
 
 I didn't really know where to put this, so I'll put it here.
 
-In Exoddus Abe pretty much makes it certain the places he leaves are done for good: 
+In Exoddus Abe pretty much makes it certain the places he leaves are done for good:
 
-- Necrum Mines is blown up, 
-- the Barracks is pretty much slaughtered and left without its General (though one might argue things could only run better without him), 
+- Necrum Mines is blown up,
+- the Barracks is pretty much slaughtered and left without its General (though one might argue things could only run better without him),
 - BoneWerkz got its boilers shut off and head Glukkon killed,
 - FeeCo also has his head Glukkon killed,
 - and finally the Brewery goes up in a ball of flame.
@@ -485,10 +486,10 @@ With this in mind, I find it so odd that in Soulstorm Abe kind of just leaves al
 
 {% include caption.html url="/imgs/storyrundown/breweryboom.png" description="Catharsis in a single picture." %}
 
-I think it would've worked much better if Abe somehow fundamentally sabotaged the factories he visits: 
+I think it would've worked much better if Abe somehow fundamentally sabotaged the factories he visits:
 
-- not just shut down communication lines in the Barracks, but pour Brew on them and burn it all down, 
-- not just rescue the Mudokons at FeeCo, but make trains run into each other or make the towers made from those innumerable cargo crates tumble, 
+- not just shut down communication lines in the Barracks, but pour Brew on them and burn it all down,
+- not just rescue the Mudokons at FeeCo, but make trains run into each other or make the towers made from those innumerable cargo crates tumble,
 - not just walk through Necrum, but collapse a crane or two at least,
 - not just taint the Brew, but make sure the one guy who knows how to make the real deal stays silent.
 
@@ -508,7 +509,7 @@ Unlike any of the other characters, he goes from someone who fairly passively fo
 
 Seeing Molluck cowed and forced to negotiate was cathartic and the Slig banter is just a classic, whichever game it happens in.
 
-I really, *really* hope if the series continues, that the Pilot Slig's character won't be fumbled. I'm not sure what exactly makes Lanning write him so well (perhaps his military background?) but either way of everyone in this story, I really can't find much of a fault in him.
+I really, _really_ hope if the series continues, that the Pilot Slig's character won't be fumbled. I'm not sure what exactly makes Lanning write him so well (perhaps his military background?) but either way of everyone in this story, I really can't find much of a fault in him.
 
 ## The Bad Ending
 
@@ -524,7 +525,7 @@ It's obviously a minor and inconsequential thing, but it's still such a bizarre 
 
 {% include caption.html url="/imgs/storyrundown/moon.png" description="Is it just me or is the Moon feeling very '2D' for some reason?" %}
 
-I mean, it's alright, I don't *hate* it, but I think it's a little limp compared to what we had before. Maybe it's the fact that nothing explodes in the end. I know I might sound a little shallow, but it was so much of a staple of the series, that Munch's good ending even made fun of it. Or that it's not Abe raising his hand to the Moon, which I felt was a very empowering moment for his character at the end of Exoddus.
+I mean, it's alright, I don't _hate_ it, but I think it's a little limp compared to what we had before. Maybe it's the fact that nothing explodes in the end. I know I might sound a little shallow, but it was so much of a staple of the series, that Munch's good ending even made fun of it. Or that it's not Abe raising his hand to the Moon, which I felt was a very empowering moment for his character at the end of Exoddus.
 
 But, to speak more seriously, there's nothing conceptually wrong with a quiet and contemplating ending, but I feel the reveal of Sam and the namedrop of Nolybab is just a little too little too late. I guess it is the first time we actually hear the city's name in-game, which is a tiny step forward, but we're still squarely in lore teased for 20 years.
 

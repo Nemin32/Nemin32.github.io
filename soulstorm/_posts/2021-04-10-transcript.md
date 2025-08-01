@@ -4,12 +4,13 @@ summary: In case you wanted to quote something quickly.
 ---
 
 # The Transcript of Soulstorm's Cutscenes
+
 {:.no_toc}
 
 This page contains all cutscenes in the game in text format.
 
 - TOC
-{:toc}
+  {:toc}
 
 ## Intro
 
@@ -41,7 +42,6 @@ This page contains all cutscenes in the game in text format.
 
 **Freed Slave:** They came creeping up just like this, And then, and then, and then... Whammo!
 Slignuggets! [Laughs]
-
 
 **Audience:** Oh wow! / That's great! / I love Abe!
 

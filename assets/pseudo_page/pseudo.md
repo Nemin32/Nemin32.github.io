@@ -2,8 +2,8 @@
 
 # A Pszeudokód problémái és ezek javasolt megoldásai
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 ## Előszó
 
@@ -209,7 +209,6 @@ Helyett:
     x[0] = 3
     x[1] = 5
 
-
 Bár ez elsőre némi félreértéshez vezethet, miszerint az olvasó esetleg
 a tömb (n+1).-edik elemét keresheti az n.-edik helyén, ám némi
 gyakorlással hamar kiküszöbőlődik. Cserébe a fentebb említett
@@ -396,7 +395,7 @@ nem látják ezek hasznát.
 Természetesen első példaképp az programozási tételt vesszük, mely egy
 érték kiszámolása egy tömb összes elemének felhasználásával.
 
-Jelen példában "[+]" tetszőleges operátort jelöl, pl. '+', '-' vagy '*'.
+Jelen példában "[+]" tetszőleges operátort jelöl, pl. '+', '-' vagy '\*'.
 
 Eredeti tétel:
 
@@ -488,7 +487,6 @@ Kiugrás nélkül:
         }
     }
 
-
 Kiugrással:
 
     Bemenet: x − T tömb, n − egész, P − logikai
@@ -543,7 +541,8 @@ Rövidebben:
             vissza (van, i)
         különben
             vissza van
-   }
+
+}
 
 ### c. C kód összehasonlítása a változtatásokon átesett Pszeudokóddal
 

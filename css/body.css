@@ -1,94 +1,105 @@
 main {
-img {
-  max-width: min(80%, 800px);
-  max-height: 500px;
-  margin: 1rem 0;
-  display: block;
-}
-
-.figure_box figure {
-  display: table;
-  margin: 1rem auto;
-  width: 100%;
-
   img {
-    margin: 0 auto;
+    max-width: min(80%, 800px);
+    max-height: 500px;
+    margin: 1rem 0;
+    display: block;
   }
 
-  figcaption {
-    font-size: var(--sub-font-size);
-    padding-top: 0.25em;
-    text-align: center;
+  .figure_box figure {
+    display: table;
+    margin: 1rem auto;
+    width: 100%;
 
-    display: table-caption;
-    caption-side: bottom;
+    img {
+      margin: 0 auto;
+    }
 
-    opacity: 0.8;
+    figcaption {
+      font-size: var(--sub-font-size);
+      padding-top: 0.25em;
+      text-align: center;
 
-    p {
-      width: inherit;
-      margin: 0;
+      display: table-caption;
+      caption-side: bottom;
+
+      opacity: 0.8;
+
+      p {
+        width: inherit;
+        margin: 0;
+      }
     }
   }
-}
 
-iframe, video {
-  margin: 1rem auto;
-  display: block;
-  max-width: min(100%, 800px);
-}
+  iframe,
+  video {
+    margin: 1rem auto;
+    display: block;
+    max-width: min(100%, 800px);
+  }
 
-p, li {
-  line-height: 1.5;
-}
+  p,
+  li {
+    line-height: 1.5;
+  }
 
-code, pre {
-  max-width: 100%;
-  overflow: auto;
-}
+  code,
+  pre {
+    max-width: 100%;
+    overflow: auto;
+  }
 
-blockquote {
-  margin: 1rem 2rem;
-  background-color: var(--quote-background);
-  border-left: 5px solid var(--quote-border);
-  padding: 0.5rem;
-  clear: right;
-
-  *:first-child {margin-top: 0;}
-  *:last-child {margin-bottom: 0;}
-}
-
-@media screen and (max-width: 990px) {
   blockquote {
-    margin: 1rem 1rem;
-  }
-}
-
-table {
-  margin: 1rem auto;
-  clear: right;
-  background-color: #222;
-
-  th {
-    font-weight: bold;
+    margin: 1rem 2rem;
     background-color: var(--quote-background);
-    color: var(--font-color);
-  }
-
-  &, th, tr, td {
-    border: 1px solid black;
-  }
-
-  tfoot {
-    background-color: #343b34;
-  }
-
-  th, td {
+    border-left: 5px solid var(--quote-border);
     padding: 0.5rem;
+    clear: right;
+
+    *:first-child {
+      margin-top: 0;
+    }
+    *:last-child {
+      margin-bottom: 0;
+    }
   }
 
-  tr:nth-child(even) {
-    background-color: var(--quote-background);
+  @media screen and (max-width: 990px) {
+    blockquote {
+      margin: 1rem 1rem;
+    }
   }
-}
+
+  table {
+    margin: 1rem auto;
+    clear: right;
+    background-color: #222;
+
+    th {
+      font-weight: bold;
+      background-color: var(--quote-background);
+      color: var(--font-color);
+    }
+
+    &,
+    th,
+    tr,
+    td {
+      border: 1px solid black;
+    }
+
+    tfoot {
+      background-color: #343b34;
+    }
+
+    th,
+    td {
+      padding: 0.5rem;
+    }
+
+    tr:nth-child(even) {
+      background-color: var(--quote-background);
+    }
+  }
 }

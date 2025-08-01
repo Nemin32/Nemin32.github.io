@@ -122,7 +122,7 @@ game:
 Amusingly, however, the TOL post isn't entirely wrong as the albino Slig did
 appear in one of Oddworld games, albeit just as an easter egg. Still, if one
 pays attention to the patrons at Alf's bar in RuptureFarms, they might find that
-one of the Sligs there has *suspiciously pale skin:*
+one of the Sligs there has _suspiciously pale skin:_
 
 {% include caption.html url="/imgs/folklore/albino.webp" description="Another interesting thing to note is the SoulStorm Brew logo, which is a predecessor to the current 'Laughing Glukkon' logo." %}
 
@@ -136,19 +136,19 @@ However, the game hardly had the chance to even enter production as soon after
 announcing the game OWI closed its gates.
 
 > **[David Fried:](/swinterview)**
->I've heard nothing... I did hear about Fangus when I was leaving. That was
->supposed to be the next project that everyone would work on. Had some
->interesting concepts in it, like battle armor that could be blown off the
->character.
+> I've heard nothing... I did hear about Fangus when I was leaving. That was
+> supposed to be the next project that everyone would work on. Had some
+> interesting concepts in it, like battle armor that could be blown off the
+> character.
 >
->Thing is, they had already terminated the people who would be able to make that
->a reality (in my opinion). So it was kind of doomed from the start.
+> Thing is, they had already terminated the people who would be able to make that
+> a reality (in my opinion). So it was kind of doomed from the start.
 >
 > [...]
 >
->As far as Fangus, I don't... remember much.  I didn't see anything that they
->were doing.  And literally 1 month into pre-planning for pre-production,
->everyone was let go.
+> As far as Fangus, I don't... remember much. I didn't see anything that they
+> were doing. And literally 1 month into pre-planning for pre-production,
+> everyone was let go.
 
 In stark contrast, Alf said the following about BBoFK:
 
@@ -173,21 +173,21 @@ too late.
 
 To show just how big these plans were, let me quote Alf once again:
 
->**Alf [Dear Alf 1]:** Think eco-extremists versus corporate greed. It's Exxon
->vs. Greenpeace and you get to choose which one you want to be. There are three
->sides, or ideologies, wrapped into one playing field. You will be able to
->choose between one of three master characters for three different races. Each
->of these three characters will have the ability to control masses of their own
->kind. Each of the three has interests that conflict with the others. It can be
->played competitively, or cooperatively, or you can just exist and experiment
->while nurturing a particular world. You may choose to have full-scale
->conflicts, or just make a lot of moolah via destroying it.
+> **Alf [Dear Alf 1]:** Think eco-extremists versus corporate greed. It's Exxon
+> vs. Greenpeace and you get to choose which one you want to be. There are three
+> sides, or ideologies, wrapped into one playing field. You will be able to
+> choose between one of three master characters for three different races. Each
+> of these three characters will have the ability to control masses of their own
+> kind. Each of the three has interests that conflict with the others. It can be
+> played competitively, or cooperatively, or you can just exist and experiment
+> while nurturing a particular world. You may choose to have full-scale
+> conflicts, or just make a lot of moolah via destroying it.
 >
->We are also out for something that can be left on and grow while you're not
->even home. We're after fully persistent universes that have a life of their
->own. Eco-system simulation is a big part of the next level for the Oddworld
->games. We really want you to take ownership of the world, and then deal with
->the inevitabilities that arise out of your behavior of your forces.
+> We are also out for something that can be left on and grow while you're not
+> even home. We're after fully persistent universes that have a life of their
+> own. Eco-system simulation is a big part of the next level for the Oddworld
+> games. We really want you to take ownership of the world, and then deal with
+> the inevitabilities that arise out of your behavior of your forces.
 
 So, what this post promises is an always online RTS with 9 different classes and
 several approaches to gameplay. Considering this was posted in 2000 (so two
@@ -201,20 +201,20 @@ explained easily, if one accepts the reasoning that OWI was entirely unsure
 about the scope of the game and just wanted to excite people by saying big
 words.
 
->**Alf [Dear Alf 1]:** Hand of Odd is about us using the technology of Munch,
->enhancing upon it, and bringing it into the multiplayer world of gaming. How
->many players will be able to interact at one time is still yet to be
->determined. If we can get 8 players at one time for Hand of Odd we will be
->happy. It will be enough. If we can get more we will be ecstatic.
+> **Alf [Dear Alf 1]:** Hand of Odd is about us using the technology of Munch,
+> enhancing upon it, and bringing it into the multiplayer world of gaming. How
+> many players will be able to interact at one time is still yet to be
+> determined. If we can get 8 players at one time for Hand of Odd we will be
+> happy. It will be enough. If we can get more we will be ecstatic.
 >
->Hand of Odd will not be an online community in the way that Everquest or Ultima
->Online are. But we do plan to take advantage of features like downloadable
->units that will help to keep the world fresh even after it’s been out there
->awhile. Our most important function will be speed. We'll take advantage of as
->much as we can until update rates become an issue. There as so many questions
->that relate to the multiplayer Internet capabilities that are yet to be
->answered technically, that we can't lock down to the degree that we would like
->yet.
+> Hand of Odd will not be an online community in the way that Everquest or Ultima
+> Online are. But we do plan to take advantage of features like downloadable
+> units that will help to keep the world fresh even after it’s been out there
+> awhile. Our most important function will be speed. We'll take advantage of as
+> much as we can until update rates become an issue. There as so many questions
+> that relate to the multiplayer Internet capabilities that are yet to be
+> answered technically, that we can't lock down to the degree that we would like
+> yet.
 
 To make matters worse, OWI released a few short clips from the game, further
 causing people to believe HoO's imminent approach:
@@ -236,7 +236,7 @@ is going to come:
 However, all of this was undone in 2011, when he said the following:
 
 > **Alf [Dear Alf; August 2011, Volume 1]:** Oddworld: The Hand of Odd will be
-> delivering next year. 
+> delivering next year.
 
 > **Alf: [Dear Alf; August 2011, Volume 2]:** Hand of Odd fell off our radar as
 > production on Munch progressed. It was a tortuous and torturous labor for so

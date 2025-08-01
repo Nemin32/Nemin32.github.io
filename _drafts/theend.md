@@ -10,9 +10,9 @@ All good things must eventually come to an end. In Oddwords' case, this happens 
 my reasons and tie up some loose ends further down the line, but if you're only interested in the
 immediate effects, here's your TL;DR:
 
-* The site will likely receive no further updates.
-* I have no intentions of taking the site offline.
-* I'm effectively leaving the fandom.
+- The site will likely receive no further updates.
+- I have no intentions of taking the site offline.
+- I'm effectively leaving the fandom.
 
 ## The future of Oddwords
 
@@ -252,4 +252,4 @@ frustration of the good kind.)
 At the end of the day, it was fun wasn't it? I hope I might meet some of you again in a different
 fandom. Until then...
 
-# *Goodbye*
+# _Goodbye_

@@ -4,35 +4,38 @@ summary: An outdated pile of information about Soulstorm.
 ---
 
 ## What we know about
+
 # SOULSTORM
 
 ### LINKS:
+
 These are links where nearly all tangible info can be found.
 
-* [Official Page](https://oddworld.com/soulstorm)
-* [ARG Puzzles](http://oddworld.wikia.com/wiki/Soulstorm_ARG)
-* [ARG Summary](https://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary)
-* [ARG Tweets](https://oddworldlibrary.net/wiki/Soulstorm_ARG_Tweets)
-* [Transcript of The Informant](https://oddworldlibrary.net/wiki/Soulstorm_ARG_-_The_Informant)
-* [GDC 2019 - "A Glimpse of a Cinematic"](https://www.youtube.com/watch?v=9nHf_ejvqA0)
-* [My thoughts about GDC](https://oddwords.hu/gdc)
-* [EGX Talk](https://www.youtube.com/watch?v=L3zdCg4tbOc)
-* [EGX Transcript](egx)
-* [Caddicarus Interview](https://www.youtube.com/watch?v=GdDpdJxcZvQ)
-* [Caddicarus Transcript](https://magogonthemarch.com/transcripts/egx-2017-lorne-lanning-interview/)
-* [Soulstorm Teaser Video](https://www.youtube.com/watch?v=1p0o2c4NGpk)
-* [Unite Berlin 2018](https://www.youtube.com/watch?v=Kv9Zoyo8o8s)
-* [Q&A 1](https://magogonthemarch.com/official-oddworld-discord-qa-2018/)
-* [Q&A 2](https://magogonthemarch.com/official-oddworld-qa-2-2018/)
-* [Peter Chapman Interview](https://magogonthemarch.com/abes-oddysee-continues-peter-chapman-on-updating-a-playstation-classic-for-a-new-generation-2017/)
+- [Official Page](https://oddworld.com/soulstorm)
+- [ARG Puzzles](http://oddworld.wikia.com/wiki/Soulstorm_ARG)
+- [ARG Summary](https://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary)
+- [ARG Tweets](https://oddworldlibrary.net/wiki/Soulstorm_ARG_Tweets)
+- [Transcript of The Informant](https://oddworldlibrary.net/wiki/Soulstorm_ARG_-_The_Informant)
+- [GDC 2019 - "A Glimpse of a Cinematic"](https://www.youtube.com/watch?v=9nHf_ejvqA0)
+- [My thoughts about GDC](https://oddwords.hu/gdc)
+- [EGX Talk](https://www.youtube.com/watch?v=L3zdCg4tbOc)
+- [EGX Transcript](egx)
+- [Caddicarus Interview](https://www.youtube.com/watch?v=GdDpdJxcZvQ)
+- [Caddicarus Transcript](https://magogonthemarch.com/transcripts/egx-2017-lorne-lanning-interview/)
+- [Soulstorm Teaser Video](https://www.youtube.com/watch?v=1p0o2c4NGpk)
+- [Unite Berlin 2018](https://www.youtube.com/watch?v=Kv9Zoyo8o8s)
+- [Q&A 1](https://magogonthemarch.com/official-oddworld-discord-qa-2018/)
+- [Q&A 2](https://magogonthemarch.com/official-oddworld-qa-2-2018/)
+- [Peter Chapman Interview](https://magogonthemarch.com/abes-oddysee-continues-peter-chapman-on-updating-a-playstation-classic-for-a-new-generation-2017/)
 
 ### INFORMATION ABOUT THE GAME:
+
 Most of the gameplay information in the EGX talk collected into an easily
 digestible list.
 
-* Hitscan weapons are gone for good, so in theory, you'll be able
-to dodge bullets, if you're quick enough. Also it seems like there
-will be multiple types of projectiles.
+- Hitscan weapons are gone for good, so in theory, you'll be able
+  to dodge bullets, if you're quick enough. Also it seems like there
+  will be multiple types of projectiles.
 
 > [Alex Carroll:](https://canary.discordapp.com/channels/293291256736382976/542438478030569472/545298673354145804)
 > "In NnT there weren't actually projectiles. In Soulstorm they are."
@@ -43,20 +46,18 @@ will be multiple types of projectiles.
 > Alex Carroll:
 > "In theory. Depends on the projectile, I guess."
 
-
-* The game will still be a platformer, albeit it's levels will be "much more
-exciting than in the previous games".
+- The game will still be a platformer, albeit it's levels will be "much more
+  exciting than in the previous games".
 
 > <a href = "https://magogonthemarch.com/transcripts/egx-2017-lorne-lanning-interview/">Lorne Lanning:</a>
 > "Abe is really about followers, empathy, puzzles. So how do we
-do that but really turn the volume up to eleven on the genre? So I call it a
-platformer game and then push that dynamic too."
+> do that but really turn the volume up to eleven on the genre? So I call it a
+> platformer game and then push that dynamic too."
 
 > <a href = "https://magogonthemarch.com/official-oddworld-discord-qa-2018/">Alex Carroll:</a>
 > "I can say our levels are way more interesting."
 
-
-* You will be able to release the posessed creatures alive or violently gib them.
+- You will be able to release the posessed creatures alive or violently gib them.
 
 > [Alex Carroll:](https://canary.discordapp.com/channels/293291256736382976/308941610132045824/539110836464123904)
 > It's tap to release, hold for gibs.
@@ -64,106 +65,95 @@ platformer game and then push that dynamic too."
 > [Alex Carroll:](https://discordapp.com/channels/293291256736382976/308941610132045824/561951077776228382)
 > Not necessarily harmless, mind. I just said 'release'. :)
 
-
-* The game will feature a crafting system.
+- The game will feature a crafting system.
 
 > <a href = "egx">Lorne Lanning:</a>
 > "And those consumer products, he can start converting into
-weapons and he can have then start finding with collectibles crafting those
-weapons into more specialized things. So inventory system and crafting has
-become a key part of what Abe does to get all these Mudokons through the world
-safely, hopefully."
+> weapons and he can have then start finding with collectibles crafting those
+> weapons into more specialized things. So inventory system and crafting has
+> become a key part of what Abe does to get all these Mudokons through the world
+> safely, hopefully."
 
-
-* You will be able to give items to your Mudokons, who will be
-able to assist you in combat, if you wish.
+- You will be able to give items to your Mudokons, who will be
+  able to assist you in combat, if you wish.
 
 > [Alex Carroll:](https://canary.discordapp.com/channels/293291256736382976/308941610132045824/537187742841438208)
 > Ah, sorry, thought Lorne had already mentioned
-that. So yeah, basically, a subset of the items in the wheel can be
-passed to the Mudokons. That's what their aggressive boxes relate
-to, too. If they're aggressive, maybe they'll assist Abe in his
-fights...  but - again - this has all changed.
+> that. So yeah, basically, a subset of the items in the wheel can be
+> passed to the Mudokons. That's what their aggressive boxes relate
+> to, too. If they're aggressive, maybe they'll assist Abe in his
+> fights... but - again - this has all changed.
 
-
-* The new thematic around brew is that if a Mudokon becomes addicted to it, then
-two days of withdrawal will result in their death by cardiac arrest.
+- The new thematic around brew is that if a Mudokon becomes addicted to it, then
+  two days of withdrawal will result in their death by cardiac arrest.
 
 {% include caption.html url="/imgs/ss_images/arrest.jpg" description="" %}
 
-
-* The brew is also very flammable, which can be potentially used in gameplay
-(area control?).
+- The brew is also very flammable, which can be potentially used in gameplay
+  (area control?).
 
 > <a href = "egx">Lorne Lanning:</a>
 > "So let's just say brew, one of the side effects of brew is
-that it's highly flammable. And everyone's addicted to it!"
+> that it's highly flammable. And everyone's addicted to it!"
 
-
-* Abe will be able to lead a huge number of Mudokons (up to 301) and OWI
-completely overhauled the GameSpeak to make this comfortable to use.
+- Abe will be able to lead a huge number of Mudokons (up to 301) and OWI
+  completely overhauled the GameSpeak to make this comfortable to use.
 
 > <a href = "egx">Lorne Lanning:</a>
 > "So this game begins with 301 freed Mudokons, that you're going
-to try and take with you through the journey, because they don't just
-disappear into the ether, they're gonna stay with you and at times in real
-time, in play you'll be managing the survival of this many guys on screen at
-one time."
+> to try and take with you through the journey, because they don't just
+> disappear into the ether, they're gonna stay with you and at times in real
+> time, in play you'll be managing the survival of this many guys on screen at
+> one time."
 
 > <a href = "https://magogonthemarch.com/official-oddworld-discord-qa-2018/">Alex Carroll:</a>
 > "We wouldn’t make it hard. If there are that many on screen at
-once (and in some cases there are) then Abe’s control over them is slightly
-different. We’ve refined Abe’s Gamespeak considerably."
+> once (and in some cases there are) then Abe’s control over them is slightly
+> different. We’ve refined Abe’s Gamespeak considerably."
 
-
-* It seems like the Mudokons will be capable of fighting back and the player can
-select how aggressive they will act.
+- It seems like the Mudokons will be capable of fighting back and the player can
+  select how aggressive they will act.
 
 {% include caption.html url="/imgs/ss_images/mood.jpg" description="" %}
 
-
-* Abe will have an HP bar, Ammo counter and he can also collect Moolah. And he
-will also be able to amass Chi, which will let him use powerful abilities.
+- Abe will have an HP bar, Ammo counter and he can also collect Moolah. And he
+  will also be able to amass Chi, which will let him use powerful abilities.
 
 {% include caption.html url="/imgs/ss_images/chi_hp.jpg" description="" %}
 
-* To get the best ending no Slig must die. (Whether we can save them or we just
-have to leave them be is not known.)
+- To get the best ending no Slig must die. (Whether we can save them or we just
+  have to leave them be is not known.)
 
 > <a href = "egx">Lorne Lanning:</a>
 > "And in this game you trying not to ideally kill the Sligs
-either. So a perfect play nobody dies.  That's hard as hell! You know, there's
-a lot of PTSD trauma that's going to take place before you achieve that goal,
-but that's our goal. In the ideal world Abe would have been able to traverse
-this very different, dangerous landscape and do that without killing anybody
-not even Sligs."
+> either. So a perfect play nobody dies. That's hard as hell! You know, there's
+> a lot of PTSD trauma that's going to take place before you achieve that goal,
+> but that's our goal. In the ideal world Abe would have been able to traverse
+> this very different, dangerous landscape and do that without killing anybody
+> not even Sligs."
 
-
-* There is now a concrete Pyramid of Power that shows us just how powerful
-certain positions are.
+- There is now a concrete Pyramid of Power that shows us just how powerful
+  certain positions are.
 
 {% include caption.html url="/imgs/brewing_pics/oddworld_pyramid.jpg" description="" %}
 
-
-* RuptureFarms is confirmed to have burned down after it has been struck by
-lightning from the Mudokon Rainmaker.
+- RuptureFarms is confirmed to have burned down after it has been struck by
+  lightning from the Mudokon Rainmaker.
 
 {% include caption.html url="/imgs/brewing_pics/molluck_landscape.jpg" description="" %}
 
-
-* The original trio of Glukkons is now gone, replaced by brand new ones.
-However, Molluck has returned and he looks pretty pissed off. Interestingly
-there is no Dripik. As I've [discussed before](facility_trivia), he didn't have
-much role in the Exoddus, so perhaps he is not part of Soulstorm's story.
+- The original trio of Glukkons is now gone, replaced by brand new ones.
+  However, Molluck has returned and he looks pretty pissed off. Interestingly
+  there is no Dripik. As I've [discussed before](facility_trivia), he didn't have
+  much role in the Exoddus, so perhaps he is not part of Soulstorm's story.
 
 > <a href = "egx">Lorne Lanning:</a>
 > "We've renamed all the Glukkons that come with the other
-factories, so Aslik, Dripik and all of this. These are different guys now, as
-we were getting more away from what that original story was."
+> factories, so Aslik, Dripik and all of this. These are different guys now, as
+> we were getting more away from what that original story was."
 
-
-* The theme of Occultism seems to be returning in SS as evidenced by one Glukkon
-wearing the "Royal Society **Alchemic** Science" badge.
+- The theme of Occultism seems to be returning in SS as evidenced by one Glukkon
+  wearing the "Royal Society **Alchemic** Science" badge.
 
 {% include caption.html url="/imgs/brewing_pics/brewmaster_badge.jpg" description="" %}
 
@@ -173,35 +163,36 @@ Here are some short description about each of the few characters
 featured in the ARG. For a more comprehensive source, please refer to [TOL](https://oddworldlibrary.net/wiki/Soulstorm_ARG_Summary)
 or the [Wikia](http://oddworld.wikia.com/wiki/Soulstorm_ARG).
 
-* **[SPIRIT OF 1029](https://twitter.com/SPIRITOF1029)** - A Mudokon group of revolutionaries, created and named after
-Abe's deeds in RuptureFarms 1029. They like to liken themselves to a storm.
-Their main way of communication are short Tweets denouncing the Magog Cartel and
-short catchphrases like "We will rise!". Also their logo is based on the
-front-side view of RuptureFarms erupting in flames.
+- **[SPIRIT OF 1029](https://twitter.com/SPIRITOF1029)** - A Mudokon group of revolutionaries, created and named after
+  Abe's deeds in RuptureFarms 1029. They like to liken themselves to a storm.
+  Their main way of communication are short Tweets denouncing the Magog Cartel and
+  short catchphrases like "We will rise!". Also their logo is based on the
+  front-side view of RuptureFarms erupting in flames.
 
-* **[THE MAGOG CARTEL](https://twitter.com/MagogCartel)** - Diabolical as always, they both tell you that everything is
-fine and also that if anything is not fine, it's not their fault. They like to
-alternate between propaganda fliers and sardonic remarks towards employees,
-products and workplace-safety. Their logo is similar to the old octopus-like
-black and white emblem, however, it has become sleeker and taller.
+- **[THE MAGOG CARTEL](https://twitter.com/MagogCartel)** - Diabolical as always, they both tell you that everything is
+  fine and also that if anything is not fine, it's not their fault. They like to
+  alternate between propaganda fliers and sardonic remarks towards employees,
+  products and workplace-safety. Their logo is similar to the old octopus-like
+  black and white emblem, however, it has become sleeker and taller.
 
-* **[ED](https://twitter.com/edmudokon)** - This scaredy schmuck is actually a really important part of the resistance.
-By leaking information he brings the horrors of the Magog to the public's
-attention. He personally never says too much and that little is usually filled
-with him being afraid.
+- **[ED](https://twitter.com/edmudokon)** - This scaredy schmuck is actually a really important part of the resistance.
+  By leaking information he brings the horrors of the Magog to the public's
+  attention. He personally never says too much and that little is usually filled
+  with him being afraid.
 
-* **ALF** - This Mud is not someone you need to be introduced to. He's smooth as
-always, however, the recent turn of events and Ed's pleas have revealed this
-usually cheerful guy's caring and anxious side.
+- **ALF** - This Mud is not someone you need to be introduced to. He's smooth as
+  always, however, the recent turn of events and Ed's pleas have revealed this
+  usually cheerful guy's caring and anxious side.
 
-* **ASSET98** - Another member of the SO1029. While his input provided to be very
-important in solving the mysteries of the ARG, his career was cut short when the
-Cartel caught and executed him because of the community's mishap.
+- **ASSET98** - Another member of the SO1029. While his input provided to be very
+  important in solving the mysteries of the ARG, his career was cut short when the
+  Cartel caught and executed him because of the community's mishap.
 
-* **ASSET99** - Asset 98's successor, he is just as secretive as 98 was. He also
-provided vital information towards the solutions of multiple puzzles.
+- **ASSET99** - Asset 98's successor, he is just as secretive as 98 was. He also
+  provided vital information towards the solutions of multiple puzzles.
 
 ### ITEMS:
+
 In the EGX talk Lanning showcased a few of the items found in
 Soulstorm. Here's a list of these as seen in the video. OWI has said that
 these items are early iterations of what we will be able to find in the

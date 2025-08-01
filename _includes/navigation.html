@@ -1,53 +1,57 @@
 <nav>
-    <div>
-        <a class="btn" href="#">Soulstorm</a>
-        <ul>
-            {% for post in site.categories["soulstorm"] %}
-            <li>
-                <a href="{{ post.url }}">{{post.title}}</a>
-            </li>
-            {% endfor %}
-        </ul>
-    </div>
-    <div>
-        <a class="btn" href="#">Resources</a>
-        <ul>
-            <li><a href="/guide">Starters' Guide</a></li>
-            <li><a href="/foundarchives">The Lost Archives Collection</a></li>
-            <li><a href="/timeline">Timeline of Soulstorm's Development</a></li>
-            <li><a href="/miodd">Killed-off Projects</a></li>
-        </ul>
-    </div>
-    <div>
-        <a class="btn" href="#">Statistics</a>
-        <ul>
-            {% for post in site.categories["statistics"] %}
-            <li>
-                <a href="{{ post.url }}">{{post.title}}</a>
-            </li>
-            {% endfor %}
-        </ul>
-    </div>
-    <div>
-        <a class="btn" href="#">Fanfics</a>
-        <ul>
-            {% for post in site.categories["stories"] %}
-            <li>
-                <a href="{{ post.url }}">{{post.title}}</a>
-            </li>
-            {% endfor %}
-        </ul>
-    </div>
-    <div>
-        <a class="btn" href="#">External</a>
-        <ul>
-            <li><a href="/game">Escape from RuptureFarms 1029</a></li>
-            <li><a href="https://nemin32.itch.io/code-white">Code: WHITE</a></li>
-            <li><a href="https://aliveteam.github.io">R.E.L.I.V.E.</a></li>
-            <li><a href="https://magogonthemarch.wordpress.com">The Magog on the March</a></li>
-            <li><a href="https://oddworldlibrary.net">The Oddworld Library</a></li>
-        </ul>
-    </div>
-    <a class="btn" href="/pgyft">Dear Alf</a>
-    <a class="btn" href="/#other">Etc.</a>
+  <div>
+    <a class="btn" href="#">Soulstorm</a>
+    <ul>
+      {% for post in site.categories["soulstorm"] %}
+      <li>
+        <a href="{{ post.url }}">{{post.title}}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div>
+    <a class="btn" href="#">Resources</a>
+    <ul>
+      <li><a href="/guide">Starters' Guide</a></li>
+      <li><a href="/foundarchives">The Lost Archives Collection</a></li>
+      <li><a href="/timeline">Timeline of Soulstorm's Development</a></li>
+      <li><a href="/miodd">Killed-off Projects</a></li>
+    </ul>
+  </div>
+  <div>
+    <a class="btn" href="#">Statistics</a>
+    <ul>
+      {% for post in site.categories["statistics"] %}
+      <li>
+        <a href="{{ post.url }}">{{post.title}}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div>
+    <a class="btn" href="#">Fanfics</a>
+    <ul>
+      {% for post in site.categories["stories"] %}
+      <li>
+        <a href="{{ post.url }}">{{post.title}}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div>
+    <a class="btn" href="#">External</a>
+    <ul>
+      <li><a href="/game">Escape from RuptureFarms 1029</a></li>
+      <li><a href="https://nemin32.itch.io/code-white">Code: WHITE</a></li>
+      <li><a href="https://aliveteam.github.io">R.E.L.I.V.E.</a></li>
+      <li>
+        <a href="https://magogonthemarch.wordpress.com"
+          >The Magog on the March</a
+        >
+      </li>
+      <li><a href="https://oddworldlibrary.net">The Oddworld Library</a></li>
+    </ul>
+  </div>
+  <a class="btn" href="/pgyft">Dear Alf</a>
+  <a class="btn" href="/#other">Etc.</a>
 </nav>

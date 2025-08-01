@@ -1,26 +1,26 @@
 const switchPalette = (light) => {
   if (light) {
-    document.body.setAttribute("type", "bright")
+    document.body.setAttribute("type", "bright");
   } else {
-    document.body.setAttribute("type", "dark")
+    document.body.setAttribute("type", "dark");
   }
-}
+};
 
 let light = (localStorage.getItem("light") ?? "true") === "true";
 
-switchPalette(light)
+switchPalette(light);
 
 window.addEventListener("load", () => {
   const lightswitch = document.getElementById("lightswitch");
-  lightswitch.style.visibility = "visible"
+  lightswitch.style.visibility = "visible";
   lightswitch.innerText = `Switch to ${!light ? "🌞" : "🌙"}`;
 
-  switchPalette(light)
+  switchPalette(light);
 
   lightswitch.addEventListener("click", () => {
-    light = !light
+    light = !light;
     lightswitch.innerText = `Switch to ${!light ? "🌞" : "🌙"}`;
-    switchPalette(light)
-    localStorage.setItem("light", light)
-  })
-})
+    switchPalette(light);
+    localStorage.setItem("light", light);
+  });
+});

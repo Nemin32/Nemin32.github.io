@@ -4,6 +4,7 @@ summary: "Summarizing what we know of the next Oddworld and OWI-related projects
 ---
 
 # What comes next?
+
 {:.no_toc}
 
 Hello again, it's been a while! In this post I'd like to quickly recap where we currently stand and what tidbits of info we've received about the series' future since Soulstorm's release.
@@ -14,8 +15,8 @@ Obviously, the series story-wise is not even close to being over. Soulstorm ends
 
 **Contents:**
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 ## Oddworld News or The Lack Of Thereof
 
@@ -51,7 +52,7 @@ Circling back to Scattered Brains, the company is very secretive at the moment, 
 
 First and foremost, to jumpscare all readers, the company was originally looking into making NFT projects as evidenced by their "[NFTalent](https://furm.com/trademarks/nftalent-97492765)" and "[NFTalent Agency](https://furm.com/trademarks/nftalent-agency-97492781)" trademarks.
 
-Interestingly, these trademarks were submitted *after* OWI publicly confirmed that they will not be creating Oddworld NFTS:
+Interestingly, these trademarks were submitted _after_ OWI publicly confirmed that they will not be creating Oddworld NFTS:
 
 > **[OWI_Dan:](https://discord.com/channels/293291256736382976/293291256736382976/1026527776402051194)** With the AI art, we thought it would be cool to tap into the current AI art trend and see what we could come up with to celebrate Halloween along with Abe, it was more a fun activation for our social channels. I understand your concerns and I'll relay these back to the team.
 >
@@ -109,7 +110,7 @@ Their first game, [Zengence](https://www.deepwelldtx.com/zengence), is a rhythm-
 
 How effective this is and how fun the game is are beyond the scope of this post as I'm not qualified to answer either of these questions, but it's a neat concept either way.
 
-Going back to Lanning, notably he isn't anything as pivotal as "director" or "co-founder" when it comes to DeepWell. Rather, he is named as part of the so-called *Collaborative Advisory Council:*
+Going back to Lanning, notably he isn't anything as pivotal as "director" or "co-founder" when it comes to DeepWell. Rather, he is named as part of the so-called _Collaborative Advisory Council:_
 
 {% include caption.html url="/imgs/whatsnext/deepwell_team.webp" description="Source: <a href='https://www.gamesindustry.biz/new-publisher-deepwell-focuses-on-therapeutic-games'>GameIndustry.biz</a>" %}
 

@@ -105,7 +105,7 @@ just simply Necrum, as per this sign.
 
 {% include caption.html url="/imgs/gameawards/boulder.webp" description="I also wonder if the floor only opened up because he shone his flashlight at it, maybe it's a puzzle mechanic?" %}
 
-While Abe is re-enacting his favorite scene from Indiana Jones, we can spot a - *horribilie dictu* -
+While Abe is re-enacting his favorite scene from Indiana Jones, we can spot a - _horribilie dictu_ -
 missing piece of texture on the top of the image.
 
 # Escape!

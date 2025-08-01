@@ -28,7 +28,7 @@ items (because some people mentioned multiple games in their response), with the
 ### **1. Abe's Oddysee** with **471** votes.
 
 Amusingly the game's unorthodox spelling made it quite hard to get the real number of votes as there
-were a lot of "Odyssey", "Oddyssy" and similar responses.  Ultimately I opted to combine three of
+were a lot of "Odyssey", "Oddyssy" and similar responses. Ultimately I opted to combine three of
 these queries into one, which gave the final number.
 
 ### **2. Stranger's Wrath** with **439** votes.
@@ -63,10 +63,10 @@ If someone wishes to recreate my results, <a href="/assets/etc/responses.txt" do
 the list I collected and these were the commands I used (Bash, using
 [ripgrep](https://github.com/BurntSushi/ripgrep)):
 
-~~~bash
+```bash
 for e in 'munch' 'stranger' 'tasty' 'ex+od+us' 'abe[^ ]* od[^ ]*ee' 'abe[^ ]* od[^ ]*sy' 'abe[^ ]* od[^ ]*sey' 'soulstorm';
 do
   echo $e;
   rg -ic "$e" responses.txt;
 done
-~~~
+```

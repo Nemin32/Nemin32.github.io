@@ -5,7 +5,7 @@ summary: Some interesting things cut from the games.
 
 # A few interesting things cut from the games
 
-On this page I'm collecting interesting facts from the canon that I found, that don't really belong anywhere else. The texts between quotation marks and in Italics are directly quoted from Oddworld's first artbook, *The Art of Oddworld Inhabitants: The First 10 Year*
+On this page I'm collecting interesting facts from the canon that I found, that don't really belong anywhere else. The texts between quotation marks and in Italics are directly quoted from Oddworld's first artbook, _The Art of Oddworld Inhabitants: The First 10 Year_
 
 ## Exoddus
 
@@ -24,19 +24,19 @@ to 'normal' Mudokons and the disk space was scarce.
 > [Page 121]
 >
 > Mudombies are Mudokon Spirits who cannot rest because their beloved burial
-grounds of Necrum are being strip-mined by the Glukkons. In a nutshell, they are
-hulking, idiot, zombie Mudokons."
+> grounds of Necrum are being strip-mined by the Glukkons. In a nutshell, they are
+> hulking, idiot, zombie Mudokons."
 
 The concept was later used in another ultimately cut gameplay feature, where
 Abe would have slowly became a Mudombie himself, after sustaining enough
 damage.
 
-{:.centered}
+
+
 <p><iframe width="560" height="315"
 src="https://www.youtube-nocookie.com/embed/Ijw7RX_Tow8" frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe></p>
-
 
 ### Elum[^2]:
 
@@ -54,11 +54,10 @@ never explained in-game. The artbook writes about them the following:
 > [Page 115: ABE ESCAPES]
 >
 > "Abe lands upon the remains of a Necrum guardian. Guardians are remnants of
-  ancient protectors. Long before the Glukkons ever knew about Necrum, the
-  guardians were its sentinels, protectors of the sacred place and the Mudokons
-  buried there. When alive these guardians had the unique ability of spitting
-  fiery globbers of vengeance from the orifice between their horns."
-
+> ancient protectors. Long before the Glukkons ever knew about Necrum, the
+> guardians were its sentinels, protectors of the sacred place and the Mudokons
+> buried there. When alive these guardians had the unique ability of spitting
+> fiery globbers of vengeance from the orifice between their horns."
 
 ## Munch's Oddysee
 
@@ -149,26 +148,26 @@ You can read more about this aspect of Munch in this excerpt from The Art of Odd
 > adrenal steroids. His plight was to escape the laboratories of this
 > horrific processed food / pharmaceutical research facility and in the
 > process instigate the return of his species.
-> 
+>
 > He was a twerpy and somewhat pathetic looking little guy with a big heart
 > and the face only a mother could love - at least on the surface. At the
 > time, we were aiming to create meaningful (gameplay valid) emotions in a
 > game character and we wanted to use an emotional dynamic to trigger the
 > transformation into his Hyde-like alter ego.
-> 
+>
 > If he were angered in the game experience, his emotional state was
 > intended to trigger a metamorphosis into this huge and gruesome alter ego
 > \- who would be called Roid. Roid would be similar to the Hulk in that he
 > would have a limited time to be this incredibly super strong b adass with
 > bone crunching physical abilities. A complete flip from his normal self.
 > The idea was to create this extreme yin & yang trait for a new hero.
-> 
+>
 > Then reality hit as the land of gamedom is constantly faced with
 > technological challenges. It wasn't long before we found ourselves to be
 > in too deep. We were too ambitious on this idea and didn't really have the
 > chops or the resources at the time to pull it off as it was originally
 > conceived. A huge lesson learned.
-> 
+>
 > The rest of the production was a process that could be referred as
 > "reactionary design". It's what happens when an idea isn't able to
 > manifest well, but production is already under way, and the only solution

@@ -4,6 +4,7 @@ summary: "Some additional thoughts about the PS5 footage."
 ---
 
 # The PS5 Footage Addendum
+
 {:.no_toc}
 
 With the initial shock gone, it is time to tie some loose ends and speak a bit more about the
@@ -11,8 +12,8 @@ trailer that we just saw.
 
 Contents:
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 ## Abe's Stitches
 
@@ -20,7 +21,7 @@ This is probably the most interesting point. As pointed out by Reddit user
 [/u/PlaceholderText](https://reddit.com/user/PlacehoIderText), it is very likely, if not confirmed
 that Abe in fact does not lose his stitches.
 
-> *"How can this be? We've seen it in the end of the cutscene!"*
+> _"How can this be? We've seen it in the end of the cutscene!"_
 
 If that is your first thought, I don't blame you because I fell into the same trap. However, watch
 this:

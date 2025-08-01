@@ -4,6 +4,7 @@ summary: Two years after my previous survey, it was time to question the communi
 ---
 
 # The Second Fandom Survey
+
 {:.no_toc}
 
 Circa two years ago I've decided to question the fans a bit about their tastes when it comes to
@@ -15,7 +16,7 @@ better. Let's get into it!
 **Table of Contents:**
 
 - TOC
-{:toc}
+  {:toc}
 
 ## Methodology
 
@@ -145,6 +146,7 @@ and always placing last.
 | Reddit  | 4.18 (4) | 4.60 (5) | 2.55 (3) | 3.62 (4) | 3.32 (3) | 2.96 (3) |
 | OWI     | 4.17 (4) | 4.69 (5) | 2.66 (3) | 3.97 (4) | 3.42 (3) | 3.92 (4) |
 | YouTube | 3.78 (4) | 4.18 (4) | 2.88 (3) | 3.67 (4) | 3.95 (4) | 3.87 (4) |
+
 {:.colored}
 
 However, what surprised me and might surprise the reader too is the fact that Soulstorm took the
@@ -205,6 +207,7 @@ minimum as good, if not better for it to be a worthwhile exchange.
 | YouTube       |  -0.200  | -0.600 |   +0.950   | +0.650 |    +0.900    | +0.400  |    +0.340    |
 | =             |    =     |   =    |     =      |   =    |      =       |    =    |      =       |
 | Weighted Avg. |  -0.945  | -1.247 |   -0.027   | -0.055 |    +0.239    | -0.812  |    -0.475    |
+
 {:#averages}
 
 <script>
@@ -607,7 +610,6 @@ have taken part in the survey.
     </tr>
   </tbody>
 </table>
-
 
 ## Conclusion
 

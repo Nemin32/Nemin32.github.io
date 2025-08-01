@@ -3,7 +3,7 @@ title: Reviewing Abe's Origins
 summary: My thoughts about the new Artbook.
 ---
 
-# My review of *Oddworld: Abe's Origins*
+# My review of _Oddworld: Abe's Origins_
 
 {% include caption.html url="/imgs/origins/aonew.webp" description="The final cover of Abe's Origins, featuring very few colors and visual elements." %}
 
@@ -63,7 +63,6 @@ read, but otherwise you won't find much as much new content here as one would
 expect.
 
 ## The Pictures
-
 
 {% include caption.html url="/imgs/origins/aoimg.webp" description="A look at the images in Abe's Origins. Image from: <a href ='https://indie-by-design.myshopify.com/products/oddworld-abes-origins'>Indie By Design</a>." %}
 
@@ -135,7 +134,7 @@ page says (and it's not even the whole article):
 > delivery.
 >
 > **Nature or Nurture?**
-> 
+>
 > Maybe the Sligs inherit their Mother’s mean streak, or perhaps this goes some
 > way to explaining their sadistic behaviour. On top of never having known any
 > love or affection, the Sligs also have to deal with the fact that if they
@@ -175,7 +174,7 @@ next to the others, but this is of course just a nitpick.
 ## All-in-all
 
 So... Is Abe's Origins a bad book? No, "bad" is definitely not the word I'd
-use.  It does not commit any huge crimes and I am sure Indie By Design tried
+use. It does not commit any huge crimes and I am sure Indie By Design tried
 their best. However, "superfluous" is a word I probably would use. If you never
 read TFTY, you might enjoy Abe's Origins a lot. But if you did, it's doubtful
 whether you'll find your money's worth here.

@@ -24,7 +24,7 @@ circumstances, which could lead to unfortunate impressions I don't wish to propa
 
 First and foremost, some people whose world-view sadly consists of "our tribe vs their tribe" have
 labelled me a "hater" of the series. Once again I'd debunk these claims. I am very much a fan of
-Oddworld, it's just that OWI's recent products has not *felt* like Oddworld to me. The reason why I
+Oddworld, it's just that OWI's recent products has not _felt_ like Oddworld to me. The reason why I
 am a negative voice in a choir of positivity is largely because I have spent a long time
 contemplating on what made the originals great and I felt like neither New 'n' Tasty nor Soulstorm
 really grasped these elusive principles. I won't call my behaviour "tough love" or anything
@@ -32,6 +32,7 @@ pretentious like that, but I swear everything I do is ultimately based on trying
 and its fanbase.
 
 With this out of the way, here's how much I've seen of the game currently:
+
 - I have reached the train level in my own playthrough.
 - I watched a streamer play through the game.
 - I also watched all endings of the game and will comment them in this post. As these literally give
@@ -102,16 +103,16 @@ place is full of moss, curious plants, native imagery and such. Here it's a weir
 area that has none of the characteristic things seen in the old incarnation of it. Not only is the
 moss and greenery gone, so are the Scrab and Paramite statues along with those weird long spears.
 
-*As I walk through the valley of the shadow of death  
+_As I walk through the valley of the shadow of death  
 I take a look at the sights and realize there's no green left  
 And that's not perfect for an old fan like me...  
-You know I love fancy things like consistency.*
+You know I love fancy things like consistency._
 
 The game then introduces the basic concepts to you using story stones. I found it a bit funny that
 to reach the story stone that explains how to move around, you already have to move. Obviously
 anyone playing games will know (or figure out) how to move around, but it's pretty funny regardless.
 Not much happens in this level, there are some scripted setpieces, pillars falling down, flying
-Sligs sweeping in and such, cool, but nothing too ground-breaking. 
+Sligs sweeping in and such, cool, but nothing too ground-breaking.
 
 We're also introduced to the frequently mentioned flame mechanics. It's not that I don't like it,
 because who doesn't like to play with fire, but the way it is currently implemented is quite
@@ -184,7 +185,7 @@ bouncing balls, etc. The point here is, having a gun afterwards doesn't really f
 more, because you do not feel empowered, rather your otherwise versatile toolbox is taken away for a
 shoddy gun that needs reloading after two seconds of firing. Sligs don't even reload when idle so
 I've had my possessed gunslingers die several times due to their clip being almost empty when I
-started the firefight.  
+started the firefight.
 
 After a rather uneventful trek through the brown wastelands we're met with the game's first "boss"
 so to speak: Molluck's blimp. This section of the game has caused much headache for a lot of players
@@ -210,7 +211,7 @@ similar, these don't move even when the machine itself is active.
 ## The Plot
 
 Soulstorm's story is confusing to say at least. Not in the sense that it's hard to follow, quite the
-opposite, rather that it feels like half of it was cut. 
+opposite, rather that it feels like half of it was cut.
 
 My confusion starts from the very beginning with the new Shaman character. The model was extensively
 shown off previously and it is very obvious that the artist put a lot of time and effort into making

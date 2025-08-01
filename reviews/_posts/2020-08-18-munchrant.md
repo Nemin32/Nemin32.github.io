@@ -23,8 +23,8 @@ summary: "A long-form essay/critique about Munch's Oddysee"
 }
 </style>
 
-
 # Munch on the Operating Table
+
 {:.no_toc}
 
 In this post I intend to try something I haven't tried before, namely a long-form blog-post where I
@@ -49,8 +49,8 @@ So, settle in and prepare yourself, as this one is a doozy. Enjoy!
 
 **Contents:**
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 ## Introduction
 
@@ -60,7 +60,7 @@ wasn't just the two Abe games. My first experiences with the games were at a ver
 (similarly to a [surprising number of people](/imgs/survey/first_played.jpg)) and in sadly less than
 legal circumstances, as the disk we had was in fact a pirated copy. But before anyone gets their
 panties in a twist, I've since bought the games obviously and perhaps my contributions to the fandom
-have re-payed this *horrible travesty.* Why am I bringing this up, you ask?  Well the reason is that
+have re-payed this _horrible travesty._ Why am I bringing this up, you ask? Well the reason is that
 because of the disk not being legit, the cover too was a shoddily cut out piece of paper taped onto
 the box; in fact it wasn't even AO's box-art, rather Munch's! So for several years I kept
 wondering just who the hell that weird fish-guy could be as you don't meet him anywhere in the
@@ -151,7 +151,7 @@ one place for things to properly make sense. I think the two are too intertwined
 separately, so don't be surprised if there are going to be sudden shifts between the topics.
 
 With this disclaimer aside, the best way I can sum up the gameplay of Munch is that it is simply
-*mediocre.* There isn't any huge offense the game commits. The controls are solid for the most part
+_mediocre._ There isn't any huge offense the game commits. The controls are solid for the most part
 (if a bit affected by the aptly named "2000s jank"), the gameplay has both empowering and
 disempowering moments as is tradition in Oddworld games, hell, it even tries to innovate by
 introducing new powerups and the controllable machines for Munch, but despite all the attempts, it
@@ -176,7 +176,7 @@ wished, but it was also combined with sections that punished you harshly if you 
 
 Some might think this is too harsh and players should first and foremost have unadulterated fun and
 such punishments only mess up the pacing, but I disagree. While I concur that fun is perhaps the
-most important part of the equation, another similarly unavoidable part is the *weight of actions,*
+most important part of the equation, another similarly unavoidable part is the _weight of actions,_
 which is sorely missing from Munch. Why'd you care that your Snoozer is under heavy fire? You
 obviously don't, if it dies, you just immediately jack into another and continue the action. Imagine
 if for example, upon letting Phleg die in Exoddus, simply another spawned and you could continue
@@ -393,7 +393,7 @@ an idiot, who literally needs to be spoon fed how to get around.
 His demeanor caused him to become sort of a meme in the more hard-line parts of the fanbase,
 especially his catchphrase that he utters whenever you make him shut up:
 
-> *"No respect!"*
+> _"No respect!"_
 
 ### Humphrey and Irwin
 
@@ -412,7 +412,7 @@ if only to further exemplify just what Abe and Munch are fighting against.
 
 Munch's Oddysee started the annoying trend of chatty characters, who simply have to make their
 presence known every five seconds or so. On one hand the system is a semi-elegant way of letting the
-player use one of their senses naturally to locate elements of gameplay (instead of something 
+player use one of their senses naturally to locate elements of gameplay (instead of something
 immersion-breaking like an outline to characters that you can see through walls or similar.) On the
 other, however, there simply aren't enough lines for the characters to keep the concept fresh and
 quickly you'll start recognizing the half-dozen legible and few completely gibberish lines the
@@ -555,7 +555,7 @@ promises this game left unfulfilled.
 Perhaps the most hurtful part of the entire ordeal. If you spend some time reading what sort of
 stuff [Lorne Lanning said about the
 game](https://magogonthemarch.wordpress.com/status-and-power-oddworld-isnt-so-odd-anymore/) before
-its release, you'd probably get quite a different idea than what ultimately became of Munch. 
+its release, you'd probably get quite a different idea than what ultimately became of Munch.
 
 Below you can read some examples. They're pretty nice as ideas, but let's be honest, half of this
 stuff couldn't even be accomplished even with today's tech without major compromises or

@@ -4,6 +4,7 @@ summary: "Spotting a few things in the newest PS5 trailer."
 ---
 
 # Things I noticed in 'Molluck Returns'
+
 {:.no_toc}
 
 Just a few minutes ago a new trailer was released about Soulstorm showing us the redesigned Molluck
@@ -12,8 +13,8 @@ noticed while watching the video.
 
 **Contents:**
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 ## Native hideout
 
@@ -130,10 +131,10 @@ We see Abe escape from Molluck's airship, who's shooting missiles at him from fa
 
 {% include caption.html url="/imgs/molre/molluck.webp" description="" %}
 
-## *"A Classic Refresher"*
+## _"A Classic Refresher"_
 
-We see this sign several times during the trailer. The text seems to say *"A CLASSIC REFRESHER / Be
-wise! Know your basics(?) / Tough path lies ahead. Learn how here and now./ Only fools dive in."*
+We see this sign several times during the trailer. The text seems to say _"A CLASSIC REFRESHER / Be
+wise! Know your basics(?) / Tough path lies ahead. Learn how here and now./ Only fools dive in."_
 
 {% include caption.html url="/imgs/molre/refresher.webp" description="" %}
 

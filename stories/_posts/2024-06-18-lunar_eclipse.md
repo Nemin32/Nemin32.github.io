@@ -11,9 +11,9 @@ Light slowly flooded into the dark room as the rusty metal gates slowly parted. 
 
 While the room's heat was intolerable already, the smell too was utterly repulsive. Margaret gagged; not even her nicotine rotted mouth could filter out the stench of sanitizer mixed with whatever repugnant concoctions the Royal Scientists mixed up to keep Her alive.
 
-Yes, *Her.* Even after so many years, Margaret couldn't help but avoid saying her great-grandmother's name, even in her mind. She may have struck fear into the hearts of many, but the elder matriarch was one of the few beings, who managed to give her a taste of her own medicine.
+Yes, _Her._ Even after so many years, Margaret couldn't help but avoid saying her great-grandmother's name, even in her mind. She may have struck fear into the hearts of many, but the elder matriarch was one of the few beings, who managed to give her a taste of her own medicine.
 
-And yet, on the day of her coronation, after so many years of scheming and backstabbing, murder and trickery, she had to face *Her* as one final challenge. Margaret glanced at the machine in front of her. Not even the pounds of makeup on her creased face could hide the mix of revulsion and fear she felt as she beheld the slowly opening cryochamber in front of her.
+And yet, on the day of her coronation, after so many years of scheming and backstabbing, murder and trickery, she had to face _Her_ as one final challenge. Margaret glanced at the machine in front of her. Not even the pounds of makeup on her creased face could hide the mix of revulsion and fear she felt as she beheld the slowly opening cryochamber in front of her.
 
 It was the one shining spot in a den of filth and oily machinery. A gargantuan white metal tube, with a panel in its front that slid neatly away to reveal a curved glass pane behind, allowing whoever was unfortunate enough to look inside the displeasure of seeing its occupant.
 
@@ -61,7 +61,7 @@ Margaret scowled inside. For a moment she considered storming outside, repercuss
 
 "Shut up, just shut up. I've been awake for far too long already to listen to your insincere groveling and I'm not finished. Now, promise me, girl, that the words I'm about to say will not leave this room. Not a word to your children, not a word to the Conglomerate, nor to the Cartel, and not even those blasted, rotten Investors."
 
-For the first time, Margaret's eyes glinted and her greed shone through her fear. She was about to hear something she could forge into a true advantage for herself. Something befit only a, no, *the* Queen. She opened her mouth and began to answer, almost too eagerly.
+For the first time, Margaret's eyes glinted and her greed shone through her fear. She was about to hear something she could forge into a true advantage for herself. Something befit only a, no, _the_ Queen. She opened her mouth and began to answer, almost too eagerly.
 
 "Of course, bu---"
 
@@ -71,7 +71,7 @@ Margaret took a ragged breath, suddenly feeling cold in the chamber's inferno. S
 
 "Good. I'm sure you're aware of our old friends, the Mudokons."
 
-Margaret could not fathom how there could be anything related to that *lesser* species that would make Gertrude so terrified. "Yes, Great-Grandmother. We've still not managed to clear out their last remaining footholds, but it is only a matter of time."
+Margaret could not fathom how there could be anything related to that _lesser_ species that would make Gertrude so terrified. "Yes, Great-Grandmother. We've still not managed to clear out their last remaining footholds, but it is only a matter of time."
 
 "Stupid girl, I don't care in the slightest. They're not the issue. They've never been the issue."
 
@@ -93,7 +93,7 @@ Gertrude snickered bitterly. "That accursed Moon."
 
 "I don't..."
 
-"Of course you don't! Listen! It was my own great-grandmother Yzolda, that bloated bitch, who first figured it out. I mean, it's so obvious! What force could form a handprint on the Moon? Gods?" She let out a piercing cackle. "Let's not be ridiculous. Three generations of the most powerful Court Occultists were spent on communing with the supernatural. We tried so hard to figure out what cosmic fuckup we had done to be deemed lesser. Why we're *unworthy.*
+"Of course you don't! Listen! It was my own great-grandmother Yzolda, that bloated bitch, who first figured it out. I mean, it's so obvious! What force could form a handprint on the Moon? Gods?" She let out a piercing cackle. "Let's not be ridiculous. Three generations of the most powerful Court Occultists were spent on communing with the supernatural. We tried so hard to figure out what cosmic fuckup we had done to be deemed lesser. Why we're _unworthy._
 
 "But, you see, while you can find all sorts of demons and spirits out there to do your bidding for a price, we had to come to a much crueler conclusion. We hailed and we hailed, as we explored all corners of the astral plane, but beyond those ghostly charlatans and little tree-hugging spirit-shits, there's nothing. It's all empty." Gertrude unblinking eyes finally closed for a second as she winced in pain. "There's no Great One out there, who doled out our punishment."
 
@@ -103,11 +103,11 @@ Gertrude snickered bitterly. "That accursed Moon."
 
 Margaret stared wordlessly, while Gertrude paused to survive another coughing fit.
 
-"There was some seismic activity too, that we recorded. Or so we thought, until somebody had a sudden idea and we sped up the recording. It was no mere shifting rocks. That moon, that *thing*, it was talking to us, in our very own tongue! And it talked of only one thing." Gertrude shrunk into herself inside the tube. She almost whispered, as she continued. "Hate. That flesh hates us. Every single one of us and with burning passion. Glukkon, Mudokon, doesn't matter, even the shittiest little Fleech them kids like to play waterboarding with. It wants nothing else but to see us suffer and die in as much pain and agony as possible. It seeks the perverse joy of limbs being ripped, eyes being gouged, of being burned alive, or ground into little bits. And it finds nothing more amusing that just by shifting its surface a little, it caused endless misery between us and the Mudokons."
+"There was some seismic activity too, that we recorded. Or so we thought, until somebody had a sudden idea and we sped up the recording. It was no mere shifting rocks. That moon, that _thing_, it was talking to us, in our very own tongue! And it talked of only one thing." Gertrude shrunk into herself inside the tube. She almost whispered, as she continued. "Hate. That flesh hates us. Every single one of us and with burning passion. Glukkon, Mudokon, doesn't matter, even the shittiest little Fleech them kids like to play waterboarding with. It wants nothing else but to see us suffer and die in as much pain and agony as possible. It seeks the perverse joy of limbs being ripped, eyes being gouged, of being burned alive, or ground into little bits. And it finds nothing more amusing that just by shifting its surface a little, it caused endless misery between us and the Mudokons."
 
 Gertrude twisted in her container again. This time she was the one to avert her eyes from Maggie.
 
-"That's why we're here. Profit? Sure, it's what keeps this slaughterhouse running. But no, we're not here to please our Investors. We're not even here to settle a score. We're here to placate a Mad God, so that it doesn't become bored and smash into us. I'm sure that bastard would survive laughing, while all of us would be wiped clean. We've tried so much. We've slowly moved all our cities below ground, we've became as cruel as can be, smeared ourselves in infants' blood in depraved rituals. All to protect ourselves, while we figured out what to do. So far all it got us was a flimsy reprieve while we all toil as slaves to the whims of that *meat."*
+"That's why we're here. Profit? Sure, it's what keeps this slaughterhouse running. But no, we're not here to please our Investors. We're not even here to settle a score. We're here to placate a Mad God, so that it doesn't become bored and smash into us. I'm sure that bastard would survive laughing, while all of us would be wiped clean. We've tried so much. We've slowly moved all our cities below ground, we've became as cruel as can be, smeared ourselves in infants' blood in depraved rituals. All to protect ourselves, while we figured out what to do. So far all it got us was a flimsy reprieve while we all toil as slaves to the whims of that _meat."_
 
 The matriarch gagged on her spittle, before turning once more towards Margaret.
 
@@ -117,4 +117,4 @@ With each word, Gertrude became more and more sluggish as the freezing agents be
 
 As she left, Gertrude's voice echoed after her from the darkness one final time.
 
-"Good luck, *Queen.* Don't let us down."
+"Good luck, _Queen._ Don't let us down."

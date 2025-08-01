@@ -4,6 +4,7 @@ summary: Interesting facts about the placees Abe visits in Exoddus.
 ---
 
 # Facility trivia
+
 ## Some pieces of trivia about the locations Abe visits
 
 On this page I share some of my thought about a handful of locations we visit in
@@ -28,12 +29,12 @@ bones are "produced" too.
 > [Page 104: Untitled, about BLIND MUDOKONS]
 >
 > "Adding insult to injury, blinded Mudokons are forced to dig the bones from
-their own ancestral buiral grounds. The Glukkons are so greedy that the Mudokons
-are forced to work without sight for fear that it would lower their productivity
-if they found out that they had been exploiting their own burial grounds. This
-concept was spurred from real-world historical accounts of using native people,
-whether willfully or unwittingly, to undermine and destroy the record and
-culture of their way of life. The skin of Blind Mudkons is paler than Abe's."
+> their own ancestral buiral grounds. The Glukkons are so greedy that the Mudokons
+> are forced to work without sight for fear that it would lower their productivity
+> if they found out that they had been exploiting their own burial grounds. This
+> concept was spurred from real-world historical accounts of using native people,
+> whether willfully or unwittingly, to undermine and destroy the record and
+> culture of their way of life. The skin of Blind Mudkons is paler than Abe's."
 
 ## Necrum:
 
@@ -53,16 +54,16 @@ cultures because of greed and ignorance.
 > [Page 116: NECRUM]
 >
 > "Necrum is the vast burial ground for many Mudokons. It is an oasis in the
-desert sorrounded and protected by a giant stone structure reminiscent of a
-sacrophagus. It served as sacred final resting place for Mudokons long before
-Glukkons and Sligs arrived to exploit its contents. As Necrum was desecrated by
-the Glukkons and the bones of the Mudokon ancestors were stolen to create
-SoulStorm Brew, life itself was drained from the once thriving oasis. The air
-became arid and hot with the encroaching desert on its walls. All that remains
-is decayed, crumbling rock and the sparse wilted remnant of a once healthy
-junge. Early design influences were Mayan architecture and some of the
-structures from the Paris catacombs. Later rock spires, reminiscent of bone or
-worm eaten wood, were added."
+> desert sorrounded and protected by a giant stone structure reminiscent of a
+> sacrophagus. It served as sacred final resting place for Mudokons long before
+> Glukkons and Sligs arrived to exploit its contents. As Necrum was desecrated by
+> the Glukkons and the bones of the Mudokon ancestors were stolen to create
+> SoulStorm Brew, life itself was drained from the once thriving oasis. The air
+> became arid and hot with the encroaching desert on its walls. All that remains
+> is decayed, crumbling rock and the sparse wilted remnant of a once healthy
+> junge. Early design influences were Mayan architecture and some of the
+> structures from the Paris catacombs. Later rock spires, reminiscent of bone or
+> worm eaten wood, were added."
 
 It is quite interesting that it seems spirits are only able to manifest in
 Necrum, as the text states, that the Weirdos are missing those limbs whose bones
@@ -74,11 +75,11 @@ this as that they actually made them from scratch.
 > [Page 118: NECRUM SPIRITS]
 >
 > "The Three Weirdos are spirits that call upon Abe to stop the Glukkons. They are
-already missing limbs due to the removal of their bones from Necrum. They are
-covered in Mudokon ceremonial paint and headdresses. The headdresses are
-symbolic of the wildlife that lives on Oddworld. Made from natural tulle fiber
-and river ploshed gems the Paramite, Scrab and Fleech are all part of the
-ceremonial themes assigned to each of the Weirdos."
+> already missing limbs due to the removal of their bones from Necrum. They are
+> covered in Mudokon ceremonial paint and headdresses. The headdresses are
+> symbolic of the wildlife that lives on Oddworld. Made from natural tulle fiber
+> and river ploshed gems the Paramite, Scrab and Fleech are all part of the
+> ceremonial themes assigned to each of the Weirdos."
 
 ## FeeCo Depot:
 
@@ -97,30 +98,30 @@ other texts, like "I, Aslik", he is referred to as SoulStorm Brewery's VP.
 > [Page 123: FEECO DEPOT]
 >
 > "Feeco Depot's name caused a chuckle when
-Inhabitants realized thatt it was possible to combine the word 'fee' and
-the word 'company' and create Feeco, which sounds remarkably similar to
-fecal. It was a triumphant moment in potty-humor history. Fitting that the
-vice president of Feeco Depot was named Aslik."
+> Inhabitants realized thatt it was possible to combine the word 'fee' and
+> the word 'company' and create Feeco, which sounds remarkably similar to
+> fecal. It was a triumphant moment in potty-humor history. Fitting that the
+> vice president of Feeco Depot was named Aslik."
 
 The book also contains a paragraph on the trains Abe boards to get from one place to another.
 
 > [Page 124: FEECO TRAIN]
 >
 > "We like to think of all machines and
-architecture as a portion of the character that builds them. The first
-question we ask ourselves is who built this object and what was their
-motivation. The Glukkon mindest is that at any cost, his wealth and its
-effects are a tribute to himself. Glukkons posses a massive appetite for
-fuel and raw resources and their design reflects it. Their objects and
-environments, if at all possible are always over-built and extravagant.
-They belch fumes and smoke and show no regard for the effects on the
-environment and its Inhabitants. Given the choice, a Glukkon would always
-choose a giant all-burning beast over something more efficient. Why?
-Because they can. The train and Feeco Depot are good example of the
-production design phylosophy that this object represents a character. Its
-piercing scowl, tethered by a smoke-belching abdomen, and its centipede
-leg-powered drive rail all show attempts to add character to something
-that could have easily been a simple transportation solution."
+> architecture as a portion of the character that builds them. The first
+> question we ask ourselves is who built this object and what was their
+> motivation. The Glukkon mindest is that at any cost, his wealth and its
+> effects are a tribute to himself. Glukkons posses a massive appetite for
+> fuel and raw resources and their design reflects it. Their objects and
+> environments, if at all possible are always over-built and extravagant.
+> They belch fumes and smoke and show no regard for the effects on the
+> environment and its Inhabitants. Given the choice, a Glukkon would always
+> choose a giant all-burning beast over something more efficient. Why?
+> Because they can. The train and Feeco Depot are good example of the
+> production design phylosophy that this object represents a character. Its
+> piercing scowl, tethered by a smoke-belching abdomen, and its centipede
+> leg-powered drive rail all show attempts to add character to something
+> that could have easily been a simple transportation solution."
 
 {% include caption.html url="/imgs/feeco_train.jpg" description="" %}
 
@@ -141,13 +142,13 @@ when I was younger.
 > [Page 135: SLIG BARRACKS]
 >
 > "The Slig Barracks has never once been used in a real military conflict, but has
-  been built up by the cowardly and self-important General Dripik. The Barracks
-  reflect his own need for power and have been built up for years in a haphazard
-  way, temprorary structure piled atop temporary structure. Everything has an over
-  the top military feel-utilitarian, stripped down with no subtlety whatsoever.
-  The visual "feel" for the Slig Barracks is a cross between a WW1 trench
-  encampment and the Berlin Wall. Sandbags, barbed wire, sharpeend poles, Slig
-  Lockers, tents, all can be found here in the barracks."
+> been built up by the cowardly and self-important General Dripik. The Barracks
+> reflect his own need for power and have been built up for years in a haphazard
+> way, temprorary structure piled atop temporary structure. Everything has an over
+> the top military feel-utilitarian, stripped down with no subtlety whatsoever.
+> The visual "feel" for the Slig Barracks is a cross between a WW1 trench
+> encampment and the Berlin Wall. Sandbags, barbed wire, sharpeend poles, Slig
+> Lockers, tents, all can be found here in the barracks."
 
 ## Bonewerkz:
 
@@ -163,6 +164,6 @@ the facility.
 > [Page 129: BONEWERKZ]
 >
 > "Once the Mudokon bones are harvested from Necrum, trains bring them to
-  Bonewerkz, the main storage facility for bone powder used by SoulStorm Brewery.
-  Brick columns support a massive hangar-like structure filled with slag heaps
-  from bone powder."
+> Bonewerkz, the main storage facility for bone powder used by SoulStorm Brewery.
+> Brick columns support a massive hangar-like structure filled with slag heaps
+> from bone powder."

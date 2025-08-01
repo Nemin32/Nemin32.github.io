@@ -10,7 +10,7 @@ summary: "A short story about two unlikely creatures meeting underground."
 > "Oddworld-adjacent" story, that is to say it features no characters,
 > nor mentions of any in-universe locations, but the topics handled in
 > it are still relevant to the series.
-> 
+>
 > I hope despite its "experimental" nature, it'll still provide some
 > fun. Thanks for reading it.
 
@@ -49,7 +49,7 @@ in the tunnel. She wasn't looking forward to try how she'd fit through
 the gap. ---"your generousness. You see, I was very focused on this
 map."
 {:.dialogue}
-  
+
 As far as she could tell, the Worm seemed completely unfazed. The Fly
 was unsure whether he bought the false compliment or perhaps he did
 not even notice her barely avoided impoliteness, but either way, she
@@ -70,7 +70,7 @@ anxious titter, trying to ease her nervousness.
 {:.dialogue}
 
 The worm gulped once again and let out a thundering belch. "Tunnel 3?
-Mm. No, this isn't it. Now leave me alone." 
+Mm. No, this isn't it. Now leave me alone."
 {:.dialogue}
 
 The Fly was about to just give up and move on, but then she
@@ -84,7 +84,7 @@ Of course, there was a problem. Being only a measly two meters tall
 and much more fragile than the Worm, a direct confrontation would have
 only ended in a tragedy for the Fly. Her newfound nemesis could easily
 unburden her face from half (if not all) of her eyes in a singular
-chomp. 
+chomp.
 
 So instead the Fly decided she would use a more refined weapon. She
 would teach this buffoon a lesson by mentioning something she would
@@ -94,7 +94,7 @@ have originally been too polite and meek to point out.
 from the sir," she buzzed sweetly. "May I please look at the container
 of the delicacy you're consuming?"
 {:.dialogue}
-  
+
 The Worm let out a long, exasperated sigh, then shrugged. With a
 forceful yank of his body, he turned halfway towards the Fly and
 awkwardly held up the bucket, so the other could read it. The Fly
@@ -103,7 +103,7 @@ the tunnel itself was quite dim too. It took several passes of her
 many eyes to finally make out the text, but she was quite satisfied
 when she finally managed to decipher it.
 
-"*'GutCo: Mystery meat, Ready to eat'*, eh?" she smugly asked.
+"_'GutCo: Mystery meat, Ready to eat'_, eh?" she smugly asked.
 {:.dialogue}
 
 The Worm now visibly irritated replied, "Yes. Is that all?"
@@ -113,7 +113,7 @@ The Worm now visibly irritated replied, "Yes. Is that all?"
 nowadays?" the Fly asked with the same cloyingly sweet, subtly
 condescending tone.
 {:.dialogue}
-  
+
 The Worm stared with a puzzled expression at the Fly, who feeling that
 the moment was about to be spoiled, quickly continued with:
 
@@ -121,17 +121,17 @@ the moment was about to be spoiled, quickly continued with:
 here. Built into your side. Dear sir, you are eating yourself. Does
 this not unnerve you?"
 {:.dialogue}
-  
+
 The Worm was silent for a second and the Fly's quietly snickered in
 schadenfreude as she celebrated her victory. However, the Worm
 suddenly threw his head back and let out a terrible laugh, which
 echoed far into the tunnel.
-  
+
 "Ha! Well, in that case I sure taste delicious!" he bellowed, before pushing
 his head back in the bucket.
 {:.dialogue}
-  
-The Fly was speechless. 
+
+The Fly was speechless.
 
 "How could a being be so simple to not even care about something like
 this?" she thought, while a drip of mucus dripped from her proboscis
