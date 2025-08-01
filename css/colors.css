@@ -5,11 +5,13 @@
     --link-color: #b0dab0;
 
     /* Quote */
+    --quote-highlight: #aaccaa;
     --quote-border: #779977;
     --quote-background: #303830;
+    --quote-darker: #162016;
 
     /* Sizes */
-    --font-size: 24px;
+    --font-size: 22px;
     --sub-font-size: 20px;
 }
 
