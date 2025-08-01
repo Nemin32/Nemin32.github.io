@@ -162,7 +162,7 @@ a {
   background: #7d418f;
 }
 
-@media (orientation: portrait) {
+@media (max-width: 990px) {
   .year > div {
     grid-template-columns: 1fr;
   }
