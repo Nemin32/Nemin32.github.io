@@ -1,22 +1,7 @@
 :root {
-    --elem-height: 60px;
-}
-
-body[type="bright"] {
-    --timeline-event: #fefffe;
-    --timeline-event-dark: #eee;
-}
-
-body[type="dark"] {
-    --timeline-event: #333;
-    --timeline-event-dark: #111;
-}
-
-a {
-    font-family: sans-serif;
-    font-size: 14px;
-    text-transform: none;
-    font-variant: normal;
+  --elem-height: 92px;
+  --timeline-event: #333;
+  --timeline-event-dark: #111;
 }
 
 #legend {
@@ -27,7 +12,7 @@ a {
   grid-auto-rows: 1fr;
   justify-content: center;
 
-  border: 1px solid var(var(--font-colour));
+  border: 1px solid var(--quote-border);
 
   p {
     width: unset;
@@ -38,33 +23,24 @@ a {
   }
 }
 
-.year {
-  background-color: var(--timeline-bg);
-
-  .month {
-    background-color: var(--timeline-month);
-
-    .month_name {
-      background-color: var(--timeline-header);
-    }
-
-    .events {
-      background: repeating-linear-gradient(
-        0,
-        var(--timeline-event),
-        var(--timeline-event) var(--elem-height),
-        var(--timeline-event-dark) var(--elem-height),
-        var(--timeline-event-dark) calc(2 * var(--elem-height))
-      );
-    }
-  }
+.year .month .events {
+  background: repeating-linear-gradient(0,
+      var(--quote-background),
+      var(--quote-background) var(--elem-height),
+      var(--quote-darker) var(--elem-height),
+      var(--quote-darker) calc(2 * var(--elem-height)));
 }
 
 .year {
-  padding: 1rem;
-  border: 1px solid var(var(--font-colour));
+  border: 1px solid var(var(--font-color));
   margin-bottom: 3rem;
   width: 100%;
+
+  p, a {
+    font-size: 18px;
+    text-transform: none;
+    font-variant: normal;
+  }
 
   h2 {
     margin: 0;
@@ -78,7 +54,7 @@ a {
     font-weight: normal;
   }
 
-  & > div {
+  &>div {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 0.5rem;
@@ -86,14 +62,13 @@ a {
     .month_name {
       font-weight: bold;
       margin: 0;
-      border-bottom: 1px solid var(--font-colour);
+      border-bottom: 1px solid var(--font-color);
       padding: 0.3rem;
       font-size: 14px;
-      font-family: sans-serif;
     }
 
     .month {
-      border: 1px solid var(--font-colour);
+      border: 1px solid var(--font-color);
 
       display: flex;
       flex-direction: column;
@@ -121,17 +96,19 @@ a {
         text-align: center;
         height: 100%;
         box-sizing: border-box;
-        border-bottom: 1px solid var(--font-colour);
-        border-right: 1px solid var(--font-colour);
+        border-bottom: 1px solid var(--font-color);
+        border-right: 1px solid var(--font-color);
       }
 
       p {
-        font-family: sans-serif;
         margin: 0;
-        padding: 0.5rem;
         min-height: var(--elem-height);
-        font-size: 14px;
         box-sizing: border-box;
+        padding-top: 0.25rem;
+      }
+
+      p:last-of-type {
+        padding: 0.25rem;
       }
     }
   }
@@ -140,30 +117,37 @@ a {
 .event-arg {
   background: #444;
 }
+
 .event-soulstorm {
   background: #306040;
 }
+
 .event-killed {
   background: #904035;
 }
+
 .event-other {
   background: #c09040;
 }
+
 .event-discord {
   background: #650b1d;
 }
+
 .event-marketing {
   background: #b07060;
 }
+
 .event-patch {
   background: #4444aa;
 }
+
 .event-twitch {
   background: #7d418f;
 }
 
 @media (max-width: 990px) {
-  .year > div {
+  .year>div {
     grid-template-columns: 1fr;
   }
 }
