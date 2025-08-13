@@ -1,6 +1,20 @@
+/* Colors */
 :root {
+  --font-color: #222;
+  --sub-font-color: #333;
+  --background-color: #eaeacf;
+  --link-color: #153315;
+
+  /* Quote */
+  --quote-highlight: #ddeedd;
+  --quote-border: #224422;
+  --quote-background: #e4e4c2;
+  --quote-darker: #cecead;
+}
+
+:root[data-colorscheme="dark"] {
   --font-color: #d0ded0;
-  --sub-font-color: #b0b6b0;
+  --sub-font-color: #b0bab0;
   --background-color: #222622;
   --link-color: #b0dab0;
 
@@ -9,10 +23,12 @@
   --quote-border: #779977;
   --quote-background: #303830;
   --quote-darker: #162016;
+}
 
-  /* Sizes */
-  --font-size: 22px;
-  --sub-font-size: 20px;
+/* Sizes */
+:root {
+    --font-size: 22px;
+    --sub-font-size: 20px;
 }
 
 @media screen and (max-width: 990px) {
@@ -20,4 +36,14 @@
     --font-size: 18px;
     --sub-font-size: 14px;
   }
+}
+
+#lightswitch {
+  position: fixed;
+  bottom: 8px;
+  right: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  visibility: hidden;
 }
