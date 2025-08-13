@@ -30,6 +30,8 @@ if (light === undefined) {
   localStorage.setItem(light);
 }
 
+light = light === "true" || light === true;
+
 switchPalette(light);
 
 window.addEventListener("load", () => {
