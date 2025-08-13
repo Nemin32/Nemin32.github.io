@@ -1,6 +1,7 @@
 ---
 title: "What comes next?"
 summary: "Summarizing what we know of the next Oddworld and OWI-related projects."
+tags: ["spec"]
 ---
 
 # What comes next?
@@ -95,6 +96,12 @@ One more interesting thing about Lanning's profile is the background image he se
 {% include caption.html url="/imgs/whatsnext/llbg.jpg" description="" %}
 
 There is no further context to this image, but it definitely doesn't look like Oddworld.
+
+---
+
+**Update (August 13th, 2025):** A new trademark has appeared for Scattered Brains, called [WARSPORT](https://furm.com/trademarks/warsport-99315789). It is too early to say anything else about it, as it has only been submitted into the record the day before this update was written, however, it shows that the company is still stealthily making moves.
+
+OWF member Sgabbit also discovered that <https://scatteredbrains.com/> is owned by an Arizona company, which is where Scattered Brains is located. The domain also exchanged hands in October, 2024 (see [WHOIS](https://www.whois.com/whois/scatteredbrains.com) records). The website is currently completely empty.
 
 ## DeepWell Digital Therapeutics
 
