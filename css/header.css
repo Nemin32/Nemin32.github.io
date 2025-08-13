@@ -95,10 +95,10 @@ nav {
     border-right: none;
     background-color: var(--quote-background);
     position: relative;
+  }
 
-    &:last-of-type {
-      border-right: 1px solid var(--quote-border);
-    }
+  .btn.last {
+    border-right: 1px solid var(--quote-border);
   }
 
   div ul {
@@ -133,7 +133,7 @@ nav {
   }
 
   a:hover {
-    background-color: var(--quote-border);
+    background-color: var(--quote-darker);
   }
 }
 
