@@ -24,13 +24,13 @@ title: "Index"
 
 <section class="featured">
   {% assign side =
-  "history,guide,foundarchives,miodd,timeline,mapinterview,pgyft,swinterview,unreleased"
+  "history,guide,whatsnext,foundarchives,miodd,timeline,mapinterview,pgyft,swinterview,unreleased"
   | split: ',' %} {% assign posts = site.tags.spec %}
 
   <h2>Featured posts</h2>
   <ul class="trio">
     {% assign sides =
-    "guide,history,pgyft,swinterview,mapinterview,foundarchives" | split: ',' %}
+    "guide,whatsnext,history,pgyft,swinterview,mapinterview,foundarchives" | split: ',' %}
     {% for side in sides %} {% assign post = posts | where:"slug", side | first
     %} {% include index_featured_item.html post=post %} {% endfor %}
   </ul>
