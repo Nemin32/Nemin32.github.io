@@ -1,4 +1,8 @@
 main {
+  a {
+      font-weight: bold;
+  }
+    
   img {
     max-width: min(80%, 800px);
     max-height: 500px;
