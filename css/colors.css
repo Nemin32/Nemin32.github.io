@@ -3,11 +3,11 @@
   --font-color: #222;
   --sub-font-color: #333;
   --background-color: #eaeacf;
-  --link-color: #153315;
+  --link-color: #151;
 
   /* Quote */
   --quote-highlight: #ddeedd;
-  --quote-border: #224422;
+  --quote-border: #151;
   --quote-background: #e4e4c2;
   --quote-darker: #cecead;
 }
