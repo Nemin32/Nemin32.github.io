@@ -8,7 +8,7 @@ tags: ["spec"]
 
 <h3>Also known as,<br><i>"When will the project that you announced twenty years ago but not yet released nor mentioned in the last decade come out?"</i></h3>
 
-{% include caption.html url="/imgs/folklore/ss_cover.webp" description="Fan-made SligStorm cover art by <a href='https://old.reddit.com/r/oddworld/comments/a4uef4/i_designed_a_ps1style_cover_for_sligstorm_damn_i/'>/u/facetiousfag</a>." %}
+{% include caption.html url="/imgs/folklore/ss_cover.avif" description="Fan-made SligStorm cover art by <a href='https://old.reddit.com/r/oddworld/comments/a4uef4/i_designed_a_ps1style_cover_for_sligstorm_damn_i/'>/u/facetiousfag</a>." %}
 
 Here's a little experiment you can do at home: Open your favorite social-media
 website and navigate to one of OWI's pages. Start looking at comments and while
@@ -97,7 +97,7 @@ instead was scrapped in the idea phase.
 This, however, didn't stop OWI nor the fandom, who spoke of SligStorm as
 something that will eventually happen:
 
-{% include caption.html url="/imgs/folklore/sligstorm.jpg" description='<a href="http://www.the-nextlevel.com/tnl/content/99-OddWorld-SligStorm-Back-From-Vaporware-Limbo">Source</a>' %}
+{% include caption.html url="/imgs/folklore/sligstorm.avif" description='<a href="http://www.the-nextlevel.com/tnl/content/99-OddWorld-SligStorm-Back-From-Vaporware-Limbo">Source</a>' %}
 
 > **Alf [Dear alf; August 2011, Volume 1]:** SligStorm is one of those ideas we
 > had that didn’t get far, but it’s still in our “One Day” drawer.
@@ -124,11 +124,11 @@ appear in one of Oddworld games, albeit just as an easter egg. Still, if one
 pays attention to the patrons at Alf's bar in RuptureFarms, they might find that
 one of the Sligs there has _suspiciously pale skin:_
 
-{% include caption.html url="/imgs/folklore/albino.webp" description="Another interesting thing to note is the SoulStorm Brew logo, which is a predecessor to the current 'Laughing Glukkon' logo." %}
+{% include caption.html url="/imgs/folklore/albino.avif" description="Another interesting thing to note is the SoulStorm Brew logo, which is a predecessor to the current 'Laughing Glukkon' logo." %}
 
 ### The Brutal Ballad of Fangus Klot
 
-{% include caption.html url="/imgs/folklore/fangus.webp" description="Concept art of Fangus Klot" %}
+{% include caption.html url="/imgs/folklore/fangus.avif" description="Concept art of Fangus Klot" %}
 
 **The Brutal Ballad of Fangus Klot** (abbreviated: BBoFK), was a planned Oddworld
 (and later non-Oddworld) game developed by OWI, using Stranger's Wrath's engine.

@@ -38,7 +38,7 @@ Immediately at the start, one of the biggest negative surprises the game pulled 
 
 It's not that the game doesn't tell us what happened (Abe, Molluck, and the other characters mention the farm burning down plenty), but I think it's a huge missed opportunity that they kept the ruins off-screen. Imagine, if instead of opening with the newspaper slide-show, the following scene played out:
 
-{% include caption.html url="/imgs/storyrundown/intro.png" description="Credit: [Fuzzle Guy](https://discord.com/channels/164770326943760386/309087612419833866/1277310745981358174)" %}
+{% include caption.html url="/imgs/storyrundown/intro.avif" description="Credit: [Fuzzle Guy](https://discord.com/channels/164770326943760386/309087612419833866/1277310745981358174)" %}
 
 This way we would have both seen the "source" of what led to Molluck becoming a fugitive and could have introduced a future-game opportunity for Cartel higher-ups to actually already know and plot against Abe if he proves too successful.
 
@@ -50,7 +50,7 @@ Obviously there's enough time to get the gist, but it still feels weird, that if
 
 **Type:** Nitpick
 
-{% include caption.html url="/imgs/storyrundown/starring.png" description="The rolling film effect doesn't help the situation either." %}
+{% include caption.html url="/imgs/storyrundown/starring.avif" description="The rolling film effect doesn't help the situation either." %}
 
 Okay, I admit this one is pretty much just the grumpiness talking out of me, but its still a choice I find a little weird. While it is well-known, that OWI wanted to [make movies](/movie) including [non-Oddworld ones](/history/#citizen-siege-2005-2008), I think this inclusion kind of conflicts with the tone of the games until now. None of the games in the series so-far were framed as movies. They all happened from the characters' perspective.
 
@@ -72,7 +72,7 @@ What I imagine was the original intent is that since the security forces at the 
 
 **Type:** Missed opportunity
 
-{% include caption.html url="/imgs/storyrundown/twelvehours.png" description="You'd never guess how many hours passed between the two events." %}
+{% include caption.html url="/imgs/storyrundown/twelvehours.avif" description="You'd never guess how many hours passed between the two events." %}
 
 What I _think_ the idea was with was to bridge over questions like "Why did nobody send investigators when the Mines / FeeCo stopped?", but with the Brew becoming deadly after 48 hours, I think it would've made a nice raising of stakes, if Abe's journey took (almost) two days.
 
@@ -102,7 +102,7 @@ I know gunshots don't always cause the injured to keel over and stay down, but o
 
 I understand that the point was to show that the guy has such undying belief and loyalty in Abe (and his eventual revolution), that he freely offered his life to help him, but I think it was overdone and the scenes he's featured in lose much of their impact, due to the viewer not being trusted enough to understand what's going on.
 
-{% include caption.html url="/imgs/storyrundown/courier.png" description="He is seriously built different." %}
+{% include caption.html url="/imgs/storyrundown/courier.avif" description="He is seriously built different." %}
 
 I think a much better way to handle this would've been to not have him be shot. He'd still die in Abe's arms, but because of the Brew. This way its deadliness could slap the player in the face early and keep the consequences in their minds through the entire game.
 
@@ -120,7 +120,7 @@ This way Abe would have to still resign himself to the fact that he cannot save 
 
 Seriously, what was the point of this bloke? The designers and animators made an awesome character model... and then his entire purpose was to yap to Abe for two minutes, before he is crushed by debris, he could've easily sidestepped.
 
-{% include caption.html url="/imgs/storyrundown/shaman.png" description="Such a cool design, so quickly discarded..." %}
+{% include caption.html url="/imgs/storyrundown/shaman.avif" description="Such a cool design, so quickly discarded..." %}
 
 This character fails the mentor role in all the ways BigFace---who's suspiciously absent from Soulstorm---didn't. While BigFace too sent Abe on dangerous and even deadly quests, he was also the first to jump to his aid when he truly needs it and the only Mudokon who still vouches for him, even when the others want him killed. He also fairly clearly tells Abe why he needs to do what he does and his guidance results in Abe becoming a stronger and more capable person, imbued with divine power. Also, BigFace would've sidestepped the logs, I'm convinced.
 
@@ -134,7 +134,7 @@ A much more natural way for this scene could've been if it is indeed BigFace, wh
 
 **Type:** Unfixable without retcon
 
-{% include caption.html url="/imgs/storyrundown/natives.png" description="Did they vanish in the smoke that's all over this scene?" %}
+{% include caption.html url="/imgs/storyrundown/natives.avif" description="Did they vanish in the smoke that's all over this scene?" %}
 
 Okay, so Abe escaped with 300 Mudokons and then escapes from Monsaic with 300 Mudokons. So where are the others? The monks and slingshot wearing guards, those three tribal leaders who are so quick to sentence him to death? I just talked about him, but still, where's BigFace?
 
@@ -180,15 +180,15 @@ Meanwhile in Soulstorm he is pretty much an unintentional comic relief character
 
 **Type:** Nitpick
 
-{% include caption.html url="/imgs/storyrundown/stoopy.png" description="What the flip was his problem?" %}
+{% include caption.html url="/imgs/storyrundown/stoopy.avif" description="What the flip was his problem?" %}
 
 I genuinely don't understand this character's point. He appears once and never again. Beyond being a meme-source, his entire existence is pointless and could've easily been replaced with Toby, to give the poor guy a little more screen time.
 
-{% include caption.html url="/imgs/storyrundown/stoopy3.png" description="His only line is also spoken by Alf instead of him. " %}
+{% include caption.html url="/imgs/storyrundown/stoopy3.avif" description="His only line is also spoken by Alf instead of him. " %}
 
 In general, the story already pays little attention to its named characters, so throwing in another one, only to immediately forget about him is, well, kind of lame.
 
-{% include caption.html url="/imgs/storyrundown/stoopy2.png" description="Okay, I take it back, this guy can straight up teleport!" %}
+{% include caption.html url="/imgs/storyrundown/stoopy2.avif" description="Okay, I take it back, this guy can straight up teleport!" %}
 
 ## The Ruins / Sorrow Valley / The Gorge
 
@@ -198,7 +198,7 @@ What I really don't like about these areas is that they exist in a vacuum. All o
 
 Meanwhile the aforementioned three areas have pretty much nothing. The issue isn't even that they're ugly or something (though I think they definitely look less inspired than the usual Oddworld level), rather that Abe—and thus the player—never learns anything about them. Alf just says "uhh yeah, go through here and here and then you'll get to Phat Station and also get a train, ta," which is just so boring.
 
-{% include caption.html url="/imgs/storyrundown/handprint.png" description="What could this place be?" %}
+{% include caption.html url="/imgs/storyrundown/handprint.avif" description="What could this place be?" %}
 
 The Ruins feature doors with Mudokon handprints. Are they and old Mudokon fortress that fell centuries ago? What about the rusted out mining huts in Sorrow Valley? Were those built by Glukkon prospectors until it proved to be a bust? Why is the area immediately outside Monsaic Lines so bland?
 
@@ -218,7 +218,7 @@ Compare this with how Exoddus handles the Brew. Despite being far more goofy wit
 
 So when you do brave the Vaults and eventually return with the Healing Ring, it feels like a real accomplishment---Abe received a cool new scar and overcame the most insidious trap the Glukkons threw at him until then. The fact that this only happens after around the halfway point of the game further drives this feeling home. You have a clear goal in mind and a very obvious obstacle, that you can work towards defeating.
 
-{% include caption.html url="/imgs/storyrundown/fleech.png" description="How this slipped through when not only were Fleeches replaced with Sleeches, but also the cave contains Slogs is beyond me." %}
+{% include caption.html url="/imgs/storyrundown/fleech.avif" description="How this slipped through when not only were Fleeches replaced with Sleeches, but also the cave contains Slogs is beyond me." %}
 
 Meanwhile, in Soulstorm the cure is received in the same level its effects are showcased and, after this single level, you hardly ever need to reuse it to heal sick Mudokons again.
 
@@ -230,7 +230,7 @@ Imagine, if instead of providing Abe with a single Shrykull use and then doing n
 
 ---
 
-{% include caption.html url="/imgs/storyrundown/xtractor.png" description="The Mudokons you rescue from here are all fine and dandy immediately afterwards." %}
+{% include caption.html url="/imgs/storyrundown/xtractor.avif" description="The Mudokons you rescue from here are all fine and dandy immediately afterwards." %}
 
 Brew in general is handled in a very irreverent way and I just can't understand why. There's pretty much zero emphasis put on the fact that it's made from Mudokons, by Mudokons, to keep Mudokons docile. It's such a messed up and great concept, that one could see plenty of real life parallels into: Miner towns and their scrip, the way Native Americans were "bought" with alcohol, or even the medieval craze with importing and eating parts of mummies in search for a panacea.
 
@@ -246,7 +246,7 @@ I will have some words about the Brew and its place in the world, but that will 
 
 **Type:** Fundamental flaw
 
-{% include caption.html url="/imgs/storyrundown/deadmud.png" description="I'm kinda surprised Mudokons can even write, but that's too petty for even a nitpick." %}
+{% include caption.html url="/imgs/storyrundown/deadmud.avif" description="I'm kinda surprised Mudokons can even write, but that's too petty for even a nitpick." %}
 
 > **Abe (in another cutscene):** I think he means, since we fled the farm, rumors have been spreading, throughout the factories. Mudokons have started escaping, and now they’re trying to find us.
 
@@ -266,7 +266,7 @@ There's, of course, also the elephant in the room---that is to say the Soulstorm
 
 **Type:** The Goat (Praise)
 
-{% include caption.html url="/imgs/storyrundown/the_goat.png" description="The Goat" %}
+{% include caption.html url="/imgs/storyrundown/the_goat.avif" description="The Goat" %}
 
 I haven't mentioned him in his previous appearance, because he didn't really have any of his good lines yet, but I must absolutely bring up how much the Pilot Slig's character was nailed.
 
@@ -308,7 +308,7 @@ This is another instance of this in the same cutscene. Fine, Toby knows how to o
 
 **Type:** Praise
 
-{% include caption.html url="/imgs/storyrundown/mom.png" description="News you can't abuse!" %}
+{% include caption.html url="/imgs/storyrundown/mom.avif" description="News you can't abuse!" %}
 
 Before I tear into the tape scene, I must praise the little nods to the old games here. Whether it's the nasty Baby Chow Fuzzle, the original _Magog on the March_ newscaster Slig, or the Chill Pill poster on the other side of the wall, seeing these old things again will me with a certain warmth.
 
@@ -334,13 +334,13 @@ Let me make things clear, the issue here isn't that the Brewmaster wants to keep
 
 The former I can buy with a huge grain of salt. This isn't the first time such things existing has been hinted. In fact, concept art for the Oddworld movie does directly show one:
 
-{% include caption.html url="/imgs/storyrundown/labor.jpg" description="Source: [TOGG](https://oddworldlibrary.net/archives/togg/picture.php?/738/category/20)" %}
+{% include caption.html url="/imgs/storyrundown/labor.avif" description="Source: [TOGG](https://oddworldlibrary.net/archives/togg/picture.php?/738/category/20)" %}
 
 But even here I just can't imagine the workforce has an actual strong say in things. Even in real life unions have often been [busted](https://en.wikipedia.org/wiki/Union_busting) or have been [strong-armed by organized crime](https://en.wikipedia.org/wiki/Racketeering) so it's more than likely that Oddworld's unions would be little more than fronts by the Cartel for a false sense of say and justice.
 
 Still, the latter point is irreconcilable with the previous game's plot, unless we're led to believe everyone at RuptureFarms was completely bonkers or that they somehow planned to sell Mudokon Pops as not actually made out of Mudokons. Neither of which makes much sense, seeing how the newspapers and the tape imply that at least publicly the Mudokons are meant to be second-class citizens, but still citizens, instead of cattle.
 
-{% include caption.html url="/imgs/storyrundown/slave_aid.png" description="News you can abuse!" %}
+{% include caption.html url="/imgs/storyrundown/slave_aid.avif" description="News you can abuse!" %}
 
 Yet there's also TV shows that directly call them slaves and show the concentration camp-like situation inside Vykkers Labs? There's just too many things going against each other for me to suspend my disbelief at this point and we're hardly at the halfway mark of the story.
 
@@ -360,7 +360,7 @@ THe one thing I don't understand in this scene is why he's calling the Brewmaste
 
 Phew, isn't that a combination? But indeed, it's how I feel about these two scenes.
 
-{% include caption.html url="/imgs/storyrundown/keeper.png" description="She is such a menace, I really like her." %}
+{% include caption.html url="/imgs/storyrundown/keeper.avif" description="She is such a menace, I really like her." %}
 
 One one hand, I adore the Keeper's design and mannerisms. I think she's both cool and quirky enough to stand out. I also quite like the idea that the Mudokons don't have written history (though what's all the story stones for then?) and rather they have unnaturally long-lived Keepers who act as remembers.
 
@@ -396,7 +396,7 @@ But with this comment it's implied that Mudokons are attracted just like humans,
 
 ## Just Alf in General
 
-{% include caption.html url="/imgs/storyrundown/alf.png" description="'Who invited my man blud?'" %}
+{% include caption.html url="/imgs/storyrundown/alf.avif" description="'Who invited my man blud?'" %}
 
 **Type:** Missed opportunity
 
@@ -430,7 +430,7 @@ What bugs me here is the idea that Mudokons are reshuffled from factory to facto
 
 However, now it seems like this was changed for some reason. The train that Abe hijacks already has a few cattle cars and there's the whole "Slave Aid" show on the TV seen above, which I assume is also about selling Mudokons.
 
-{% include caption.html url="/imgs/storyrundown/package.png" description="This also happens to be the one and only mention of the ARG in the actual game." %}
+{% include caption.html url="/imgs/storyrundown/package.avif" description="This also happens to be the one and only mention of the ARG in the actual game." %}
 
 But even with this in mind, I just don't see the why. Why would a Glukkon willingly send his own workforce to work at another Glukkon's facility? I could imagine selling and buying, but then why not just buy them "fresh"? Unless it's about buying them cheaper, but the game makes no mentions of such, so I feel it's a bit of a stretch.
 
@@ -454,15 +454,15 @@ The one I'm especially sad to see die like this is Morguer, who had the opportun
 
 **Type:** Missed opportunity
 
-{% include caption.html url="/imgs/storyrundown/brewmachine.png" description="There's no way the alchemical symbols weren't shown for a reason here. You gotta wonder how he drew them though. Naked?" %}
+{% include caption.html url="/imgs/storyrundown/brewmachine.avif" description="There's no way the alchemical symbols weren't shown for a reason here. You gotta wonder how he drew them though. Naked?" %}
 
 Such a cool machine... that gets zero noteworthy explanation. Evidently there's more going on. A mixer doesn't need to be a scary big head with lasers coming out of it and "just" making a deadly addictive concoction certainly shouldn't need magic like what the Brewmaster seems to ponder.
 
-{% include caption.html url="/imgs/brewing_pics/brewmaster_badge.jpg" description="'Royal Society Alchemic Science'" %}
+{% include caption.html url="/imgs/brewing_pics/brewmaster_badge.avif" description="'Royal Society Alchemic Science'" %}
 
 With the sigils shown off at [EGX 2017](/egx), I'm certain its actually meant to utilize some sort of black magic / occultism as a final ingredient, but none of this is ever elaborated on.
 
-{% include caption.html url="/imgs/storyrundown/brewmachine2.png" description="It's a really cool design otherwise." %}
+{% include caption.html url="/imgs/storyrundown/brewmachine2.avif" description="It's a really cool design otherwise." %}
 
 One of the reasons this is a pity is because the "heart" of the machine is really sinister. You see these engines quaking, almost jumping out of their frames, cables hanging down like innards, the whole scene is painted in blood-red, and you even have the Brewmaster or more likely a recording of him overseeing... what. And that's where the whole thing kind of breaks down.
 
@@ -484,7 +484,7 @@ In Exoddus Abe pretty much makes it certain the places he leaves are done for go
 
 With this in mind, I find it so odd that in Soulstorm Abe kind of just leaves all the places he goes through completely intact. While I understand he can't blow every single one of them up like in the olden days, it does leave a kind of nagging question behind: Why can't these facilities just be booted up again? I imagine even the Brewery could be reset to use the non-tainted formula again, which would severely thwart Abe's efforts. Not to mention, from his perspective the head Glukkons are still alive and kicking, and could just get new slaves once Abe is gone for good.
 
-{% include caption.html url="/imgs/storyrundown/breweryboom.png" description="Catharsis in a single picture." %}
+{% include caption.html url="/imgs/storyrundown/breweryboom.avif" description="Catharsis in a single picture." %}
 
 I think it would've worked much better if Abe somehow fundamentally sabotaged the factories he visits:
 
@@ -501,7 +501,7 @@ I imagine the reason is because Abe in Soulstorm is a lot more compassionate and
 
 **Type:** Praise
 
-{% include caption.html url="/imgs/storyrundown/the_goat2.png" description="His spine must be made out of metal to be able to carry the story this hard." %}
+{% include caption.html url="/imgs/storyrundown/the_goat2.avif" description="His spine must be made out of metal to be able to carry the story this hard." %}
 
 I dig this scene, simple as. It's the strongest moment in the entire game for me, which is kind of funny seeing how the Pilot Slig is meant to be a secondary (maybe even tertiary?) antagonist, but it's true.
 
@@ -523,7 +523,7 @@ It's obviously a minor and inconsequential thing, but it's still such a bizarre 
 
 **Type:** Missed opportunity
 
-{% include caption.html url="/imgs/storyrundown/moon.png" description="Is it just me or is the Moon feeling very '2D' for some reason?" %}
+{% include caption.html url="/imgs/storyrundown/moon.avif" description="Is it just me or is the Moon feeling very '2D' for some reason?" %}
 
 I mean, it's alright, I don't _hate_ it, but I think it's a little limp compared to what we had before. Maybe it's the fact that nothing explodes in the end. I know I might sound a little shallow, but it was so much of a staple of the series, that Munch's good ending even made fun of it. Or that it's not Abe raising his hand to the Moon, which I felt was a very empowering moment for his character at the end of Exoddus.
 

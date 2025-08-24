@@ -5,7 +5,7 @@ summary: My thoughts about the new Artbook.
 
 # My review of _Oddworld: Abe's Origins_
 
-{% include caption.html url="/imgs/origins/aonew.webp" description="The final cover of Abe's Origins, featuring very few colors and visual elements." %}
+{% include caption.html url="/imgs/origins/aonew.avif" description="The final cover of Abe's Origins, featuring very few colors and visual elements." %}
 
 Back in 2018 a new artbook was announced using first the ARG and later social
 media by OWI. The book was created by a company called [Indie by
@@ -26,14 +26,14 @@ tome. The paper quality is excellent and very strong, on the materials-front
 Abe's Origins wins by an arms length compared to The Art of Oddworld
 Inhabitants: The First Ten Years (which I'll be referring to as TFTY from now on).
 
-{% include caption.html url="/imgs/origins/tfty.jpg" description="The old artbook's much more vibrant cover." %}
+{% include caption.html url="/imgs/origins/tfty.avif" description="The old artbook's much more vibrant cover." %}
 
 On the other hand, the choice of cover is weird to say the very least. This is -
 similarly to the rest of the review - absolutely subjective, but I found the new
 cover a bit bland, compared to TFTY's imposing and remarkable image, depicting
 the old twin-fetus logo of OWI.
 
-{% include caption.html url="/imgs/origins/aoold.jpg" description="The original cover design. While using a Varahramyan drawing on the final cover was a welcome change, I feel like this one used a much nicer color as background." %}
+{% include caption.html url="/imgs/origins/aoold.avif" description="The original cover design. While using a Varahramyan drawing on the final cover was a welcome change, I feel like this one used a much nicer color as background." %}
 
 Farzad Varahramyan's slightly smiling Abe is a fitting representation of the
 character. As an artwork there is of course no problem with it. However, as a
@@ -64,7 +64,7 @@ expect.
 
 ## The Pictures
 
-{% include caption.html url="/imgs/origins/aoimg.webp" description="A look at the images in Abe's Origins. Image from: <a href ='https://indie-by-design.myshopify.com/products/oddworld-abes-origins'>Indie By Design</a>." %}
+{% include caption.html url="/imgs/origins/aoimg.avif" description="A look at the images in Abe's Origins. Image from: <a href ='https://indie-by-design.myshopify.com/products/oddworld-abes-origins'>Indie By Design</a>." %}
 
 The image quality leaves little to be desired. The pictures are crisp and the
 artists' notes can easily be read, which is a huge plus as they provide a little

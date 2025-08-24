@@ -11,9 +11,9 @@ On this page I'm collecting interesting facts from the canon that I found, that 
 
 ### "Mudombies"[^1]:
 
-{% include caption.html url="/imgs/mudombie2.jpg" description="Freaky!" %}
+{% include caption.html url="/imgs/mudombie2.avif" description="Freaky!" %}
 
-{% include caption.html url="/imgs/mudombie.jpg" description="Also older variants of the Fleeches, they resemble furless Fuzzles." %}
+{% include caption.html url="/imgs/mudombie.avif" description="Also older variants of the Fleeches, they resemble furless Fuzzles." %}
 
 Abe's Exoddus would have originally featured zombified Mudokons, whom Abe would
 have needed to lead to their resting place. Presumably we would have
@@ -46,7 +46,7 @@ a big escape from the still-smouldering facility.
 
 ### Guardians:
 
-{% include caption.html url="/imgs/guardian.jpg" description="Despite their ability, that orifice has a very unfortunate appearance." %}
+{% include caption.html url="/imgs/guardian.avif" description="Despite their ability, that orifice has a very unfortunate appearance." %}
 
 Not strictly cut, as they do appear in the final product, but their purpose is
 never explained in-game. The artbook writes about them the following:
@@ -119,7 +119,7 @@ healthier or more polluted.
 
 ### Abe and Munch's disfunctional partnership, Roid:
 
-{% include caption.html url="/imgs/roid.jpg" description="" %}
+{% include caption.html url="/imgs/roid.avif" description="" %}
 
 One might notice that Munch and Abe become friends incredibly quickly and
 without any fanfare in Munch's Oddysee. Originally this would have been largely

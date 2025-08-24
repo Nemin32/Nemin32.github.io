@@ -5,7 +5,7 @@ summary: About what Abe's actions have caused.
 
 # The Repercussions of Abe's actions
 
-{% include caption.html url="/imgs/slig.webp" description="<i>I'm telling ya', it's that Abe guy! Sell! Dump it! Lose it! Get rid of it!</i>" %}
+{% include caption.html url="/imgs/slig.avif" description="<i>I'm telling ya', it's that Abe guy! Sell! Dump it! Lose it! Get rid of it!</i>" %}
 
 We can witness a Slig saying this memorable line, while he flails his
 arm wildly in one of the cutscenes of Abe's Exoddus. While the scene is
@@ -25,14 +25,14 @@ situation by instructing whoever is on the other side of the phone
 (presumably another Slig) to sell the stocks while they're still worth
 something.
 
-{% include caption.html url="/imgs/ripples.webp" description="" %}
+{% include caption.html url="/imgs/ripples.avif" description="" %}
 
 And before anyone thinks this is seeing too much into a background, it is very
 much not. At the EGX Soulstorm presentation Lanning has spent several minutes
 explaining the "ripples" Abe's actions caused to the greater Industrialist
 hierarchy, which shows that yes, this was planned a long time ago.
 
-{% include caption.html url="https://i.imgur.com/KGiRrWP.jpg" description="On the left side we can see RuptureFarms burning down, on the right the new design of Molluck in Soulstorm." %}
+{% include caption.html url="https://i.imgur.com/KGiRrWP.avif" description="On the left side we can see RuptureFarms burning down, on the right the new design of Molluck in Soulstorm." %}
 
 The Mudokon uprising is actually such a big problem, that Lady Margaret, current
 leader of the Magog Cartel and Glukkon queen can't deal with it herself. Molluck
