@@ -5,7 +5,7 @@ summary: "Queen Margaret learns the truth - A short horrror fanfic."
 
 # Lunar Eclipse
 
-{% include caption.html url="/imgs/trial/main.jpg" description="" %}
+{% include caption.html url="/imgs/trial/main.avif" description="" %}
 
 Light slowly flooded into the dark room as the rusty metal gates slowly parted. It was already uncomfortably warm in the antechamber outside, but the heat inside was almost boiling. Margaret peered inside in disgust, the many flabs of her already-sagging body squelching from the sweat. She reached forward and pressed a button on her harness with a grunt. The railing on the ceiling whined as a pitiful engine began to propel her forward slowly, bringing the chair-bound Queen deeper and deeper into the vile sanctum in front of her.
 

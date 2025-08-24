@@ -4,7 +4,7 @@ title: "The End"
 
 # The End
 
-{% include caption.html url="/imgs/theend/endofodd.png" description="[It's a fitting theme actually...](https://www.youtube.com/watch?v=rQiHzcdUPAU)" %}
+{% include caption.html url="/imgs/theend/endofodd.avif" description="[It's a fitting theme actually...](https://www.youtube.com/watch?v=rQiHzcdUPAU)" %}
 
 All good things must eventually come to an end. In Oddwords' case, this happens today. I'll give you
 my reasons and tie up some loose ends further down the line, but if you're only interested in the
@@ -23,7 +23,7 @@ interested in my more analytical style and the inspiration to write posts, like 
 Neither have happened, so I'm calling it quits. I'm unwilling to lower my standards to meaningless
 theories and chasing after "what if"-s, yet there is little else to talk about.
 
-{% include caption.html url="/imgs/theend/konyec.webp" description='Parodying the locally famous ["товарищи, конец!"](https://img0.hvg.hu/image.aspx?id=f5a9a65c-85fe-4346-a116-ee5add62a838&view=54bc8a0e-b0dc-4420-8864-2b54f4f60ed5) ("Comrades,
+{% include caption.html url="/imgs/theend/konyec.avif" description='Parodying the locally famous ["товарищи, конец!"](https://img0.hvg.hu/image.aspx?id=f5a9a65c-85fe-4346-a116-ee5add62a838&view=54bc8a0e-b0dc-4420-8864-2b54f4f60ed5) ("Comrades,
 it\'s over!") poster, which celebrated the fall of State-Socialism in Hungary.' %}
 
 However, I'm still going to keep the site alive. Rent only costs about $3 yearly, which even in my
@@ -65,7 +65,7 @@ roadblock and had to give up. Not that it matters much by now. Everyone who want
 Soulstorm already made their arguments and most have already moved on to greener pastures. Due to
 this, I'm going to keep things succinct.
 
-{% include caption.html url="/imgs/theend/fb.webp" description="Before the current peak the site had
+{% include caption.html url="/imgs/theend/fb.avif" description="Before the current peak the site had
 154k likes, the lowest seen recently. Meanwhile the Twitter lost 300 followers since June and the
 Instagram gained 100." %}
 
@@ -99,7 +99,7 @@ outside Monsaic.
 
 ### Locations
 
-{% include caption.html url="/imgs/theend/monsaic.webp" description="Half the heart and half the flavor." %}
+{% include caption.html url="/imgs/theend/monsaic.avif" description="Half the heart and half the flavor." %}
 
 Speaking of which, I find it unforgivable how the Monsaic Lines were butchered. In my childhood,
 this area was perhaps my favorite and I'm still quite fond of it. It emanated an aura of mystery,
@@ -132,7 +132,7 @@ comic relief and chasing Abe around without him even realising this. His own Sli
 out to be a way more interesting and likeable character, who single-handedly carries every single
 scene the two appear in, not to mention steals the spotlight at the story's climax.
 
-{% include caption.html url="/imgs/theend/molluck.webp" description="" %}
+{% include caption.html url="/imgs/theend/molluck.avif" description="" %}
 
 The rest of the villains aren't much to praise either. I don't know who came up with the idea that
 Abe should never interact with them, but it leads to an extremely weird narrative where Abe's
@@ -169,7 +169,7 @@ though they have been nearing a very painful death.
 
 ### Wildlife... or the lack of thereof
 
-{% include caption.html url="/imgs/theend/sleech.png" description='"There’s a new wildlife in
+{% include caption.html url="/imgs/theend/sleech.avif" description='"There’s a new wildlife in
 Soulstorm and its going to make paramites look like puppies." - [Lorne Lanning](/lanningqna)' %}
 
 The wildlife too didn't survive the butchering. What RuptureFarms wasn't able to accomplish,
@@ -236,7 +236,7 @@ even before starting the site, fifteen if I start the clock from when I first pl
 dingy little CRT TV. Because my post has been a tad negative, I want to wrap things up in a bit more
 positive light:
 
-{% include caption.html url="/imgs/theend/space.png" description='"There is no Quintology!" - Parodying a Cold War-era [Soviet
+{% include caption.html url="/imgs/theend/space.avif" description='"There is no Quintology!" - Parodying a Cold War-era [Soviet
 poster](https://preview.redd.it/fnpjtmc5dmz51.jpg?auto=webp&s=950aeea34d6c23ea9fe74a2f9c85c24464be2272),
 which said the same about God.' %}
 

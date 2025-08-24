@@ -26,7 +26,7 @@ that Abe in fact does not lose his stitches.
 If that is your first thought, I don't blame you because I fell into the same trap. However, watch
 this:
 
-{% include caption.html url="/imgs/ps5/stitchcut.webp" description="" %}
+{% include caption.html url="/imgs/ps5/stitchcut.avif" description="" %}
 
 Do you see it? Or rather I should ask, do you see that you don't see it? The 'it' being of course
 Abe's chest scar. He is in fact missing it, but this alone obviously doesn't mean anything.
@@ -34,9 +34,9 @@ Abe's chest scar. He is in fact missing it, but this alone obviously doesn't mea
 Except -- and once again, thanks to /u/PlaceholderText for being so observant -- when he actually
 gains his chest scar, he still has them!
 
-{% include caption.html url='/imgs/ps5/beforescar.webp' description="Moments before Abe receives his iconic scar" %}
+{% include caption.html url='/imgs/ps5/beforescar.avif' description="Moments before Abe receives his iconic scar" %}
 
-{% include caption.html url='/imgs/ps5/chestscar.webp' description="Surprise, the stitches are still there." %}
+{% include caption.html url='/imgs/ps5/chestscar.avif' description="Surprise, the stitches are still there." %}
 
 So even if he does cut his stitches, which I heavily doubt, considering it is part of the
 character's identity and it was pretty much established before that the reason why he doesn't remove
@@ -57,7 +57,7 @@ narrating the trailer both looked and sounded very feminine.
 The reason why this is surprising is the fact that females of superspecies (like Mudokons and
 Glukkons) on Oddworld usually look something like this:
 
-{% include caption.html url="/imgs/ps5/queen.jpg" description="" %}
+{% include caption.html url="/imgs/ps5/queen.avif" description="" %}
 
 My guess at the time (which I nonetheless still consider plausible) is that the Shaman is in fact an
 infertile female Mudokon, who retained their "shape," because of the lack of hormones and such.
@@ -76,7 +76,7 @@ a tech-demo:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T7L29DMzKco" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include caption.html url="/imgs/ps5/kick.webp" description="" %}
+{% include caption.html url="/imgs/ps5/kick.avif" description="" %}
 
 If you compare the two, the differences are obvious. Different body shape, different clothes and
 jewelry, different tattoos and different backgrounds. It is pretty obvious that these are two
@@ -105,35 +105,35 @@ unintentional innuendo, when you consider the other meaning of "birds and bees".
 Some seem to think that a Mudokon egg might be inside the glowing sack some of the characters have
 been holding before.
 
-{% include caption.html url="/imgs/ps5/bag.webp" description="" %}
+{% include caption.html url="/imgs/ps5/bag.avif" description="" %}
 
 I am, however, not really into this theory, for one simple thing: Unless it was retconned, Mudokon
 eggs are massive and definitely don't fit into pockets.
 
-{% include caption.html url="/imgs/ps5/eggs.jpg" description="" %}
+{% include caption.html url="/imgs/ps5/eggs.avif" description="" %}
 
 What I rather believe it to be, is whatever is inserted into the Mayan-looking device as it is more
 or less the same color, shape and size as the bag.
 
-{% include caption.html url="/imgs/ps5/device.webp" description="" %}
+{% include caption.html url="/imgs/ps5/device.avif" description="" %}
 
 ## A few extra points of interest
 
 As some others have already spotted, the monitor on the image below show seems to be displaying one
 of the broadcasts of Magog on the March.
 
-{% include caption.html url='/imgs/ps5/intrain.jpg' description="Also notice the Fuzzle poster on the wall and also the other poster obscured by the monitor." %}
+{% include caption.html url='/imgs/ps5/intrain.avif' description="Also notice the Fuzzle poster on the wall and also the other poster obscured by the monitor." %}
 
 Also on this picture Alf seems to have a lot more tattoos than we thought he did.
 
-{% include caption.html url='/imgs/ps5/alftoby.jpg' description='The billboard in the distance seems to say "A CLASSIC REFESHER" with the "r" missing from "refresher", but this might just be because of the distance.' %}
+{% include caption.html url='/imgs/ps5/alftoby.avif' description='The billboard in the distance seems to say "A CLASSIC REFESHER" with the "r" missing from "refresher", but this might just be because of the distance.' %}
 
 The following two images seem to happen right after each other, both the colors and the geometry
 seems to add up, along with of course Abe looking really sad.
 
-{% include caption.html url="/imgs/ps5/dead.jpg" description="" %}
+{% include caption.html url="/imgs/ps5/dead.avif" description="" %}
 
-{% include caption.html url="/imgs/ps5/leave.jpg" description="" %}
+{% include caption.html url="/imgs/ps5/leave.avif" description="" %}
 
 Also, this guy isn't Toby after all, because this Mudokon is wearing a Necrum Mines hat and uniform,
 which also informs us of the location where this happens. Cancel the party lads.

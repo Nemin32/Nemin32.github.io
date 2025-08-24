@@ -21,7 +21,7 @@ One of the achievements mentions the following:
 >
 > Escaped the Necrum Mines with the Flagon's Eye
 
-{% include caption.html url="/imgs/ps5/device.webp" description="" %}
+{% include caption.html url="/imgs/ps5/device.avif" description="" %}
 
 Now, I'm inclined to think this is what we've believed to be an egg / orb slotted inside Abe's bag.
 It makes sense as it's the only vaguely eye shaped object we've seen over the years and it seems to
@@ -30,7 +30,7 @@ Flagon is, the name is brand new.
 
 ## The dark area in Necrum is called "Sanctum"
 
-{% include caption.html url="/imgs/achievements/flashlight.png" description="" %}
+{% include caption.html url="/imgs/achievements/flashlight.avif" description="" %}
 
 > **High Stakes:**
 >
@@ -41,7 +41,7 @@ area with the shadow creatures. Hence I think it's likely that this area is name
 
 ## About the the shadow creatures
 
-{% include caption.html url="/imgs/epic/other.jpg" description="But then what *are* MeetleBats?" %}
+{% include caption.html url="/imgs/epic/other.avif" description="But then what *are* MeetleBats?" %}
 
 Many people thought the shadow creatures inside Necrum are so called "MeetleBats" based on the item
 name in Abe's inventory, however, one of the achievements contradicts this:
@@ -71,13 +71,13 @@ return in some shape or form and Abe will be able to use an "antidote" to cure t
 I'll admit I'm a bit shaky on this, but nonetheless, I think it's plausible that the last level of
 the game is titled the "Eye of the Storm" as seen in this achievement:
 
-{% include caption.html url="/imgs/achievements/storm.png" description="" %}
+{% include caption.html url="/imgs/achievements/storm.avif" description="" %}
 
 > **Savin' That Moolah:**
 >
 > Beat Eye Of The Storm without using a Vendo in that level
 
-{% include caption.html url="/imgs/stateofplay/brewmaster.webp" description="" %}
+{% include caption.html url="/imgs/stateofplay/brewmaster.avif" description="" %}
 
 The image of this achievement is the same device that's behind the Brewmaster in the [State of
 Play](/stateofplay) trailer. And considering the Brewery is likely to be the last area in the game,
@@ -89,13 +89,13 @@ This one is also heavy speculation, but I think it's plausible that there are on
 in the game where you have to defend Mudokons who are climbing up a ladder as there are only two
 achievements related to this mechanic:
 
-{% include caption.html url="/imgs/achievements/td1.webp" description="" %}
+{% include caption.html url="/imgs/achievements/td1.avif" description="" %}
 
 > **Friend of the Mudokons, Part 1:**
 >
 > Rescued enough Mudokons for good Quarma in Reunion At The Old Trellis
 
-{% include caption.html url="/imgs/achievements/td2.webp" description="" %}
+{% include caption.html url="/imgs/achievements/td2.avif" description="" %}
 
 > **Friend of the Mudokons, Part 2:**
 >

@@ -5,7 +5,7 @@ summary: "During the last giveaway OWI asked people to name their favorite game.
 
 # Statistics of the Stranger's Wrath Switch-giveaway
 
-{% include caption.html url="/imgs/swswitch.webp" description="The prize of the giveaway" %}
+{% include caption.html url="/imgs/swswitch.avif" description="The prize of the giveaway" %}
 
 On July 11th, 2020 OWI
 [announced](https://nintendoeverything.com/giveaway-win-a-special-oddworld-strangers-wrath-switch-system-signed-by-lorne-lanning/)
@@ -23,7 +23,7 @@ of the time.
 At the creation of this page, the site had 1357 responses. My queries in total resulted in 1579
 items (because some people mentioned multiple games in their response), with the following ranking:
 
-{% include caption.html url="/imgs/swchart.webp" description="A chart showcasing the votes ordered by release date" %}
+{% include caption.html url="/imgs/swchart.avif" description="A chart showcasing the votes ordered by release date" %}
 
 ### **1. Abe's Oddysee** with **471** votes.
 

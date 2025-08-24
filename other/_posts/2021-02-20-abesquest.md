@@ -12,11 +12,11 @@ When most fans hear the words "Abe's Quest", I'd like to think most think of Pho
 
 Yet recently I was sent an ancient document from a fellow fan called Sgabbit, that contains the details of an actual planned game with this name and it is way crazier than any of us could have imagined. Ladies and gentlemen, let me introduce to you:
 
-{% include caption.html url="/imgs/abesquest/title.webp" description="Rendered with an appropriately ugly font." %}
+{% include caption.html url="/imgs/abesquest/title.avif" description="Rendered with an appropriately ugly font." %}
 
 Upon opening the document we're greeted with an extremely stylish logo, followed by a quick table of contents in the document. The authors, or rather culprits, of this mess is a company called [_"Data Design Interactive"_](https://crappygames.miraheze.org/wiki/Data_Design_Interactive), whom are notorius for their low-budget shovelware games.
 
-{% include caption.html url="/imgs/abesquest/contents.webp" description="" %}
+{% include caption.html url="/imgs/abesquest/contents.avif" description="" %}
 
 ## Features
 

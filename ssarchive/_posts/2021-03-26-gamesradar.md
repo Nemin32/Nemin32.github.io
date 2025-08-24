@@ -16,7 +16,7 @@ few times, but mostly in very short snippets.
 
 ## Level-objective
 
-{% include caption.html url="/imgs/gamesradar/objective.webp" description="" %}
+{% include caption.html url="/imgs/gamesradar/objective.avif" description="" %}
 
 We're almost immediately presented with a screen that showcases the objective of the level.
 Hijacking a train was revealed previusly in an article by PCGamer:
@@ -29,7 +29,7 @@ Hijacking a train was revealed previusly in an article by PCGamer:
 
 ## Several things
 
-{% include caption.html url="/imgs/gamesradar/screen.webp" description="" %}
+{% include caption.html url="/imgs/gamesradar/screen.avif" description="" %}
 
 Well, there are multiple things I find worth mentioning in the following section, so I've decided to
 separate one image into sub-sections.
@@ -46,14 +46,14 @@ Soulstorm's UI has underwent some quite massive changes since 2017 and I have to
 I'd still much prefer no UI at all, the current state of it looks a lot better than that PowerPoint
 presentation we saw originally.
 
-{% include caption.html url="/imgs/brewing_pics/301.jpg" description="How the UI used to look like." %}
+{% include caption.html url="/imgs/brewing_pics/301.avif" description="How the UI used to look like." %}
 
 ~~I think it's a bit of a missed opportunity that Abe's heart looks almost entirely like a human
 heart. I mean, they descended from birds, why not go wild? I sort of understand that the point here
 is so that you can immediately know what the bar represents, but I think it's obvious either way or
 can be figured out very-very quickly by experimenting.~~
 
-{% include caption.html url="/imgs/gamesradar/heart.png" description="A human and a bird heart." %}
+{% include caption.html url="/imgs/gamesradar/heart.avif" description="A human and a bird heart." %}
 
 **Edit:** As it turns out I was the one who didn't do my research. As pointed out by a fellow fan
 called Phoetux, avian hearts are in fact very similar to human ones, so this is actually more or
@@ -93,7 +93,7 @@ icons fill the entirety of the bottom of your screen? Surely not, but then how?
 
 ## Native shrine
 
-{% include caption.html url="/imgs/gamesradar/mural.webp" description="" %}
+{% include caption.html url="/imgs/gamesradar/mural.avif" description="" %}
 
 Abe runs past a Native shrine in the shape of OWI's logo that also has Mudokon skulls hanging from
 it. It seems to be a simple background prop, but I wonder if it things like these will have deeper
@@ -101,14 +101,14 @@ plot or just look cool.
 
 ## Hanging boulder
 
-{% include caption.html url="/imgs/gamesradar/boulder.webp" description="Maybe it's a rock sack?" %}
+{% include caption.html url="/imgs/gamesradar/boulder.avif" description="Maybe it's a rock sack?" %}
 
 I have to be honest, I have no idea what this boulder is supposed to be, but it is hanging on an
 alternative path Abe didn't take. Perhaps you can dislodge it and make it drop on an enemy?
 
 ## Phat Station logo
 
-{% include caption.html url="/imgs/gamesradar/phatstation.webp" description="Good luck figuring out the details from this." %}
+{% include caption.html url="/imgs/gamesradar/phatstation.avif" description="Good luck figuring out the details from this." %}
 
 For the first time we see the logo of Phat Station - albeit in a very tiny and smudged form. To me
 it looks like a sort of white pigeon, but considering the place's name is a play on "fat," I'm sure
@@ -116,7 +116,7 @@ it's actually something related to that instead.
 
 ## Flub Fuels poster
 
-{% include caption.html url="/imgs/gamesradar/flub.webp" description="Icky..." %}
+{% include caption.html url="/imgs/gamesradar/flub.avif" description="Icky..." %}
 
 Now this poster is interesting not just due to the weird worm-like creature that's used as a logo
 (perhaps it's a new type of enemy Abe will eventually have to face?), but rather the name of the
@@ -131,24 +131,24 @@ article:
 I wonder if it's still related to him or not. One more thing to note is that the Flub Fuels location
 also appears on the new Oddworld map, which I made an [interview](/mapinterview) about.
 
-{% include caption.html url="/imgs/sammi_mudos_map.jpg" description="Click to see in full size." %}
+{% include caption.html url="/imgs/sammi_mudos_map.avif" description="Click to see in full size." %}
 
 **Edit:** As pointed out by user gobo3D, the Flub Fuels logo looks very similar to the Shell
 oil-company's logo, which is certainly not a coincidence. Also that "Flub" is most likely a word
 play on "grub" hence the worm on the logo.
 
-{% include caption.html url="/imgs/gamesradar/shell.png" description="" %}
+{% include caption.html url="/imgs/gamesradar/shell.avif" description="" %}
 
 ## Placeholder Dripik... is dead
 
-{% include caption.html url="/imgs/gamesradar/placeholder.webp" description="Oh the humanity!" %}
+{% include caption.html url="/imgs/gamesradar/placeholder.avif" description="Oh the humanity!" %}
 
 Indeed, our favorite easter egg / unfinished feature is finally ironed out. As confirmed by the
 developers, there will be no place(holder) for a screen displaying Dripik in the final game.
 
 ## Objective phrasing
 
-{% include caption.html url="/imgs/gamesradar/phrasing.webp" description="" %}
+{% include caption.html url="/imgs/gamesradar/phrasing.avif" description="" %}
 
 I sort of wonder about the phrasing of the objective titled "Sneak past the sleeping Slig." I wonder
 if this is just a hint (i.e. if you choose you can disregard it and kill him) or you're forced to
@@ -156,7 +156,7 @@ take this route.
 
 ## Status icons
 
-{% include caption.html url="/imgs/gamesradar/status.webp" description="" %}
+{% include caption.html url="/imgs/gamesradar/status.avif" description="" %}
 
 Using this UI element you can clearly see what sort of statuses apply to you. I wonder if the text
 is really necessary and why they didn't go with just icons. I think it would look fine that way and
@@ -171,17 +171,17 @@ more it ties into the plot the better.
 
 ## ARG-like newspaper
 
-{% include caption.html url="/imgs/gamesradar/daily.webp" description="I believe that's RuptureFarms on the image in the newspaper." %}
+{% include caption.html url="/imgs/gamesradar/daily.avif" description="I believe that's RuptureFarms on the image in the newspaper." %}
 
 The tram goes under a platform that contains a poster of the Daily Deception, a newspaper that
 first appeared in Munch's Oddysee. The design of this newspaper caught my attention as it looks
 quite similar to the "The Informant" newspaper from the ARG.
 
-{% include caption.html url="/imgs/gamesradar/informant.jpg" description="From: <https://magogcartel.com>" %}
+{% include caption.html url="/imgs/gamesradar/informant.avif" description="From: <https://magogcartel.com>" %}
 
 ## The Old Trellis poster
 
-{% include caption.html url="/imgs/gamesradar/trellis.webp" description="" %}
+{% include caption.html url="/imgs/gamesradar/trellis.avif" description="" %}
 
 We also see a poster of the Old Trellis level. Considering we're seeing a poster about it on this
 level, I assume it comes later (perhaps it's the next level as the general look of things are quite
@@ -189,21 +189,21 @@ similar.)
 
 ## Classic logos
 
-{% include caption.html url="/imgs/gamesradar/sb.webp" description="" %}
+{% include caption.html url="/imgs/gamesradar/sb.avif" description="" %}
 
-{% include caption.html url="/imgs/gamesradar/feeco.webp" description="" %}
+{% include caption.html url="/imgs/gamesradar/feeco.avif" description="" %}
 
 It's a bit hard to showcase them as both of them pretty much fill the screen, but we see the classic
 Slig Barracks and FeeCo logos. I assume this means they remain largely unchanged in Soulstorm.
 
 ## Abe hanging from the train
 
-{% include caption.html url="/imgs/gamesradar/hang.webp" description="" %}
+{% include caption.html url="/imgs/gamesradar/hang.avif" description="" %}
 
 I don't really have much to say about this other than perhaps this is the same scene in which we see
 Abe hanging off the train in a pretty silly way.
 
-{% include caption.html url="/imgs/ps5/nostalgia.webp" description="First seen in the [PS5](/ps5footage) trailer" %}
+{% include caption.html url="/imgs/ps5/nostalgia.avif" description="First seen in the [PS5](/ps5footage) trailer" %}
 
 # The All-in-All
 

@@ -67,7 +67,7 @@ wondering just who the hell that weird fish-guy could be as you don't meet him a
 game. However, this of course didn't stop my enjoyment of the game, until I finally had enough and
 moved on.
 
-{% include caption.html url="/imgs/munchrant/cover.jpg" description="I have sadly lost the disk since, but this is the exact image that was on it (which also serves as the cover of the game's original Xbox release.)" %}
+{% include caption.html url="/imgs/munchrant/cover.avif" description="I have sadly lost the disk since, but this is the exact image that was on it (which also serves as the cover of the game's original Xbox release.)" %}
 
 Things took a turn years later, when for some reason I was browsing the Oddworld wiki, now armed
 with a rudimentary knowledge of English (as you might have guessed from my earlier posts or perhaps
@@ -102,9 +102,9 @@ game simply look great. For instance, Abe's model is one that took me by surpris
 while keeping the character's identity intact. Similarly the Sligs' model too looks faithful and
 great.
 
-{% include caption.html url="/imgs/munchrant/abe.jpg" description="Amusingly this render looks much better than how Abe looks like in New 'n' Tasty." %}
+{% include caption.html url="/imgs/munchrant/abe.avif" description="Amusingly this render looks much better than how Abe looks like in New 'n' Tasty." %}
 
-{% include caption.html url="/imgs/munchrant/slig.webp" description="The same can more or less be said about this Slig model too." %}
+{% include caption.html url="/imgs/munchrant/slig.avif" description="The same can more or less be said about this Slig model too." %}
 
 But sadly the pretty models aren't impressive enough to fix the glaring issue: the game simply looks
 washed out. What I mean by this is that unlike the original two games, which took some heavy
@@ -114,9 +114,9 @@ on), in Munch everything looks quite samey. Outside areas are all lush green mea
 facilities are all gray concrete jungles; there's no immediate association to the area you're in,
 unlike in the Abe games.
 
-{% include caption.html url="/imgs/munchrant/mocomp.jpg" description="Two levels from very different parts of the game, but it's hard to even tell them apart." %}
+{% include caption.html url="/imgs/munchrant/mocomp.avif" description="Two levels from very different parts of the game, but it's hard to even tell them apart." %}
 
-{% include caption.html url="/imgs/munchrant/aocomp.jpg" description="These two screens alone are way more interesting than basically anything you can find in Munch." %}
+{% include caption.html url="/imgs/munchrant/aocomp.avif" description="These two screens alone are way more interesting than basically anything you can find in Munch." %}
 
 This makes the game way less interesting to look at and a lot less memorable. Am I now in Sloghut
 1027 or Sloghut 2813? You might be able to tell if you have enough experience in the game, but try
@@ -186,7 +186,7 @@ memorable part of the game.
 
 #### Powerups
 
-{% include caption.html url="/imgs/munchrant/vendo.jpg" description="Ah yes, the vending machine, a well-known part of all tribal cultures." %}
+{% include caption.html url="/imgs/munchrant/vendo.avif" description="Ah yes, the vending machine, a well-known part of all tribal cultures." %}
 
 Moving on, the powerups are probably the most obvious example of the game's tired design. In the
 originals everything had an at least superficially explained reason for existing (other than grenade
@@ -492,7 +492,7 @@ launch title and several pieces of media wrote about it as such. I've spoken wit
 who in anticipation of the game bought a PS2 from their saved up cash...only to be severely
 disappointed, when OWI sneakily struck a deal with Microsoft and turned Munch into an Xbox title.
 
-{% include caption.html url="/imgs/munchrant/pennyarcade.jpg" description="<a href='https://www.penny-arcade.com/comic/2000/10/23'>Penny Arcade</a> is well known for their comics that satirized OWI's overly financial-oriented choices." %}
+{% include caption.html url="/imgs/munchrant/pennyarcade.avif" description="<a href='https://www.penny-arcade.com/comic/2000/10/23'>Penny Arcade</a> is well known for their comics that satirized OWI's overly financial-oriented choices." %}
 
 Now, financial-wise this was an excellent move for OWI. They got basically limitless funding from
 the tech giant and also the chance to develop for the stronger platform of the Xbox. However, it
@@ -628,7 +628,7 @@ the universal acclaim the originals received. It also caused Microsoft to go bac
 publishing deal they struck with OWI, leaving them to look for a new partner, whom they ultimately
 found in EA... And we know how that ended.
 
-{% include caption.html url="/imgs/munchrant/pennyarcade2.jpg" description="<a href='https://www.penny-arcade.com/comic/2001/10/08'>Penny Arcade</a>" %}
+{% include caption.html url="/imgs/munchrant/pennyarcade2.avif" description="<a href='https://www.penny-arcade.com/comic/2001/10/08'>Penny Arcade</a>" %}
 
 > [Contemporary blog-post about Oddworld](http://www.fourhman.com/blog/archive/2005/04/the-final-oddworld-lornes-exoddus.html):
 > "Then, before the Xbox launch, Lanning goes on the PR circuit to declare that the Xbox will be the
@@ -657,9 +657,9 @@ to the same standards as the old ones. To summarize the problem with Munch, it s
 different enough to be interesting, nor samey enough to capitalize on nostalgia and the
 tried-and-true methods of Oddysee and Exoddus.
 
-{% include caption.html url="/imgs/swchart.webp" description="<a href='/swgiveaway'>Stranger's Wrath giveaway statistics</a>" %}
+{% include caption.html url="/imgs/swchart.avif" description="<a href='/swgiveaway'>Stranger's Wrath giveaway statistics</a>" %}
 
-{% include caption.html url="/imgs/survey/disliked_game.jpg" description="<a href='/survey'>Fandom survey</a>" %}
+{% include caption.html url="/imgs/survey/disliked_game.avif" description="<a href='/survey'>Fandom survey</a>" %}
 
 Munch today lives on as a niche-inside-a-niche, considering Oddworld isn't as much of a household
 name as it used to be. My queries into the fandom decisively put it the second least liked Oddworld
