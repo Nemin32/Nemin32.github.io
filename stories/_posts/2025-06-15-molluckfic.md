@@ -5,7 +5,7 @@ summary: "A deal is struck with the devil. - An Oddworld Fanfiction"
 
 # The Child's Sacrifice
 
-{% include caption.html description="" url="/imgs/vault.jpg" %}
+{% include caption.html description="" url="/imgs/vault.avif" %}
 
 Molluck took a deep breath in to calm his racing heart. Though he appeared calm and collected from the outside and even his detractors had to admit that he looked as pristine and perfect as always, he was, in fact, more nervous than he ever remembered being. As he stood on his podium, with his escort Slig on his side, a single fact hung above his head, like a meat saw ready to process his entire being: This was it. The moment that would decide whether he could save himself or not. If this gambit was lost, he was as good as dead. With an almost imperceptible glance to the side of the room, he noted an open door and through it a pair of orange eyes peering inside. Without visibly acknowledging it, he turned towards his valet and nodded.
 

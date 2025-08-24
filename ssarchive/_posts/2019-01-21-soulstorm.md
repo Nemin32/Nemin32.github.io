@@ -87,7 +87,7 @@ digestible list.
 - The new thematic around brew is that if a Mudokon becomes addicted to it, then
   two days of withdrawal will result in their death by cardiac arrest.
 
-{% include caption.html url="/imgs/ss_images/arrest.jpg" description="" %}
+{% include caption.html url="/imgs/ss_images/arrest.avif" description="" %}
 
 - The brew is also very flammable, which can be potentially used in gameplay
   (area control?).
@@ -114,12 +114,12 @@ digestible list.
 - It seems like the Mudokons will be capable of fighting back and the player can
   select how aggressive they will act.
 
-{% include caption.html url="/imgs/ss_images/mood.jpg" description="" %}
+{% include caption.html url="/imgs/ss_images/mood.avif" description="" %}
 
 - Abe will have an HP bar, Ammo counter and he can also collect Moolah. And he
   will also be able to amass Chi, which will let him use powerful abilities.
 
-{% include caption.html url="/imgs/ss_images/chi_hp.jpg" description="" %}
+{% include caption.html url="/imgs/ss_images/chi_hp.avif" description="" %}
 
 - To get the best ending no Slig must die. (Whether we can save them or we just
   have to leave them be is not known.)
@@ -135,12 +135,12 @@ digestible list.
 - There is now a concrete Pyramid of Power that shows us just how powerful
   certain positions are.
 
-{% include caption.html url="/imgs/brewing_pics/oddworld_pyramid.jpg" description="" %}
+{% include caption.html url="/imgs/brewing_pics/oddworld_pyramid.avif" description="" %}
 
 - RuptureFarms is confirmed to have burned down after it has been struck by
   lightning from the Mudokon Rainmaker.
 
-{% include caption.html url="/imgs/brewing_pics/molluck_landscape.jpg" description="" %}
+{% include caption.html url="/imgs/brewing_pics/molluck_landscape.avif" description="" %}
 
 - The original trio of Glukkons is now gone, replaced by brand new ones.
   However, Molluck has returned and he looks pretty pissed off. Interestingly
@@ -155,7 +155,7 @@ digestible list.
 - The theme of Occultism seems to be returning in SS as evidenced by one Glukkon
   wearing the "Royal Society **Alchemic** Science" badge.
 
-{% include caption.html url="/imgs/brewing_pics/brewmaster_badge.jpg" description="" %}
+{% include caption.html url="/imgs/brewing_pics/brewmaster_badge.avif" description="" %}
 
 ### CHARACTERS OF THE SOULSTORM ARG:
 
@@ -217,27 +217,27 @@ grid-gap: 2rem;
 </style>
 
 <ul id="items">
-<li>{% include caption.html url='/imgs/ss_images/ss_brew.webp' description="<i>Brew Bottle</i> - Splashy, sticky, very tasty and highly flammable. Soulstorm Brew will help you get the party started and then help you burn down the venue when you've had enough." %}</li>
+<li>{% include caption.html url='/imgs/ss_images/ss_brew.avif' description="<i>Brew Bottle</i> - Splashy, sticky, very tasty and highly flammable. Soulstorm Brew will help you get the party started and then help you burn down the venue when you've had enough." %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/cap.webp" description="We have no idea how it got through standards people, but they put bottlecaps on Soulstorm Brew that make sparks when they hit against hard materials. Sparks plus flammable liquid equals fun." %}</li>
+<li>{% include caption.html url="/imgs/ss_images/cap.avif" description="We have no idea how it got through standards people, but they put bottlecaps on Soulstorm Brew that make sparks when they hit against hard materials. Sparks plus flammable liquid equals fun." %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/extinguisher.webp" description="<i>Fire Extinguisher</i> - Look, we've all done it. Sometimes you just set fire to something you wanted to keep. Use this handy fire extinguisher to hastily correct your overzealous use of flames." %}</li>
+<li>{% include caption.html url="/imgs/ss_images/extinguisher.avif" description="<i>Fire Extinguisher</i> - Look, we've all done it. Sometimes you just set fire to something you wanted to keep. Use this handy fire extinguisher to hastily correct your overzealous use of flames." %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/bottle.webp" description=" _Empty Bottle_ - An empty bottle? What was inside? Who's been having a party? Why weren't you invited? Never mind, at least these things can be recycled, right?" %}</li>
+<li>{% include caption.html url="/imgs/ss_images/bottle.avif" description=" _Empty Bottle_ - An empty bottle? What was inside? Who's been having a party? Why weren't you invited? Never mind, at least these things can be recycled, right?" %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/gum.webp" description="<i>Gum</i> - The flavor lasts for a few a seconds, but the stickiness is eternal. Chew this up a bit and you can use it to stick one thing to another thing. Handy!" %}</li>
+<li>{% include caption.html url="/imgs/ss_images/gum.avif" description="<i>Gum</i> - The flavor lasts for a few a seconds, but the stickiness is eternal. Chew this up a bit and you can use it to stick one thing to another thing. Handy!" %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/lighter.webp" description="<i>Lighter</i> - It's like carrying a flint, some kindling at all times. Use it to start fires where there were previously no fires. Also handy to stick to other objects that might benefit from a quick and convenient fire source." %}</li>
+<li>{% include caption.html url="/imgs/ss_images/lighter.avif" description="<i>Lighter</i> - It's like carrying a flint, some kindling at all times. Use it to start fires where there were previously no fires. Also handy to stick to other objects that might benefit from a quick and convenient fire source." %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/flamethrower.webp" description="<i>Flamethrower</i> - Well done. You've taken something that was made solely for putting out fires, tinkered around with it and made it into something that makes fire at a prodigious rate. Your momma would be proud.
+<li>{% include caption.html url="/imgs/ss_images/flamethrower.avif" description="<i>Flamethrower</i> - Well done. You've taken something that was made solely for putting out fires, tinkered around with it and made it into something that makes fire at a prodigious rate. Your momma would be proud.
 
 Recipe: Fire extinguisher + Soulstorm Brew + Lighter (Confirmed to be changed. Archived here only for completeness' sake.)" %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/pop.webp" description="<i>Purple bottle with a green decal and 'PoP' written on it in white</i> - Reminds me a bit of the drinks you could get in Munch's Oddysee. Perhaps OWI is revisiting this concept." %}</li>
+<li>{% include caption.html url="/imgs/ss_images/pop.avif" description="<i>Purple bottle with a green decal and 'PoP' written on it in white</i> - Reminds me a bit of the drinks you could get in Munch's Oddysee. Perhaps OWI is revisiting this concept." %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/pop_gum.webp" description='<i>Purple bottle with a green decal and a purple band over it</i> - The color of this band is very similar to the gum, so perhaps this is the result of crafting the two together.' %}</li>
+<li>{% include caption.html url="/imgs/ss_images/pop_gum.avif" description='<i>Purple bottle with a green decal and a purple band over it</i> - The color of this band is very similar to the gum, so perhaps this is the result of crafting the two together.' %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/jawbreaker.webp" description="<i>Jawbreaker</i> - An ordinary looking jawbreaker-candy. OWI has alluded towards that its effects are going to be surprising." %}</li>
+<li>{% include caption.html url="/imgs/ss_images/jawbreaker.avif" description="<i>Jawbreaker</i> - An ordinary looking jawbreaker-candy. OWI has alluded towards that its effects are going to be surprising." %}</li>
 
-<li>{% include caption.html url="/imgs/ss_images/water.webp" description="<i>Water in an SSB bottle</i> - This SoulStorm Brew bottle contains water that you can give to your Mudokons. The exact usage of them is not known." %}</li>
+<li>{% include caption.html url="/imgs/ss_images/water.avif" description="<i>Water in an SSB bottle</i> - This SoulStorm Brew bottle contains water that you can give to your Mudokons. The exact usage of them is not known." %}</li>
 </ul>

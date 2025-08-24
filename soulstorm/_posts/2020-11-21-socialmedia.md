@@ -19,7 +19,7 @@ community to play while they're waiting for Soulstorm. It had a very good start,
 the different communities attached to the series and even a third-party ARG solving group joined
 in.
 
-{% include caption.html url="/imgs/miodd/pic5.jpg" description="The main page of the ARG displaying the now mysteriously disappeared Photo 5" %}
+{% include caption.html url="/imgs/miodd/pic5.avif" description="The main page of the ARG displaying the now mysteriously disappeared Photo 5" %}
 
 However, the ARG ran into a problem... The development period was extended, yet there was no content
 to pad the puzzles out. There was no way to come out good from this, but there were ways to minimize
@@ -39,7 +39,7 @@ was that OWI posts an image obscured by differently sized squares and the commun
 week which square to reveal. Some of the squares were also obscured by different goals the community
 had to achieve by reaching a number of new subscribers on OWI's different social media pages.
 
-{% include caption.html url="/imgs/socialmedia/oddwall.jpg" description="Some of the locked squares and milestones the community had to unlock." %}
+{% include caption.html url="/imgs/socialmedia/oddwall.avif" description="Some of the locked squares and milestones the community had to unlock." %}
 
 The Oddwall was unofficially shelved after a single iteration and hasn't been mentioned anywhere
 since then nor why this happened. My guess, however, is that it's due to not bringing in the
@@ -56,7 +56,7 @@ This is - at the time of writing - OWI's newest attempt at social media engageme
 they'll wait until four of their social media pages gain 250 new subscribers each and then release
 questions. Once these are answered they'll release codes which will open a page on their website.
 
-{% include caption.html url="/imgs/socialmedia/password.jpg" description="It's also a bit weird how 'concept art' is part of the read more section. Imagine if the result of this whole thing is just a few concept art images." %}
+{% include caption.html url="/imgs/socialmedia/password.avif" description="It's also a bit weird how 'concept art' is part of the read more section. Imagine if the result of this whole thing is just a few concept art images." %}
 
 Considering the event hasn't ended yet it's way too early to talk about whether it was a success or
 not, but I nonetheless still wish to disclose my thoughts.
@@ -83,7 +83,7 @@ you have to answer a question that'll probably be easy to figure out using Googl
 research due to the fact that the greater fandom isn't exactly familiar with the supplementary
 content outside the games.
 
-{% include caption.html url="/imgs/socialmedia/fbtrend.jpg" description="<i>The Glukkons were scared, cuz profits were grim...</i>" %}
+{% include caption.html url="/imgs/socialmedia/fbtrend.avif" description="<i>The Glukkons were scared, cuz profits were grim...</i>" %}
 
 Even then, we haven't even came close to reaching the goal for any of the four social media
 sites. If one checks the statistics, their Facebook page and Youtube channel for instance are
@@ -91,7 +91,7 @@ heavily bleeding likes and subscriptions. Just last month they lost over 300 lik
 over 200 subscribers on Youtube. Turning even one of them around and even surpassing it by 250 new
 fans, before getting any content sounds a bit unreasonable to me and yet they want to do both.
 
-{% include caption.html url="/imgs/socialmedia/stats.jpg" description="Source: <a href='https://socialblade.com'>Socialblade.com</a>" %}
+{% include caption.html url="/imgs/socialmedia/stats.avif" description="Source: <a href='https://socialblade.com'>Socialblade.com</a>" %}
 
 Even their quickest growing site, their Instagram, is only bringing in 90 people on average per
 month. Unless things suddenly speed up, we'll be sitting here milling our fingers until a quarter of

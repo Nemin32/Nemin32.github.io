@@ -65,7 +65,7 @@ Speaking of these still active trademarks, there's two---not counting the one fo
 
 Not only that, but in May, 2024, I [noticed](https://reddit.com/r/oddworld/comments/1cmi07j/planet_of_the_pests_might_be_the_title_of/) that Bennie Terry III was actually play-testing / working on a development build of the game, making it the closest we have to a physical confirmation of the existence of a new OWI-related game.
 
-{% include caption.html url="/imgs/whatsnext/potp.png" description="The full window title is: 'Potp (64-bit Development PCD3D_SM6)', letting us know this is an Unreal Engine game." %}
+{% include caption.html url="/imgs/whatsnext/potp.avif" description="The full window title is: 'Potp (64-bit Development PCD3D_SM6)', letting us know this is an Unreal Engine game." %}
 
 Similarly, Lanning went on record in March to mention the following:
 
@@ -93,7 +93,7 @@ The other interesting thing I've noticed is that almost all the people, who the 
 
 One more interesting thing about Lanning's profile is the background image he set:
 
-{% include caption.html url="/imgs/whatsnext/llbg.jpg" description="" %}
+{% include caption.html url="/imgs/whatsnext/llbg.avif" description="" %}
 
 There is no further context to this image, but it definitely doesn't look like Oddworld.
 
@@ -119,7 +119,7 @@ How effective this is and how fun the game is are beyond the scope of this post 
 
 Going back to Lanning, notably he isn't anything as pivotal as "director" or "co-founder" when it comes to DeepWell. Rather, he is named as part of the so-called _Collaborative Advisory Council:_
 
-{% include caption.html url="/imgs/whatsnext/deepwell_team.webp" description="Source: <a href='https://www.gamesindustry.biz/new-publisher-deepwell-focuses-on-therapeutic-games'>GameIndustry.biz</a>" %}
+{% include caption.html url="/imgs/whatsnext/deepwell_team.avif" description="Source: <a href='https://www.gamesindustry.biz/new-publisher-deepwell-focuses-on-therapeutic-games'>GameIndustry.biz</a>" %}
 
 Whether he was actively involved in the creation of Zengence is not known, however, considering that he hasn't mentioned it in his social media, I'm inclined to lean towards that he wasn't.
 

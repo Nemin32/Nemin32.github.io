@@ -12,7 +12,7 @@ have previously hosted the game back in 2019.
 
 ## Molluck's(?) airship
 
-{% include caption.html url="/imgs/ign2/airship.webp" description="" %}
+{% include caption.html url="/imgs/ign2/airship.avif" description="" %}
 
 Immediately before the video even properly starts we see an airship gliding towards SoulStorm
 Brewery. By using Occam's Razor I assume this is Molluck's airship, though this does bring up the
@@ -22,7 +22,7 @@ there if he's disgraced and blamed for the destruction of RuptureFarms?
 
 ## Checkpoint
 
-{% include caption.html url="/imgs/ign2/checkpoint.webp" description="[RIP placeholder Dripik](/gamesradar)" %}
+{% include caption.html url="/imgs/ign2/checkpoint.avif" description="[RIP placeholder Dripik](/gamesradar)" %}
 
 The checkpoint showcases a slightly redesigned Magog Cartel logo that uses less straight lines and
 also has two small eyes. I sort of prefer the old design as it looked way more like an actual
@@ -31,19 +31,19 @@ what the Glukkons are, but still, less is sometimes more.
 
 ## Caged Mudokons
 
-{% include caption.html url="/imgs/ign2/cage.webp" description="" %}
+{% include caption.html url="/imgs/ign2/cage.avif" description="" %}
 
 In this next scene we see a bunch of Mudokons locked in a cage, showing us our objective. There is
 also an actual objective popup that comes up right afterwards.
 
-{% include caption.html url="/imgs/ign2/objective.webp" description="Machinary :)" %}
+{% include caption.html url="/imgs/ign2/objective.avif" description="Machinary :)" %}
 
 As Lanning explains it the Mudokons are locked in a cave and we have to rescue them and lead them
 back to the train.
 
 ## "Tidy pods"
 
-{% include caption.html url="/imgs/ign2/tide.webp" description="How do you do, fellow kids?" %}
+{% include caption.html url="/imgs/ign2/tide.avif" description="How do you do, fellow kids?" %}
 
 We see some new crafting items. One of these is a detergent that is an obvious reference to
 Tide-pods, with the flavor text referencing the [2017 Tide-pod eating
@@ -51,7 +51,7 @@ fad](https://en.wikipedia.org/wiki/Consumption_of_Tide_Pods).
 
 ## Elevator drop
 
-{% include caption.html url="/imgs/ign2/lift.webp" description="Mind the gap, please!" %}
+{% include caption.html url="/imgs/ign2/lift.avif" description="Mind the gap, please!" %}
 
 In this scene Abe calls an elevator then scavenges the right side of the area while the lift
 arrives. I feel like it'd be nice if this hole had some sort of mark that shows that there is in
@@ -61,7 +61,7 @@ acutally be a sign for elevators, but I sure wouldn't be able to tell from just 
 
 ## Badges
 
-{% include caption.html url="/imgs/ign2/achievements.webp" description="" %}
+{% include caption.html url="/imgs/ign2/achievements.avif" description="" %}
 
 In Soulstorm there are a bunch of badges you can get from doing stuff like searching lockers, tying
 up Sligs and similar. This is part of the replayability of the game. I think it should probably be
@@ -70,7 +70,7 @@ game, no? I very much hope this is an opt-in (or at the very least opt-out) feat
 
 ## Candy machine
 
-{% include caption.html url="/imgs/ign2/candy.webp" description="" %}
+{% include caption.html url="/imgs/ign2/candy.avif" description="" %}
 
 This is just weird from a lore perspective. The Glukkons are the sort of characters who'd bottle up
 air and sell it to you and yet here they're acting charitably? I understand the gameplay reason for
@@ -78,7 +78,7 @@ this, but this feels like a hard case of ludonarrative dissonance, unless it's a
 
 ## Knockout meter
 
-{% include caption.html url="/imgs/ign2/knockout.webp" description="" %}
+{% include caption.html url="/imgs/ign2/knockout.avif" description="" %}
 
 As it turns out the yellow bar is the consciousness meter of enemies. If you reduce it to zero, the
 character falls unconsciouss for a short period, during which you can rush over and tie them up.
@@ -86,16 +86,16 @@ There is also a red bar, which represents the character's health
 
 ## Missing bells on the Slig booths
 
-{% include caption.html url="/imgs/ign2/nobells.webp" description="" %}
+{% include caption.html url="/imgs/ign2/nobells.avif" description="" %}
 
 Back in 2019 the Slig booths had small bells that you could ring to call a Slig out. This seems to
 be gone from the current iteration of them. Perhaps they only appear on select booths.
 
-{% include caption.html url="/imgs/ign/rip.jpg" description="Notice the top of the booth." %}
+{% include caption.html url="/imgs/ign/rip.avif" description="Notice the top of the booth." %}
 
 ## Mine skip
 
-{% include caption.html url="/imgs/ign2/mine.jpg" description="" %}
+{% include caption.html url="/imgs/ign2/mine.avif" description="" %}
 
 Here the video cuts quickly as we're not allowed to see the inside of the mine. I have a guess what
 this area might look like, as we've seen an area before where Abe used flares to light his path
@@ -107,7 +107,7 @@ this area might look like, as we've seen an area before where Abe used flares to
 
 ## Mudokon tower defense
 
-{% include caption.html url="/imgs/ign2/muds.webp" description="" %}
+{% include caption.html url="/imgs/ign2/muds.avif" description="" %}
 
 Of all the things we've seen previously in the game, this is what worries me the most. These defense
 sections look very annyoing and potentially frustrating too. I understand that savinge everyone
@@ -121,17 +121,17 @@ the fate of a ton of Mudokons.
 
 ## A better look at the new Magog logo
 
-{% include caption.html url="/imgs/ign2/magog.webp" description="" %}
+{% include caption.html url="/imgs/ign2/magog.avif" description="" %}
 
 As I've said before this one has more curved lines and also two eyes for some reason. If you by
 chance aren't aware of what the original Magog Cartel logo looked like (even though it is literally
 the favicon of this website), here it is for you viewing pleasure:
 
-{% include caption.html url="/imgs/ign2/oldmagog.webp" description="I personally prefer this old logo, which one do you like better?" %}
+{% include caption.html url="/imgs/ign2/oldmagog.avif" description="I personally prefer this old logo, which one do you like better?" %}
 
 ## Flying Slig exploding in our face
 
-{% include caption.html url="/imgs/ign2/flying.jpg" description="Oh you like to see what's happening? Pity." %}
+{% include caption.html url="/imgs/ign2/flying.avif" description="Oh you like to see what's happening? Pity." %}
 
 Apparently when some flying Sligs die they explode right into our faces, obscuring most of the
 screen as it happens. I like the idea, but I personally think visual clarity comes before anything
@@ -140,7 +140,7 @@ difference between life and death.
 
 ## Shrykull
 
-{% include caption.html url="/imgs/ign2/shrykull.webp" description='The text reads "Ancient Power."' %}
+{% include caption.html url="/imgs/ign2/shrykull.avif" description='The text reads "Ancient Power."' %}
 
 Abe rescues two Mudokons and receives the Shrykull. Interestingly it's displayed almost as if it was
 an item as there are no lightnings striking out of him, nor AO/AE's iconic pulsating blue rings. I
@@ -148,7 +148,7 @@ figure you can "store" it away and use whenever you want?
 
 ## Statistics / End of level
 
-{% include caption.html url="/imgs/ign2/stats.webp" description="" %}
+{% include caption.html url="/imgs/ign2/stats.avif" description="" %}
 
 At the end of the video we see the end of level statistics. Apparently Sligs are once again counted
 into the Quarma score of the player. For a while it was said that this isn't the case anymore. I

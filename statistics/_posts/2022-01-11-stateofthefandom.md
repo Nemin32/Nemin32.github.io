@@ -14,7 +14,7 @@ summary: "Another fandom activity report"
 
 {:.no_toc}
 
-{% include caption.html url="/imgs/stateofthefandom/mom.png" description="\"Top management reports
+{% include caption.html url="/imgs/stateofthefandom/mom.avif" description="\"Top management reports
 everything's gonna be fine! ... Uh-huh.\"" %}
 
 - TOC
@@ -34,7 +34,7 @@ comment individually on the changes, you can regardless see my last set of measu
 
 <div class="floater" markdown=1>
 
-{% include caption.html url="/imgs/stateofthefandom/facebook.png" description="Consistent like-bleeding." %}
+{% include caption.html url="/imgs/stateofthefandom/facebook.avif" description="Consistent like-bleeding." %}
 
 The Facebook-page has long been the [sick man](https://en.wikipedia.org/wiki/Sick_man_of_Europe) of
 OWI's platforms. Despite its occasional resurgences, long-term projections have shown time and time
@@ -43,7 +43,7 @@ again that it'll always begin bleeding followers and likes rapidly.
 Compared to last time, when the page had 155.096 likes, 168.101 is a far nicer number, however, as
 the trendline shows, it is unlikely to stay this high if things continue similarly.
 
-{% include caption.html url="/imgs/stateofthefandom/facebook_total.png" description="" %}
+{% include caption.html url="/imgs/stateofthefandom/facebook_total.avif" description="" %}
 
 </div>
 
@@ -51,7 +51,7 @@ the trendline shows, it is unlikely to stay this high if things continue similar
 
 <div class="floater" markdown=1>
 
-{% include caption.html url="/imgs/stateofthefandom/twitter.png" description="Despite the many
+{% include caption.html url="/imgs/stateofthefandom/twitter.avif" description="Despite the many
 negative days, the net sum is still in the positives." %}
 
 As can be seen from the graphs below, the Twitter has basically stabilized. There have been no
@@ -61,7 +61,7 @@ followers for close to half a year now.
 At the previous measurement the site had 37.375 followers. Now it has 43.042. As mentioned before,
 things seem to have completely stabilized.
 
-{% include caption.html url="/imgs/stateofthefandom/tweet_total.png" description="" %}
+{% include caption.html url="/imgs/stateofthefandom/tweet_total.avif" description="" %}
 
 </div>
 
@@ -69,7 +69,7 @@ things seem to have completely stabilized.
 
 <div class="floater" markdown=1>
 
-{% include caption.html url="/imgs/stateofthefandom/insta.png" description="The positives and
+{% include caption.html url="/imgs/stateofthefandom/insta.avif" description="The positives and
 negatives largely balance themselves out." %}
 
 Arguably the Instagram's situation is almost exactly the same as the Twitter's as its follower-count
@@ -79,7 +79,7 @@ does display an extremely slow growth (10-20 additional followers / month.)
 Previously the page had 18.910 followers, now it has 19.029. It can be considered an absolutely
 miniscule growth considering the timeframe.
 
-{% include caption.html url="/imgs/stateofthefandom/insta_total.png" description="" %}
+{% include caption.html url="/imgs/stateofthefandom/insta_total.avif" description="" %}
 
 </div>
 
@@ -87,7 +87,7 @@ miniscule growth considering the timeframe.
 
 <div class="floater" markdown=1>
 
-{% include caption.html url="/imgs/stateofthefandom/youtube.png" description="Not much to see..." %}
+{% include caption.html url="/imgs/stateofthefandom/youtube.avif" description="Not much to see..." %}
 
 Just like previously, I don't have much to say about the Youtube page. It seems to be gaining about
 30.000 views / month, which is about ten thousand views more than the last time I measured, and
@@ -95,7 +95,7 @@ experiences a very slow growth.
 
 Last time it had 25.500 subscribers, now it has 25.600.
 
-{% include caption.html url="/imgs/stateofthefandom/youtube_total.png" description="" %}
+{% include caption.html url="/imgs/stateofthefandom/youtube_total.avif" description="" %}
 
 </div>
 
@@ -109,7 +109,7 @@ While of course the click-count since initial spike has greatly diminished, it c
 that the average monthly viewing rate of [/r/Oddworld](https://reddit.com/r/Oddworld) has increased
 from about 5.000 to just below 10.000.
 
-{% include caption.html url="/imgs/stateofthefandom/reddit.png" description="" %}
+{% include caption.html url="/imgs/stateofthefandom/reddit.avif" description="" %}
 
 Interestingly, unlike most of the official platforms, the release of the _Extended Edition_ seemed
 to affect the site somewhat, as there is a slight bump in the click-count at around November.
@@ -120,14 +120,14 @@ on the below-100 scale.
 
 ### Discord
 
-{% include caption.html url="/imgs/stateofthefandom/messages_merged.png" description="Daily census,
+{% include caption.html url="/imgs/stateofthefandom/messages_merged.avif" description="Daily census,
 blue = #soulstorm, green = #chat, purple = every other channel combined." %}
 
 As can be seen from both graphs, the server faced an unprecedented slow-season around August, which
 lasted until the middle of November, when the _Enhanced Edition_ was released, which brought in some
 new members and reignited discussions for a while.
 
-{% include caption.html url="/imgs/stateofthefandom/messages_merged_average.png" description="Five
+{% include caption.html url="/imgs/stateofthefandom/messages_merged_average.avif" description="Five
 day running average." %}
 
 Whether this activity will stay remains to be seen, however, the short term trend seems to be
@@ -141,7 +141,7 @@ Some other stuff that doesn't belong anywhere else.
 
 ### The Acoustic Panels
 
-{% include caption.html url="/imgs/stateofthefandom/dunno.png" description="" %}
+{% include caption.html url="/imgs/stateofthefandom/dunno.avif" description="" %}
 
 The number sold is still only 24 out of 500, as was half a year ago. Seems like they aren't as
 popular as OWI might have thought they'll be. On the other hand, I guess this makes that two-dozens

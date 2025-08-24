@@ -60,7 +60,7 @@ their answers.
 
 ### Which platform did you find this survey on?
 
-{% include caption.html url="/imgs/newsurvey/platform.png" description="" %}
+{% include caption.html url="/imgs/newsurvey/platform.avif" description="" %}
 
 While this question appears quite late in the survey, I think it's important to take it first to
 give a better insight into the answers that were given.
@@ -78,7 +78,7 @@ the participants and the rest the other little less than a third.
 
 ### Which game did you play first?
 
-{% include caption.html url="/imgs/newsurvey/firstgame.png" description="" %}
+{% include caption.html url="/imgs/newsurvey/firstgame.avif" description="" %}
 
 The first question was about which game fans played. It is interesting to see, albeit perhaps not
 entirely surprising that New 'n' Tasty which OWI intended to be the soft/hard reboot of the series
@@ -99,7 +99,7 @@ many new fans as Soulstorm took the last place in this question.
 
 ### Which games have you played/finished?
 
-{% include caption.html url="/imgs/newsurvey/finished.png" description="" %}
+{% include caption.html url="/imgs/newsurvey/finished.avif" description="" %}
 
 The results are fairly obvious in this question. If someone has finished AO and AE once, they are
 fairly likely to finish it multiple more times. Interestingly out of all participants nearly one
@@ -117,7 +117,7 @@ up with Munch.
 
 ### On a scale of 1-5 how would you rate the games?
 
-{% include caption.html url="/imgs/newsurvey/rating.png" description="" %}
+{% include caption.html url="/imgs/newsurvey/rating.avif" description="" %}
 
 Parts of these results might not be entirely surprising:
 
@@ -160,7 +160,7 @@ are and the smaller it is, the more people have voted the same way. This means t
 AO's and AE's cases the large majority was in agreement about their score, but for instance for
 Soulstorm people have been much more divided.
 
-{% include caption.html url="/imgs/newsurvey/std.png" description="A graph demonstrating the Standard
+{% include caption.html url="/imgs/newsurvey/std.avif" description="A graph demonstrating the Standard
 Deviation, taken from [Wikipedia](https://en.wikipedia.org/wiki/Standard_deviation)." %}
 
 The Standard Deviation on the other hand allows us to define ranges in which the true values lie.
@@ -192,7 +192,7 @@ negatives, while the highest hit 7 points.
 
 ### Do you prefer the original or the new version in terms of...
 
-{% include caption.html url="/imgs/newsurvey/aepreference.png" description="" %}
+{% include caption.html url="/imgs/newsurvey/aepreference.avif" description="" %}
 
 Now, while some people object to comparing Abe's Exoddus with Soulstorm, I personally think it is
 important to compare them as the latter is supposed to replace the former, so it should be at
@@ -257,7 +257,7 @@ people took the survey from each platform (more people => stronger sway in the f
 finally the "Real overall" column is a row-wise average of the first five columns. I calculated this
 to check how self-aware the voters are about their real preferences.
 
-{% include caption.html url="/imgs/newsurvey/prefplatform.png" description="Each group represents a
+{% include caption.html url="/imgs/newsurvey/prefplatform.avif" description="Each group represents a
 platform. Answers pointing downwards prefer AE, while those that are upwards prefer SS." %}
 
 As I have previously joked with friends, there seems to be an "Iron Curtain" between the OWI-YouTube
@@ -265,7 +265,7 @@ and OWF-RELIVE-Reddit axis. What I mean by this is aside from a few outlying cas
 the people asked on YouTube overwhelmingly lean towards Soulstorm, while the other platforms lean
 towards Abe's Exoddus.
 
-{% include caption.html url="/imgs/newsurvey/preferences.png" description="The same dataset, but
+{% include caption.html url="/imgs/newsurvey/preferences.avif" description="The same dataset, but
 this time grouped by category." %}
 
 However, there are two categories where everyone agrees: Both in the Music and Gameplay department
@@ -276,7 +276,7 @@ Either way as the averages show the participants prefer Abe's Exoddus overall.
 
 ### Would you rather see the Old Quintology continued or the New one?
 
-{% include caption.html url="/imgs/newsurvey/oldnew.png" description="" %}
+{% include caption.html url="/imgs/newsurvey/oldnew.avif" description="" %}
 
 Of course now that the series has been rebooted, the question arose whether people are more
 interested in seeing the old story finished or the new one. While I assume most have a pretty clear
@@ -301,7 +301,7 @@ YouTube and OWI's Discord predominantly wants to see the new story finished.
 
 ### Do you prefer the visor Slig mask or the pilot goggles?
 
-{% include caption.html url="/imgs/newsurvey/sligmask.png" description="" %}
+{% include caption.html url="/imgs/newsurvey/sligmask.avif" description="" %}
 
 First things first, yes I did write "pilot googles," silly mistake, but thankfully people understood
 what I meant. This is one of the questions I have asked in the last survey, so I think it's
@@ -320,11 +320,11 @@ interesting to compare the two.
 Considering that the previous percentages were 64-36 in favor of the Visor mask, we can more or less
 conclude that while the old mask is still the fan favorite, the terms are far more even now.
 
-{% include caption.html url="/imgs/survey/slig_mask.jpg" description="2019's results." %}
+{% include caption.html url="/imgs/survey/slig_mask.avif" description="2019's results." %}
 
 ### I believe cutting farting as a mechanic was...
 
-{% include caption.html url="/imgs/newsurvey/fart.png" description="" %}
+{% include caption.html url="/imgs/newsurvey/fart.avif" description="" %}
 
 There might not be a more divisive topic than the humble fart. On one hand, it was a really unique
 and well-integrated gameplay feature, that also added a bit of body horror to Exoddus. On the other,
@@ -345,14 +345,14 @@ people who considered it a bad move ultimately won by 10.6% or 28 votes.
 
 ### Who drew the picture?
 
-{% include caption.html url="/imgs/survey/olds_abe.jpg" description="" %}
+{% include caption.html url="/imgs/survey/olds_abe.avif" description="" %}
 
 This question was asked in this exact way two years ago. And just like back then, now I'm gonna
 break a few people's dreams. It was a trick question, there was never a person called "Abraham
 O'Neil" who worked at OWI. The name was made up by me. The text on the image is simply the title as
 Abe's original name was "Abraham Lure."
 
-{% include caption.html url="/imgs/newsurvey/author.png" description="" %}
+{% include caption.html url="/imgs/newsurvey/author.avif" description="" %}
 
 The real answer is of course Steven Olds, the artist who practically defined Oddworld's creative DNA
 by designing nearly all of the original species seen in Oddysee.
@@ -378,7 +378,7 @@ Comparatively in the 2019 survey:
 | Farzad Varahramyan |     8 |  4.7% |
 | Raymond Swanland   |     3 |  1.8% |
 
-{% include caption.html url="/imgs/survey/artist.jpg" description="" %}
+{% include caption.html url="/imgs/survey/artist.avif" description="" %}
 
 As the numbers here show many more people knew the right answer this time around, which I'm personally
 really happy about. The original artists receive such little recognition despite their gigantic
@@ -422,7 +422,7 @@ to follow my site. Thank you! You make it all worth it!
 
 ### Which unreleased project would you see made the most?
 
-{% include caption.html url="/imgs/newsurvey/unreleased.png" description="" %}
+{% include caption.html url="/imgs/newsurvey/unreleased.avif" description="" %}
 
 As I've written about [once](/unreleased) on my site there are quite a few unreleased games in the
 series that the fans still want to see made. This question intended to find out which of these games
@@ -494,10 +494,10 @@ see the "myth" is once again largely reconfirmed just like it was back in 2019.
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 1rem;">
 
-{% include caption.html url="/imgs/newsurvey/firstplayed.png" description="A bar chart of this
+{% include caption.html url="/imgs/newsurvey/firstplayed.avif" description="A bar chart of this
 year's results." %}
 
-{% include caption.html url="/imgs/newsurvey/firstplayed2019.png" description="A bar chart of 2019's
+{% include caption.html url="/imgs/newsurvey/firstplayed2019.avif" description="A bar chart of 2019's
 results." %}
 
 </div>
@@ -515,9 +515,9 @@ first played the games, however, with 2021's survey we had a much bigger varianc
 of the participants were nearly 30.
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 1rem;">
-{% include caption.html url="/imgs/newsurvey/agenow.png" description="How old people are in 2021" %}
+{% include caption.html url="/imgs/newsurvey/agenow.avif" description="How old people are in 2021" %}
 
-{% include caption.html url="/imgs/newsurvey/agenow2019.png" description="The previous survey's results." %}
+{% include caption.html url="/imgs/newsurvey/agenow2019.avif" description="The previous survey's results." %}
 
 </div>
 
