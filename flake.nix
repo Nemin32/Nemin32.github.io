@@ -10,6 +10,7 @@
         packages = with pkgs; [
           ruby
           rubyPackages.jekyll
+          ripgrep
         ];
       };
     };

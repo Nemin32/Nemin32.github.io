@@ -15,7 +15,7 @@ Inhabitants: The First 10 Years".
 
 ## Necrum Mines:
 
-{% include caption.html url="/imgs/necrummines.avif" description="" %}{:.small}
+{% include caption.html url="/imgs/trivia/necrummines.avif" description="" %}{:.small}
 
 Unusually, this place has no head-Glukkon, the only owner mentioned is the
 mysterious "SoulStorm Mining Co.". However, I believe that either this company
@@ -38,7 +38,7 @@ bones are "produced" too.
 
 ## Necrum:
 
-{% include caption.html url="/imgs/necrum.avif" description="" %}{:.small}
+{% include caption.html url="/imgs/trivia/necrum.avif" description="" %}{:.small}
 
 I always found it weird how when Abe escapes from the Mines he ends up
 in a jungle. After all, the introductory cutscene talks about how they have
@@ -83,14 +83,14 @@ this as that they actually made them from scratch.
 
 ## FeeCo Depot:
 
-{% include caption.html url="/imgs/feeco.avif" description="" %}{:.small}
+{% include caption.html url="/imgs/trivia/feeco.avif" description="" %}{:.small}
 
 These are likely to be the most known information on this page, but FeeCo is
 actually a word-play on the word "fecal". Also there is a poster with the
 following text: "Uncle Aslik / Keeping the trains running on time". This is a
 reference to Mussolini, who was also referred to this way.
 
-{% include caption.html url="/imgs/aslik_trains.avif" description="" %}
+{% include caption.html url="/imgs/trivia/aslik_trains.avif" description="" %}
 
 It is interesting that Aslik is mentioned to be FeeCo's Vice-President here. In
 other texts, like "I, Aslik", he is referred to as SoulStorm Brewery's VP.
@@ -123,11 +123,11 @@ The book also contains a paragraph on the trains Abe boards to get from one plac
 > leg-powered drive rail all show attempts to add character to something
 > that could have easily been a simple transportation solution."
 
-{% include caption.html url="/imgs/feeco_train.avif" description="" %}
+{% include caption.html url="/imgs/trivia/feeco_train.avif" description="" %}
 
 ## Slig Barracks:
 
-{% include caption.html url="/imgs/sligbarracks.avif" description="" %}{:.small}
+{% include caption.html url="/imgs/trivia/sligbarracks.avif" description="" %}{:.small}
 
 If you think about it, Dripik's role is never really explained in the
 whole Brew-deal. Sure he has Sligs, but as the excerpt states, the location
@@ -152,7 +152,7 @@ when I was younger.
 
 ## Bonewerkz:
 
-{% include caption.html url="/imgs/bonewerkz.avif" description="" %}{:.small}
+{% include caption.html url="/imgs/trivia/bonewerkz.avif" description="" %}{:.small}
 
 This place is the main bone-powder storage facility. When I was a child I always
 wondered, why the Glukkons feel like they're out of the stuff, if it lies in
